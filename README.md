@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Callers Token API
 
 API for Callers token and trading data, providing endpoints for token information, market cap, and price data.
@@ -81,3 +82,6 @@ npm install
 
 2. Start the API server:
 ```
+=======
+# callers-token-api
+>>>>>>> 70124ae75f5453f7ec877d83475128cd7f794124
