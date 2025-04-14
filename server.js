@@ -222,6 +222,7 @@ app.get('/api/debug/env', (req, res) => {
     SUPABASE_URL: !!process.env.REACT_APP_SUPABASE_URL,
     SUPABASE_ANON_KEY: process.env.REACT_APP_SUPABASE_ANON_KEY ? 'Exists (starts with: ' + process.env.REACT_APP_SUPABASE_ANON_KEY.substring(0, 10) + '...)' : 'Missing',
     DEXHUNTER_API_KEY: process.env.REACT_APP_DEXHUNTER_PARTNER_ID ? 'Exists (starts with: ' + process.env.REACT_APP_DEXHUNTER_PARTNER_ID.substring(0, 10) + '...)' : 'Missing',
+    VERCEL_BYPASS_TOKEN: process.env.REACT_APP_VERCEL_BYPASS_TOKEN ? 'Exists (starts with: ' + process.env.REACT_APP_VERCEL_BYPASS_TOKEN.substring(0, 5) + '...)' : 'Missing',
     CWD: process.cwd(),
     WORKING_DIR_FILES: fs.existsSync(process.cwd()) ? fs.readdirSync(process.cwd()).slice(0, 10) : 'Cannot read directory'
   };
