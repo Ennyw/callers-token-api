@@ -210,11 +210,70 @@ app.use((req, res, next) => {
   next();
 });
 
-// Serve static files from the public directory
-app.use(express.static(path.join(__dirname, 'public')));
-
-// API routes
+// API routes - MUST come before static file serving
 app.use('/api/tokens', tokenRoutes);
+
+// Debug endpoint to check environment variables
+app.get('/api/debug/env', (req, res) => {
+  // Check if key environment variables exist
+  const envStatus = {
+    VERCEL: !!process.env.VERCEL,
+    NODE_ENV: process.env.NODE_ENV,
+    SUPABASE_URL: !!process.env.REACT_APP_SUPABASE_URL,
+    SUPABASE_ANON_KEY: process.env.REACT_APP_SUPABASE_ANON_KEY ? 'Exists (starts with: ' + process.env.REACT_APP_SUPABASE_ANON_KEY.substring(0, 10) + '...)' : 'Missing',
+    DEXHUNTER_API_KEY: process.env.REACT_APP_DEXHUNTER_PARTNER_ID ? 'Exists (starts with: ' + process.env.REACT_APP_DEXHUNTER_PARTNER_ID.substring(0, 10) + '...)' : 'Missing',
+    CWD: process.cwd(),
+    WORKING_DIR_FILES: fs.existsSync(process.cwd()) ? fs.readdirSync(process.cwd()).slice(0, 10) : 'Cannot read directory'
+  };
+  
+  res.json({
+    status: 'Debug endpoint working',
+    timestamp: new Date().toISOString(),
+    environment: envStatus
+  });
+});
+
+// Endpoint to manually trigger a data refresh
+app.all('/api/refresh-data', async (req, res) => {
+  try {
+    console.log(`[${new Date().toISOString()}] Cron job or manual trigger for token data refresh started`);
+    
+    // Explicitly log request method and source
+    if (req.headers['x-vercel-cron'] === 'true' || req.isCronEndpoint) {
+      console.log(`[${new Date().toISOString()}] This is a cron job request via ${req.method}`);
+    } else {
+      console.log(`[${new Date().toISOString()}] This is a manual refresh request via ${req.method}`);
+    }
+    
+    // Log environment variables state for debugging
+    console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_URL exists:`, !!process.env.REACT_APP_SUPABASE_URL);
+    console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_ANON_KEY exists:`, !!process.env.REACT_APP_SUPABASE_ANON_KEY);
+    console.log(`[${new Date().toISOString()}] Environment check: DEXHUNTER_API_KEY exists:`, !!process.env.REACT_APP_DEXHUNTER_PARTNER_ID);
+    
+    const result = await refreshTokenData();
+    
+    if (result) {
+      res.json({ 
+        success: true, 
+        message: 'Token data refresh completed successfully',
+        timestamp: new Date().toISOString()
+      });
+    } else {
+      res.status(500).json({ 
+        success: false, 
+        message: 'Token data refresh failed or already in progress',
+        timestamp: new Date().toISOString()
+      });
+    }
+  } catch (error) {
+    console.error(`Error in refresh-data endpoint: ${error.message}`);
+    res.status(500).json({ 
+      success: false, 
+      message: `Error: ${error.message}`,
+      timestamp: new Date().toISOString()
+    });
+  }
+});
 
 // Endpoint to check API status
 app.get('/api/status', (req, res) => {
@@ -233,44 +292,8 @@ app.get('/api/status', (req, res) => {
   });
 });
 
-// Endpoint to manually trigger a data refresh
-app.post('/api/refresh-data', async (req, res) => {
-  try {
-    console.log(`[${new Date().toISOString()}] Cron job or manual trigger for token data refresh started`);
-    
-    // Explicitly log if this is a cron job request
-    if (req.headers['x-vercel-cron'] === 'true' || req.isCronEndpoint) {
-      console.log(`[${new Date().toISOString()}] This is a cron job request`);
-    } else {
-      console.log(`[${new Date().toISOString()}] This is a manual refresh request`);
-    }
-    
-    const result = await refreshTokenData();
-    
-    if (result) {
-      console.log(`[${new Date().toISOString()}] Token data refresh completed successfully`);
-      res.json({ 
-        success: true, 
-        message: 'Token data refresh completed successfully',
-        timestamp: new Date().toISOString()
-      });
-    } else {
-      console.log(`[${new Date().toISOString()}] Failed to refresh token data`);
-      res.status(500).json({ 
-        success: false, 
-        message: 'Failed to refresh token data',
-        timestamp: new Date().toISOString() 
-      });
-    }
-  } catch (error) {
-    console.error(`[${new Date().toISOString()}] Error in refresh-data endpoint:`, error);
-    res.status(500).json({ 
-      success: false, 
-      message: `Error refreshing token data: ${error.message}`,
-      timestamp: new Date().toISOString()
-    });
-  }
-});
+// Serve static files from the public directory AFTER API routes
+app.use(express.static(path.join(__dirname, 'public')));
 
 // Endpoint to manually trigger a volume data refresh
 app.post('/api/refresh-volume-data', async (req, res) => {
@@ -322,6 +345,42 @@ app.post('/api/volume-refresh-interval', (req, res) => {
   });
 });
 
+// Endpoint to check and set Supabase credentials
+app.post('/api/admin/set-supabase-credentials', (req, res) => {
+  try {
+    const { supabaseUrl, supabaseAnonKey } = req.body;
+    
+    if (!supabaseUrl || !supabaseAnonKey) {
+      return res.status(400).json({
+        success: false,
+        message: 'Missing required credentials',
+        timestamp: new Date().toISOString()
+      });
+    }
+    
+    // Set the environment variables (only works in memory, not permanently)
+    process.env.REACT_APP_SUPABASE_URL = supabaseUrl;
+    process.env.REACT_APP_SUPABASE_ANON_KEY = supabaseAnonKey;
+    
+    // Clear token service cache to force re-initialization of Supabase client
+    const tokenService = require('./services/tokenService');
+    tokenService.reinitializeSupabase();
+    
+    return res.status(200).json({
+      success: true,
+      message: 'Supabase credentials set successfully',
+      timestamp: new Date().toISOString()
+    });
+  } catch (error) {
+    console.error('Error setting Supabase credentials:', error);
+    return res.status(500).json({
+      success: false,
+      message: `Error: ${error.message}`,
+      timestamp: new Date().toISOString()
+    });
+  }
+});
+
 // Health check endpoint
 app.get('/api/health', (req, res) => {
   res.json({
@@ -369,18 +428,38 @@ app.use((err, req, res, next) => {
   });
 });
 
+// Make sure this is the LAST route defined
+app.use('*', (req, res, next) => {
+  // If the request is for an API endpoint and it wasn't matched, return 404
+  if (req.originalUrl.startsWith('/api/') && !res.headersSent) {
+    return res.status(404).json({
+      status: 'error',
+      message: `API endpoint ${req.originalUrl} not found`,
+      timestamp: new Date().toISOString()
+    });
+  }
+  
+  // If not API or already handled, pass to next middleware
+  next();
+});
+
 // Start the server only in local environment
 if (!process.env.VERCEL) {
   app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
+    console.log(`Server listening on port ${PORT}`);
     
-    // Start the refresh schedulers if we're in a local environment
-    startRefreshScheduler(30); // Refresh token data every 30 minutes
-    startVolumeRefreshScheduler(60); // Refresh volume data every 60 minutes
+    // Don't start schedulers if in test mode
+    if (process.env.NODE_ENV !== 'test') {
+      // Start the data refresh scheduler (refreshes every 5 minutes)
+      startRefreshScheduler(5);
+      
+      // Start the volume refresh scheduler (refreshes every hour)
+      startVolumeRefreshScheduler(60);
+    }
   });
 }
 
-// For Vercel serverless environment, export the app
+// Export the Express API
 module.exports = app;
 
 // Export the refresh functions for use in routes

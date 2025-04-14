@@ -58,18 +58,15 @@
   "crons": [
     {
       "path": "/api/refresh-data",
-      "schedule": "0 */6 * * *",
-      "method": "POST"
+      "schedule": "0 */6 * * *"
     },
     {
       "path": "/api/tokens/refresh",
-      "schedule": "0 */2 * * *",
-      "method": "POST"
+      "schedule": "0 */2 * * *"
     },
     {
       "path": "/api/tokens/refresh-volumes",
-      "schedule": "0 */4 * * *",
-      "method": "POST"
+      "schedule": "0 */4 * * *"
     }
   ]
 } 

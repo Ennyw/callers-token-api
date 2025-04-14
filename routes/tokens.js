@@ -132,27 +132,26 @@ router.get('/:tokenId/volume', async (req, res) => {
 });
 
 /**
- * @route   POST /api/tokens/refresh-volume
- * @desc    Manually refresh volume data
- * @access  Public
- */
-router.post('/refresh-volume', async (req, res) => {
-  try {
-    await volumeService.refreshVolumeData();
-    res.json({ success: true, message: 'Volume data refreshed successfully' });
-  } catch (error) {
-    console.error('Error refreshing volume data:', error);
-    res.status(500).json({ message: 'Server error', error: error.message });
-  }
-});
-
-/**
- * @route   POST /api/tokens/refresh
+ * @route   GET/POST /api/tokens/refresh
  * @desc    Manually refresh token data
  * @access  Public
  */
-router.post('/refresh', async (req, res) => {
+router.all('/refresh', async (req, res) => {
   try {
+    console.log(`[${new Date().toISOString()}] Token refresh requested via ${req.method}`);
+    
+    // Log if this is a cron job or manual request
+    if (req.headers['x-vercel-cron'] === 'true' || req.isCronEndpoint) {
+      console.log(`[${new Date().toISOString()}] This is a cron job request via ${req.method}`);
+    } else {
+      console.log(`[${new Date().toISOString()}] This is a manual refresh request via ${req.method}`);
+    }
+    
+    // Log environment variables state for debugging
+    console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_URL exists:`, !!process.env.REACT_APP_SUPABASE_URL);
+    console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_ANON_KEY exists:`, !!process.env.REACT_APP_SUPABASE_ANON_KEY);
+    console.log(`[${new Date().toISOString()}] Environment check: DEXHUNTER_API_KEY exists:`, !!process.env.REACT_APP_DEXHUNTER_PARTNER_ID);
+    
     // Import the refresh function from server.js
     const { refreshTokenData } = require('../server');
     
@@ -160,18 +159,57 @@ router.post('/refresh', async (req, res) => {
     const result = await refreshTokenData();
     
     if (result) {
-      res.json({ success: true, message: 'Token data refreshed successfully' });
+      res.json({ success: true, message: 'Token data refreshed successfully', timestamp: new Date().toISOString() });
     } else {
-      res.status(500).json({ success: false, message: 'Token data refresh failed or already in progress' });
+      res.status(500).json({ success: false, message: 'Token data refresh failed or already in progress', timestamp: new Date().toISOString() });
     }
   } catch (error) {
     console.error('Error refreshing token data:', error);
-    res.status(500).json({ message: 'Server error', error: error.message });
+    res.status(500).json({ message: 'Server error', error: error.message, timestamp: new Date().toISOString() });
   }
 });
 
 /**
- * @route GET /api/tokens/top-tvl/:limit
+ * @route   GET/POST /api/tokens/refresh-volumes
+ * @desc    Manually refresh volume data (endpoint for cron job)
+ * @access  Public
+ */
+router.all('/refresh-volumes', async (req, res) => {
+  try {
+    console.log(`[${new Date().toISOString()}] Volume refresh requested via ${req.method}`);
+    
+    // If this is a cron job, log it
+    if (req.headers['x-vercel-cron'] === 'true' || req.isCronEndpoint) {
+      console.log(`[${new Date().toISOString()}] This is a cron job request via ${req.method}`);
+    } else {
+      console.log(`[${new Date().toISOString()}] This is a manual refresh request via ${req.method}`);
+    }
+    
+    // Log environment variables state for debugging
+    console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_URL exists:`, !!process.env.REACT_APP_SUPABASE_URL);
+    console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_ANON_KEY exists:`, !!process.env.REACT_APP_SUPABASE_ANON_KEY);
+    
+    // Refresh the volume data
+    await volumeService.refreshVolumeData();
+    
+    // Return success
+    res.json({ 
+      success: true, 
+      message: 'Volume data refreshed successfully',
+      timestamp: new Date().toISOString()
+    });
+  } catch (error) {
+    console.error(`Error refreshing volume data: ${error.message}`);
+    res.status(500).json({ 
+      success: false, 
+      message: `Error: ${error.message}`,
+      timestamp: new Date().toISOString()
+    });
+  }
+});
+
+/**
+ * @route   GET /api/tokens/top-tvl/:limit
  * @description Get top tokens sorted by TVL (two-sided liquidity)
  * @access Public
  */
@@ -191,53 +229,19 @@ router.get('/top-tvl/:limit', async (req, res) => {
 });
 
 /**
- * @route   POST /api/tokens/refresh-volumes
- * @desc    Manually refresh volume data (endpoint for cron job)
- * @access  Public
- */
-router.post('/refresh-volumes', async (req, res) => {
-  try {
-    console.log(`[${new Date().toISOString()}] Cron job or manual trigger for volume data refresh started`);
-    
-    // Explicitly log if this is a cron job request
-    if (req.headers['x-vercel-cron'] === 'true' || req.isCronEndpoint) {
-      console.log(`[${new Date().toISOString()}] This is a cron job request for volume refresh`);
-    } else {
-      console.log(`[${new Date().toISOString()}] This is a manual volume refresh request`);
-    }
-    
-    await volumeService.refreshVolumeData();
-    
-    console.log(`[${new Date().toISOString()}] Volume data refreshed successfully`);
-    res.json({ 
-      success: true, 
-      message: 'Volume data refreshed successfully', 
-      timestamp: new Date().toISOString() 
-    });
-  } catch (error) {
-    console.error(`[${new Date().toISOString()}] Error refreshing volume data:`, error);
-    res.status(500).json({ 
-      message: 'Server error', 
-      error: error.message, 
-      timestamp: new Date().toISOString() 
-    });
-  }
-});
-
-/**
- * @route   POST /api/tokens/refresh-tvl
+ * @route   GET/POST /api/tokens/refresh-tvl
  * @desc    Manually refresh TVL (total value locked) data (endpoint for cron job)
  * @access  Public
  */
-router.post('/refresh-tvl', async (req, res) => {
+router.all('/refresh-tvl', async (req, res) => {
   try {
     console.log(`[${new Date().toISOString()}] Cron job or manual trigger for TVL data refresh started`);
     
     // Explicitly log if this is a cron job request
     if (req.headers['x-vercel-cron'] === 'true' || req.isCronEndpoint) {
-      console.log(`[${new Date().toISOString()}] This is a cron job request for TVL refresh`);
+      console.log(`[${new Date().toISOString()}] This is a cron job request for TVL refresh via ${req.method}`);
     } else {
-      console.log(`[${new Date().toISOString()}] This is a manual TVL refresh request`);
+      console.log(`[${new Date().toISOString()}] This is a manual TVL refresh request via ${req.method}`);
     }
     
     await tokenService.refreshTvlData();
@@ -250,6 +254,75 @@ router.post('/refresh-tvl', async (req, res) => {
     });
   } catch (error) {
     console.error(`[${new Date().toISOString()}] Error refreshing TVL data:`, error);
+    res.status(500).json({ 
+      message: 'Server error', 
+      error: error.message, 
+      timestamp: new Date().toISOString() 
+    });
+  }
+});
+
+/**
+ * @route   GET/POST /api/tokens/refresh-snek
+ * @desc    Refresh just SNEK token data for testing
+ * @access  Public
+ */
+router.all('/refresh-snek', async (req, res) => {
+  try {
+    console.log(`[${new Date().toISOString()}] SNEK refresh requested via ${req.method}`);
+    
+    // Use the tokenService to refresh just SNEK
+    const result = await tokenService.lightweightTokenRefresh();
+    
+    if (result) {
+      res.json({ 
+        success: true, 
+        message: 'SNEK token refreshed successfully', 
+        timestamp: new Date().toISOString() 
+      });
+    } else {
+      res.status(500).json({ 
+        success: false, 
+        message: 'SNEK token refresh failed', 
+        timestamp: new Date().toISOString() 
+      });
+    }
+  } catch (error) {
+    console.error('Error refreshing SNEK token:', error);
+    res.status(500).json({ 
+      message: 'Server error', 
+      error: error.message, 
+      timestamp: new Date().toISOString() 
+    });
+  }
+});
+
+/**
+ * @route   GET/POST /api/tokens/test-supabase
+ * @desc    Test Supabase connection
+ * @access  Public
+ */
+router.all('/test-supabase', async (req, res) => {
+  try {
+    console.log(`[${new Date().toISOString()}] Supabase connection test requested via ${req.method}`);
+    
+    const result = await tokenService.testSupabaseConnection();
+    
+    if (result) {
+      res.json({ 
+        success: true, 
+        message: 'Supabase connection test successful', 
+        timestamp: new Date().toISOString() 
+      });
+    } else {
+      res.status(500).json({ 
+        success: false, 
+        message: 'Supabase connection test failed', 
+        timestamp: new Date().toISOString() 
+      });
+    }
+  } catch (error) {
+    console.error('Error testing Supabase connection:', error);
     res.status(500).json({ 
       message: 'Server error', 
       error: error.message, 
