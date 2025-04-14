@@ -331,4 +331,68 @@ router.all('/test-supabase', async (req, res) => {
   }
 });
 
+/**
+ * @route   GET /api/tokens/check-tables
+ * @desc    Check Supabase tables
+ * @access  Public
+ */
+router.get('/check-tables', async (req, res) => {
+  try {
+    console.log(`[${new Date().toISOString()}] Checking Supabase tables`);
+    
+    // Initialize Supabase client if needed
+    if (!tokenService.supabase && process.env.REACT_APP_SUPABASE_URL && process.env.REACT_APP_SUPABASE_ANON_KEY) {
+      const { createClient } = require('@supabase/supabase-js');
+      const supabase = createClient(
+        process.env.REACT_APP_SUPABASE_URL,
+        process.env.REACT_APP_SUPABASE_ANON_KEY
+      );
+      
+      // Check available tables
+      const { data, error } = await supabase
+        .from('tokens')
+        .select('token_id')
+        .limit(1);
+        
+      if (error) {
+        console.error('Error checking tokens table:', error);
+        return res.status(500).json({ 
+          success: false, 
+          message: 'Error checking tokens table', 
+          error: error.message,
+          timestamp: new Date().toISOString()
+        });
+      }
+      
+      return res.json({
+        success: true,
+        tables: {
+          tokens: {
+            exists: true,
+            sample: data
+          }
+        },
+        supabase_url: process.env.REACT_APP_SUPABASE_URL,
+        anon_key_exists: !!process.env.REACT_APP_SUPABASE_ANON_KEY,
+        timestamp: new Date().toISOString()
+      });
+    } else {
+      return res.status(500).json({
+        success: false,
+        message: 'Supabase client not available',
+        supabase_url_exists: !!process.env.REACT_APP_SUPABASE_URL,
+        anon_key_exists: !!process.env.REACT_APP_SUPABASE_ANON_KEY,
+        timestamp: new Date().toISOString()
+      });
+    }
+  } catch (error) {
+    console.error('Error checking Supabase tables:', error);
+    res.status(500).json({ 
+      message: 'Server error', 
+      error: error.message,
+      timestamp: new Date().toISOString()
+    });
+  }
+});
+
 module.exports = router; 
