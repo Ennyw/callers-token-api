@@ -245,11 +245,94 @@ app.all('/api/refresh-data', async (req, res) => {
       console.log(`[${new Date().toISOString()}] This is a manual refresh request via ${req.method}`);
     }
     
+    // Check for bypass token in request
+    const bypassToken = req.query.token || req.body?.token;
+    const vercelBypassToken = process.env.REACT_APP_VERCEL_BYPASS_TOKEN;
+    
+    if (bypassToken && vercelBypassToken && bypassToken === vercelBypassToken) {
+      console.log(`[${new Date().toISOString()}] ✅ Bypass token validated successfully`);
+    } else {
+      console.log(`[${new Date().toISOString()}] ℹ️ No valid bypass token provided, proceeding with standard refresh`);
+    }
+    
     // Log environment variables state for debugging
     console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_URL exists:`, !!process.env.REACT_APP_SUPABASE_URL);
     console.log(`[${new Date().toISOString()}] Environment check: SUPABASE_ANON_KEY exists:`, !!process.env.REACT_APP_SUPABASE_ANON_KEY);
     console.log(`[${new Date().toISOString()}] Environment check: DEXHUNTER_API_KEY exists:`, !!process.env.REACT_APP_DEXHUNTER_PARTNER_ID);
+    console.log(`[${new Date().toISOString()}] Environment check: VERCEL_BYPASS_TOKEN exists:`, !!process.env.REACT_APP_VERCEL_BYPASS_TOKEN);
     
+    // If bypass token is valid, refresh the SNEK token directly using the DexHunter API
+    if (bypassToken && vercelBypassToken && bypassToken === vercelBypassToken) {
+      try {
+        console.log(`[${new Date().toISOString()}] Using bypass token to refresh SNEK token directly`);
+        
+        // Import axios for DexHunter API
+        const axios = require('axios');
+        const DEXHUNTER_API_KEY = process.env.REACT_APP_DEXHUNTER_PARTNER_ID;
+        
+        if (!DEXHUNTER_API_KEY) {
+          console.error(`[${new Date().toISOString()}] Missing DexHunter API key`);
+          return res.status(500).json({ 
+            success: false, 
+            message: 'Missing DexHunter API key',
+            timestamp: new Date().toISOString()
+          });
+        }
+        
+        // DexHunter client for getting token data
+        const dexhunterClient = axios.create({
+          baseURL: 'https://api-us.dexhunterv3.app',
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Partner-Id': DEXHUNTER_API_KEY
+          }
+        });
+        
+        // SNEK token ID
+        const snekTokenId = '279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b';
+        
+        console.log(`[${new Date().toISOString()}] Fetching SNEK token data from DexHunter`);
+        const response = await dexhunterClient.get(`/swap/token/${snekTokenId}`);
+        
+        if (!response.data) {
+          console.error(`[${new Date().toISOString()}] No data returned from DexHunter`);
+          return res.status(500).json({ 
+            success: false, 
+            message: 'No data returned from DexHunter',
+            timestamp: new Date().toISOString()
+          });
+        }
+        
+        // Get price
+        const priceResponse = await dexhunterClient.get(`/swap/tokenPrice/${snekTokenId}`);
+        const price = priceResponse.data?.price || response.data.price || 0;
+        
+        console.log(`[${new Date().toISOString()}] Got SNEK price:`, price);
+        
+        res.json({ 
+          success: true, 
+          message: 'Token data refresh completed successfully (bypass mode)',
+          token: {
+            id: snekTokenId,
+            ticker: 'SNEK',
+            price: price,
+            updated_at: new Date().toISOString()
+          },
+          timestamp: new Date().toISOString()
+        });
+        
+        return;
+      } catch (error) {
+        console.error(`[${new Date().toISOString()}] Error in bypass refresh:`, error);
+        return res.status(500).json({ 
+          success: false, 
+          message: `Error in bypass refresh: ${error.message}`,
+          timestamp: new Date().toISOString()
+        });
+      }
+    }
+    
+    // Standard refresh path
     const result = await refreshTokenData();
     
     if (result) {
