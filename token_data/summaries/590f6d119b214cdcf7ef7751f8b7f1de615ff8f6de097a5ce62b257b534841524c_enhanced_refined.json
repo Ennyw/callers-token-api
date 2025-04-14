@@ -1,0 +1,40 @@
+{
+  "token_id": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c",
+  "ticker": "SHARL",
+  "token_ascii": "SHARL",
+  "market_cap": 317372.38866832474,
+  "price": 3.3985587836792936e-7,
+  "liquidity": 51082.234147999996,
+  "circulating_supply": 933844046460,
+  "outliers_filtered": true,
+  "pool_count": 4,
+  "median_used": true,
+  "mcap_liquidity_ratio": "6.21",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:03.747Z"
+}

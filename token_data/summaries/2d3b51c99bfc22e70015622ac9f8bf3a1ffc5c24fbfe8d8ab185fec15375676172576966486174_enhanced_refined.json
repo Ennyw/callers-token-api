@@ -1,0 +1,44 @@
+{
+  "token_id": "2d3b51c99bfc22e70015622ac9f8bf3a1ffc5c24fbfe8d8ab185fec15375676172576966486174",
+  "ticker": "SUGWIF",
+  "token_ascii": "SugarWifHat",
+  "market_cap": 12670.055617704353,
+  "price": 0.000012670055617704353,
+  "liquidity": 8061.672707,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.57",
+  "token_age": 145,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:16.129Z"
+}

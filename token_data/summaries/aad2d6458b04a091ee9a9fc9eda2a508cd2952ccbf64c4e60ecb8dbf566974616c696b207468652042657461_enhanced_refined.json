@@ -1,0 +1,44 @@
+{
+  "token_id": "aad2d6458b04a091ee9a9fc9eda2a508cd2952ccbf64c4e60ecb8dbf566974616c696b207468652042657461",
+  "ticker": "BETA",
+  "token_ascii": "Vitalik the Beta",
+  "market_cap": 6993.268464665051,
+  "price": 0.000007446431239346266,
+  "liquidity": 20461.57873,
+  "circulating_supply": 939143630,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.34",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 115,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:30.844Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "8bbe29d43fa1da348ccad87f4dc42105be23d54c26bc99d230df8620626b76",
+  "ticker": "BKV",
+  "token_ascii": "BKV coin",
+  "market_cap": 3026.613906267796,
+  "price": 0.03026613906267796,
+  "liquidity": 713.886163,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.24",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:57.078Z"
+}

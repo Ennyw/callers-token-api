@@ -1,0 +1,51 @@
+{
+  "token_id": "7ec8917fba4e9e5cec09d2cd08179d46f8a70efc60ae791d3e381d1c6c697374736e656b6f6e62696e616e6365",
+  "ticker": "LSB",
+  "token_ascii": "LSB",
+  "market_cap": 669.6462424142557,
+  "price": 0.000009646301388854158,
+  "liquidity": 473.703276,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.41",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (473.70 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:42.791Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "d93766a1d3134c8ba871cc21963dfdff0d491655ed357f13423c9a0c4d4f534b59",
+  "ticker": "MOSKY",
+  "name": "Mosky",
+  "total_supply": 69000000000,
+  "circulating_supply": 0,
+  "price": 5.995226161378354e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

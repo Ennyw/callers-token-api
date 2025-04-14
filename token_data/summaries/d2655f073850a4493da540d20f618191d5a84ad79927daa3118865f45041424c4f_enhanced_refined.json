@@ -1,0 +1,44 @@
+{
+  "token_id": "d2655f073850a4493da540d20f618191d5a84ad79927daa3118865f45041424c4f",
+  "ticker": "PABLO",
+  "token_ascii": "PABLO",
+  "market_cap": 849.8100518495932,
+  "price": 8.498100518495931e-7,
+  "liquidity": 349.270411,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.43",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (349.27 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:07.406Z"
+}

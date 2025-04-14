@@ -1,0 +1,40 @@
+{
+  "token_id": "d55d5eb0ba4b27311b825a966bc47dbae9de13f05ade26d4e94923944c6f76654c6163654d696e644c4c4d",
+  "ticker": "LLM",
+  "token_ascii": "LoveLace LLM",
+  "market_cap": 2974.842094112746,
+  "price": 0.000002974842094112746,
+  "liquidity": 15920.775165,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.19",
+  "token_age": 132,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:10.325Z"
+}

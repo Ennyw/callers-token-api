@@ -1,0 +1,17 @@
+{
+  "token_id": "b38d94e35b3e638dce7e5e0b0aeebcbe06987a118b46d3d4c042c8c26861726d6c657373636f696e",
+  "ticker": "HARM",
+  "name": "harmlesscoin",
+  "total_supply": 1000000,
+  "circulating_supply": 0,
+  "price": 0.0007509407024666603,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b756246524e",
+  "ticker": "FRN",
+  "token_ascii": "Foreon Network",
+  "market_cap": 586141.1397485443,
+  "price": 0.09220425210131725,
+  "liquidity": 186630.93073,
+  "circulating_supply": 6356986,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.14",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:24.415Z"
+}

@@ -1,0 +1,55 @@
+{
+  "token_id": "46b0f5c27f4a177882ca8e21d7ad38f005ab35c1d00ababc60bb545547454d",
+  "ticker": "GREED",
+  "token_ascii": "Greedy Goblins",
+  "market_cap": 1618.826048187847,
+  "price": 0.000001618826048187847,
+  "liquidity": 6.971442,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "232.21",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (232.21:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (6.97 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:44.044Z"
+}

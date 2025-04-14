@@ -1,0 +1,55 @@
+{
+  "token_id": "dc280dbb5381ef28afbab4ca31751f13c29562d376998e907ff1af32474e5547",
+  "ticker": "GNUG",
+  "token_ascii": "Gold Nuggets",
+  "market_cap": 16229.938895015157,
+  "price": 0.000016229938895015157,
+  "liquidity": 4.459549,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3639.37",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (3639.37:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (4.46 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:15.830Z"
+}

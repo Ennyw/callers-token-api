@@ -1,0 +1,42 @@
+{
+  "token_id": "d0d1c6f302672d07dc70f58cc818007f432672e6cd8f04de8f7a193f4b4c454e454b",
+  "ticker": "KLENEK",
+  "market_cap": 17914.48078751397,
+  "price": 0.000018379560211739256,
+  "liquidity": 26272.259876,
+  "circulating_supply": 974695835,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.68",
+  "token_age": 120,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:04.767Z"
+}

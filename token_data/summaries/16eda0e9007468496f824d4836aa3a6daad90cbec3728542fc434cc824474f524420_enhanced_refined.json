@@ -1,0 +1,40 @@
+{
+  "token_id": "16eda0e9007468496f824d4836aa3a6daad90cbec3728542fc434cc824474f524420",
+  "ticker": "GORD",
+  "token_ascii": "Gord",
+  "market_cap": 3359.275253168961,
+  "price": 0.000003359275253168961,
+  "liquidity": 16319.808127,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.21",
+  "token_age": 94,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:56.482Z"
+}

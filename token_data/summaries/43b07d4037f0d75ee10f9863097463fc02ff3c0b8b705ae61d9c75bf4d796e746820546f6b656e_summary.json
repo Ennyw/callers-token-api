@@ -1,0 +1,17 @@
+{
+  "token_id": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf4d796e746820546f6b656e",
+  "ticker": "MNT",
+  "name": "Mynth Token",
+  "total_supply": 100000000,
+  "circulating_supply": 69476618.557763,
+  "price": 0.04912881655972677,
+  "market_cap": 3413304.048314447,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

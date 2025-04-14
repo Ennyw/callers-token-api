@@ -1,0 +1,44 @@
+{
+  "token_id": "3f5a84bbf0196878e2b728a82a88061fecba7367620f4f4c1b38f1834d616b6541646150756d70416761696e",
+  "ticker": "MAPA",
+  "token_ascii": "MakeAdaPumpAgain",
+  "market_cap": 3377.0589215983023,
+  "price": 0.0000033770589215983023,
+  "liquidity": 3202.934113,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.05",
+  "token_age": 161,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:35.671Z"
+}

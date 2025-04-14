@@ -1,0 +1,43 @@
+{
+  "token_id": "6408659989dd69926352bf01fb507edc7fae658277ae4bab1b7c25ba474c49544348",
+  "ticker": "GLITCH",
+  "token_ascii": "Glitch",
+  "market_cap": 30869.390153160115,
+  "price": 0.00003258792813238761,
+  "liquidity": 30066.822041,
+  "circulating_supply": 947264583,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.03",
+  "token_age": 123,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:16.938Z"
+}

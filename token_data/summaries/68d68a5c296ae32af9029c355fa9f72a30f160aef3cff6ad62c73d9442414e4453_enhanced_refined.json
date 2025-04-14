@@ -1,0 +1,50 @@
+{
+  "token_id": "68d68a5c296ae32af9029c355fa9f72a30f160aef3cff6ad62c73d9442414e4453",
+  "ticker": "BANDS",
+  "token_ascii": "Bands",
+  "market_cap": 32368.548881822313,
+  "price": 0.00003237220425401006,
+  "liquidity": 0,
+  "circulating_supply": 999887083,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "original_pool_count": 0,
+  "suspicious_liquidity": true,
+  "price_from_average_price": true,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found, using fallback price source",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:20.008Z"
+}

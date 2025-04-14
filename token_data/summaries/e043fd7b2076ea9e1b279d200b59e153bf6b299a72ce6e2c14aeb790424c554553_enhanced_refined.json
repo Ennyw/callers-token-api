@@ -1,0 +1,48 @@
+{
+  "token_id": "e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790424c554553",
+  "ticker": "BLUES",
+  "token_ascii": "BLUES",
+  "market_cap": 602677.047444678,
+  "price": 0.00602677047444678,
+  "liquidity": 66846.067856,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "9.02",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 90,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:18.699Z"
+}

@@ -1,0 +1,21 @@
+{
+  "token_id": "3e553f140105f9b64ffd9b579e6f15dede7a40e09c3db1df953f37b64761746f2047617469746f",
+  "ticker": "GATO",
+  "token_ascii": "Gato Gatito",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 6.0649196287021184e-9,
+  "market_cap": 6.0649196287021185,
+  "fully_diluted_value": 6.0649196287021185,
+  "liquidity": 66.660593,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": true,
+    "medianUsed": true
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:54:57.854Z"
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
+  "ticker": "USDM",
+  "token_ascii": "USDM",
+  "market_cap": 16107224.58497147,
+  "price": 1.541158112109748,
+  "liquidity": 6815095.824649001,
+  "circulating_supply": 10451377.09,
+  "outliers_filtered": false,
+  "pool_count": 7,
+  "original_pool_count": 8,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.36",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (7)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:53.389Z"
+}

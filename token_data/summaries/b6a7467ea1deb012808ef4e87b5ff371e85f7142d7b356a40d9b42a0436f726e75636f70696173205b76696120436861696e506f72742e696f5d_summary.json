@@ -1,0 +1,17 @@
+{
+  "token_id": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
+  "ticker": "COPI",
+  "name": "Cornucopias Token",
+  "total_supply": 3840000000,
+  "circulating_supply": 1009967929,
+  "price": 0.021534585372438346,
+  "market_cap": 21749240.59047525,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

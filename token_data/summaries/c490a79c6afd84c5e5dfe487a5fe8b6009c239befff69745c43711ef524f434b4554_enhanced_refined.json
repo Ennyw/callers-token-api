@@ -1,0 +1,48 @@
+{
+  "token_id": "c490a79c6afd84c5e5dfe487a5fe8b6009c239befff69745c43711ef524f434b4554",
+  "ticker": "ROCKET",
+  "token_ascii": "ROCKET",
+  "market_cap": 1173.4361699344386,
+  "price": 2.3468723398688773e-9,
+  "liquidity": 7.228697,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "162.33",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (162.33:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (7.23 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:53.360Z"
+}

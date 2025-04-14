@@ -1,0 +1,17 @@
+{
+  "token_id": "e0bd3c6eb380c4e5ba95c333afc2523cdd541772bc87a011f32c3cc1506f6e7a6f20",
+  "ticker": "PONZO",
+  "name": "Ponzo Pig",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000007149534930363441,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

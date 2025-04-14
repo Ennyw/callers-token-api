@@ -1,0 +1,17 @@
+{
+  "token_id": "ff64cff1d790d8810f19d4a0e227159f884b1060916c1b4a26b070934c6f67616e204c6f6273746572",
+  "ticker": "LOGAN",
+  "name": "Logan Lobster",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000003939900398674125,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

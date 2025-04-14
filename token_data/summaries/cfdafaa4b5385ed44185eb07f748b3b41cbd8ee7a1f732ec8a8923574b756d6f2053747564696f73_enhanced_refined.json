@@ -1,0 +1,40 @@
+{
+  "token_id": "cfdafaa4b5385ed44185eb07f748b3b41cbd8ee7a1f732ec8a8923574b756d6f2053747564696f73",
+  "ticker": "KUMO",
+  "token_ascii": "Kumo Studios",
+  "market_cap": 1532.5298463904257,
+  "price": 0.0000015325298463904256,
+  "liquidity": 14133.703927999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 116,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:04.739Z"
+}

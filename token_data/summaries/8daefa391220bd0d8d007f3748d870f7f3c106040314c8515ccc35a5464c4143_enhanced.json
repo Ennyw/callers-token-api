@@ -1,0 +1,15 @@
+{
+  "token_id": "8daefa391220bd0d8d007f3748d870f7f3c106040314c8515ccc35a5464c4143",
+  "ticker": "FLAC",
+  "token_ascii": "Flac Finance",
+  "decimals": 6,
+  "total_supply": 2000000000,
+  "circulating_supply": 156224426.057045,
+  "price": 0.024141561093606587,
+  "market_cap": 3771501.525969777,
+  "fully_diluted_value": 48283122.187213175,
+  "liquidity": 6366.956714000001,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:45:35.249Z"
+}

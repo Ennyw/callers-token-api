@@ -1,0 +1,44 @@
+{
+  "token_id": "61b43088f9d0ec1c8e23985c7ab104800251b1aa769d5bd3af4661b84d454c444f574e",
+  "ticker": "MELDOWN",
+  "token_ascii": "MELDOWN",
+  "market_cap": 269.9559138954914,
+  "price": 2.699559138954914e-7,
+  "liquidity": 235.778248,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.14",
+  "token_age": 157,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (235.78 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:14.269Z"
+}

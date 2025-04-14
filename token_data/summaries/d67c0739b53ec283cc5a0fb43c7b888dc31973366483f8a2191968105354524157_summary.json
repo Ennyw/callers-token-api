@@ -1,0 +1,17 @@
+{
+  "token_id": "d67c0739b53ec283cc5a0fb43c7b888dc31973366483f8a2191968105354524157",
+  "ticker": "STRAW",
+  "name": "Straw",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 5.1068540262462677e-14,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

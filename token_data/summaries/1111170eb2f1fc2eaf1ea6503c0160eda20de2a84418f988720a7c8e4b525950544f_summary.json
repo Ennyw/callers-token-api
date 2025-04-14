@@ -1,0 +1,17 @@
+{
+  "token_id": "1111170eb2f1fc2eaf1ea6503c0160eda20de2a84418f988720a7c8e4b525950544f",
+  "ticker": "KC",
+  "name": "Krypto Coin",
+  "total_supply": 45000000000,
+  "circulating_supply": 0,
+  "price": 0.0000027115518714335703,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

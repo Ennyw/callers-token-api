@@ -1,0 +1,17 @@
+{
+  "token_id": "e6f464202e7c89befd79fdd3905ca96c896772721485dff66fd6b2d24144414c4f54",
+  "ticker": "ADALOT",
+  "name": "AdaLot",
+  "total_supply": 600000000000,
+  "circulating_supply": 0,
+  "price": 3.7283891410519464e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

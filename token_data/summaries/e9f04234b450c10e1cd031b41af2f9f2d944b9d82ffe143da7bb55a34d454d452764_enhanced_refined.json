@@ -1,0 +1,44 @@
+{
+  "token_id": "e9f04234b450c10e1cd031b41af2f9f2d944b9d82ffe143da7bb55a34d454d452764",
+  "ticker": "MEMED",
+  "token_ascii": "MEMEd",
+  "market_cap": 11191.510140939135,
+  "price": 0.000011191510140939135,
+  "liquidity": 20154.322263000002,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.56",
+  "token_age": 118,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:30.085Z"
+}

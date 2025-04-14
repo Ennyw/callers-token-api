@@ -1,0 +1,17 @@
+{
+  "token_id": "834231f100a9368647b10e6fb46c639ef6e74c3aa53a838bbc528af644414e43494e4720534841524b",
+  "ticker": "SHARK",
+  "name": "Shark",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 7.970121226530482e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,21 @@
+{
+  "token_id": "f50b8f3b83997a36d15f5f824c94718957ac348905af2c3072de31fc534e494b",
+  "ticker": "SNIK",
+  "token_ascii": "SNIK",
+  "decimals": 0,
+  "total_supply": 69000000,
+  "circulating_supply": 0,
+  "price": 0.00033649813704627755,
+  "market_cap": 23218.371456193152,
+  "fully_diluted_value": 23218.371456193152,
+  "liquidity": 22898.336827,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:57:48.958Z"
+}

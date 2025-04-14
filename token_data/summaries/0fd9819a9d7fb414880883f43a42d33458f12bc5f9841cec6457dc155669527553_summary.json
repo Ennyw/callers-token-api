@@ -1,0 +1,17 @@
+{
+  "token_id": "0fd9819a9d7fb414880883f43a42d33458f12bc5f9841cec6457dc155669527553",
+  "ticker": "virus",
+  "name": "Virus",
+  "total_supply": 1000000000000,
+  "circulating_supply": 0,
+  "price": 2.1069001180747476e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

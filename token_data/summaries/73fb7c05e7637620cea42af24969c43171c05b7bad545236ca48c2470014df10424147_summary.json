@@ -1,0 +1,17 @@
+{
+  "token_id": "73fb7c05e7637620cea42af24969c43171c05b7bad545236ca48c2470014df10424147",
+  "ticker": "BAG",
+  "name": "BAG",
+  "total_supply": 10000000000,
+  "circulating_supply": 0,
+  "price": 4.423181310885339e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

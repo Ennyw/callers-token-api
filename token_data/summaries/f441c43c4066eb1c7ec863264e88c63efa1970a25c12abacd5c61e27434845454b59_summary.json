@@ -1,0 +1,17 @@
+{
+  "token_id": "f441c43c4066eb1c7ec863264e88c63efa1970a25c12abacd5c61e27434845454b59",
+  "ticker": "CHEEKY",
+  "name": "Cheeky",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 1.305123317631192e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

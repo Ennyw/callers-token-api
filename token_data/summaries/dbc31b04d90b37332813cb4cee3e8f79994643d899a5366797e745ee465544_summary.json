@@ -1,0 +1,17 @@
+{
+  "token_id": "dbc31b04d90b37332813cb4cee3e8f79994643d899a5366797e745ee465544",
+  "ticker": "FUD",
+  "name": "FudCoin",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000104546852357606,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

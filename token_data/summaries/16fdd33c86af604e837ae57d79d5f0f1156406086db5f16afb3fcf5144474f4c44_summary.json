@@ -1,0 +1,17 @@
+{
+  "token_id": "16fdd33c86af604e837ae57d79d5f0f1156406086db5f16afb3fcf5144474f4c44",
+  "ticker": "DGOLD",
+  "name": "Digital Gold Token",
+  "total_supply": 21000000,
+  "circulating_supply": 0,
+  "price": 0.01567159911149395,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

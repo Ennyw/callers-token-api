@@ -1,0 +1,43 @@
+{
+  "token_id": "c79a25118b06dddc9094a547dd534046ddf9efde264ae1ab9cdf777642756c6c79",
+  "ticker": "BD",
+  "token_ascii": "Bully Doggy",
+  "market_cap": 2446.5880665572417,
+  "price": 2.446588066557242e-9,
+  "liquidity": 26.853293,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 3,
+  "median_used": true,
+  "mcap_liquidity_ratio": "91.11",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "Insufficient liquidity (26.85 ADA) - minimum threshold is 500 ADA"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:56.171Z"
+}

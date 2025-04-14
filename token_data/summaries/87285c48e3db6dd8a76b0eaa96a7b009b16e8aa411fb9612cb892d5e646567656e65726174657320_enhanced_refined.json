@@ -1,0 +1,44 @@
+{
+  "token_id": "87285c48e3db6dd8a76b0eaa96a7b009b16e8aa411fb9612cb892d5e646567656e65726174657320",
+  "ticker": "DEGEN",
+  "token_ascii": "degenerates",
+  "market_cap": 15.06528301114303,
+  "price": 1.506528301114303e-8,
+  "liquidity": 165.585162,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 162,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (165.59 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:53.977Z"
+}

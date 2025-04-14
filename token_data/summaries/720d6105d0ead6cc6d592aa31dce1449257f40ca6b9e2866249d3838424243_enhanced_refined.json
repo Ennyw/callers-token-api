@@ -1,0 +1,40 @@
+{
+  "token_id": "720d6105d0ead6cc6d592aa31dce1449257f40ca6b9e2866249d3838424243",
+  "ticker": "BBC",
+  "token_ascii": "BBC",
+  "market_cap": 2948.345209917125,
+  "price": 0.000002948345209917125,
+  "liquidity": 16009.471709999998,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.18",
+  "token_age": 97,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:28.597Z"
+}

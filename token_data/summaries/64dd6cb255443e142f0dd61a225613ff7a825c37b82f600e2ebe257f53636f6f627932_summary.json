@@ -1,0 +1,17 @@
+{
+  "token_id": "64dd6cb255443e142f0dd61a225613ff7a825c37b82f600e2ebe257f53636f6f627932",
+  "ticker": "SCOOBY",
+  "name": "Scooby",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 1.444324637588848e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

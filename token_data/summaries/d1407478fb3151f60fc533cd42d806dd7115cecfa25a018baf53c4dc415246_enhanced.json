@@ -1,0 +1,15 @@
+{
+  "token_id": "d1407478fb3151f60fc533cd42d806dd7115cecfa25a018baf53c4dc415246",
+  "ticker": "ARF",
+  "token_ascii": "ARF",
+  "decimals": 0,
+  "total_supply": 101000000000,
+  "circulating_supply": 0,
+  "price": 0.00002497245634846309,
+  "market_cap": 2522218.091194772,
+  "fully_diluted_value": 2522218.091194772,
+  "liquidity": 2.399903,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:46:35.704Z"
+}

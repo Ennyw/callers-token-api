@@ -1,0 +1,43 @@
+{
+  "token_id": "389a81d09f92e156649049e15db6e82f8d945bd1520033a0734088bd686f6e65792e",
+  "ticker": "HNY",
+  "token_ascii": "honey.",
+  "market_cap": 60863.17255532228,
+  "price": 0.00007031280950219916,
+  "liquidity": 62421.260059,
+  "circulating_supply": 865605755,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.98",
+  "token_age": 77,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:27.286Z"
+}

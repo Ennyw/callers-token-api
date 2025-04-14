@@ -1,0 +1,58 @@
+{
+  "token_id": "d3a034e403b98cbdb0adbc8a3144d7779330916e190d387815bb85c650555252",
+  "ticker": "$PURR",
+  "token_ascii": "CatKinson",
+  "market_cap": 4836328.423395729,
+  "price": 0.00004836328423395729,
+  "liquidity": 8.539515,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 3,
+  "original_pool_count": 6,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "566346.97",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (566346.97:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (8.54 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (566346.97:1) - maximum allowed is 10000:1",
+      "Extremely suspicious market cap to liquidity ratio - likely manipulated",
+      "Potential honeypot token: Low trust score",
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:07.463Z"
+}

@@ -1,0 +1,6437 @@
+{
+  "timestamp": "2025-03-26T20:47:27.150Z",
+  "weights": {
+    "MARKET_CAP": 0.6,
+    "VOLUME": 0.3,
+    "ORDER_COUNT": 0.1
+  },
+  "tokens": [
+    {
+      "token_id": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
+      "ticker": "SNEK",
+      "market_cap": 363770427.22293806,
+      "price": 0.004887022567227631,
+      "liquidity": 7585671.0329209985,
+      "circulating_supply": 74436003153,
+      "outliers_filtered": false,
+      "pool_count": 9,
+      "original_pool_count": 9,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "47.95",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (9)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 1,064,288.54 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 456 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:24.164Z",
+      "volume_data": {
+        "volumeInAda": 1127109.338438999,
+        "volumeInToken": 226508872,
+        "orderCount": 504,
+        "name": "SNEK"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 100,
+        "volume_score": 100,
+        "order_count_score": 74.82605308708203,
+        "composite_score": 97.4826053087082
+      }
+    },
+    {
+      "token_id": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
+      "ticker": "WMTX",
+      "market_cap": 194739498.80291545,
+      "price": 0.2751441276074702,
+      "liquidity": 2201435.8492,
+      "circulating_supply": 707772688.068187,
+      "outliers_filtered": false,
+      "pool_count": 5,
+      "original_pool_count": 5,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "88.46",
+      "token_age": 287,
+      "trust_assessment": {
+        "score": 100,
+        "level": "Good",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Potential price manipulation (88.46:1 MCap/Liquidity ratio)",
+            "points": -40
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than 6 months",
+            "points": 10
+          }
+        ],
+        "original_score": 75,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 335,698.703 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 218 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:42.248Z",
+      "volume_data": {
+        "volumeInAda": 353941.8609740003,
+        "volumeInToken": 1290224.512906,
+        "orderCount": 236,
+        "name": "WMTX"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 96.23760231442749,
+        "volume_score": 91.68808757272461,
+        "order_count_score": 65.70220292831362,
+        "composite_score": 91.81920795330524
+      }
+    },
+    {
+      "token_id": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
+      "ticker": "IAG",
+      "market_cap": 150406898.73712668,
+      "price": 0.3769959256931962,
+      "liquidity": 3532644.580674,
+      "circulating_supply": 398961602.729706,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 7,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "42.58",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 125,789.952 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 121 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:24.482Z",
+      "volume_data": {
+        "volumeInAda": 171702.9227940001,
+        "volumeInToken": 455859.8269080002,
+        "orderCount": 153,
+        "name": "IAG"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 94.68221946212503,
+        "volume_score": 86.49714235646357,
+        "order_count_score": 60.49067118530396,
+        "composite_score": 88.80754150274448
+      }
+    },
+    {
+      "token_id": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+      "ticker": "AGIX",
+      "market_cap": 102207429.63168171,
+      "price": 0.3269798138074683,
+      "liquidity": 551494.636376,
+      "circulating_supply": 312580242.925526,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 9,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "185.33",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Potential price manipulation (185.33:1 MCap/Liquidity ratio)",
+            "points": -40
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 80,
+        "volume_bonus": 25,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 61,373.663 ADA",
+            "points": 15
+          },
+          {
+            "reason": "Active trading with 55 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:59.253Z",
+      "volume_data": {
+        "volumeInAda": 72893.78874500004,
+        "volumeInToken": 221554.69094519,
+        "orderCount": 67,
+        "name": "AGIX"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 92.35599617964755,
+        "volume_score": 80.34893925701171,
+        "order_count_score": 50.56114053077315,
+        "composite_score": 84.57439353796934
+      }
+    },
+    {
+      "token_id": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+      "ticker": "MIN",
+      "market_cap": 50047821.809656195,
+      "price": 0.035590798302766125,
+      "liquidity": 10624914.362542998,
+      "circulating_supply": 1406201158.62269,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "4.71",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 145,
+        "volume_bonus": 20,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 43,666.739 ADA",
+            "points": 10
+          },
+          {
+            "reason": "Active trading with 71 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:26.712Z",
+      "volume_data": {
+        "volumeInAda": 52259.42744199999,
+        "volumeInToken": 1474199.5434779997,
+        "orderCount": 80,
+        "name": "MIN"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 88.0567186571043,
+        "volume_score": 77.96085784007585,
+        "order_count_score": 52.693569908905545,
+        "composite_score": 81.49164553717588
+      }
+    },
+    {
+      "token_id": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+      "ticker": "LQ",
+      "market_cap": 66017888.880678736,
+      "price": 3.285998711871691,
+      "liquidity": 994370.326308,
+      "circulating_supply": 20090661.825937,
+      "outliers_filtered": false,
+      "pool_count": 9,
+      "original_pool_count": 10,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "66.39",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Potential price manipulation (66.39:1 MCap/Liquidity ratio)",
+            "points": -40
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (9)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 105,
+        "volume_bonus": 15,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 23,161.099 ADA",
+            "points": 10
+          },
+          {
+            "reason": "Active trading with 33 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:30.734Z",
+      "volume_data": {
+        "volumeInAda": 26151.098754000002,
+        "volumeInToken": 7865.979871000002,
+        "orderCount": 35,
+        "name": "LQ"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 89.72426580587117,
+        "volume_score": 72.99264248426557,
+        "order_count_score": 42.75281673237176,
+        "composite_score": 80.00763390203954
+      }
+    },
+    {
+      "token_id": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
+      "ticker": "USDM",
+      "market_cap": 14332563.915962951,
+      "price": 1.3713565009224016,
+      "liquidity": 6432593.465388999,
+      "circulating_supply": 10451377.09,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "2.23",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 151,644.969 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 77 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:10.561Z",
+      "volume_data": {
+        "volumeInAda": 178428.04021100004,
+        "volumeInToken": 132292.212467,
+        "orderCount": 90,
+        "name": "USDM"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 80.52756145352423,
+        "volume_score": 86.77284478589337,
+        "order_count_score": 54.10990283904636,
+        "composite_score": 79.75938059178718
+      }
+    },
+    {
+      "token_id": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
+      "ticker": "WMT",
+      "market_cap": 195953210.11655927,
+      "price": 0.2810673538880715,
+      "liquidity": 771573.767233,
+      "circulating_supply": 697175276.338187,
+      "outliers_filtered": false,
+      "pool_count": 10,
+      "original_pool_count": 11,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "253.97",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Potential price manipulation (253.97:1 MCap/Liquidity ratio)",
+            "points": -40
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (10)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 105,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:15.215Z",
+      "volume_data": {
+        "volumeInAda": 5299.962996000001,
+        "volumeInToken": 18867.696241,
+        "orderCount": 11,
+        "name": "WMT"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 96.27501279722571,
+        "volume_score": 61.53823084632728,
+        "order_count_score": 28.83452628782083,
+        "composite_score": 79.10992956101569
+      }
+    },
+    {
+      "token_id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
+      "ticker": "HUNT",
+      "market_cap": 11239825.444208601,
+      "price": 0.1322332405201012,
+      "liquidity": 989917.607416,
+      "circulating_supply": 85000000,
+      "outliers_filtered": false,
+      "pool_count": 6,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "11.35",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (6)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 109,942.149 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 58 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:24.437Z",
+      "volume_data": {
+        "volumeInAda": 139371.26006700005,
+        "volumeInToken": 1067388.2041090003,
+        "orderCount": 90,
+        "name": "HUNT"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 79.0639875000511,
+        "volume_score": 85.0000344632163,
+        "order_count_score": 54.10990283904636,
+        "composite_score": 78.34939312290018
+      }
+    },
+    {
+      "token_id": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec54616c6f73",
+      "ticker": "TALOS",
+      "market_cap": 12109052.543126633,
+      "price": 0.012504272727930796,
+      "liquidity": 675008.920042,
+      "circulating_supply": 968393189,
+      "outliers_filtered": false,
+      "pool_count": 6,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "17.94",
+      "token_age": 77,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (6)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ],
+        "original_score": 110,
+        "volume_bonus": 25,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 60,217.178 ADA",
+            "points": 15
+          },
+          {
+            "reason": "Active trading with 81 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:30.101Z",
+      "volume_data": {
+        "volumeInAda": 100852.61233099998,
+        "volumeInToken": 7706854,
+        "orderCount": 114,
+        "name": "TALOS"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 79.51250543632096,
+        "volume_score": 82.67870494079479,
+        "order_count_score": 56.95246169162059,
+        "composite_score": 78.20636091319307
+      }
+    },
+    {
+      "token_id": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
+      "ticker": "USDA",
+      "market_cap": 9996918.515201338,
+      "price": 1.3722920227954565,
+      "liquidity": 5620505.15723,
+      "circulating_supply": 7284833.22,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "1.78",
+      "token_age": 68,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ],
+        "original_score": 85,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 205,639.998 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 52 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:11.891Z",
+      "volume_data": {
+        "volumeInAda": 210447.79596199997,
+        "volumeInToken": 156635.93503200004,
+        "orderCount": 54,
+        "name": "USDA"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 78.35838663595838,
+        "volume_score": 87.95727437056976,
+        "order_count_score": 47.96725972862247,
+        "composite_score": 78.1989402656082
+      }
+    },
+    {
+      "token_id": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+      "ticker": "LENFI",
+      "market_cap": 14621914.234316388,
+      "price": 0.9663419847198291,
+      "liquidity": 960992.640449,
+      "circulating_supply": 15131200.408886,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "15.22",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 25,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 64,700.809 ADA",
+            "points": 15
+          },
+          {
+            "reason": "Active trading with 60 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:18.634Z",
+      "volume_data": {
+        "volumeInAda": 80418.41602999998,
+        "volumeInToken": 83014.70784199999,
+        "orderCount": 85,
+        "name": "LENFI"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 80.64790824116996,
+        "volume_score": 81.05391662428617,
+        "order_count_score": 53.422576830636196,
+        "composite_score": 78.04717761505145
+      }
+    },
+    {
+      "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
+      "ticker": "iUSD",
+      "market_cap": 10618956.81206265,
+      "price": 1.3790964510254848,
+      "liquidity": 2865848.329236,
+      "circulating_supply": 7699937.741241,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "3.71",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 118,935.043 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 89 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:02.311Z",
+      "volume_data": {
+        "volumeInAda": 123784.427037,
+        "volumeInToken": 91876.95133999997,
+        "orderCount": 93,
+        "name": "iUSD"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 78.7218486359682,
+        "volume_score": 84.14895209820737,
+        "order_count_score": 54.50419821086181,
+        "composite_score": 77.92821463212933
+      }
+    },
+    {
+      "token_id": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+      "ticker": "HOSKY",
+      "market_cap": 30098826.22284905,
+      "price": 9.55518292789068e-8,
+      "liquidity": 991452.5119019999,
+      "circulating_supply": 314999999999931,
+      "outliers_filtered": true,
+      "pool_count": 10,
+      "median_used": true,
+      "mcap_liquidity_ratio": "30.36",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (10)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 15,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 18,826.187 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 61 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:35.627Z",
+      "volume_data": {
+        "volumeInAda": 21323.318298999995,
+        "volumeInToken": 223630633302,
+        "orderCount": 72,
+        "name": "HOSKY"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 84.99499039916178,
+        "volume_score": 71.5280746028155,
+        "order_count_score": 51.42661693022582,
+        "composite_score": 77.59807831336428
+      }
+    },
+    {
+      "token_id": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
+      "ticker": "INDY",
+      "market_cap": 24932186.359700006,
+      "price": 1.4835095484415624,
+      "liquidity": 1665895.671443,
+      "circulating_supply": 16806219,
+      "outliers_filtered": false,
+      "pool_count": 9,
+      "original_pool_count": 10,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "14.97",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (9)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 10,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 15,958.129 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 41 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:12.990Z",
+      "volume_data": {
+        "volumeInAda": 21274.555263000006,
+        "volumeInToken": 14274.211288999999,
+        "orderCount": 49,
+        "name": "INDY"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 83.8610415892821,
+        "volume_score": 71.51164523582885,
+        "order_count_score": 46.79887231371242,
+        "composite_score": 76.45000575568915
+      }
+    },
+    {
+      "token_id": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
+      "ticker": "STUFF",
+      "market_cap": 20038894.036517583,
+      "price": 0.009427211687914671,
+      "liquidity": 1064550.233341,
+      "circulating_supply": 2125643795.843334,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 7,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "18.82",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 10,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 16,185.115 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 48 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:10.432Z",
+      "volume_data": {
+        "volumeInAda": 20966.249044999997,
+        "volumeInToken": 2214588.149696,
+        "orderCount": 58,
+        "name": "STUFF"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 82.54550639235794,
+        "volume_score": 71.4068900236353,
+        "order_count_score": 48.826548872238405,
+        "composite_score": 75.83202572972918
+      }
+    },
+    {
+      "token_id": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e",
+      "ticker": "BTN",
+      "market_cap": 5803450.679532252,
+      "price": 0.4667871988899155,
+      "liquidity": 866869.884502,
+      "circulating_supply": 12432754.568535,
+      "outliers_filtered": false,
+      "pool_count": 5,
+      "original_pool_count": 5,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.69",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 140,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 131,400.26 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 50 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:07:50.053Z",
+      "volume_data": {
+        "volumeInAda": 156019.76263299998,
+        "volumeInToken": 328590.743982,
+        "orderCount": 56,
+        "name": "BTN"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 75.08392153994859,
+        "volume_score": 85.80979423208616,
+        "order_count_score": 48.404578156898715,
+        "composite_score": 75.63374900928487
+      }
+    },
+    {
+      "token_id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
+      "ticker": "DJED",
+      "market_cap": 5173083.122394306,
+      "price": 1.3690335123406625,
+      "liquidity": 925024.817623,
+      "circulating_supply": 3778638.781128,
+      "outliers_filtered": false,
+      "pool_count": 6,
+      "original_pool_count": 7,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.59",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (6)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 30,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 107,153.951 ADA",
+            "points": 20
+          },
+          {
+            "reason": "Active trading with 81 orders in the last 24 hours",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:15.867Z",
+      "volume_data": {
+        "volumeInAda": 116658.09226500006,
+        "volumeInToken": 87480.88704400002,
+        "orderCount": 90,
+        "name": "DJED"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 74.39158288206916,
+        "volume_score": 83.72345168172937,
+        "order_count_score": 54.10990283904636,
+        "composite_score": 75.16297551766495
+      }
+    },
+    {
+      "token_id": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
+      "ticker": "COPI",
+      "market_cap": 21503190.297829557,
+      "price": 0.021290963485464852,
+      "liquidity": 916061.2109320001,
+      "circulating_supply": 1009967929,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 9,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "23.47",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 10,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 17,228.346 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 29 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:58.712Z",
+      "volume_data": {
+        "volumeInAda": 18245.440897000004,
+        "volumeInToken": 858740.7673880002,
+        "orderCount": 34,
+        "name": "COPI"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 82.97015768812793,
+        "volume_score": 70.40942279945308,
+        "order_count_score": 42.40424358846814,
+        "composite_score": 75.14534581155948
+      }
+    },
+    {
+      "token_id": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef4e564c",
+      "ticker": "NVL",
+      "market_cap": 15834340.586649334,
+      "price": 0.9428950703662704,
+      "liquidity": 730920.075039,
+      "circulating_supply": 16793322.061275,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "21.66",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Token is in trusted whitelist",
+            "points": 50
+          },
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 190,
+        "volume_bonus": 15,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 31,106.123 ADA",
+            "points": 10
+          },
+          {
+            "reason": "Active trading with 30 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:21.694Z",
+      "volume_data": {
+        "volumeInAda": 31106.123041000003,
+        "volumeInToken": 32156.255461999997,
+        "orderCount": 30,
+        "name": "NVL"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 81.12755361950508,
+        "volume_score": 74.23779065927543,
+        "order_count_score": 40.8991653739547,
+        "composite_score": 75.03778590688114
+      }
+    },
+    {
+      "token_id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344",
+      "ticker": "SHEN",
+      "market_cap": 27531836.78702421,
+      "price": 1.1489954408330825,
+      "liquidity": 1668670.5365789998,
+      "circulating_supply": 23961658.861816,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "16.50",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 5,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 15,670.038 ADA",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:15.962Z",
+      "volume_data": {
+        "volumeInAda": 16042.905925,
+        "volumeInToken": 13954.200825000002,
+        "orderCount": 9,
+        "name": "SHEN"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 84.45824324833869,
+        "volume_score": 69.48622982065156,
+        "order_count_score": 26.421474930183315,
+        "composite_score": 74.162962388217
+      }
+    },
+    {
+      "token_id": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+      "ticker": "NTX",
+      "market_cap": 16555926.94871113,
+      "price": 0.022713420226090034,
+      "liquidity": 987518.7900760002,
+      "circulating_supply": 728905060.704771,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "16.77",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 145,
+        "volume_bonus": 7,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 12,272.181 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 22 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:50.911Z",
+      "volume_data": {
+        "volumeInAda": 15364.285507999997,
+        "volumeInToken": 674921.2371179999,
+        "orderCount": 29,
+        "name": "NTX"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 81.39587635093383,
+        "volume_score": 69.17607163744142,
+        "order_count_score": 40.49150153889091,
+        "composite_score": 73.63949745568182
+      }
+    },
+    {
+      "token_id": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
+      "ticker": "FLDT",
+      "market_cap": 12649648.183035407,
+      "price": 0.3408093140141304,
+      "liquidity": 2313330.423363,
+      "circulating_supply": 37116497.885709,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.47",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 115,
+        "volume_bonus": 15,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 21,893.408 ADA",
+            "points": 10
+          },
+          {
+            "reason": "Active trading with 27 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:15.923Z",
+      "volume_data": {
+        "volumeInAda": 22293.408453000007,
+        "volumeInToken": 65430.75279,
+        "orderCount": 28,
+        "name": "FLDT"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 79.77548714404718,
+        "volume_score": 71.84733751941262,
+        "order_count_score": 40.06953082355121,
+        "composite_score": 73.42644662460722
+      }
+    },
+    {
+      "token_id": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
+      "ticker": "BODEGA",
+      "market_cap": 5854798.422053471,
+      "price": 0.29208937566404564,
+      "liquidity": 478575.260573,
+      "circulating_supply": 20044544.272598,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "12.23",
+      "token_age": 127,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ],
+        "original_score": 110,
+        "volume_bonus": 12,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 27,719.279 ADA",
+            "points": 10
+          },
+          {
+            "reason": "Active trading with 20 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:24.547Z",
+      "volume_data": {
+        "volumeInAda": 60504.981364000014,
+        "volumeInToken": 209543.9656999999,
+        "orderCount": 43,
+        "name": "BODEGA"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 75.13696143482429,
+        "volume_score": 79.01219361671276,
+        "order_count_score": 45.22817357371725,
+        "composite_score": 73.30865230328011
+      }
+    },
+    {
+      "token_id": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+      "ticker": "STRIKE",
+      "market_cap": 3921120.064685816,
+      "price": 0.2193287059232269,
+      "liquidity": 632618.227189,
+      "circulating_supply": 17877824.282875,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.20",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 15,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 45,231.631 ADA",
+            "points": 10
+          },
+          {
+            "reason": "Active trading with 45 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:56.359Z",
+      "volume_data": {
+        "volumeInAda": 62607.691958,
+        "volumeInToken": 282154.04905900004,
+        "orderCount": 60,
+        "name": "STRIKE"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 72.72316415981001,
+        "volume_score": 79.25734638395484,
+        "order_count_score": 49.23421270730221,
+        "composite_score": 72.33452368180268
+      }
+    },
+    {
+      "token_id": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
+      "ticker": "COCK",
+      "market_cap": 4274394.63456172,
+      "price": 0.004346823383583631,
+      "liquidity": 165817.571775,
+      "circulating_supply": 983337545,
+      "outliers_filtered": false,
+      "pool_count": 1,
+      "original_pool_count": 1,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "25.78",
+      "token_age": 111,
+      "trust_assessment": {
+        "score": 65,
+        "level": "Good",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Single liquidity pool",
+            "points": -30
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:01.646Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 73.24258236980478,
+        "volume_score": 73.88792255170802,
+        "order_count_score": 54.885974131829165,
+        "composite_score": 71.60052360057819
+      },
+      "volume_data": {
+        "volumeInAda": 29625.929597000006,
+        "volumeInToken": 6842533,
+        "orderCount": 96,
+        "name": "COCK"
+      }
+    },
+    {
+      "token_id": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56",
+      "ticker": "RJV",
+      "market_cap": 4744208.220660425,
+      "price": 0.00832026593332696,
+      "liquidity": 336188.020874,
+      "circulating_supply": 570199108.859901,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "14.11",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 140,
+        "volume_bonus": 10,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 19,083.958 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 40 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:13.186Z",
+      "volume_data": {
+        "volumeInAda": 21931.824828,
+        "volumeInToken": 2791510.801136,
+        "orderCount": 43,
+        "name": "RJV"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 73.87048377054998,
+        "volume_score": 71.72999210493663,
+        "order_count_score": 45.22817357371725,
+        "composite_score": 70.36410525118269
+      }
+    },
+    {
+      "token_id": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
+      "ticker": "SUNDAE",
+      "market_cap": 11575405.008118883,
+      "price": 0.009532625323158865,
+      "liquidity": 2449424.7417090004,
+      "circulating_supply": 1214293504.224615,
+      "outliers_filtered": false,
+      "pool_count": 10,
+      "original_pool_count": 11,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "4.73",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (10)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 2,
+        "volume_bonuses": [
+          {
+            "reason": "Active trading with 13 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:29.911Z",
+      "volume_data": {
+        "volumeInAda": 3658.434768,
+        "volumeInToken": 386453.93090400007,
+        "orderCount": 14,
+        "name": "SUNDAE"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 79.24112633718916,
+        "volume_score": 58.878309749622396,
+        "order_count_score": 31.734483490203708,
+        "composite_score": 68.38161707622059
+      }
+    },
+    {
+      "token_id": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
+      "ticker": "CHAD",
+      "market_cap": 5343455.479020023,
+      "price": 0.005607393376890341,
+      "liquidity": 387195.92136100004,
+      "circulating_supply": 952930376,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "13.80",
+      "token_age": 119,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ],
+        "original_score": 110,
+        "volume_bonus": 7,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 9,029.496 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 24 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:30.070Z",
+      "volume_data": {
+        "volumeInAda": 9112.403830000001,
+        "volumeInToken": 1565142,
+        "orderCount": 26,
+        "name": "CHAD"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 74.58669135552718,
+        "volume_score": 65.42721698161098,
+        "order_count_score": 39.178387538252586,
+        "composite_score": 68.29801866162487
+      }
+    },
+    {
+      "token_id": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
+      "ticker": "TITAN",
+      "market_cap": 5245285.836670124,
+      "price": 0.1976156553104719,
+      "liquidity": 430067.705383,
+      "circulating_supply": 26542865.889999,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "12.20",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 7,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 6,485.259 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 13 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:04.729Z",
+      "volume_data": {
+        "volumeInAda": 9375.873965,
+        "volumeInToken": 48412.02319599999,
+        "orderCount": 20,
+        "name": "TITAN"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 74.47504176466059,
+        "volume_score": 65.63175882311566,
+        "order_count_score": 36.02347524221055,
+        "composite_score": 67.97690022995211
+      }
+    },
+    {
+      "token_id": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
+      "ticker": "ROLL",
+      "market_cap": 1808293.301642291,
+      "price": 0.004454294587087576,
+      "liquidity": 332411.339396,
+      "circulating_supply": 405966257.1228,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.44",
+      "token_age": 55,
+      "trust_assessment": {
+        "score": 85,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:32.820Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 68.06280542699676,
+        "volume_score": 75.34911719295015,
+        "order_count_score": 42.75281673237176,
+        "composite_score": 67.71770008732027
+      },
+      "volume_data": {
+        "volumeInAda": 36316.416651,
+        "volumeInToken": 8491193.803926999,
+        "orderCount": 35,
+        "name": "ROLL"
+      }
+    },
+    {
+      "token_id": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+      "ticker": "BabySNEK",
+      "market_cap": 3328120.132548006,
+      "price": 0.000046187319481328494,
+      "liquidity": 200456.576431,
+      "circulating_supply": 72057009801,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "16.60",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 7,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 8,452.796 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 24 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:47.328Z",
+      "volume_data": {
+        "volumeInAda": 11039.007475999999,
+        "volumeInToken": 242648382,
+        "orderCount": 27,
+        "name": "BabySNEK"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 71.73587244608622,
+        "volume_score": 66.80358077619924,
+        "order_count_score": 39.632212395274976,
+        "composite_score": 67.045818940039
+      }
+    },
+    {
+      "token_id": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
+      "ticker": "rsERG",
+      "market_cap": 4028098.7750488664,
+      "price": 1.1138739474685355,
+      "liquidity": 771359.9612730001,
+      "circulating_supply": 3616296.784931,
+      "outliers_filtered": false,
+      "pool_count": 5,
+      "original_pool_count": 5,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.22",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 5,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 5,733.072 ADA",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:07:55.707Z",
+      "volume_data": {
+        "volumeInAda": 9217.754184999998,
+        "volumeInToken": 8362.409203651,
+        "orderCount": 15,
+        "name": "rsERG"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 72.88523726307726,
+        "volume_score": 65.50970529058993,
+        "order_count_score": 32.56411804060721,
+        "composite_score": 66.64046574908406
+      }
+    },
+    {
+      "token_id": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
+      "ticker": "DEDI",
+      "market_cap": 2560837.739300457,
+      "price": 0.042680628277031285,
+      "liquidity": 198486.689808,
+      "circulating_supply": 60000000.999952,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "12.90",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 10,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 14,449.52 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 25 orders in the last 24 hours",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:30.201Z",
+      "volume_data": {
+        "volumeInAda": 14449.520304000001,
+        "volumeInToken": 335748.55440799997,
+        "orderCount": 25,
+        "name": "DEDI"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 70.15788191334408,
+        "volume_score": 68.73557116094044,
+        "order_count_score": 38.7067611510311,
+        "composite_score": 66.58607661139169
+      }
+    },
+    {
+      "token_id": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
+      "ticker": "O",
+      "market_cap": 5155490.185339424,
+      "price": 0.31033077147627103,
+      "liquidity": 271646.350606,
+      "circulating_supply": 16612887.47105,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "18.98",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 140,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:26.911Z",
+      "volume_data": {
+        "volumeInAda": 7030.245362,
+        "volumeInToken": 22603.297010000002,
+        "orderCount": 9,
+        "name": "O"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 74.37107077594618,
+        "volume_score": 63.56563225918654,
+        "order_count_score": 26.421474930183315,
+        "composite_score": 66.334479636342
+      }
+    },
+    {
+      "token_id": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e",
+      "ticker": "FACT",
+      "market_cap": 2550059.046419016,
+      "price": 0.00692633903413022,
+      "liquidity": 432987.38660699996,
+      "circulating_supply": 368168383.593894,
+      "outliers_filtered": false,
+      "pool_count": 6,
+      "original_pool_count": 7,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.89",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (6)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 7,
+        "volume_bonuses": [
+          {
+            "reason": "Strong daily trading volume: 12,422.979 ADA",
+            "points": 5
+          },
+          {
+            "reason": "Active trading with 15 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:41.601Z",
+      "volume_data": {
+        "volumeInAda": 12875.633321000001,
+        "volumeInToken": 1856203.40018,
+        "orderCount": 18,
+        "name": "FACT"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 70.13248496981744,
+        "volume_score": 67.907991675593,
+        "order_count_score": 34.75652226353081,
+        "composite_score": 65.92754071092145
+      }
+    },
+    {
+      "token_id": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047",
+      "ticker": "JPG",
+      "market_cap": 1309731.9825538415,
+      "price": 0.00485985893340943,
+      "liquidity": 53642.641637,
+      "circulating_supply": 269500000,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "24.42",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 130,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:33.055Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.12060691745009,
+        "volume_score": 67.62494489429119,
+        "order_count_score": 42.40424358846814,
+        "composite_score": 64.20027197760422
+      },
+      "volume_data": {
+        "volumeInAda": 12377.664448000001,
+        "volumeInToken": 2579454.2062709997,
+        "orderCount": 34,
+        "name": "JPG"
+      }
+    },
+    {
+      "token_id": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
+      "ticker": "MILKv2",
+      "market_cap": 4421434.545593582,
+      "price": 0.5342746137465967,
+      "liquidity": 358537.541777,
+      "circulating_supply": 8275584.188042,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "12.33",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 140,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:52.945Z",
+      "volume_data": {
+        "volumeInAda": 4112.579664999999,
+        "volumeInToken": 7725.405629999999,
+        "orderCount": 6,
+        "name": "MILKv2"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 73.44622910414583,
+        "volume_score": 59.718020476020214,
+        "order_count_score": 21.545784798439158,
+        "composite_score": 64.13772208513747
+      }
+    },
+    {
+      "token_id": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f6036453796e74686573697a654149",
+      "ticker": "SYNTH",
+      "market_cap": 1041240.7295451585,
+      "price": 0.0010531328648784282,
+      "liquidity": 109928.52039299998,
+      "circulating_supply": 988707849,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "9.47",
+      "token_age": 68,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:50.232Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 64.73929026735149,
+        "volume_score": 69.02560121025778,
+        "order_count_score": 43.42104038338373,
+        "composite_score": 63.8933585618266
+      },
+      "volume_data": {
+        "volumeInAda": 15045.476605000002,
+        "volumeInToken": 12293452,
+        "orderCount": 37,
+        "name": "SYNTH"
+      }
+    },
+    {
+      "token_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
+      "ticker": "NMKR",
+      "market_cap": 11498472.697909685,
+      "price": 0.0011498472697909685,
+      "liquidity": 158343.998197,
+      "circulating_supply": 10000000000,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 9,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "72.62",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 80,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Potential price manipulation (72.62:1 MCap/Liquidity ratio)",
+            "points": -40
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 80,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:24.314Z",
+      "volume_data": {
+        "volumeInAda": 875.883814,
+        "volumeInToken": 764127.3625030001,
+        "orderCount": 3,
+        "name": "NMKR"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 79.20097485155611,
+        "volume_score": 48.61967957939625,
+        "order_count_score": 13.210737465091658,
+        "composite_score": 63.4275625312617
+      }
+    },
+    {
+      "token_id": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
+      "ticker": "GENS",
+      "market_cap": 1511861.3554926545,
+      "price": 0.015766337232106912,
+      "liquidity": 54515.965221,
+      "circulating_supply": 95891730.161262,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 7,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "27.73",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:33.708Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.9847614088718,
+        "volume_score": 64.80459230898623,
+        "order_count_score": 36.61017362194787,
+        "composite_score": 63.29325190021373
+      },
+      "volume_data": {
+        "volumeInAda": 8355.105231000001,
+        "volumeInToken": 574639.985062,
+        "orderCount": 21,
+        "name": "GENS"
+      }
+    },
+    {
+      "token_id": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
+      "ticker": "NEWM",
+      "market_cap": 3147217.3850073586,
+      "price": 0.0015202112656489191,
+      "liquidity": 133751.07315499996,
+      "circulating_supply": 2070250008.089457,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "23.53",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 2,
+        "volume_bonuses": [
+          {
+            "reason": "Active trading with 11 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:32.990Z",
+      "volume_data": {
+        "volumeInAda": 3401.1772250000004,
+        "volumeInToken": 2248241.859098,
+        "orderCount": 11,
+        "name": "NEWM"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 71.399354987773,
+        "volume_score": 58.35507394196383,
+        "order_count_score": 28.83452628782083,
+        "composite_score": 63.22958780403502
+      }
+    },
+    {
+      "token_id": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
+      "ticker": "PBX",
+      "market_cap": 3202818.0694740075,
+      "price": 0.0003202818069474007,
+      "liquidity": 28835.302305,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 5,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "111.07",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious circulating supply vs. liquidity ratio",
+            "points": -30
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 105,
+        "volume_bonus": 2,
+        "volume_bonuses": [
+          {
+            "reason": "Active trading with 11 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [
+          "High market cap with zero or unreported circulating supply - potential manipulation"
+        ],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:19.024Z",
+      "volume_data": {
+        "volumeInAda": 2930.210498,
+        "volumeInToken": 9231807.248057,
+        "orderCount": 12,
+        "name": "PBX"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 71.50480021063636,
+        "volume_score": 57.28549685220668,
+        "order_count_score": 29.88083213178666,
+        "composite_score": 63.07661239522248
+      }
+    },
+    {
+      "token_id": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
+      "ticker": "VYFI",
+      "market_cap": 3292777.9563128767,
+      "price": 0.08189764040486001,
+      "liquidity": 579646.444724,
+      "circulating_supply": 40206017.414361,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.68",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:58.612Z",
+      "volume_data": {
+        "volumeInAda": 3443.280047,
+        "volumeInToken": 41991.566373,
+        "orderCount": 8,
+        "name": "VYFI"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 71.67159000918403,
+        "volume_score": 58.44336068410709,
+        "order_count_score": 25.005142000042497,
+        "composite_score": 63.036476410746786
+      }
+    },
+    {
+      "token_id": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0544f4b45",
+      "ticker": "TOKE",
+      "market_cap": 1331021.1686669893,
+      "price": 0.039526314460446604,
+      "liquidity": 144873.090038,
+      "circulating_supply": 33674305,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "9.19",
+      "token_age": 128,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:39.072Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.21769199525501,
+        "volume_score": 64.84407989317344,
+        "order_count_score": 36.02347524221055,
+        "composite_score": 62.786186689326094
+      },
+      "volume_data": {
+        "volumeInAda": 8401.207266,
+        "volumeInToken": 217182,
+        "orderCount": 20,
+        "name": "TOKE"
+      }
+    },
+    {
+      "token_id": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
+      "ticker": "WRT",
+      "market_cap": 2889498.0284014675,
+      "price": 0.033605285848816134,
+      "liquidity": 548388.981161,
+      "circulating_supply": 85983438.480505,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.27",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 145,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:04.407Z",
+      "volume_data": {
+        "volumeInAda": 3370.079366,
+        "volumeInToken": 100380.532948,
+        "orderCount": 9,
+        "name": "WRT"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 70.88492981054523,
+        "volume_score": 58.28915926982258,
+        "order_count_score": 26.421474930183315,
+        "composite_score": 62.65985316029224
+      }
+    },
+    {
+      "token_id": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
+      "ticker": "XER",
+      "market_cap": 1970257.2445783122,
+      "price": 0.00921459611456524,
+      "liquidity": 299226.772955,
+      "circulating_supply": 213819164.734088,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.58",
+      "token_age": 136,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ],
+        "original_score": 135,
+        "volume_bonus": 2,
+        "volume_bonuses": [
+          {
+            "reason": "Active trading with 11 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:41.290Z",
+      "volume_data": {
+        "volumeInAda": 4991.247577000001,
+        "volumeInToken": 519844.237873,
+        "orderCount": 14,
+        "name": "XER"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 68.57930637034706,
+        "volume_score": 61.1075654259657,
+        "order_count_score": 31.734483490203708,
+        "composite_score": 62.653301799018315
+      }
+    },
+    {
+      "token_id": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
+      "ticker": "VIPER",
+      "market_cap": 1293200.7738712018,
+      "price": 0.000017611963767196886,
+      "liquidity": 119348.809442,
+      "circulating_supply": 73427403722,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "10.84",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 120,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:16.182Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.04412490254035,
+        "volume_score": 64.52320126135808,
+        "order_count_score": 34.06919625512064,
+        "composite_score": 62.39035494544369
+      },
+      "volume_data": {
+        "volumeInAda": 8033.822523999999,
+        "volumeInToken": 470530687,
+        "orderCount": 17,
+        "name": "VIPER"
+      }
+    },
+    {
+      "token_id": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
+      "ticker": "SHARDS",
+      "market_cap": 1418596.847661544,
+      "price": 0.5467259891094179,
+      "liquidity": 87538.308582,
+      "circulating_supply": 2594712.663966,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "16.21",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:47.993Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.60137263808431,
+        "volume_score": 63.98458566870728,
+        "order_count_score": 30.843340204905083,
+        "composite_score": 62.24053330395328
+      },
+      "volume_data": {
+        "volumeInAda": 7452.901829,
+        "volumeInToken": 13223.865621,
+        "orderCount": 13,
+        "name": "SHARDS"
+      }
+    },
+    {
+      "token_id": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
+      "ticker": "DANZO",
+      "market_cap": 1425884.8615673508,
+      "price": 0.0000214154253585417,
+      "liquidity": 148446.919409,
+      "circulating_supply": 66582140569,
+      "outliers_filtered": false,
+      "pool_count": 1,
+      "original_pool_count": 2,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "9.61",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 75,
+        "level": "Good",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Single liquidity pool",
+            "points": -30
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:04.819Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.63222715986795,
+        "volume_score": 62.71173571556602,
+        "order_count_score": 30.843340204905083,
+        "composite_score": 61.87719103108108
+      },
+      "volume_data": {
+        "volumeInAda": 6241.5571820000005,
+        "volumeInToken": 288189884,
+        "orderCount": 13,
+        "name": "DANZO"
+      }
+    },
+    {
+      "token_id": "ee0633e757fdd1423220f43688c74678abde1cead7ce265ba8a24fcd43424c50",
+      "ticker": "CBLP",
+      "market_cap": 2626784.350885546,
+      "price": 0.0029186492787617174,
+      "liquidity": 225208.504407,
+      "circulating_supply": 900000000,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "11.66",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 115,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:50.612Z",
+      "volume_data": {
+        "volumeInAda": 4909.709598,
+        "volumeInToken": 1696826.354706,
+        "orderCount": 3,
+        "name": "CBLP"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 70.3109763373548,
+        "volume_score": 60.989367351063926,
+        "order_count_score": 13.210737465091658,
+        "composite_score": 61.80446975424122
+      }
+    },
+    {
+      "token_id": "680d05f173b6ab03b6afb72ad9ae8481f73ea239245b1595fe87986a43485542",
+      "ticker": "CHUB",
+      "market_cap": 293219.51103451307,
+      "price": 0.0003003137669935267,
+      "liquidity": 74276.67734,
+      "circulating_supply": 976377187,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "3.95",
+      "token_age": 42,
+      "trust_assessment": {
+        "score": 105,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:33.022Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 57.10896551988828,
+        "volume_score": 73.70886289243902,
+        "order_count_score": 47.96725972862247,
+        "composite_score": 61.17476415252692
+      },
+      "volume_data": {
+        "volumeInAda": 28895.842179999996,
+        "volumeInToken": 77650503,
+        "orderCount": 54,
+        "name": "CHUB"
+      }
+    },
+    {
+      "token_id": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d534b59",
+      "ticker": "SKY",
+      "market_cap": 846909.5408729953,
+      "price": 0.02884625541543547,
+      "liquidity": 74724.20468,
+      "circulating_supply": 29359427.373711,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "11.33",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:27.420Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 63.495467998194364,
+        "volume_score": 65.77142104217974,
+        "order_count_score": 33.34018933339,
+        "composite_score": 61.16272604490954
+      },
+      "volume_data": {
+        "volumeInAda": 9560.136007000001,
+        "volumeInToken": 335700.273409,
+        "orderCount": 16,
+        "name": "SKY"
+      }
+    },
+    {
+      "token_id": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
+      "ticker": "SPLASH",
+      "market_cap": 2021720.4243825828,
+      "price": 0.03488823317521257,
+      "liquidity": 852471.430555,
+      "circulating_supply": 57948489.802544,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "2.37",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 97,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 95,
+        "volume_bonus": 2,
+        "volume_bonuses": [
+          {
+            "reason": "Active trading with 10 orders in the last 24 hours",
+            "points": 2
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:50.878Z",
+      "volume_data": {
+        "volumeInAda": 2784.569557,
+        "volumeInToken": 20207.221871,
+        "orderCount": 9,
+        "name": "SPLASH"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 68.73456094177881,
+        "volume_score": 56.91965294321897,
+        "order_count_score": 26.421474930183315,
+        "composite_score": 60.958779941051304
+      }
+    },
+    {
+      "token_id": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
+      "ticker": "C3",
+      "market_cap": 3519372.142937432,
+      "price": 0.09201588164893004,
+      "liquidity": 299140.63476199994,
+      "circulating_supply": 38247442.505251,
+      "outliers_filtered": false,
+      "pool_count": 7,
+      "original_pool_count": 8,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "11.76",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (7)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 145,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:15.899Z",
+      "volume_data": {
+        "volumeInAda": 1172.547912,
+        "volumeInToken": 12711.703242,
+        "orderCount": 6,
+        "name": "C3"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 72.0723059580206,
+        "volume_score": 50.7129513496505,
+        "order_count_score": 21.545784798439158,
+        "composite_score": 60.61184745955143
+      }
+    },
+    {
+      "token_id": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+      "ticker": "FREN",
+      "market_cap": 1228824.5203432904,
+      "price": 0.0000031917238662437115,
+      "liquidity": 240919.425832,
+      "circulating_supply": 385003393727,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.10",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 120,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:08.557Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 65.73666928525938,
+        "volume_score": 61.17923716078183,
+        "order_count_score": 23.39943615685621,
+        "composite_score": 60.1357163350758
+      },
+      "volume_data": {
+        "volumeInAda": 5041.347814,
+        "volumeInToken": 1555670408,
+        "orderCount": 7,
+        "name": "FREN"
+      }
+    },
+    {
+      "token_id": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18426f6b20436869636b",
+      "ticker": "BOK",
+      "market_cap": 95373.99202621034,
+      "price": 0.00009537399202621035,
+      "liquidity": 38188.003169,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "2.50",
+      "token_age": 97,
+      "trust_assessment": {
+        "score": 125,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:11.858Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 50.34648101509088,
+        "volume_score": 79.1239694810796,
+        "order_count_score": 61.615315621990376,
+        "composite_score": 60.10661101557745
+      },
+      "volume_data": {
+        "volumeInAda": 61454.79423199998,
+        "volumeInToken": 361736733,
+        "orderCount": 168,
+        "name": "BOK"
+      }
+    },
+    {
+      "token_id": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
+      "ticker": "ANGELS",
+      "market_cap": 2152108.8999707606,
+      "price": 4.339337066677437,
+      "liquidity": 113141.32927700001,
+      "circulating_supply": 495953.383409,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "19.02",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 100,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:26.778Z",
+      "volume_data": {
+        "volumeInAda": 1698.1868729999999,
+        "volumeInToken": 388.198401,
+        "orderCount": 7,
+        "name": "ANGELS"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 69.11088127192532,
+        "volume_score": 53.37084599960592,
+        "order_count_score": 23.39943615685621,
+        "composite_score": 59.81772617872259
+      }
+    },
+    {
+      "token_id": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
+      "ticker": "CLAY",
+      "market_cap": 1260619.5370338731,
+      "price": 0.0025255488828275093,
+      "liquidity": 69577.441964,
+      "circulating_supply": 499146758,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 5,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "18.12",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:41.609Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 65.89048195993003,
+        "volume_score": 57.366985260163375,
+        "order_count_score": 28.83452628782083,
+        "composite_score": 59.62783738278911
+      },
+      "volume_data": {
+        "volumeInAda": 2963.674277,
+        "volumeInToken": 1136457.192,
+        "orderCount": 11,
+        "name": "CLAY"
+      }
+    },
+    {
+      "token_id": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353",
+      "ticker": "ENCS",
+      "market_cap": 1457308.2688795233,
+      "price": 0.09715388459196822,
+      "liquidity": 33361.616922,
+      "circulating_supply": 15000000,
+      "outliers_filtered": false,
+      "pool_count": 5,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "43.68",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:32.853Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.76347995448438,
+        "volume_score": 56.124874407617675,
+        "order_count_score": 25.005142000042497,
+        "composite_score": 59.39606449498018
+      },
+      "volume_data": {
+        "volumeInAda": 2492.633019,
+        "volumeInToken": 24881.744338,
+        "orderCount": 8,
+        "name": "ENCS"
+      }
+    },
+    {
+      "token_id": "75fcc276057db5fc48eae0e11453c773c8a54604c3086bf9d95ac1b743485259",
+      "ticker": "NOVA",
+      "market_cap": 1643339.5845367992,
+      "price": 0.019885978367589433,
+      "liquidity": 238700.41901,
+      "circulating_supply": 82638105.813046,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.88",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 120,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:49.891Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 67.48686139160999,
+        "volume_score": 55.12555187271349,
+        "order_count_score": 16.670094666695,
+        "composite_score": 58.69679186344953
+      },
+      "volume_data": {
+        "volumeInAda": 2168.601147,
+        "volumeInToken": 108924.97548400001,
+        "orderCount": 4,
+        "name": "NOVA"
+      }
+    },
+    {
+      "token_id": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e753554741522042555348",
+      "ticker": "SUGR",
+      "market_cap": 845961.8463072705,
+      "price": 0.0008905608130016205,
+      "liquidity": 144535.621488,
+      "circulating_supply": 949920358,
+      "outliers_filtered": true,
+      "pool_count": 4,
+      "original_pool_count": 5,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.85",
+      "token_age": 132,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:50.123Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 63.488726502007474,
+        "volume_score": 57.21721596036966,
+        "order_count_score": 28.83452628782083,
+        "composite_score": 58.14185331809746
+      },
+      "volume_data": {
+        "volumeInAda": 2902.461606,
+        "volumeInToken": 3257995,
+        "orderCount": 11,
+        "name": "SUGR"
+      }
+    },
+    {
+      "token_id": "c881c20e49dbaca3ff6cef365969354150983230c39520b917f5cf7c4e696b65",
+      "ticker": "NIKEPIG",
+      "market_cap": 2800041.505418972,
+      "price": 0.0031121327954265355,
+      "liquidity": 179193.765568,
+      "circulating_supply": 899717875,
+      "outliers_filtered": false,
+      "pool_count": 5,
+      "original_pool_count": 5,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "15.63",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:13.323Z",
+      "volume_data": {
+        "volumeInAda": 583.1460490000001,
+        "volumeInToken": 187350,
+        "orderCount": 5,
+        "name": "NIKEPIG"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 70.69557231189727,
+        "volume_score": 45.700476762853526,
+        "order_count_score": 19.35338057551555,
+        "composite_score": 58.06282447354597
+      }
+    },
+    {
+      "token_id": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+      "ticker": "EMP",
+      "market_cap": 1321085.819748245,
+      "price": 0.03690698740952516,
+      "liquidity": 124851.383007,
+      "circulating_supply": 35795005.566,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 9,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "10.58",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 145,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:35.781Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 66.17257855595125,
+        "volume_score": 50.977981901965755,
+        "order_count_score": 25.005142000042497,
+        "composite_score": 57.49745590416472
+      },
+      "volume_data": {
+        "volumeInAda": 1216.6625960000001,
+        "volumeInToken": 34066.90908,
+        "orderCount": 8,
+        "name": "EMP"
+      }
+    },
+    {
+      "token_id": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe424f4f",
+      "ticker": "BOO",
+      "market_cap": 500280.9223692249,
+      "price": 0.0006542238317824737,
+      "liquidity": 71928.151163,
+      "circulating_supply": 764693822,
+      "outliers_filtered": true,
+      "pool_count": 2,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.96",
+      "token_age": 122,
+      "trust_assessment": {
+        "score": 105,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:25.288Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 60.32577213368403,
+        "volume_score": 61.452830265664836,
+        "order_count_score": 26.421474930183315,
+        "composite_score": 57.2734598529282
+      },
+      "volume_data": {
+        "volumeInAda": 5237.26348,
+        "volumeInToken": 8313028,
+        "orderCount": 9,
+        "name": "BOO"
+      }
+    },
+    {
+      "token_id": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59",
+      "ticker": "JELLY",
+      "market_cap": 492432.86946356227,
+      "price": 0.07306104352701939,
+      "liquidity": 38579.462889999995,
+      "circulating_supply": 6740019.656049,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "12.76",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 120,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution with moderate liquidity",
+            "points": -15
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:21.659Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 60.23056735745425,
+        "volume_score": 61.368711994849654,
+        "order_count_score": 26.421474930183315,
+        "composite_score": 57.19110150594577
+      },
+      "volume_data": {
+        "volumeInAda": 5176.230579,
+        "volumeInToken": 71483.48383599998,
+        "orderCount": 9,
+        "name": "JELLY"
+      }
+    },
+    {
+      "token_id": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b756246524e",
+      "ticker": "FRN",
+      "market_cap": 584017.899718363,
+      "price": 0.09187025104638628,
+      "liquidity": 179330.52892399998,
+      "circulating_supply": 6356986,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "3.26",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 120,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:42.121Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 61.25762153635633,
+        "volume_score": 59.2880805576519,
+        "order_count_score": 25.005142000042497,
+        "composite_score": 57.041511289113615
+      },
+      "volume_data": {
+        "volumeInAda": 3873.419244,
+        "volumeInToken": 42110.369463999996,
+        "orderCount": 8,
+        "name": "FRN"
+      }
+    },
+    {
+      "token_id": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf4d796e746820546f6b656e",
+      "ticker": "MNT",
+      "market_cap": 3372462.283688326,
+      "price": 0.04854096750382943,
+      "liquidity": 2377.2523810000002,
+      "circulating_supply": 69476618.557763,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "1418.64",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 125,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:56.288Z",
+      "volume_data": {
+        "volumeInAda": 231.23609900000002,
+        "volumeInToken": 5069.019986,
+        "orderCount": 5,
+        "name": "MNT"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 71.81556584808406,
+        "volume_score": 39.06260569467774,
+        "order_count_score": 19.35338057551555,
+        "composite_score": 56.74345927480531
+      }
+    },
+    {
+      "token_id": "1e76aaec4869308ef5b61e81ebf229f2e70f75a50223defa087f807b436c61726974792044414f20546f6b656e",
+      "ticker": "CLARITY",
+      "market_cap": 2540594.2826354844,
+      "price": 0.003419168937092364,
+      "liquidity": 393380.672039,
+      "circulating_supply": 743044385.749476,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.46",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 100,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ],
+        "original_score": 120,
+        "volume_bonus": 0,
+        "volume_bonuses": []
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:15.251Z",
+      "volume_data": {
+        "volumeInAda": 545.323454,
+        "volumeInToken": 160000,
+        "orderCount": 2,
+        "name": "CLARITY"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 70.11009525410165,
+        "volume_score": 45.21925858596356,
+        "order_count_score": 8.3350473333475,
+        "composite_score": 56.465339461584804
+      }
+    },
+    {
+      "token_id": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b",
+      "ticker": "BANK",
+      "market_cap": 2022665.6411263105,
+      "price": 0.0000011237505740740762,
+      "liquidity": 142879.71209000002,
+      "circulating_supply": 1799924011423,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "14.16",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 115,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:26.974Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 68.73737537294164,
+        "volume_score": 43.58152823972907,
+        "order_count_score": 16.670094666695,
+        "composite_score": 55.9838931623532
+      },
+      "volume_data": {
+        "volumeInAda": 434.049532,
+        "volumeInToken": 385503606,
+        "orderCount": 4,
+        "name": "BANK"
+      }
+    },
+    {
+      "token_id": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec42414e41",
+      "ticker": "BANA",
+      "market_cap": 241337.92630358646,
+      "price": 0.0005354832817678192,
+      "liquidity": 39123.021118000004,
+      "circulating_supply": 450691804.0594,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.17",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 115,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:44.725Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 55.93650042879167,
+        "volume_score": 63.57486307465108,
+        "order_count_score": 27.68842790886305,
+        "composite_score": 55.40320197055663
+      },
+      "volume_data": {
+        "volumeInAda": 7039.294393,
+        "volumeInToken": 9826831.4739,
+        "orderCount": 10,
+        "name": "BANA"
+      }
+    },
+    {
+      "token_id": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
+      "ticker": "MILK",
+      "market_cap": 1540644.078410057,
+      "price": 0.5482762065788618,
+      "liquidity": 22160.426971,
+      "circulating_supply": 2809978,
+      "outliers_filtered": false,
+      "pool_count": 4,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "69.52",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:10.207Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 67.09831480430826,
+        "volume_score": 45.276073719386204,
+        "order_count_score": 8.3350473333475,
+        "composite_score": 54.67531573173556
+      },
+      "volume_data": {
+        "volumeInAda": 549.6580710000001,
+        "volumeInToken": 1000,
+        "orderCount": 2,
+        "name": "MILK"
+      }
+    },
+    {
+      "token_id": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34534f4e474d41524b4554434150",
+      "ticker": "SONG",
+      "market_cap": 544841.8815792743,
+      "price": 0.0005448418815792743,
+      "liquidity": 105180.988899,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.18",
+      "token_age": 58,
+      "trust_assessment": {
+        "score": 115,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:02.276Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 60.83953464050671,
+        "volume_score": 50.714853463781864,
+        "order_count_score": 28.83452628782083,
+        "composite_score": 54.60162945222067
+      },
+      "volume_data": {
+        "volumeInAda": 1172.8587519999999,
+        "volumeInToken": 1588431,
+        "orderCount": 11,
+        "name": "SONG"
+      }
+    },
+    {
+      "token_id": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a390014df10574c4b",
+      "ticker": "WLK",
+      "market_cap": 384001.91746607795,
+      "price": 0.000006981853044837781,
+      "liquidity": 34867.46477400001,
+      "circulating_supply": 55000000000,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "11.01",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:07:49.953Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 58.73303532365058,
+        "volume_score": 53.65900190856861,
+        "order_count_score": 31.734483490203708,
+        "composite_score": 54.5109701157813
+      },
+      "volume_data": {
+        "volumeInAda": 1767.765188,
+        "volumeInToken": 263824891,
+        "orderCount": 14,
+        "name": "WLK"
+      }
+    },
+    {
+      "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534443",
+      "ticker": "USDC",
+      "market_cap": 1524524.2118593326,
+      "price": 1.351624506260096,
+      "liquidity": 8875.318793999999,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 6,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "171.77",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 70,
+        "level": "Good",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Suspicious circulating supply vs. liquidity ratio",
+            "points": -30
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (6)",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [
+          "High market cap with zero or unreported circulating supply - potential manipulation"
+        ],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:21.305Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 67.03498284206671,
+        "volume_score": 43.01482831935967,
+        "order_count_score": 13.210737465091658,
+        "composite_score": 54.44651194755709
+      },
+      "volume_data": {
+        "volumeInAda": 401.09089700000004,
+        "volumeInToken": 308.30037299,
+        "orderCount": 3,
+        "name": "USDC"
+      }
+    },
+    {
+      "token_id": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
+      "ticker": "AXO",
+      "market_cap": 293780.54340160853,
+      "price": 0.04953026194283527,
+      "liquidity": 510.74970399999995,
+      "circulating_supply": 5931334.337393,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "575.19",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 105,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:52.954Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 57.12047515963066,
+        "volume_score": 53.02367062487343,
+        "order_count_score": 40.8991653739547,
+        "composite_score": 54.269302820635886
+      },
+      "volume_data": {
+        "volumeInAda": 1617.9851960000003,
+        "volumeInToken": 24786.165675983993,
+        "orderCount": 30,
+        "name": "AXO"
+      }
+    },
+    {
+      "token_id": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
+      "ticker": "CHARLES",
+      "market_cap": 833792.0318781418,
+      "price": 0.02775975879469364,
+      "liquidity": 145724.769484,
+      "circulating_supply": 30035997,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.72",
+      "token_age": 202,
+      "trust_assessment": {
+        "score": 115,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than 6 months",
+            "points": 10
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:16.082Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 63.40147805115177,
+        "volume_score": 49.79711572143774,
+        "order_count_score": 8.3350473333475,
+        "composite_score": 53.813526280457125
+      },
+      "volume_data": {
+        "volumeInAda": 1032.059026,
+        "volumeInToken": 36841,
+        "orderCount": 2,
+        "name": "CHARLES"
+      }
+    },
+    {
+      "token_id": "ce32007a117840630b598e9ed3b0c06fbd851d60360dc589e6398dd542554c4c",
+      "ticker": "BULL",
+      "market_cap": 572791.9942926645,
+      "price": 0.0005891884125722225,
+      "liquidity": 65799.108678,
+      "circulating_supply": 972171180,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "8.71",
+      "token_age": 57,
+      "trust_assessment": {
+        "score": 120,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:19.070Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 61.14075643498159,
+        "volume_score": 49.195482875652424,
+        "order_count_score": 21.545784798439158,
+        "composite_score": 53.59767720352859
+      },
+      "volume_data": {
+        "volumeInAda": 949.060549,
+        "volumeInToken": 1640164,
+        "orderCount": 6,
+        "name": "BULL"
+      }
+    },
+    {
+      "token_id": "bd1c2b36071e74d1685aa2c7fa35d906ebe399ca542f04813d5a53bc4352595354414c20414e414c59534953",
+      "ticker": "CRYS",
+      "market_cap": 115187.75825480481,
+      "price": 0.00011826258547721233,
+      "liquidity": 40800.358059,
+      "circulating_supply": 974000000,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "2.82",
+      "token_age": 64,
+      "trust_assessment": {
+        "score": 125,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:01.836Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 51.48302480438346,
+        "volume_score": 65.05437454423,
+        "order_count_score": 29.88083213178666,
+        "composite_score": 53.39421045907774
+      },
+      "volume_data": {
+        "volumeInAda": 8651.046775,
+        "volumeInToken": 49387081,
+        "orderCount": 12,
+        "name": "CRYS"
+      }
+    },
+    {
+      "token_id": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab0814d4953544552",
+      "ticker": "MISTER",
+      "market_cap": 125074.36991715974,
+      "price": 0.00012641647024712183,
+      "liquidity": 75648.495138,
+      "circulating_supply": 989383501,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "1.65",
+      "token_age": 59,
+      "trust_assessment": {
+        "score": 105,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:47.295Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 51.97883937263039,
+        "volume_score": 62.42185486135652,
+        "order_count_score": 29.88083213178666,
+        "composite_score": 52.90194329516386
+      },
+      "volume_data": {
+        "volumeInAda": 5994.451666,
+        "volumeInToken": 28053143,
+        "orderCount": 12,
+        "name": "MISTER"
+      }
+    },
+    {
+      "token_id": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
+      "ticker": "C4",
+      "market_cap": 303142.8253644296,
+      "price": 0.00018158478758072981,
+      "liquidity": 66780.95190200002,
+      "circulating_supply": 1669428532,
+      "outliers_filtered": false,
+      "pool_count": 5,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "4.54",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:38.365Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 57.30936585817963,
+        "volume_score": 53.32309583617707,
+        "order_count_score": 23.39943615685621,
+        "composite_score": 52.72249188144652
+      },
+      "volume_data": {
+        "volumeInAda": 1686.924539,
+        "volumeInToken": 9165284,
+        "orderCount": 7,
+        "name": "C4"
+      }
+    },
+    {
+      "token_id": "1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be4f5054",
+      "ticker": "OPT",
+      "market_cap": 472581.45007195993,
+      "price": 0.011649497959701476,
+      "liquidity": 90602.589406,
+      "circulating_supply": 40566679.500416,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "5.22",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:15.320Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 59.982807523951756,
+        "volume_score": 48.59942458680949,
+        "order_count_score": 19.35338057551555,
+        "composite_score": 52.50484994796545
+      },
+      "volume_data": {
+        "volumeInAda": 873.4150589999999,
+        "volumeInToken": 76007.587733,
+        "orderCount": 5,
+        "name": "OPT"
+      }
+    },
+    {
+      "token_id": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
+      "ticker": "SPXT",
+      "market_cap": 581590.7796721505,
+      "price": 0.0000496759562150293,
+      "liquidity": 161385.174812,
+      "circulating_supply": 11707691688,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "3.60",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 145,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:05.076Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 61.23254595939461,
+        "volume_score": 40.04740063685628,
+        "order_count_score": 23.39943615685621,
+        "composite_score": 51.09369138237927
+      },
+      "volume_data": {
+        "volumeInAda": 265.249815,
+        "volumeInToken": 5300925.915748999,
+        "orderCount": 7,
+        "name": "SPXT"
+      }
+    },
+    {
+      "token_id": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a634e455441",
+      "ticker": "cNETA",
+      "market_cap": 246984.93832434656,
+      "price": 0.00024872539427075617,
+      "liquidity": 16484.333223,
+      "circulating_supply": 993002500,
+      "outliers_filtered": false,
+      "pool_count": 5,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "14.98",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 125,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:55.855Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 56.07576570185585,
+        "volume_score": 50.10424855918042,
+        "order_count_score": 21.545784798439158,
+        "composite_score": 50.831312468711545
+      },
+      "volume_data": {
+        "volumeInAda": 1077.1895,
+        "volumeInToken": 4342939,
+        "orderCount": 6,
+        "name": "cNETA"
+      }
+    },
+    {
+      "token_id": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c",
+      "ticker": "SHARL",
+      "market_cap": 379916.3991270739,
+      "price": 4.068306700323833e-7,
+      "liquidity": 55282.31818100001,
+      "circulating_supply": 933844046460,
+      "outliers_filtered": true,
+      "pool_count": 4,
+      "median_used": true,
+      "mcap_liquidity_ratio": "6.87",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (4)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:18.812Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 58.668630825006375,
+        "volume_score": 46.118214738111355,
+        "order_count_score": 16.670094666695,
+        "composite_score": 50.70365238310673
+      },
+      "volume_data": {
+        "volumeInAda": 618.099935,
+        "volumeInToken": 1502795602,
+        "orderCount": 4,
+        "name": "SHARL"
+      }
+    },
+    {
+      "token_id": "884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae5041564941",
+      "ticker": "PAVIA",
+      "market_cap": 991354.6559804375,
+      "price": 0.0009913546559804376,
+      "liquidity": 60526.83247899999,
+      "circulating_supply": 1000000000,
+      "outliers_filtered": false,
+      "pool_count": 8,
+      "original_pool_count": 9,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "16.38",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (8)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:10:10.096Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 64.44367460979471,
+        "volume_score": 38.47040666000406,
+        "order_count_score": 0,
+        "composite_score": 50.207326763878044
+      },
+      "volume_data": {
+        "volumeInAda": 212.919751,
+        "volumeInToken": 211826,
+        "orderCount": 1,
+        "name": "PAVIA"
+      }
+    },
+    {
+      "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+      "ticker": "iETH",
+      "market_cap": 421171.06799999997,
+      "price": 1000,
+      "liquidity": 155437.54691,
+      "circulating_supply": 421.171068,
+      "outliers_filtered": true,
+      "pool_count": 5,
+      "median_used": true,
+      "mcap_liquidity_ratio": "2.71",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 145,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (5)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:02.001Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 59.28934170813256,
+        "volume_score": 45.405905179756694,
+        "order_count_score": 8.3350473333475,
+        "composite_score": 50.028881312141294
+      },
+      "volume_data": {
+        "volumeInAda": 559.693116,
+        "volumeInToken": 0.216397,
+        "orderCount": 2,
+        "name": "iETH"
+      }
+    },
+    {
+      "token_id": "e043fd7b2076ea9e1b279d200b59e153bf6b299a72ce6e2c14aeb790424c554553",
+      "ticker": "BLUES",
+      "market_cap": 667646.2616802631,
+      "price": 0.006676462616802631,
+      "liquidity": 70308.996403,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 1,
+      "original_pool_count": 1,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "9.50",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 90,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Single liquidity pool",
+            "points": -30
+          },
+          {
+            "reason": "Suspicious liquidity distribution despite significant liquidity",
+            "points": -5
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:36.419Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 62.06341750404998,
+        "volume_score": 41.41152479307237,
+        "order_count_score": 0,
+        "composite_score": 49.6615079403517
+      },
+      "volume_data": {
+        "volumeInAda": 320.783056,
+        "volumeInToken": 47934.160023,
+        "orderCount": 1,
+        "name": "BLUES"
+      }
+    },
+    {
+      "token_id": "25f0fc240e91bd95dcdaebd2ba7713fc5168ac77234a3d79449fc20c534f4349455459",
+      "ticker": "SOC",
+      "market_cap": 883317.7024171383,
+      "price": 0.001958962347351984,
+      "liquidity": 127981.138049,
+      "circulating_supply": 450911016.034156,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 4,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "6.90",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 145,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:23.931Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 63.74890588427535,
+        "volume_score": 37.98845612966655,
+        "order_count_score": 0,
+        "composite_score": 49.645880369465175
+      },
+      "volume_data": {
+        "volumeInAda": 199.089551,
+        "volumeInToken": 101777.888388,
+        "orderCount": 1,
+        "name": "SOC"
+      }
+    },
+    {
+      "token_id": "10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b64745524f",
+      "ticker": "GERO",
+      "market_cap": 1544861.2334557862,
+      "price": 0.0031253388281977136,
+      "liquidity": 147875.154618,
+      "circulating_supply": 494302000,
+      "outliers_filtered": false,
+      "pool_count": 6,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "10.45",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 120,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (6)",
+            "points": 10
+          },
+          {
+            "reason": "Very high liquidity",
+            "points": 20
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:04.067Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 67.11477387697113,
+        "volume_score": 27.266892966911744,
+        "order_count_score": 8.3350473333475,
+        "composite_score": 49.282436949590945
+      },
+      "volume_data": {
+        "volumeInAda": 44.687196,
+        "volumeInToken": 14198.543135,
+        "orderCount": 2,
+        "name": "GERO"
+      }
+    },
+    {
+      "token_id": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
+      "ticker": "DUX",
+      "market_cap": 254729.85151949018,
+      "price": 0.000269150463128031,
+      "liquidity": 66606.236899,
+      "circulating_supply": 946421747,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "3.82",
+      "token_age": 105,
+      "trust_assessment": {
+        "score": 125,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:56.459Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 56.261677081501084,
+        "volume_score": 47.15261215775752,
+        "order_count_score": 13.210737465091658,
+        "composite_score": 49.22386364273707
+      },
+      "volume_data": {
+        "volumeInAda": 713.93731,
+        "volumeInToken": 2216126,
+        "orderCount": 3,
+        "name": "DUX"
+      }
+    },
+    {
+      "token_id": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
+      "ticker": "MELD",
+      "market_cap": 4507429.290245373,
+      "price": 0.0011268583352214766,
+      "liquidity": 56933.966543,
+      "circulating_supply": 3999996405.368442,
+      "outliers_filtered": false,
+      "pool_count": 6,
+      "original_pool_count": 6,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "79.17",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 110,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (6)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:35.813Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 73.56221387318122,
+        "volume_score": 16.50023102213646,
+        "order_count_score": 0,
+        "composite_score": 49.087397630549674
+      },
+      "volume_data": {
+        "volumeInAda": 9.967549,
+        "volumeInToken": 9560.176111,
+        "orderCount": 1,
+        "name": "MELD"
+      }
+    },
+    {
+      "token_id": "bf524874448cbf52be3a26133b0a0edf5eb65c09ffed383b881ad3274353574150",
+      "ticker": "CSWAP",
+      "market_cap": 743748.2048326104,
+      "price": 0.003083145021806005,
+      "liquidity": 27907.541498,
+      "circulating_supply": 241230366.905332,
+      "outliers_filtered": false,
+      "pool_count": 1,
+      "original_pool_count": 1,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "26.65",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 80,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Single liquidity pool",
+            "points": -30
+          },
+          {
+            "reason": "Suspicious liquidity distribution with moderate liquidity",
+            "points": -15
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:04.850Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 62.713368432380356,
+        "volume_score": 38.05341798781633,
+        "order_count_score": 0,
+        "composite_score": 49.04404645577311
+      },
+      "volume_data": {
+        "volumeInAda": 200.9,
+        "volumeInToken": 65020.818699,
+        "orderCount": 1,
+        "name": "CSWAP"
+      }
+    },
+    {
+      "token_id": "389a81d09f92e156649049e15db6e82f8d945bd1520033a0734088bd686f6e65792e",
+      "ticker": "HNY",
+      "market_cap": 115741.48549733679,
+      "price": 0.0001337115480445677,
+      "liquidity": 72985.01998499999,
+      "circulating_supply": 865605755,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "1.59",
+      "token_age": 58,
+      "trust_assessment": {
+        "score": 125,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:41.821Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 51.51190031094938,
+        "volume_score": 53.011941145741794,
+        "order_count_score": 21.545784798439158,
+        "composite_score": 48.96530101013608
+      },
+      "volume_data": {
+        "volumeInAda": 1615.342723,
+        "volumeInToken": 7744148,
+        "orderCount": 6,
+        "name": "HNY"
+      }
+    },
+    {
+      "token_id": "fbae99b8679369079a7f6f0da14a2cf1c2d6bfd3afdf3a96a64ab67a0014df1047454e5358",
+      "ticker": "GENSX",
+      "market_cap": 209429.43598925293,
+      "price": 0.00045648096197990187,
+      "liquidity": 13471.365377,
+      "circulating_supply": 458791172.978806,
+      "outliers_filtered": false,
+      "pool_count": 1,
+      "original_pool_count": 1,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "15.55",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 55,
+        "level": "Moderate",
+        "penalties": [
+          {
+            "reason": "Single liquidity pool",
+            "points": -30
+          },
+          {
+            "reason": "Suspicious liquidity distribution with low total liquidity",
+            "points": -30
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:12:08.002Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 55.08262879946895,
+        "volume_score": 47.28195603865098,
+        "order_count_score": 16.670094666695,
+        "composite_score": 48.90117355794616
+      },
+      "volume_data": {
+        "volumeInAda": 726.92219,
+        "volumeInToken": 1666169.7852480002,
+        "orderCount": 4,
+        "name": "GENSX"
+      }
+    },
+    {
+      "token_id": "59515c449f1ec1d21a4b2d93013337d13b29d74c3a665a11d5b7fc6644534c5652",
+      "ticker": "DSLVR",
+      "market_cap": 1853047.131843426,
+      "price": 0.00008824033961159172,
+      "liquidity": 2506.765542,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "739.22",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 50,
+        "level": "Moderate",
+        "penalties": [
+          {
+            "reason": "Possible copycat token with suspicious name pattern",
+            "points": -25
+          },
+          {
+            "reason": "Suspicious circulating supply vs. liquidity ratio",
+            "points": -30
+          },
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [
+          "High market cap with zero or unreported circulating supply - potential manipulation"
+        ],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:09:18.879Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 68.21001076235939,
+        "volume_score": 21.497642011416445,
+        "order_count_score": 13.210737465091658,
+        "composite_score": 48.69637280734973
+      },
+      "volume_data": {
+        "volumeInAda": 20,
+        "volumeInToken": 208115.38856669998,
+        "orderCount": 3,
+        "name": "DSLVR"
+      }
+    },
+    {
+      "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93544454741",
+      "ticker": "DEGA",
+      "market_cap": 145862.62979344933,
+      "price": 0.00006086640553872568,
+      "liquidity": 8285.269568,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 1,
+      "original_pool_count": 1,
+      "median_used": true,
+      "suspicious_liquidity": true,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "17.61",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 55,
+        "level": "Moderate",
+        "penalties": [
+          {
+            "reason": "Single liquidity pool",
+            "points": -30
+          },
+          {
+            "reason": "Suspicious liquidity distribution with low total liquidity",
+            "points": -30
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:21.142Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 52.904637005108945,
+        "volume_score": 50.453633718310556,
+        "order_count_score": 16.670094666695,
+        "composite_score": 48.54588178522803
+      },
+      "volume_data": {
+        "volumeInAda": 1130.9327549999998,
+        "volumeInToken": 19432486.96425603,
+        "orderCount": 4,
+        "name": "DEGA"
+      }
+    },
+    {
+      "token_id": "17669d5f0c4692fcb82cc8f8b51606870f3f3afeca349badffb53ee5426173686f204c616273",
+      "ticker": "BASHO",
+      "market_cap": 59338.72221645361,
+      "price": 0.000059338722216453606,
+      "liquidity": 61332.28842,
+      "circulating_supply": 0,
+      "outliers_filtered": false,
+      "pool_count": 2,
+      "original_pool_count": 2,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "0.97",
+      "token_age": 59,
+      "trust_assessment": {
+        "score": 105,
+        "level": "High",
+        "penalties": [
+          {
+            "reason": "Low number of liquidity pools (2)",
+            "points": -10
+          }
+        ],
+        "bonuses": [
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a month",
+            "points": 5
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:09.823Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 47.489165716894036,
+        "volume_score": 59.517064899410585,
+        "order_count_score": 21.545784798439158,
+        "composite_score": 48.50319737980351
+      },
+      "volume_data": {
+        "volumeInAda": 3999.0106479999995,
+        "volumeInToken": 36114975,
+        "orderCount": 6,
+        "name": "BASHO"
+      }
+    },
+    {
+      "token_id": "ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac044494e47",
+      "ticker": "DING",
+      "market_cap": 516201.2903177532,
+      "price": 0.003735634849000788,
+      "liquidity": 26694.717641000003,
+      "circulating_supply": 138183016.055712,
+      "outliers_filtered": false,
+      "pool_count": 3,
+      "original_pool_count": 3,
+      "median_used": false,
+      "suspicious_liquidity": false,
+      "price_from_average_price": false,
+      "mcap_liquidity_ratio": "19.34",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:11:22.359Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 60.51439774269767,
+        "volume_score": 40.3745865822125,
+        "order_count_score": 0,
+        "composite_score": 48.42101462028235
+      },
+      "volume_data": {
+        "volumeInAda": 277.62353,
+        "volumeInToken": 74081.927107,
+        "orderCount": 1,
+        "name": "DING"
+      }
+    },
+    {
+      "token_id": "3d77d63dfa6033be98021417e08e3368cc80e67f8d7afa196aaa0b3953746172636820546f6b656e",
+      "ticker": "STRCH",
+      "market_cap": 446404.39007038355,
+      "price": 3.369561597188486e-8,
+      "liquidity": 32722.116711,
+      "circulating_supply": 13248144519538,
+      "outliers_filtered": true,
+      "pool_count": 3,
+      "median_used": true,
+      "mcap_liquidity_ratio": "13.64",
+      "token_age": 739335,
+      "trust_assessment": {
+        "score": 135,
+        "level": "High",
+        "penalties": [],
+        "bonuses": [
+          {
+            "reason": "Good number of liquidity pools (3)",
+            "points": 10
+          },
+          {
+            "reason": "Good liquidity",
+            "points": 10
+          },
+          {
+            "reason": "Token has existed for more than a year",
+            "points": 15
+          }
+        ]
+      },
+      "honeypot_risk": false,
+      "validation": {
+        "valid": true,
+        "reasons": [],
+        "trustScore": 0
+      },
+      "updated_at": "2025-03-26T20:08:47.537Z",
+      "volume_assessment": {
+        "has_volume_data": false,
+        "message": "No volume data available for this token"
+      },
+      "ranking_metrics": {
+        "market_cap_score": 59.63969120705572,
+        "volume_score": 39.21303448816024,
+        "order_count_score": 8.3350473333475,
+        "composite_score": 48.38122980401625
+      },
+      "volume_data": {
+        "volumeInAda": 236.134549,
+        "volumeInToken": 7706581036,
+        "orderCount": 2,
+        "name": "STRCH"
+      }
+    }
+  ]
+}

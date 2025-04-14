@@ -1,0 +1,37 @@
+{
+  "token_id": "bfa9354862e34f2dd417c9068a9367b530d1a704a0f5dc41468c402c50524f434b",
+  "ticker": "PROCK",
+  "token_ascii": "Possum Rocket",
+  "market_cap": 2240.961471078719,
+  "price": 2.240961471078719e-8,
+  "liquidity": 933.604317,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.40",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:47.720Z"
+}

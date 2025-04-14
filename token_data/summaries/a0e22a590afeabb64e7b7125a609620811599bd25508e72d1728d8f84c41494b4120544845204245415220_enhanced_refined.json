@@ -1,0 +1,44 @@
+{
+  "token_id": "a0e22a590afeabb64e7b7125a609620811599bd25508e72d1728d8f84c41494b4120544845204245415220",
+  "ticker": "LAIKA",
+  "token_ascii": "LAIKA THE BEAR",
+  "market_cap": 19805.19211964621,
+  "price": 0.00002830323989945868,
+  "liquidity": 23712.282841,
+  "circulating_supply": 699750000,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.84",
+  "token_age": 110,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:22.298Z"
+}

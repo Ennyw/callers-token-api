@@ -1,0 +1,44 @@
+{
+  "token_id": "e32f7fe89dd0f494d230791a85c16da096f13a7bfcc50bf7dfc3ce5b436861696e51",
+  "ticker": "CHAINQ",
+  "token_ascii": "ChainQ",
+  "market_cap": 9079.44029597031,
+  "price": 0.00000907944029597031,
+  "liquidity": 30238.614342,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.30",
+  "token_age": 55,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:21.650Z"
+}

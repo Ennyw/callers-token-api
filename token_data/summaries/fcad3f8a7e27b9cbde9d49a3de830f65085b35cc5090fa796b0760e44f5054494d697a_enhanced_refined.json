@@ -1,0 +1,44 @@
+{
+  "token_id": "fcad3f8a7e27b9cbde9d49a3de830f65085b35cc5090fa796b0760e44f5054494d697a",
+  "ticker": "OPTIMiz",
+  "token_ascii": "OPTIMiz",
+  "market_cap": 103201.84907886379,
+  "price": 0.025800462269715947,
+  "liquidity": 2773.123259,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "37.22",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:49.753Z"
+}

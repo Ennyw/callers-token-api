@@ -1,0 +1,52 @@
+{
+  "token_id": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
+  "ticker": "DANZO",
+  "token_ascii": "DANZO",
+  "market_cap": 1087133.1373176647,
+  "price": 0.000016327698809728916,
+  "liquidity": 131957.143502,
+  "circulating_supply": 66582140569,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "8.24",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:47.575Z"
+}

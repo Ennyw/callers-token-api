@@ -1,0 +1,17 @@
+{
+  "token_id": "88c7fe7cf68625fd24dc3405432684ae85da094dceff25f81d6664fd5a4f4d424945",
+  "ticker": "ZOMBIE",
+  "name": "Zombie",
+  "total_supply": 1010000000,
+  "circulating_supply": 0,
+  "price": 9.040883083248446e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

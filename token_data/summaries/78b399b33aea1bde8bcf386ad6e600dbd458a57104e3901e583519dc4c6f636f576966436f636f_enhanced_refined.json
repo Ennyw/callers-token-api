@@ -1,0 +1,44 @@
+{
+  "token_id": "78b399b33aea1bde8bcf386ad6e600dbd458a57104e3901e583519dc4c6f636f576966436f636f",
+  "ticker": "LOCO",
+  "token_ascii": "LocoWifCoco",
+  "market_cap": 4235.669416498221,
+  "price": 0.000004707864575400073,
+  "liquidity": 3827.246252,
+  "circulating_supply": 899700777,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.11",
+  "token_age": 220,
+  "trust_assessment": {
+    "score": 50,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:34.320Z"
+}

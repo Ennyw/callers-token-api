@@ -1,0 +1,44 @@
+{
+  "token_id": "8daefa391220bd0d8d007f3748d870f7f3c106040314c8515ccc35a5464c4143",
+  "ticker": "FLAC",
+  "token_ascii": "Flac Finance",
+  "market_cap": 3275841.1940758103,
+  "price": 0.020968815675979146,
+  "liquidity": 5940.248178999999,
+  "circulating_supply": 156224426.057045,
+  "outliers_filtered": false,
+  "pool_count": 5,
+  "original_pool_count": 5,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "551.47",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 100,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (5)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:59.803Z"
+}

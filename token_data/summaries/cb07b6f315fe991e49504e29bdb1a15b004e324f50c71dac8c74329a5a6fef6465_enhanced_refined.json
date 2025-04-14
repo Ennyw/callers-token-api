@@ -1,0 +1,40 @@
+{
+  "token_id": "cb07b6f315fe991e49504e29bdb1a15b004e324f50c71dac8c74329a5a6fef6465",
+  "ticker": "ZOIDE",
+  "token_ascii": "Zoide",
+  "market_cap": 1605.29162207592,
+  "price": 0.00000160529162207592,
+  "liquidity": 14376.49308,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:59.165Z"
+}

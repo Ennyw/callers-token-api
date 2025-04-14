@@ -1,0 +1,44 @@
+{
+  "token_id": "3bbbe8599fbc4a9cd2dc1c94ad0f577ce2328180b9cc7b851633aa8d506172747920436174",
+  "ticker": "PCAT",
+  "token_ascii": "Party Cat",
+  "market_cap": 11439.478944203214,
+  "price": 0.000011439478944203214,
+  "liquidity": 7620.24997,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.50",
+  "token_age": 159,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:30.114Z"
+}

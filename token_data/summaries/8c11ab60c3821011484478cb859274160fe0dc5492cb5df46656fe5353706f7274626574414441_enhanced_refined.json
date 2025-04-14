@@ -1,0 +1,44 @@
+{
+  "token_id": "8c11ab60c3821011484478cb859274160fe0dc5492cb5df46656fe5353706f7274626574414441",
+  "ticker": "BETADA",
+  "token_ascii": "SportbetADA",
+  "market_cap": 1788.6814603759892,
+  "price": 0.000017886814603759892,
+  "liquidity": 1164.898566,
+  "circulating_supply": 100000000,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.54",
+  "token_age": 159,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:56.908Z"
+}

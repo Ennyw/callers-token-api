@@ -1,0 +1,21 @@
+{
+  "token_id": "8c904e09d2ba206d78e6904133659dadf827e478a8f71beb8e4a823a504f524b45",
+  "ticker": "PORKE",
+  "token_ascii": "PORKE",
+  "decimals": 0,
+  "total_supply": 1000000001,
+  "circulating_supply": 1000000001,
+  "price": 0.00002029844453327013,
+  "market_cap": 20298.444553568574,
+  "fully_diluted_value": 20298.444553568574,
+  "liquidity": 16676.272035,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:56:12.910Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "3678e48f25c87e381a595ecda4251dc92f32cba5c95a23ec8d1d5397446f6e757420436174",
+  "ticker": "DCAT",
+  "name": "Donut Cat",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000031663057197333486,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

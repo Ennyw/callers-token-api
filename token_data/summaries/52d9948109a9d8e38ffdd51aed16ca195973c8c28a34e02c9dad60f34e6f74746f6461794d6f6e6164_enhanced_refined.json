@@ -1,0 +1,43 @@
+{
+  "token_id": "52d9948109a9d8e38ffdd51aed16ca195973c8c28a34e02c9dad60f34e6f74746f6461794d6f6e6164",
+  "ticker": "GONAD",
+  "market_cap": 2853.7900786568252,
+  "price": 0.0000028537900786568252,
+  "liquidity": 2014.37682,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.42",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:58.075Z"
+}

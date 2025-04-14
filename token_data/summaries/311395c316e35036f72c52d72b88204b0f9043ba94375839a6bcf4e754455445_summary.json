@@ -1,0 +1,17 @@
+{
+  "token_id": "311395c316e35036f72c52d72b88204b0f9043ba94375839a6bcf4e754455445",
+  "ticker": "TETE",
+  "name": "TETE",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 7.499447111173399e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

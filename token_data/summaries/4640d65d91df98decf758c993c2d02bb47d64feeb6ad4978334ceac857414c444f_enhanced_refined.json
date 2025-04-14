@@ -1,0 +1,51 @@
+{
+  "token_id": "4640d65d91df98decf758c993c2d02bb47d64feeb6ad4978334ceac857414c444f",
+  "ticker": "WALDO",
+  "token_ascii": "Waldo",
+  "market_cap": 474.5740144760829,
+  "price": 0.000047457401447608286,
+  "liquidity": 114.282643,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.15",
+  "token_age": 165,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (114.28 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:43.867Z"
+}

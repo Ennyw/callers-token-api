@@ -1,0 +1,48 @@
+{
+  "token_id": "b2047ac03c18aa07c2ec50f0b9d1cf34db6021f92aa89f2e956602bd4652455941",
+  "ticker": "FREYA",
+  "token_ascii": "FREYA",
+  "market_cap": 149932.37014047342,
+  "price": 0.001665915223783038,
+  "liquidity": 75715.295503,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.98",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 90,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:39.233Z"
+}

@@ -1,0 +1,40 @@
+{
+  "token_id": "5680b28ab7558b170400c1502bb926dcc942637ca1df14fc8d96688f52656b73207468652044696e6f",
+  "ticker": "REKS",
+  "token_ascii": "Reks the Dino",
+  "market_cap": 1817.213198491548,
+  "price": 0.000001817213198491548,
+  "liquidity": 14638.734838,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.12",
+  "token_age": 86,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:00.989Z"
+}

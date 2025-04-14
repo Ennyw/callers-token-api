@@ -1,0 +1,55 @@
+{
+  "token_id": "f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f54454459",
+  "ticker": "TEDY",
+  "token_ascii": "TeddySwap",
+  "market_cap": 16453.998621695282,
+  "price": 0.005218773192267842,
+  "liquidity": 16.708082,
+  "circulating_supply": 3152848,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "984.79",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (984.79:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (16.71 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:44.102Z"
+}

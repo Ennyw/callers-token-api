@@ -1,0 +1,40 @@
+{
+  "token_id": "5250d4a2b31d7c891cdf1d1454ea2ebbbf65515beca26d76668d37bc4d6175",
+  "ticker": "MAU",
+  "token_ascii": "Mau",
+  "market_cap": 1509.2992776462404,
+  "price": 0.0000015092992776462403,
+  "liquidity": 14120.227262,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 117,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:55.481Z"
+}

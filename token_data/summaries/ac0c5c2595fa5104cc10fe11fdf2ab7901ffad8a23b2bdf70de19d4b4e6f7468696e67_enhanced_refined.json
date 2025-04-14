@@ -1,0 +1,37 @@
+{
+  "token_id": "ac0c5c2595fa5104cc10fe11fdf2ab7901ffad8a23b2bdf70de19d4b4e6f7468696e67",
+  "ticker": "NULL",
+  "token_ascii": "Nothing",
+  "market_cap": 8003.476964219818,
+  "price": 8.892752182466464e-8,
+  "liquidity": 7533.731185,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.06",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:33.446Z"
+}

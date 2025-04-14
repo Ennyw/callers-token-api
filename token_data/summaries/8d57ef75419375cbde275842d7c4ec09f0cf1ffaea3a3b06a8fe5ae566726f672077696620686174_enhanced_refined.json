@@ -1,0 +1,40 @@
+{
+  "token_id": "8d57ef75419375cbde275842d7c4ec09f0cf1ffaea3a3b06a8fe5ae566726f672077696620686174",
+  "ticker": "FRWIF",
+  "token_ascii": "frog wif hat",
+  "market_cap": 1688.7772833910726,
+  "price": 0.0000016887772833910727,
+  "liquidity": 14487.017197,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.12",
+  "token_age": 123,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:57.107Z"
+}

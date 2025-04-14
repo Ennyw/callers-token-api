@@ -1,0 +1,48 @@
+{
+  "token_id": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+  "ticker": "BabySNEK",
+  "token_ascii": "BabySNEK",
+  "market_cap": 2432299.1227421784,
+  "price": 0.000033755204794918136,
+  "liquidity": 169280.191519,
+  "circulating_supply": 72057009801,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "14.37",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:31.511Z"
+}

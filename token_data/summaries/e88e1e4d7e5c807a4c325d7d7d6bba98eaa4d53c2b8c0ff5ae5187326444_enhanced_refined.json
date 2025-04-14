@@ -1,0 +1,58 @@
+{
+  "token_id": "e88e1e4d7e5c807a4c325d7d7d6bba98eaa4d53c2b8c0ff5ae5187326444",
+  "ticker": "dD",
+  "token_ascii": "dollarDyne",
+  "market_cap": 1397101337460.104,
+  "price": 1.3970999403601636,
+  "liquidity": 9667.793039,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "144510885.97",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Potential price manipulation (144510885.97:1 MCap/Liquidity ratio)",
+        "points": -40
+      },
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (144510885.97:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Suspicious market cap to liquidity ratio (144510885.97:1) - maximum allowed is 10000:1",
+      "Extremely suspicious market cap to liquidity ratio - likely manipulated",
+      "Potential honeypot token: Low trust score",
+      "High market cap with zero or unreported circulating supply - potential manipulation",
+      "Invalid market cap calculation: Cannot have high market cap with zero circulating supply"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:27.069Z"
+}

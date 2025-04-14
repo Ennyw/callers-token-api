@@ -1,0 +1,17 @@
+{
+  "token_id": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
+  "ticker": "MELD",
+  "name": "MELD",
+  "total_supply": 4000000000,
+  "circulating_supply": 3999996405.368442,
+  "price": 0.0011272781289529015,
+  "market_cap": 4509108.463662069,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

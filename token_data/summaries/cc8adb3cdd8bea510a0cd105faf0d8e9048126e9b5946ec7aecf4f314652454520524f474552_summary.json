@@ -1,0 +1,17 @@
+{
+  "token_id": "cc8adb3cdd8bea510a0cd105faf0d8e9048126e9b5946ec7aecf4f314652454520524f474552",
+  "ticker": "ROGER",
+  "name": "FreeRoger",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000005349739489777489,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

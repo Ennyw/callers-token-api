@@ -1,0 +1,44 @@
+{
+  "token_id": "db07d02a57e4e023a8873df96ef6f6b94eaaa8ad239d2f8319080241525744",
+  "ticker": "RWD",
+  "token_ascii": "Tekmirio Reward Token",
+  "market_cap": 318.70735779583026,
+  "price": 3.1870735779583025e-7,
+  "liquidity": 135.11804,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.36",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (135.12 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:13.034Z"
+}

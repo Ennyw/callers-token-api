@@ -1,0 +1,43 @@
+{
+  "token_id": "e13f55c16b8718edac43614146c00cadc45991af3a5355d0386a9f0343727970746f536f636b7a",
+  "ticker": "SOCKZ",
+  "market_cap": 74764.56925048742,
+  "price": 0.00007612264295043153,
+  "liquidity": 23281.562231,
+  "circulating_supply": 982159399,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.21",
+  "token_age": 79,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:21.678Z"
+}

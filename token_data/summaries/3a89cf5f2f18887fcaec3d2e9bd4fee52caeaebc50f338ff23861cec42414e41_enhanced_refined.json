@@ -1,0 +1,44 @@
+{
+  "token_id": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec42414e41",
+  "ticker": "BANA",
+  "token_ascii": "BananaClip",
+  "market_cap": 153266.1994701511,
+  "price": 0.0003400687522818831,
+  "liquidity": 15266.294774,
+  "circulating_supply": 450691804.0594,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "10.04",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:30.056Z"
+}

@@ -1,0 +1,46 @@
+{
+  "token_id": "f01ec1cb021922a491ea300fb4791dbaca720372b2a3142579c52e7d4b616e69",
+  "ticker": "Kani",
+  "token_ascii": "Kani Token",
+  "market_cap": 1115188.686008307,
+  "price": 0.00001115188686008307,
+  "liquidity": 3083.60257,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "361.65",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:35.507Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09426f6f6e436f696e",
+  "ticker": "BOON",
+  "name": "BoonCoin",
+  "total_supply": 77777777777,
+  "circulating_supply": 37510282897,
+  "price": 1.3783976121152795e-7,
+  "market_cap": 5170.408437499341,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,43 @@
+{
+  "token_id": "ab3e31c490d248c592d5bb495823a45fd10f9c8e4f561f13551803fb43617264616e6f20436f6d6d756e697479204368617269747920436f696e",
+  "ticker": "CCCC",
+  "token_ascii": "Cardano Community Charity Coin",
+  "market_cap": 43877.8321654163,
+  "price": 6.304198571506746e-11,
+  "liquidity": 19.081627,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 4,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2299.48",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "Insufficient liquidity (19.08 ADA) - minimum threshold is 500 ADA"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:33.412Z"
+}

@@ -1,0 +1,50 @@
+{
+  "token_id": "02e2ab78f048f2a383bf689d66dad701e2277397cbd3253dd5b093f84a4153504552",
+  "ticker": "JASPER",
+  "token_ascii": "Jasper",
+  "market_cap": 4875.701143012709,
+  "price": 0.00004875701143012708,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "original_pool_count": 0,
+  "suspicious_liquidity": true,
+  "price_from_average_price": true,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 184,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found, using fallback price source",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:39.701Z"
+}

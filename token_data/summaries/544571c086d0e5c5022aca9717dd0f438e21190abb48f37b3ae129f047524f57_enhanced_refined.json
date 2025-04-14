@@ -1,0 +1,46 @@
+{
+  "token_id": "544571c086d0e5c5022aca9717dd0f438e21190abb48f37b3ae129f047524f57",
+  "ticker": "GROW",
+  "token_ascii": "GROW Token",
+  "market_cap": 139883.79438237406,
+  "price": 0.0013669316405883652,
+  "liquidity": 77.41605,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1806.91",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "Insufficient liquidity (77.42 ADA) - minimum threshold is 500 ADA"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:57.983Z"
+}

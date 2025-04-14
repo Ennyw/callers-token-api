@@ -1,0 +1,48 @@
+{
+  "token_id": "cfbc6b8519f252b1f1694cdbb9df9f339b343bdd0f2079d84e4afdd941504543415348",
+  "ticker": "APECASH",
+  "token_ascii": "APECASH",
+  "market_cap": 10901.415635093901,
+  "price": 1.0901415635093901e-7,
+  "liquidity": 3.002266,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "3631.06",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (3631.06:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (3.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:04.653Z"
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "ce32007a117840630b598e9ed3b0c06fbd851d60360dc589e6398dd542554c4c",
+  "ticker": "BULL",
+  "token_ascii": "Bull",
+  "market_cap": 435390.4639804761,
+  "price": 0.00044785370409815696,
+  "liquidity": 54535.993304999996,
+  "circulating_supply": 972171180,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "7.98",
+  "token_age": 76,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:01.941Z"
+}

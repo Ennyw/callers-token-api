@@ -1,0 +1,17 @@
+{
+  "token_id": "3fbd32fd88278a7399cf64f7ada64f3f739a0e7b64e29102d53ae0fc4a696d6d79206973207573",
+  "ticker": "JIMMY",
+  "name": "Jimmy is us",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000036086331449666196,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

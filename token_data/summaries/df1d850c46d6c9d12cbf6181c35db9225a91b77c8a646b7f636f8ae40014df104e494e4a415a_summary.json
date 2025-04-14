@@ -1,0 +1,17 @@
+{
+  "token_id": "df1d850c46d6c9d12cbf6181c35db9225a91b77c8a646b7f636f8ae40014df104e494e4a415a",
+  "ticker": "NINJAZ",
+  "name": "Danketsu Token",
+  "total_supply": 5000000000,
+  "circulating_supply": 386084447.4137,
+  "price": 0.000030222712468447696,
+  "market_cap": 11668.519242723769,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

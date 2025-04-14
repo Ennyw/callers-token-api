@@ -1,0 +1,50 @@
+{
+  "token_id": "59bc0484225992f0fafffc472784f89f1c75e496cb570ec2922b9243444344",
+  "ticker": "DCD",
+  "token_ascii": "Degen Creepy Dough",
+  "market_cap": 1823947.9620529648,
+  "price": 0.018239479620529648,
+  "liquidity": 7479.721036,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "243.85",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 65,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:03.573Z"
+}

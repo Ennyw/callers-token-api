@@ -1,0 +1,40 @@
+{
+  "token_id": "38a2f68f5b009b1303b2e71ba3a374b7a2da11b5910423e2cf9899484e6174696f6e",
+  "ticker": "NATION",
+  "token_ascii": "Nation",
+  "market_cap": 117473.67358720835,
+  "price": 0.0011747367358720835,
+  "liquidity": 4938.496373,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "23.79",
+  "token_age": 58,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:27.314Z"
+}

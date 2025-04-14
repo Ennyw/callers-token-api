@@ -1,0 +1,61 @@
+{
+  "token_id": "219998e55e6efb0eb1cba90dea7f782f09a5b5e16f7b06827f1e6b1a524b444e",
+  "ticker": "RKDN",
+  "token_ascii": "RKDN",
+  "market_cap": 10548111.737900462,
+  "price": 0.010548111737900462,
+  "liquidity": 1029.108257,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 5,
+  "original_pool_count": 5,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "10249.76",
+  "token_age": 177,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Potential price manipulation (10249.76:1 MCap/Liquidity ratio)",
+        "points": -40
+      },
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (10249.76:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (5)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Suspicious market cap to liquidity ratio (10249.76:1) - maximum allowed is 10000:1",
+      "Potential honeypot token: Low trust score",
+      "High market cap with zero or unreported circulating supply - potential manipulation",
+      "Invalid market cap calculation: Cannot have high market cap with zero circulating supply"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:04.981Z"
+}

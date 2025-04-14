@@ -1,0 +1,50 @@
+{
+  "token_id": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
+  "ticker": "PBX",
+  "token_ascii": "Paribus",
+  "market_cap": 3406572.8173893085,
+  "price": 0.00034065728173893087,
+  "liquidity": 30002.498698,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 5,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "113.54",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:01.742Z"
+}

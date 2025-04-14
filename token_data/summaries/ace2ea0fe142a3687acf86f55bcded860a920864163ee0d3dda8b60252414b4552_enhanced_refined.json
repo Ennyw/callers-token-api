@@ -1,0 +1,43 @@
+{
+  "token_id": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552",
+  "ticker": "RAKER",
+  "token_ascii": "MarketRaker",
+  "market_cap": 138148.71843367402,
+  "price": 0.019776264659648116,
+  "liquidity": 34480.651125,
+  "circulating_supply": 6985582,
+  "outliers_filtered": false,
+  "pool_count": 6,
+  "original_pool_count": 6,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.01",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (6)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:33.588Z"
+}

@@ -1,0 +1,37 @@
+{
+  "token_id": "7088ad38a23e997dc6ab90336cae582c93b61460888d83f178899a334b4f49",
+  "ticker": "KOI",
+  "token_ascii": "KOI",
+  "market_cap": 1606.5720454691404,
+  "price": 4.819716136412241e-9,
+  "liquidity": 612.349209,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.62",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:28.512Z"
+}

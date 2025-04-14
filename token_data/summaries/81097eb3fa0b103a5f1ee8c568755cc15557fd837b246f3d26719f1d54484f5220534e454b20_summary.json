@@ -1,0 +1,17 @@
+{
+  "token_id": "81097eb3fa0b103a5f1ee8c568755cc15557fd837b246f3d26719f1d54484f5220534e454b20",
+  "ticker": "THOR",
+  "name": "Thor Snek",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000032538327973556814,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

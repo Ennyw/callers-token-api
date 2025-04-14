@@ -1,0 +1,40 @@
+{
+  "token_id": "9a0e6efecf8c0dd1360def588ebde6b8eab7a25b284d95f6b3c2347e434841442053414e5441",
+  "ticker": "CHANTA",
+  "token_ascii": "CHAD SANTA",
+  "market_cap": 1527.2412754944228,
+  "price": 0.0000015272412754944227,
+  "liquidity": 14163.987449,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 126,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:13.874Z"
+}

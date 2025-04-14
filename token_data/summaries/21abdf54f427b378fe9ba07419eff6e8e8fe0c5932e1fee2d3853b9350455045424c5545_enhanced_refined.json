@@ -1,0 +1,40 @@
+{
+  "token_id": "21abdf54f427b378fe9ba07419eff6e8e8fe0c5932e1fee2d3853b9350455045424c5545",
+  "ticker": "PEPEBLUE",
+  "token_ascii": "Pepe Blue",
+  "market_cap": 161721.96370207152,
+  "price": 4.174021135055046e-10,
+  "liquidity": 22324.941325,
+  "circulating_supply": 387448837630140,
+  "outliers_filtered": true,
+  "pool_count": 3,
+  "median_used": true,
+  "mcap_liquidity_ratio": "7.24",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:04.839Z"
+}

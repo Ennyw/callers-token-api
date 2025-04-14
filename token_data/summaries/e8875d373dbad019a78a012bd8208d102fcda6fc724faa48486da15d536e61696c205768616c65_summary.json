@@ -1,0 +1,17 @@
+{
+  "token_id": "e8875d373dbad019a78a012bd8208d102fcda6fc724faa48486da15d536e61696c205768616c65",
+  "ticker": "Snail Whale",
+  "name": "TEST NAME",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 3.0000079999999996e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

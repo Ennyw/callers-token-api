@@ -1,0 +1,44 @@
+{
+  "token_id": "37aa6cadc12b6b06f6fca056ac39896fe5b3d7b10e6b5513581e904d5472756d706b696e736f6e",
+  "ticker": "TRK",
+  "token_ascii": "Trumpkinson",
+  "market_cap": 5143.747257945506,
+  "price": 0.000005143747257945506,
+  "liquidity": 4402.54605,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.17",
+  "token_age": 150,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:27.256Z"
+}

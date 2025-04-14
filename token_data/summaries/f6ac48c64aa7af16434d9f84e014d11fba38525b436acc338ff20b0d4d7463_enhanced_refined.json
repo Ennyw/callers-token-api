@@ -1,0 +1,46 @@
+{
+  "token_id": "f6ac48c64aa7af16434d9f84e014d11fba38525b436acc338ff20b0d4d7463",
+  "ticker": "Mtc",
+  "token_ascii": "Mithrandir Coin",
+  "market_cap": 2898.828357604578,
+  "price": 0.004842429405768458,
+  "liquidity": 77.684875,
+  "circulating_supply": 598631,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "37.32",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "Insufficient liquidity (77.68 ADA) - minimum threshold is 500 ADA"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:44.074Z"
+}

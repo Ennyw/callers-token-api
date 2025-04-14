@@ -1,0 +1,39 @@
+{
+  "token_id": "548c390391253aff00af9c95ae310f00803fd28035a6ed6f17c1e5e2424147",
+  "ticker": "BAG",
+  "token_ascii": "BAG",
+  "market_cap": 2424.173180729756,
+  "price": 0.000002430625831181316,
+  "liquidity": 746.9472880000001,
+  "circulating_supply": 997345272,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.25",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:58.015Z"
+}

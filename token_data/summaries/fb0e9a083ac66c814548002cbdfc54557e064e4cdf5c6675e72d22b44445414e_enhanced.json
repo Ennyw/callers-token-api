@@ -1,0 +1,15 @@
+{
+  "token_id": "fb0e9a083ac66c814548002cbdfc54557e064e4cdf5c6675e72d22b44445414e",
+  "ticker": "DEAN",
+  "token_ascii": "DEAN",
+  "decimals": 0,
+  "total_supply": 420000000000,
+  "circulating_supply": 0,
+  "price": 2.5866936222683803e-8,
+  "market_cap": 10864.113213527196,
+  "fully_diluted_value": 10864.113213527196,
+  "liquidity": 553.842203,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:47:14.602Z"
+}

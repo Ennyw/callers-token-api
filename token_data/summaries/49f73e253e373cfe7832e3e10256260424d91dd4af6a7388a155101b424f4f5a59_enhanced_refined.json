@@ -1,0 +1,37 @@
+{
+  "token_id": "49f73e253e373cfe7832e3e10256260424d91dd4af6a7388a155101b424f4f5a59",
+  "ticker": "BOOZY",
+  "token_ascii": "BOOZY",
+  "market_cap": 4505.202336639517,
+  "price": 6.529278748752924e-8,
+  "liquidity": 3770.207696,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.19",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:49.772Z"
+}

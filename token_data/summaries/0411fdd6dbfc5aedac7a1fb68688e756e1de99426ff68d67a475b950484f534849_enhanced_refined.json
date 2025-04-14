@@ -1,0 +1,37 @@
+{
+  "token_id": "0411fdd6dbfc5aedac7a1fb68688e756e1de99426ff68d67a475b950484f534849",
+  "ticker": "HOSHI",
+  "token_ascii": "Hoshi",
+  "market_cap": 9174.813958677852,
+  "price": 1.195947170087582e-7,
+  "liquidity": 5441.03234,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.69",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:39.424Z"
+}

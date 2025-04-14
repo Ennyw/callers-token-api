@@ -1,0 +1,15 @@
+{
+  "token_id": "f6099832f9563e4cf59602b3351c3c5a8a7dda2d44575ef69b82cf8d",
+  "ticker": "OADA",
+  "token_ascii": "The OADA Token",
+  "decimals": 6,
+  "total_supply": 23818611.018028,
+  "circulating_supply": 0,
+  "price": 0.6853786326254434,
+  "market_cap": 16324767.05057335,
+  "fully_diluted_value": 16324767.05057335,
+  "liquidity": 14377641.307154,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:47:09.531Z"
+}

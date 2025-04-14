@@ -1,0 +1,21 @@
+{
+  "token_id": "3a17b95d94d0a09f3675a1c5c2c45605e6089372c41f25c360da1356536e656b20536e616b",
+  "ticker": "SNAK",
+  "token_ascii": "Snek Snak",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 1.3870870584810086e-8,
+  "market_cap": 13.870870584810087,
+  "fully_diluted_value": 13.870870584810087,
+  "liquidity": 152.457166,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": true,
+    "medianUsed": true
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:54:55.269Z"
+}

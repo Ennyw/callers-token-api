@@ -1,0 +1,43 @@
+{
+  "token_id": "86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c14358524159",
+  "ticker": "XRAY",
+  "token_ascii": "XRAY",
+  "market_cap": 925009.2625551336,
+  "price": 0.003178220105079335,
+  "liquidity": 30251.514401,
+  "circulating_supply": 291046319,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 5,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "30.58",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:51.235Z"
+}

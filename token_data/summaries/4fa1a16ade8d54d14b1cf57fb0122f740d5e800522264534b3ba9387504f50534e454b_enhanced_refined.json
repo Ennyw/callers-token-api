@@ -1,0 +1,48 @@
+{
+  "token_id": "4fa1a16ade8d54d14b1cf57fb0122f740d5e800522264534b3ba9387504f50534e454b",
+  "ticker": "POPSNEK",
+  "token_ascii": "PopSnek",
+  "market_cap": 0.00007823622991499946,
+  "price": 7.823622991499947e-14,
+  "liquidity": 0.000001,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "78.24",
+  "token_age": 167,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "High market cap to liquidity ratio (78.24:1)",
+        "points": -20
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:52.401Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "74a7c0d0716f9e37eca6a0df92545209b6f8dad2e8400ea4b09230704672656e496e75",
+  "ticker": "FINU",
+  "token_ascii": "Fren Inu",
+  "market_cap": 393.0620222038542,
+  "price": 7.861240444077085e-7,
+  "liquidity": 235.737929,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.67",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (235.74 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:31.398Z"
+}

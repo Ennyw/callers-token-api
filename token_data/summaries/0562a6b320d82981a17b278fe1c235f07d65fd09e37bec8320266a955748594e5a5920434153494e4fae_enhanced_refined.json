@@ -1,0 +1,43 @@
+{
+  "token_id": "0562a6b320d82981a17b278fe1c235f07d65fd09e37bec8320266a955748594e5a5920434153494e4fae",
+  "ticker": "WHYNZY",
+  "market_cap": 3970.102868380594,
+  "price": 0.000003970102868380594,
+  "liquidity": 37227.961293,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 115,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:42.524Z"
+}

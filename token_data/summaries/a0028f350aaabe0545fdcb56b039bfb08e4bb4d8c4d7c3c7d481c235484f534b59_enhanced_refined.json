@@ -1,0 +1,45 @@
+{
+  "token_id": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+  "ticker": "HOSKY",
+  "token_ascii": "HOSKY Token",
+  "market_cap": 23576612.484184355,
+  "price": 7.484638883869688e-8,
+  "liquidity": 882544.8026220001,
+  "circulating_supply": 314999999999931,
+  "outliers_filtered": true,
+  "pool_count": 9,
+  "median_used": true,
+  "mcap_liquidity_ratio": "26.71",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (9)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:19.416Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "98986c9f88fbe01cb16af3fb85dcca5c876b5eff68aaa1d5e785b2756d6f6e6b6579",
+  "ticker": "AMONKEY",
+  "name": "monkey",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000021767595267448066,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

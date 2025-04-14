@@ -1,0 +1,44 @@
+{
+  "token_id": "94cbb4fcbcaa2975779f273b263eb3b5f24a9951e446d6dc4c13586452455655",
+  "ticker": "REVU",
+  "token_ascii": "Revuto",
+  "market_cap": 1289624.6422524266,
+  "price": 0.009544753434202139,
+  "liquidity": 8311.209587,
+  "circulating_supply": 135113458,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "155.17",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 100,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:08.181Z"
+}

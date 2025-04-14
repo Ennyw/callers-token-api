@@ -1,0 +1,55 @@
+{
+  "token_id": "6d03347cbf9d02ace480933170b190844f61ead0477c0bd0e53bb4dd5354494e4b59",
+  "ticker": "$STINKY",
+  "token_ascii": "STINKY",
+  "market_cap": 2700854.198320082,
+  "price": 0.0003914281446840698,
+  "liquidity": 2634.152407,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1025.32",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (1025.32:1)",
+        "points": -40
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Potential honeypot token: Low trust score",
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:22.773Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "20fda53c96fc6ac5622ca94fd27a473c42c7ec56d0e96bceef926c91536861726b79",
+  "ticker": "SHARKY",
+  "token_ascii": "Sharky",
+  "market_cap": 2476.2684724234705,
+  "price": 4.226734116727047e-9,
+  "liquidity": 350.360697,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "7.07",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (350.36 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:04.811Z"
+}

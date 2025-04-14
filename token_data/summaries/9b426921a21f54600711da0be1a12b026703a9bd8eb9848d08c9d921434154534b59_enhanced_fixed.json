@@ -1,0 +1,21 @@
+{
+  "token_id": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
+  "ticker": "CATSKY",
+  "token_ascii": "Catsky AI",
+  "decimals": 0,
+  "total_supply": 999999999997,
+  "circulating_supply": 999999999997,
+  "price": 1.364583594217585e-7,
+  "market_cap": 136458.35942134913,
+  "fully_diluted_value": 136458.35942134913,
+  "liquidity": 18855.729349,
+  "pools": {
+    "count": 3,
+    "total": 3,
+    "filteredOutliers": true,
+    "medianUsed": true
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:56:30.841Z"
+}

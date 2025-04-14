@@ -1,0 +1,40 @@
+{
+  "token_id": "d958087dbccd63fdf66b4f3dfac9704f94d2362c62f7377ca46d504054686520486f736b696d70736f6e",
+  "ticker": "HOSKIM",
+  "token_ascii": "Charles Hoskimpson",
+  "market_cap": 3777.213363646138,
+  "price": 0.0000038356864122801,
+  "liquidity": 17566.010907,
+  "circulating_supply": 984755519,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.22",
+  "token_age": 127,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:13.203Z"
+}

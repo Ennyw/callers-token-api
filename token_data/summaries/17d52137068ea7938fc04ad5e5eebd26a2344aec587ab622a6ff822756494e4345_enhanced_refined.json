@@ -1,0 +1,44 @@
+{
+  "token_id": "17d52137068ea7938fc04ad5e5eebd26a2344aec587ab622a6ff822756494e4345",
+  "ticker": "VINCE",
+  "token_ascii": "$VINCE",
+  "market_cap": 11771.478756383163,
+  "price": 0.0000042040995558511295,
+  "liquidity": 10448.828311,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.13",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:56.513Z"
+}

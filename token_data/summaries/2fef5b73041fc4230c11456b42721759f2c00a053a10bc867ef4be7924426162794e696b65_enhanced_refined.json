@@ -1,0 +1,40 @@
+{
+  "token_id": "2fef5b73041fc4230c11456b42721759f2c00a053a10bc867ef4be7924426162794e696b65",
+  "ticker": "BNIKE",
+  "token_ascii": "BabyNike",
+  "market_cap": 2387.5619877312697,
+  "price": 0.00000238756198773127,
+  "liquidity": 15538.750528,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.15",
+  "token_age": 106,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:18.832Z"
+}

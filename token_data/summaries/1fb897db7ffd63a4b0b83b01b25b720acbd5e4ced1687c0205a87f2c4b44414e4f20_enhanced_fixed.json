@@ -1,0 +1,21 @@
+{
+  "token_id": "1fb897db7ffd63a4b0b83b01b25b720acbd5e4ced1687c0205a87f2c4b44414e4f20",
+  "ticker": "KDANO",
+  "token_ascii": "KDANO",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000014492810955553114,
+  "market_cap": 1449.2810955553114,
+  "fully_diluted_value": 1449.2810955553114,
+  "liquidity": 13991.878020999999,
+  "pools": {
+    "count": 2,
+    "total": 2,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:54:31.822Z"
+}

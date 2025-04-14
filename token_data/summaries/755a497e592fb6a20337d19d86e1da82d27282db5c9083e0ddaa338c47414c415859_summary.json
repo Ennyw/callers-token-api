@@ -1,0 +1,17 @@
+{
+  "token_id": "755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c47414c415859",
+  "ticker": "GALAXY",
+  "name": "Galaxy",
+  "total_supply": 50000000000,
+  "circulating_supply": 0,
+  "price": 1.1216527098925147e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

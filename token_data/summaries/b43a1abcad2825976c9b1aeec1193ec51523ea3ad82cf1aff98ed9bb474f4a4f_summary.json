@@ -1,0 +1,17 @@
+{
+  "token_id": "b43a1abcad2825976c9b1aeec1193ec51523ea3ad82cf1aff98ed9bb474f4a4f",
+  "ticker": "GOJO",
+  "name": "Gojo",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000006119852410909908,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

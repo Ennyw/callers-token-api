@@ -1,0 +1,17 @@
+{
+  "token_id": "ab3e31c490d248c592d5bb495823a45fd10f9c8e4f561f13551803fb43617264616e6f20436f6d6d756e697479204368617269747920436f696e",
+  "ticker": "CCCC",
+  "name": "Cardano Community Charity Coin",
+  "total_supply": 696009677800000,
+  "circulating_supply": 0,
+  "price": 2.375932133119383e-11,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

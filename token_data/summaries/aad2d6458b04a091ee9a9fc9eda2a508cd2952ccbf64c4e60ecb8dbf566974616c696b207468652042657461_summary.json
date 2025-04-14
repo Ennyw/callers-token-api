@@ -1,0 +1,17 @@
+{
+  "token_id": "aad2d6458b04a091ee9a9fc9eda2a508cd2952ccbf64c4e60ecb8dbf566974616c696b207468652042657461",
+  "ticker": "BETA",
+  "name": "Vitalik the Beta",
+  "total_supply": 985725793,
+  "circulating_supply": 939143630,
+  "price": 0.000015831073639383956,
+  "market_cap": 14867.65196448836,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

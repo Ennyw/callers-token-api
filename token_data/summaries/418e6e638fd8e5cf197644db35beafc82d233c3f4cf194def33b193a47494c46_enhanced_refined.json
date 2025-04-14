@@ -1,0 +1,50 @@
+{
+  "token_id": "418e6e638fd8e5cf197644db35beafc82d233c3f4cf194def33b193a47494c46",
+  "ticker": "GILF",
+  "token_ascii": "Gilf",
+  "market_cap": 10343.816881486371,
+  "price": 0.000010343816881486371,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "original_pool_count": 0,
+  "suspicious_liquidity": true,
+  "price_from_average_price": true,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 234,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found, using fallback price source",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:38.593Z"
+}

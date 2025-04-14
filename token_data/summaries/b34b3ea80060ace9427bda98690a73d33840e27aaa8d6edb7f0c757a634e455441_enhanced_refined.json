@@ -1,0 +1,39 @@
+{
+  "token_id": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a634e455441",
+  "ticker": "cNETA",
+  "token_ascii": "anetaBTC",
+  "market_cap": 266520.5128487239,
+  "price": 0.00026839863227808984,
+  "liquidity": 16836.068158000002,
+  "circulating_supply": 993002500,
+  "outliers_filtered": false,
+  "pool_count": 5,
+  "original_pool_count": 6,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "15.83",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (5)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:39.290Z"
+}

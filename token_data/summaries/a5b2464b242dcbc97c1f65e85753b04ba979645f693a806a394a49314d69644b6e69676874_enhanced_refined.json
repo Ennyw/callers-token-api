@@ -1,0 +1,37 @@
+{
+  "token_id": "a5b2464b242dcbc97c1f65e85753b04ba979645f693a806a394a49314d69644b6e69676874",
+  "ticker": "MID",
+  "token_ascii": "MidKnight",
+  "market_cap": 2806.612429710223,
+  "price": 2.3388436914251857e-10,
+  "liquidity": 1468.032872,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.91",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:28.032Z"
+}

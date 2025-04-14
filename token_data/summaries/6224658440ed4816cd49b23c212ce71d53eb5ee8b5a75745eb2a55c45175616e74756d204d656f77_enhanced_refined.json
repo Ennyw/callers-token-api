@@ -1,0 +1,43 @@
+{
+  "token_id": "6224658440ed4816cd49b23c212ce71d53eb5ee8b5a75745eb2a55c45175616e74756d204d656f77",
+  "ticker": "MEOW",
+  "token_ascii": "Quantum Meow",
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 70,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found",
+        "points": -80
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:13.056Z"
+}

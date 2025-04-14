@@ -1,0 +1,17 @@
+{
+  "token_id": "4632693c8a8ab3e325391bf319d69c24c54b823d70a85d870197fd3853414d55",
+  "ticker": "SAMU",
+  "name": "Samurai Token",
+  "total_supply": 1000000000000,
+  "circulating_supply": 0,
+  "price": 7.593195191182419e-11,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

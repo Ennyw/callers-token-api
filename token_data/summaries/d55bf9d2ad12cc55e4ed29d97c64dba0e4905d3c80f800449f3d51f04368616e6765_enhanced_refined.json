@@ -1,0 +1,44 @@
+{
+  "token_id": "d55bf9d2ad12cc55e4ed29d97c64dba0e4905d3c80f800449f3d51f04368616e6765",
+  "ticker": "CHANGE",
+  "token_ascii": "Change",
+  "market_cap": 8814.926764055193,
+  "price": 0.00001840028478670516,
+  "liquidity": 1733.803837,
+  "circulating_supply": 479064692,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5.08",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:10.120Z"
+}

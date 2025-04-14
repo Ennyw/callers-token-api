@@ -1,0 +1,44 @@
+{
+  "token_id": "40280ff791f07430032d4348aab51d7a17a34f1eef2cc654c8323e0f5175616e74756d20486f736b79",
+  "ticker": "HOSK",
+  "token_ascii": "Quantum Hosky",
+  "market_cap": 3657.795818061206,
+  "price": 0.000003657795818061206,
+  "liquidity": 3291.125552,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.11",
+  "token_age": 140,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:35.700Z"
+}

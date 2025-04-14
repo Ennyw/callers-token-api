@@ -1,0 +1,44 @@
+{
+  "token_id": "fba696a08b577165366643e4fd73942dc6f4d14d7835652d212e15c94a69626261204a6162626120",
+  "ticker": "JIBBA",
+  "token_ascii": "Jibba Jabba",
+  "market_cap": 3732.3464320134353,
+  "price": 0.0000037323464320134353,
+  "liquidity": 3407.029567,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.10",
+  "token_age": 147,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:49.664Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "e6c7f00010f63d8b9e948140e452734c2dc5838bc50ada5b94f92eb74c75636b",
+  "ticker": "LUCK",
+  "name": "Luck",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000012596801931158124,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

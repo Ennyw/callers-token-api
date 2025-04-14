@@ -1,0 +1,17 @@
+{
+  "token_id": "a9c49c051abacbd9af4156846a5e6715a0d63b0d2f72752cac2e7f4253616d6d792074686520776f726d",
+  "ticker": "SAMMY",
+  "name": "Sammy the worm",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 2.7819988378270973e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

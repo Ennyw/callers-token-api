@@ -1,0 +1,37 @@
+{
+  "token_id": "8499c047c0932ba91508fbcd26da722598f6749a1b050627ff0c708753414655",
+  "ticker": "SAFU",
+  "token_ascii": "SAFU",
+  "market_cap": 924.3921162336251,
+  "price": 9.243921162336251e-9,
+  "liquidity": 566.550895,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.63",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:48.244Z"
+}

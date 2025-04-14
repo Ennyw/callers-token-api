@@ -1,0 +1,49 @@
+{
+  "token_id": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173",
+  "ticker": "Cornucopias",
+  "token_ascii": "TEST TOKEN DO NOT USE",
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "original_pool_count": 0,
+  "suspicious_liquidity": true,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found",
+        "points": -80
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:42.177Z"
+}

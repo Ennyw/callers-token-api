@@ -1,0 +1,17 @@
+{
+  "token_id": "e5bd93af284670414041799498e54d6ae19b034912316ea1054e8c0253616d",
+  "ticker": "SAM",
+  "name": "Sam",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000036831287705815876,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

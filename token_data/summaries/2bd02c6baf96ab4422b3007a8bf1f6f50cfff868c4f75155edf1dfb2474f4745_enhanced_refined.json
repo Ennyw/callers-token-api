@@ -1,0 +1,40 @@
+{
+  "token_id": "2bd02c6baf96ab4422b3007a8bf1f6f50cfff868c4f75155edf1dfb2474f4745",
+  "ticker": "GOGE",
+  "token_ascii": "Goge",
+  "market_cap": 2214.3210461228696,
+  "price": 0.0000022143210461228694,
+  "liquidity": 15404.114537999998,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.14",
+  "token_age": 108,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:16.157Z"
+}

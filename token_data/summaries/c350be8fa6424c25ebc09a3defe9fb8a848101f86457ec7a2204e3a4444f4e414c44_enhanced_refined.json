@@ -1,0 +1,40 @@
+{
+  "token_id": "c350be8fa6424c25ebc09a3defe9fb8a848101f86457ec7a2204e3a4444f4e414c44",
+  "ticker": "DONALD",
+  "token_ascii": "Donald",
+  "market_cap": 1750.5747377319199,
+  "price": 0.0000017505747377319199,
+  "liquidity": 14522.429371999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.12",
+  "token_age": 86,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:50.544Z"
+}

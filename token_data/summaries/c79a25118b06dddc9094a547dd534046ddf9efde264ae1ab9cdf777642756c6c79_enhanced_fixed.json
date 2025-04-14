@@ -1,0 +1,21 @@
+{
+  "token_id": "c79a25118b06dddc9094a547dd534046ddf9efde264ae1ab9cdf777642756c6c79",
+  "ticker": "BD",
+  "token_ascii": "Bully Doggy",
+  "decimals": 0,
+  "total_supply": 1000000000000,
+  "circulating_supply": 0,
+  "price": 2.446588066557242e-9,
+  "market_cap": 2446.5880665572417,
+  "fully_diluted_value": 2446.5880665572417,
+  "liquidity": 26.853293,
+  "pools": {
+    "count": 3,
+    "total": 3,
+    "filteredOutliers": true,
+    "medianUsed": true
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:57:07.239Z"
+}

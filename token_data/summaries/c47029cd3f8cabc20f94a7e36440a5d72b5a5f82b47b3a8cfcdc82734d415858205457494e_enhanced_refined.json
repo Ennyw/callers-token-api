@@ -1,0 +1,40 @@
+{
+  "token_id": "c47029cd3f8cabc20f94a7e36440a5d72b5a5f82b47b3a8cfcdc82734d415858205457494e",
+  "ticker": "MAXX",
+  "token_ascii": "MAXX TWIN",
+  "market_cap": 2383.9791830888435,
+  "price": 0.0000023839791830888435,
+  "liquidity": 15449.143076,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.15",
+  "token_age": 137,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:53.530Z"
+}

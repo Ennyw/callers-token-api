@@ -1,0 +1,17 @@
+{
+  "token_id": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34534f4e474d41524b4554434150",
+  "ticker": "SONG",
+  "name": "SongMarketCap",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0007179388323911369,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "f50b8f3b83997a36d15f5f824c94718957ac348905af2c3072de31fc534e494b",
+  "ticker": "SNIK",
+  "token_ascii": "SNIK",
+  "market_cap": 23218.371456193152,
+  "price": 0.00033649813704627755,
+  "liquidity": 22898.336827,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.01",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 80,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with moderate liquidity",
+        "points": -15
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:41.122Z"
+}

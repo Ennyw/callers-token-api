@@ -1,0 +1,17 @@
+{
+  "token_id": "02e2ab78f048f2a383bf689d66dad701e2277397cbd3253dd5b093f84a4153504552",
+  "ticker": "JASPER",
+  "name": "Jasper",
+  "total_supply": 100000000,
+  "circulating_supply": 0,
+  "price": 4.1174781529859844e-10,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

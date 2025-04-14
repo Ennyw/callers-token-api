@@ -1,0 +1,17 @@
+{
+  "token_id": "74be1f6940dadc4ab85c643d7447b45cf4e1b5e9cfd5fed062e903f863617264616e6f2e626c7565",
+  "ticker": "CBLUE",
+  "name": "cardano.blue",
+  "total_supply": 100000000,
+  "circulating_supply": 0,
+  "price": 0.0007225449623634462,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

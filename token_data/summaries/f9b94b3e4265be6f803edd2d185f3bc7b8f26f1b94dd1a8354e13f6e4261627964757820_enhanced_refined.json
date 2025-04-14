@@ -1,0 +1,40 @@
+{
+  "token_id": "f9b94b3e4265be6f803edd2d185f3bc7b8f26f1b94dd1a8354e13f6e4261627964757820",
+  "ticker": "BDUX",
+  "token_ascii": "Babydux",
+  "market_cap": 6808.185073055368,
+  "price": 0.000006808185073055368,
+  "liquidity": 18096.261218,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.38",
+  "token_age": 103,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:46.989Z"
+}

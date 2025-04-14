@@ -1,0 +1,43 @@
+{
+  "token_id": "6f46e1304b16d884c85c62fb0eef35028facdc41aaa0fd319a152ed64d434f53",
+  "ticker": "MCOS",
+  "token_ascii": "MCOS",
+  "market_cap": 538040.3232646616,
+  "price": 0.0005380403232646616,
+  "liquidity": 27465.160271999997,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "19.59",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:25.734Z"
+}

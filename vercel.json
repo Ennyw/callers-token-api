@@ -1,0 +1,51 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/refresh-data",
+      "dest": "server.js",
+      "continue": true
+    },
+    {
+      "src": "/api/tokens/refresh-volumes",
+      "dest": "server.js",
+      "continue": true
+    },
+    {
+      "src": "/api/tokens/refresh-tvl",
+      "dest": "server.js",
+      "continue": true
+    },
+    {
+      "src": "/api/(.*)",
+      "dest": "server.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "server.js"
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  },
+  "crons": [
+    {
+      "path": "/api/refresh-data",
+      "schedule": "0 */6 * * *"
+    },
+    {
+      "path": "/api/tokens/refresh",
+      "schedule": "0 */2 * * *"
+    },
+    {
+      "path": "/api/tokens/refresh-volumes",
+      "schedule": "0 */4 * * *"
+    }
+  ]
+} 

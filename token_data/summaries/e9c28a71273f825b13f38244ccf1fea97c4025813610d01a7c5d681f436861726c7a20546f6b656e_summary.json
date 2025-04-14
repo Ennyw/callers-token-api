@@ -1,0 +1,17 @@
+{
+  "token_id": "e9c28a71273f825b13f38244ccf1fea97c4025813610d01a7c5d681f436861726c7a20546f6b656e",
+  "ticker": "CHRLZ",
+  "name": "Charlz Token",
+  "total_supply": 35000000000000,
+  "circulating_supply": 0,
+  "price": 1.96875469168125e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": "2fef5b73041fc4230c11456b42721759f2c00a053a10bc867ef4be7924426162794e696b65",
+  "ticker": "BNIKE",
+  "token_ascii": "BabyNike",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00000238756198773127,
+  "market_cap": 2387.5619877312697,
+  "fully_diluted_value": 2387.5619877312697,
+  "liquidity": 15538.750528,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:44:04.173Z"
+}

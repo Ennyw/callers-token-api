@@ -1,0 +1,40 @@
+{
+  "token_id": "d835d50e54bb08f4af71d5fba3e6cc9ff38abc5f6d221e582a42d1344f4646494349414c2042454e",
+  "ticker": "BEN",
+  "token_ascii": "Official Ben",
+  "market_cap": 6505.457905814422,
+  "price": 0.000006505457905814422,
+  "liquidity": 18204.251497999998,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.36",
+  "token_age": 81,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:10.270Z"
+}

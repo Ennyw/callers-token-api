@@ -1,0 +1,48 @@
+{
+  "token_id": "52d4b39c2407ce020ab4abb785d820a3ad5a2fa07600d07a205e509f52454954",
+  "ticker": "REIT",
+  "token_ascii": "REIT",
+  "market_cap": 791793.34940166,
+  "price": 0.041132122046839484,
+  "liquidity": 98057.65214399999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "8.07",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 130,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:58.159Z"
+}

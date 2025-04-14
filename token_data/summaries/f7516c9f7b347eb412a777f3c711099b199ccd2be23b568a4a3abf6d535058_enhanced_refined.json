@@ -1,0 +1,43 @@
+{
+  "token_id": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
+  "ticker": "SPXT",
+  "token_ascii": "SmartPlaces X",
+  "market_cap": 474784.8022237648,
+  "price": 0.000040553237553257714,
+  "liquidity": 143693.37867499999,
+  "circulating_supply": 11707691688,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.30",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 145,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:46.904Z"
+}

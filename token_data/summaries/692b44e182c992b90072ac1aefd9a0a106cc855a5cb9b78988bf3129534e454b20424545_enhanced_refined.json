@@ -1,0 +1,40 @@
+{
+  "token_id": "692b44e182c992b90072ac1aefd9a0a106cc855a5cb9b78988bf3129534e454b20424545",
+  "ticker": "SNEKEE",
+  "token_ascii": "Snek Bee",
+  "market_cap": 1630.3181742785705,
+  "price": 0.0000016303181742785704,
+  "liquidity": 14387.199759,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 135,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:22.972Z"
+}

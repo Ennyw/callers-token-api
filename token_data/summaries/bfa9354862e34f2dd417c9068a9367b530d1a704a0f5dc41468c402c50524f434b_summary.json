@@ -1,0 +1,17 @@
+{
+  "token_id": "bfa9354862e34f2dd417c9068a9367b530d1a704a0f5dc41468c402c50524f434b",
+  "ticker": "PROCK",
+  "name": "Possum Rocket",
+  "total_supply": 100000000000,
+  "circulating_supply": 0,
+  "price": 2.240961471078719e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

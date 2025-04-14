@@ -1,0 +1,37 @@
+{
+  "token_id": "32bc130691066340caf48ef53d52c684a0e497ffc935d2fd6741efe0574f5a",
+  "ticker": "WOZ",
+  "token_ascii": "Wozdog",
+  "market_cap": 7274.733470139439,
+  "price": 1.6166074378087642e-7,
+  "liquidity": 5565.215094,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.31",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:21.522Z"
+}

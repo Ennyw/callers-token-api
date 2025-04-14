@@ -1,0 +1,40 @@
+{
+  "token_id": "37b03cbc4b1a4fcafc54e70cc31c65b4747a898984c574b3393e003c534b494c4c",
+  "ticker": "SKILL",
+  "token_ascii": "Skills Labs",
+  "market_cap": 7136.4911610939635,
+  "price": 0.0007136491161093963,
+  "liquidity": 4229.833477,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.69",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:27.170Z"
+}

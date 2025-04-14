@@ -1,0 +1,44 @@
+{
+  "token_id": "2f8e699f8b8c437aa75ff5bc43789b28d9b8eeb6798dd7adb95f151447494741434154",
+  "ticker": "GCAT",
+  "token_ascii": "GigaCat",
+  "market_cap": 3667.126081717192,
+  "price": 0.0000036671260817171918,
+  "liquidity": 3336.105355,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.10",
+  "token_age": 139,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:18.860Z"
+}

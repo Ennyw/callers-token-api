@@ -1,0 +1,44 @@
+{
+  "token_id": "f441c43c4066eb1c7ec863264e88c63efa1970a25c12abacd5c61e27434845454b59",
+  "ticker": "CHEEKY",
+  "token_ascii": "Cheeky",
+  "market_cap": 10.909636230885233,
+  "price": 1.0909636230885233e-8,
+  "liquidity": 119.909721,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 144,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (119.91 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:41.264Z"
+}

@@ -1,0 +1,40 @@
+{
+  "token_id": "aaf267c77f09a5b4f006009a3235f3a9765660ccf2e6e1e0380303d54b65726d697420746865204675636b",
+  "ticker": "FUCK",
+  "token_ascii": "Kermit the Fuck",
+  "market_cap": 3798.3179496815374,
+  "price": 0.000007596635899363075,
+  "liquidity": 1814.167593,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.09",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:30.788Z"
+}

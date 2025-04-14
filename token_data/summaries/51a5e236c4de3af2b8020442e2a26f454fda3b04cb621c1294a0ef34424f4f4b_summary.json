@@ -1,0 +1,17 @@
+{
+  "token_id": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
+  "ticker": "STUFF",
+  "name": "STUFF",
+  "total_supply": 10000000000,
+  "circulating_supply": 2125643795.843334,
+  "price": 0.00952870435309259,
+  "market_cap": 20254631.290576633,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

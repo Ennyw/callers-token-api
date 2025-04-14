@@ -1,0 +1,40 @@
+{
+  "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+  "ticker": "iETH",
+  "token_ascii": "iETH",
+  "market_cap": 421171.06799999997,
+  "price": 1000,
+  "liquidity": 166265.083693,
+  "circulating_supply": 421.171068,
+  "outliers_filtered": true,
+  "pool_count": 5,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.53",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 145,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (5)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:43.955Z"
+}

@@ -1,0 +1,52 @@
+{
+  "token_id": "ee0633e757fdd1423220f43688c74678abde1cead7ce265ba8a24fcd43424c50",
+  "ticker": "CBLP",
+  "token_ascii": "CBLP",
+  "market_cap": 2421293.5253361408,
+  "price": 0.002690326139262379,
+  "liquidity": 211363.928569,
+  "circulating_supply": 900000000,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "11.46",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 115,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:32.690Z"
+}

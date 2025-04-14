@@ -1,0 +1,37 @@
+{
+  "token_id": "ad1c1ed3a0bb6f83630ef052a31b71ba3287bf4bafa8370758f14d315349434b",
+  "ticker": "SICK",
+  "token_ascii": "SICK",
+  "market_cap": 642539.9893880738,
+  "price": 8.031749867350922e-7,
+  "liquidity": 5308.3226460000005,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "median_used": true,
+  "mcap_liquidity_ratio": "121.04",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:33.476Z"
+}

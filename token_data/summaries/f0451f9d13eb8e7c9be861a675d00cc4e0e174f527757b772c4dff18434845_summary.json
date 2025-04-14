@@ -1,0 +1,17 @@
+{
+  "token_id": "f0451f9d13eb8e7c9be861a675d00cc4e0e174f527757b772c4dff18434845",
+  "ticker": "CHE",
+  "name": "CheCoin",
+  "total_supply": 100000000000,
+  "circulating_supply": 0,
+  "price": 1.9778429466727122e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "5b01968867e13432afaa2f814e1d15e332d6cd0aa77e350972b0967d4144414f476f7665726e616e6365546f6b656e",
+  "ticker": "ADAO",
+  "token_ascii": "ADAO Governance Token",
+  "market_cap": 273024.38198319986,
+  "price": 0.0027302438198319985,
+  "liquidity": 2630.3161990000003,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "103.80",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:06.737Z"
+}

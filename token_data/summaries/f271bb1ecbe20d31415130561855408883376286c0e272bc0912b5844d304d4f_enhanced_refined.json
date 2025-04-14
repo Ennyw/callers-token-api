@@ -1,0 +1,44 @@
+{
+  "token_id": "f271bb1ecbe20d31415130561855408883376286c0e272bc0912b5844d304d4f",
+  "ticker": "MOMO",
+  "token_ascii": "MOMO",
+  "market_cap": 39526.15717500463,
+  "price": 0.000042963214320657204,
+  "liquidity": 30171.184741,
+  "circulating_supply": 920000000,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.31",
+  "token_age": 110,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:38.501Z"
+}

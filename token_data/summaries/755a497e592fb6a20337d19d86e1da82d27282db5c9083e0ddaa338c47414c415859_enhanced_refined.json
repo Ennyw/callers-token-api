@@ -1,0 +1,44 @@
+{
+  "token_id": "755a497e592fb6a20337d19d86e1da82d27282db5c9083e0ddaa338c47414c415859",
+  "ticker": "GALAXY",
+  "token_ascii": "Galaxy",
+  "market_cap": 56.082635494625734,
+  "price": 1.1216527098925147e-9,
+  "liquidity": 2.27764,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "24.62",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (2.28 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:31.342Z"
+}

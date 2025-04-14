@@ -1,0 +1,40 @@
+{
+  "token_id": "20d9c97c9ef5d4a1e4d0527b893d1550f55f833dcfd6ac83513b642557616c646f5265626f726e",
+  "ticker": "WALDO",
+  "token_ascii": "WaldoReborn",
+  "market_cap": 1965.608461683418,
+  "price": 0.000001965608461683418,
+  "liquidity": 14799.335480999998,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.13",
+  "token_age": 127,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:04.925Z"
+}

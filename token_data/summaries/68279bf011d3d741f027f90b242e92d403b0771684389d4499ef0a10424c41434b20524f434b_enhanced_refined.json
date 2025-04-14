@@ -1,0 +1,44 @@
+{
+  "token_id": "68279bf011d3d741f027f90b242e92d403b0771684389d4499ef0a10424c41434b20524f434b",
+  "ticker": "BROCK",
+  "token_ascii": "Black Rock",
+  "market_cap": 18.714369755735852,
+  "price": 1.871436975573585e-8,
+  "liquidity": 205.692913,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 142,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (205.69 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:19.864Z"
+}

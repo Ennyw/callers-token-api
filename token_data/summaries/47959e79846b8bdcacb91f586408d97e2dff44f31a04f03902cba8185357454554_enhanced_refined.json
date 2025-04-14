@@ -1,0 +1,70 @@
+{
+  "token_id": "47959e79846b8bdcacb91f586408d97e2dff44f31a04f03902cba8185357454554",
+  "ticker": "SWEET",
+  "token_ascii": "SWEET",
+  "market_cap": 2901758.48648182,
+  "price": 0.0000029017584864818197,
+  "liquidity": 3.630155,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 3,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "799348.37",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (799348.37:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (799348.37:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (3.63 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (799348.37:1) - maximum allowed is 10000:1",
+      "Extremely suspicious market cap to liquidity ratio - likely manipulated",
+      "Potential honeypot token: Low trust score",
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:46.733Z"
+}

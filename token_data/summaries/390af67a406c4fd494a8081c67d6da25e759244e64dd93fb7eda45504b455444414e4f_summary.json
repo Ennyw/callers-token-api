@@ -1,0 +1,17 @@
+{
+  "token_id": "390af67a406c4fd494a8081c67d6da25e759244e64dd93fb7eda45504b455444414e4f",
+  "ticker": "KET",
+  "name": "Ketdano",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 1.3512176988830727e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

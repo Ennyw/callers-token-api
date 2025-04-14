@@ -1,0 +1,52 @@
+{
+  "token_id": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c4d79555344",
+  "ticker": "MyUSD",
+  "token_ascii": "Mynth USD",
+  "market_cap": 1979535.083900335,
+  "price": 1.8220479552674238,
+  "liquidity": 260872.811407,
+  "circulating_supply": 1086434.129342,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "7.59",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:05.329Z"
+}

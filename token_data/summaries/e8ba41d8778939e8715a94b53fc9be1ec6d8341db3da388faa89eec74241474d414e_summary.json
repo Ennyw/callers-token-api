@@ -1,0 +1,17 @@
+{
+  "token_id": "e8ba41d8778939e8715a94b53fc9be1ec6d8341db3da388faa89eec74241474d414e",
+  "ticker": "BAGMAN",
+  "name": "BAGMAN",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000011987216963298075,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

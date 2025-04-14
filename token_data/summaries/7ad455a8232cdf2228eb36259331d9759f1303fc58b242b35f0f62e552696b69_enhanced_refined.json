@@ -1,0 +1,39 @@
+{
+  "token_id": "7ad455a8232cdf2228eb36259331d9759f1303fc58b242b35f0f62e552696b69",
+  "ticker": "RIKI",
+  "market_cap": 3128.634395900692,
+  "price": 0.000003128634395900692,
+  "liquidity": 16176.346298,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.19",
+  "token_age": 122,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:40.003Z"
+}

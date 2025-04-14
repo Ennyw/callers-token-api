@@ -1,0 +1,43 @@
+{
+  "token_id": "7af54107a618f3d721dce42012a6a2f0607931378e68199d29d3c0eb46726564204772656761617264",
+  "ticker": "FRED",
+  "token_ascii": "Fred Gregaard",
+  "market_cap": 26409.083343074417,
+  "price": 0.000026409083343074416,
+  "liquidity": 27414.691443,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.96",
+  "token_age": 116,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:39.975Z"
+}

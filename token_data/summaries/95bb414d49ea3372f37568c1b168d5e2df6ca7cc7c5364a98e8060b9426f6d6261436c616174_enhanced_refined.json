@@ -1,0 +1,44 @@
+{
+  "token_id": "95bb414d49ea3372f37568c1b168d5e2df6ca7cc7c5364a98e8060b9426f6d6261436c616174",
+  "ticker": "BOMBA",
+  "token_ascii": "BombaClaat",
+  "market_cap": 275.9053947469741,
+  "price": 6.562606889345303e-10,
+  "liquidity": 208.286772,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.32",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (208.29 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:10.917Z"
+}

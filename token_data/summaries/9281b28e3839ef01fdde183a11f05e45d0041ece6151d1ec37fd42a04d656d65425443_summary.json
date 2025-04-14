@@ -1,0 +1,17 @@
+{
+  "token_id": "9281b28e3839ef01fdde183a11f05e45d0041ece6151d1ec37fd42a04d656d65425443",
+  "ticker": "MemeBTC",
+  "name": "MemeBTC",
+  "total_supply": 21000000,
+  "circulating_supply": 15700000,
+  "price": 0.0011775099446896873,
+  "market_cap": 18486.906131628093,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

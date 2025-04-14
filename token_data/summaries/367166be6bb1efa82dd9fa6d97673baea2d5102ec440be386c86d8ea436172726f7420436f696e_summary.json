@@ -1,0 +1,17 @@
+{
+  "token_id": "367166be6bb1efa82dd9fa6d97673baea2d5102ec440be386c86d8ea436172726f7420436f696e",
+  "ticker": "CARROT",
+  "name": "Carrot Coin",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00001714687029142646,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

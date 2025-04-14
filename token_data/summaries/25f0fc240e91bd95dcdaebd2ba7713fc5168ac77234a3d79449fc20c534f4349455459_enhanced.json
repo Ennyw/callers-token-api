@@ -1,0 +1,15 @@
+{
+  "token_id": "25f0fc240e91bd95dcdaebd2ba7713fc5168ac77234a3d79449fc20c534f4349455459",
+  "ticker": "SOC",
+  "token_ascii": "Society",
+  "decimals": 6,
+  "total_supply": 509769105.103608,
+  "circulating_supply": 450911016.034156,
+  "price": 0.001965070988511175,
+  "market_cap": 886072.1560088173,
+  "fully_diluted_value": 1001732.479278404,
+  "liquidity": 128180.2276,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:43:56.064Z"
+}

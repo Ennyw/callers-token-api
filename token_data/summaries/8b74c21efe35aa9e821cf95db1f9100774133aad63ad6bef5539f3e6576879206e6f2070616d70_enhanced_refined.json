@@ -1,0 +1,44 @@
+{
+  "token_id": "8b74c21efe35aa9e821cf95db1f9100774133aad63ad6bef5539f3e6576879206e6f2070616d70",
+  "ticker": "PAMP",
+  "token_ascii": "Why no pamp",
+  "market_cap": 5556.69877960688,
+  "price": 0.00000555669877960688,
+  "liquidity": 4585.269892,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.21",
+  "token_age": 172,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:57.050Z"
+}

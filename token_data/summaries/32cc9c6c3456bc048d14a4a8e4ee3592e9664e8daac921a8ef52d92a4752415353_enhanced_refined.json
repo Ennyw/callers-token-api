@@ -1,0 +1,39 @@
+{
+  "token_id": "32cc9c6c3456bc048d14a4a8e4ee3592e9664e8daac921a8ef52d92a4752415353",
+  "ticker": "GRASS",
+  "token_ascii": "GRASS",
+  "market_cap": 101526.93419101056,
+  "price": 0.003734967220507107,
+  "liquidity": 1380.25611,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "73.56",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:21.579Z"
+}

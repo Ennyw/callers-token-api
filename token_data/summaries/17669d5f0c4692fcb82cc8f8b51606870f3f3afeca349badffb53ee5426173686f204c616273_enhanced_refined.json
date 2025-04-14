@@ -1,0 +1,44 @@
+{
+  "token_id": "17669d5f0c4692fcb82cc8f8b51606870f3f3afeca349badffb53ee5426173686f204c616273",
+  "ticker": "BASHO",
+  "token_ascii": "Basho Labs",
+  "market_cap": 37263.507931039676,
+  "price": 0.000037263507931039675,
+  "liquidity": 55554.480218,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.67",
+  "token_age": 78,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:56.572Z"
+}

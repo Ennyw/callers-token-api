@@ -1,0 +1,40 @@
+{
+  "token_id": "e0bd3c6eb380c4e5ba95c333afc2523cdd541772bc87a011f32c3cc1506f6e7a6f20",
+  "ticker": "PONZO",
+  "token_ascii": "Ponzo Pig",
+  "market_cap": 2690.189782113641,
+  "price": 0.000002690189782113641,
+  "liquidity": 16172.447205,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.17",
+  "token_age": 119,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:18.841Z"
+}

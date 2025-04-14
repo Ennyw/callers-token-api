@@ -1,0 +1,17 @@
+{
+  "token_id": "cc86454a4fba2d91cca4ddd095d1879fc15e5fd5e8fdd59f9eb2a5594a61636b",
+  "ticker": "JACK",
+  "name": "Jack",
+  "total_supply": 7000000000,
+  "circulating_supply": 0,
+  "price": 7.223162420375949e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

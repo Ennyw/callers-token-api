@@ -1,0 +1,21 @@
+{
+  "token_id": "b3ad8b975d24235a43cb2a54d58c717ed9dd11560b4deba2273ffb1d0014df104b574943",
+  "ticker": "KWIC",
+  "token_ascii": "KWIC",
+  "decimals": 6,
+  "total_supply": 888888888,
+  "circulating_supply": 0,
+  "price": 0.0003959908330559792,
+  "market_cap": 351991.851253323,
+  "fully_diluted_value": 351991.851253323,
+  "liquidity": 15855.885039,
+  "pools": {
+    "count": 2,
+    "total": 2,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:56:54.174Z"
+}

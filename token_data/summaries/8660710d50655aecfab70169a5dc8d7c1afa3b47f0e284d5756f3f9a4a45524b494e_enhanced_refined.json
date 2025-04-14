@@ -1,0 +1,40 @@
+{
+  "token_id": "8660710d50655aecfab70169a5dc8d7c1afa3b47f0e284d5756f3f9a4a45524b494e",
+  "ticker": "JERK",
+  "token_ascii": "JERKIN",
+  "market_cap": 2025.623046826077,
+  "price": 0.000002025623046826077,
+  "liquidity": 14978.958913999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.14",
+  "token_age": 126,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:51.375Z"
+}

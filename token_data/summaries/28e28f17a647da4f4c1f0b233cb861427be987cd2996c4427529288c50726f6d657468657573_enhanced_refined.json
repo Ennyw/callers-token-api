@@ -1,0 +1,44 @@
+{
+  "token_id": "28e28f17a647da4f4c1f0b233cb861427be987cd2996c4427529288c50726f6d657468657573",
+  "ticker": "PROAI",
+  "token_ascii": "Prometheus",
+  "market_cap": 152.00352756102677,
+  "price": 1.5200352756102676e-7,
+  "liquidity": 124.090646,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.22",
+  "token_age": 137,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (124.09 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:13.246Z"
+}

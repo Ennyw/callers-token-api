@@ -1,0 +1,44 @@
+{
+  "token_id": "39a25640dddba83eea0e360368b54e19e62c0c6a63d193d51b20f27472616d656e",
+  "ticker": "RAMEN",
+  "token_ascii": "Ramen",
+  "market_cap": 4939.819947435836,
+  "price": 0.000004939819947435836,
+  "liquidity": 4717.327256,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.05",
+  "token_age": 186,
+  "trust_assessment": {
+    "score": 50,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:29.941Z"
+}

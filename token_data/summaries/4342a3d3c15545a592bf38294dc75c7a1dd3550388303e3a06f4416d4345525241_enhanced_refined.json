@@ -1,0 +1,40 @@
+{
+  "token_id": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d4345525241",
+  "ticker": "CERRA",
+  "token_ascii": "cerra",
+  "market_cap": 33197.606220028,
+  "price": 0.0014316860539606488,
+  "liquidity": 4121.091717,
+  "circulating_supply": 23187769.50309,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "8.06",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:41.276Z"
+}

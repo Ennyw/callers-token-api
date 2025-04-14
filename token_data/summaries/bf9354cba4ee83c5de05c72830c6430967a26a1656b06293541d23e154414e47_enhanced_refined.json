@@ -1,0 +1,55 @@
+{
+  "token_id": "bf9354cba4ee83c5de05c72830c6430967a26a1656b06293541d23e154414e47",
+  "ticker": "TANG",
+  "token_ascii": "Tangent Protocol",
+  "market_cap": 28505.339706317183,
+  "price": 0.000009073531447916134,
+  "liquidity": 244.552717,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "116.56",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (116.56:1)",
+        "points": -40
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (244.55 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:47.691Z"
+}

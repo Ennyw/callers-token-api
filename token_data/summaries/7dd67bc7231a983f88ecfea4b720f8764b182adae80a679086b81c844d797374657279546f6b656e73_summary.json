@@ -1,0 +1,17 @@
+{
+  "token_id": "7dd67bc7231a983f88ecfea4b720f8764b182adae80a679086b81c844d797374657279546f6b656e73",
+  "ticker": "MYSTERY",
+  "name": "Mystery Tokens",
+  "total_supply": 500000000,
+  "circulating_supply": 0,
+  "price": 0.000003608010902093326,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

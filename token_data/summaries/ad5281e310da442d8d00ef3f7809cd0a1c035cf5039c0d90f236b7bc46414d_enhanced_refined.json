@@ -1,0 +1,44 @@
+{
+  "token_id": "ad5281e310da442d8d00ef3f7809cd0a1c035cf5039c0d90f236b7bc46414d",
+  "ticker": "FAM",
+  "token_ascii": "WOJANO",
+  "market_cap": 78.93332273685206,
+  "price": 1.1439611990848126e-9,
+  "liquidity": 2.233178,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "35.35",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (2.23 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:36.447Z"
+}

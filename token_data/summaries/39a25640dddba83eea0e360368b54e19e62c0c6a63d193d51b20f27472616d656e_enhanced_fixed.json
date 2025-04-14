@@ -1,0 +1,21 @@
+{
+  "token_id": "39a25640dddba83eea0e360368b54e19e62c0c6a63d193d51b20f27472616d656e",
+  "ticker": "RAMEN",
+  "token_ascii": "Ramen",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004977365610396924,
+  "market_cap": 4977.365610396924,
+  "fully_diluted_value": 4977.365610396924,
+  "liquidity": 4735.220611,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:54:55.268Z"
+}

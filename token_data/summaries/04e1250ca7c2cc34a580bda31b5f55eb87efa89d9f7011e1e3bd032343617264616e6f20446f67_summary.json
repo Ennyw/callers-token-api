@@ -1,0 +1,17 @@
+{
+  "token_id": "04e1250ca7c2cc34a580bda31b5f55eb87efa89d9f7011e1e3bd032343617264616e6f20446f67",
+  "ticker": "ADOG",
+  "name": "Ada Dog",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000005138093557082668,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

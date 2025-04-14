@@ -1,0 +1,40 @@
+{
+  "token_id": "246d6a8493dd02c1243ccae10b3275f318e4f3144140d05c4c28c422536e556b",
+  "ticker": "SnUk",
+  "token_ascii": "SnUk",
+  "market_cap": 123213.95405987093,
+  "price": 0.000001621664209025542,
+  "liquidity": 9466.368497,
+  "circulating_supply": 75979942934,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "13.02",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:07.750Z"
+}

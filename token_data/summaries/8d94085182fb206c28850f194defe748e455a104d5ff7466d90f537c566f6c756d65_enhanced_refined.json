@@ -1,0 +1,44 @@
+{
+  "token_id": "8d94085182fb206c28850f194defe748e455a104d5ff7466d90f537c566f6c756d65",
+  "ticker": "VOL",
+  "token_ascii": "Volume",
+  "market_cap": 106348.44317565624,
+  "price": 0.00011820264140306756,
+  "liquidity": 21601.897672,
+  "circulating_supply": 899712916,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.92",
+  "token_age": 217,
+  "trust_assessment": {
+    "score": 110,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:59.917Z"
+}

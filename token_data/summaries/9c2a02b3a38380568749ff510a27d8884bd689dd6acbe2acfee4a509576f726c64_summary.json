@@ -1,0 +1,17 @@
+{
+  "token_id": "9c2a02b3a38380568749ff510a27d8884bd689dd6acbe2acfee4a509576f726c64",
+  "ticker": "World",
+  "name": "WorldCoin",
+  "total_supply": 1000000000000,
+  "circulating_supply": 0,
+  "price": 1.4650304444396435e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

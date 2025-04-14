@@ -1,0 +1,40 @@
+{
+  "token_id": "dbcfe1dd9c9152fa3e4b251717cad9be5ec7374260c8ba5ee5ffcbf354726f706963616c204269726473",
+  "ticker": "BIRD",
+  "token_ascii": "Tropical Birds",
+  "market_cap": 1542.730472870598,
+  "price": 0.0000015427304728705981,
+  "liquidity": 14219.836688,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 108,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:16.001Z"
+}

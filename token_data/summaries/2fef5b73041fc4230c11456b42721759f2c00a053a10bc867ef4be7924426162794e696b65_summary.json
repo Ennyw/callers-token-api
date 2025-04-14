@@ -1,0 +1,17 @@
+{
+  "token_id": "2fef5b73041fc4230c11456b42721759f2c00a053a10bc867ef4be7924426162794e696b65",
+  "ticker": "BNIKE",
+  "name": "BabyNike",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000005779407526869161,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

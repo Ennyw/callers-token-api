@@ -1,0 +1,52 @@
+{
+  "token_id": "03b6ddacd60cc1ebd9ed4041d0c298c4c6f48ab61e04fdad4d915cfa0014df10504247",
+  "ticker": "PBG",
+  "token_ascii": "PBG Token",
+  "market_cap": 2759625.6266641393,
+  "price": 91.4602564068262,
+  "liquidity": 30013.246718,
+  "circulating_supply": 30172.948722,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "91.95",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 60,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "High market cap to liquidity ratio (91.95:1)",
+        "points": -20
+      },
+      {
+        "reason": "Suspicious liquidity distribution with moderate liquidity",
+        "points": -15
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:39.458Z"
+}

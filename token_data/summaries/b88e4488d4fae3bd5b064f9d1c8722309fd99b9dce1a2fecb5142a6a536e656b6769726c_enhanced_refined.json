@@ -1,0 +1,40 @@
+{
+  "token_id": "b88e4488d4fae3bd5b064f9d1c8722309fd99b9dce1a2fecb5142a6a536e656b6769726c",
+  "ticker": "snekgirl",
+  "token_ascii": "snekgirl",
+  "market_cap": 83695.02878654067,
+  "price": 0.0000011339541611811777,
+  "liquidity": 9357.295726,
+  "circulating_supply": 73808123513,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "8.94",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:44.757Z"
+}

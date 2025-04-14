@@ -1,0 +1,37 @@
+{
+  "token_id": "c2c25c82aa1ca031fc27d95f871f99bb3a39c4d263645721b2304397414441",
+  "ticker": "xADA",
+  "token_ascii": "Memecoin ADA",
+  "market_cap": 1023.0790811327646,
+  "price": 2.2735090691839214e-8,
+  "liquidity": 898.446157,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.14",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:50.460Z"
+}

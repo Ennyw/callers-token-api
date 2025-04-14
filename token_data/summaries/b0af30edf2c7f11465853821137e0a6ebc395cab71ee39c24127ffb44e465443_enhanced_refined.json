@@ -1,0 +1,61 @@
+{
+  "token_id": "b0af30edf2c7f11465853821137e0a6ebc395cab71ee39c24127ffb44e465443",
+  "ticker": "NFTC",
+  "token_ascii": "NFT Creative Coin",
+  "market_cap": 102359104.33721897,
+  "price": 0.0713489654688806,
+  "liquidity": 18.695565000000002,
+  "circulating_supply": 1434626328,
+  "outliers_filtered": true,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5475047.39",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Potential price manipulation (5475047.39:1 MCap/Liquidity ratio)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (5475047.39:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (18.70 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (5475047.39:1) - maximum allowed is 10000:1",
+      "Extremely suspicious market cap to liquidity ratio - likely manipulated",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:39.144Z"
+}

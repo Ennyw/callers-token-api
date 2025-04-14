@@ -1,0 +1,40 @@
+{
+  "token_id": "7e3b18c6cbc72e06fa5b5e4c729159b9a74b6fe94629fe57c67ef32d5348524d50",
+  "ticker": "SHRMP",
+  "token_ascii": "SHRMP",
+  "market_cap": 12371.06077863681,
+  "price": 0.00017929073592227258,
+  "liquidity": 12012.927910999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.03",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:42.875Z"
+}

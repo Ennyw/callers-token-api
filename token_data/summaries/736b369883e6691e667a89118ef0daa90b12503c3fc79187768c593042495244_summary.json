@@ -1,0 +1,17 @@
+{
+  "token_id": "736b369883e6691e667a89118ef0daa90b12503c3fc79187768c593042495244",
+  "ticker": "BIRD",
+  "name": "BIRD",
+  "total_supply": 100000000000000,
+  "circulating_supply": 0,
+  "price": 1.6136625121711208e-12,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

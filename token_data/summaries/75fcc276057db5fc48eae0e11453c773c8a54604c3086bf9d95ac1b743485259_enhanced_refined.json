@@ -1,0 +1,48 @@
+{
+  "token_id": "75fcc276057db5fc48eae0e11453c773c8a54604c3086bf9d95ac1b743485259",
+  "ticker": "NOVA",
+  "token_ascii": "Nova Finance",
+  "market_cap": 1519978.1139646736,
+  "price": 0.018393186763057633,
+  "liquidity": 229604.74865700002,
+  "circulating_supply": 82638105.813046,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "6.62",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:34.117Z"
+}

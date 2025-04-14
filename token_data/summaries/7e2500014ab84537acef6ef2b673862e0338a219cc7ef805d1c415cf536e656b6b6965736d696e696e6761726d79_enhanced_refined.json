@@ -1,0 +1,44 @@
+{
+  "token_id": "7e2500014ab84537acef6ef2b673862e0338a219cc7ef805d1c415cf536e656b6b6965736d696e696e6761726d79",
+  "ticker": "Snkma",
+  "token_ascii": "Snkma",
+  "market_cap": 675.1935664026603,
+  "price": 8.681928332296005e-9,
+  "liquidity": 12.509972000000001,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "median_used": true,
+  "mcap_liquidity_ratio": "53.97",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (12.51 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:42.677Z"
+}

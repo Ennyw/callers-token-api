@@ -1,0 +1,48 @@
+{
+  "token_id": "12f76218ef19e357b0684d3a9ebe0c66aa18dd9e4cf496161e6d98a87273434f53",
+  "ticker": "rsCOS",
+  "token_ascii": "rsCOS",
+  "market_cap": 53280.544810983454,
+  "price": 5.3280544810983456e-8,
+  "liquidity": 217.563988,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "244.90",
+  "token_age": 139,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (244.90:1)",
+        "points": -40
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (217.56 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:53.674Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "c160a55db83cc9902a63eaf17dddaa236f85cef7fedf96f7589b86af4e6165656d2041736c616d",
+  "ticker": "NAEEM",
+  "token_ascii": "Naeem Aslam",
+  "market_cap": 3042.7350405014067,
+  "price": 0.000003042735040501407,
+  "liquidity": 2957.328678,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.03",
+  "token_age": 172,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:50.573Z"
+}

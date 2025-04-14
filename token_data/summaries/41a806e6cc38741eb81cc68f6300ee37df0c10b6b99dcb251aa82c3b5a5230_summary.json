@@ -1,0 +1,17 @@
+{
+  "token_id": "41a806e6cc38741eb81cc68f6300ee37df0c10b6b99dcb251aa82c3b5a5230",
+  "ticker": "ZRO",
+  "name": "Zero",
+  "total_supply": 100001000000,
+  "circulating_supply": 0,
+  "price": 9.408058963559133e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,50 @@
+{
+  "token_id": "438514ae1beb020d35e5389993447cea29637d6272c918017988ef364164615969656c64",
+  "ticker": "ADY",
+  "token_ascii": "AdaYield",
+  "market_cap": 161138.742044717,
+  "price": 0.000010799871046385908,
+  "liquidity": 2983.676642,
+  "circulating_supply": 14920432045.217873,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "54.01",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "High market cap to liquidity ratio (54.01:1)",
+        "points": -20
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:41.161Z"
+}

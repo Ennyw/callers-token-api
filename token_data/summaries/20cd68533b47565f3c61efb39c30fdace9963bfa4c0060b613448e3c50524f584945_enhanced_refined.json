@@ -1,0 +1,40 @@
+{
+  "token_id": "20cd68533b47565f3c61efb39c30fdace9963bfa4c0060b613448e3c50524f584945",
+  "ticker": "PROXIE",
+  "token_ascii": "PROXIE",
+  "market_cap": 19066.840866323444,
+  "price": 0.001033868800400099,
+  "liquidity": 2291.791846,
+  "circulating_supply": 18442224.834471,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "8.32",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:04.752Z"
+}

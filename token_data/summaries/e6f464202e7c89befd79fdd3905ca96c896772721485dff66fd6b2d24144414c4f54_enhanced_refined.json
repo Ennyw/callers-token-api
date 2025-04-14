@@ -1,0 +1,37 @@
+{
+  "token_id": "e6f464202e7c89befd79fdd3905ca96c896772721485dff66fd6b2d24144414c4f54",
+  "ticker": "ADALOT",
+  "token_ascii": "AdaLot",
+  "market_cap": 223027.01108940257,
+  "price": 3.717116851490043e-7,
+  "liquidity": 16621.134355,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "13.42",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:27.160Z"
+}

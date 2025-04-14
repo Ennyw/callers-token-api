@@ -1,0 +1,44 @@
+{
+  "token_id": "86340a33acf14b5c967584c9a20e984695ab3289696d138048f572be4255524e5a",
+  "ticker": "BURNZ",
+  "token_ascii": "BURNZ",
+  "market_cap": 5304.966343075125,
+  "price": 0.000012345583161167304,
+  "liquidity": 1347.406477,
+  "circulating_supply": 429705610,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.94",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:51.149Z"
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
+  "ticker": "CHAD",
+  "token_ascii": "Charles the Chad",
+  "market_cap": 4215658.788074889,
+  "price": 0.004423889608567677,
+  "liquidity": 284694.638484,
+  "circulating_supply": 952930376,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "14.81",
+  "token_age": 138,
+  "trust_assessment": {
+    "score": 110,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:13.846Z"
+}

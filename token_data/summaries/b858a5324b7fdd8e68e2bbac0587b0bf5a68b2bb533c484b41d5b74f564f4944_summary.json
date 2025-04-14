@@ -1,0 +1,17 @@
+{
+  "token_id": "b858a5324b7fdd8e68e2bbac0587b0bf5a68b2bb533c484b41d5b74f564f4944",
+  "ticker": "VOID",
+  "name": "VOID",
+  "total_supply": 50000000,
+  "circulating_supply": 0,
+  "price": 0.007256623216780732,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,40 @@
+{
+  "token_id": "0c6156ff7fa01080f7a83cc5aba49ec18e111d30444c48b606fe8d8442616e652054686520436174",
+  "ticker": "BANE",
+  "token_ascii": "Bane the Cat",
+  "market_cap": 1489.875294385346,
+  "price": 0.000001489875294385346,
+  "liquidity": 14069.833379,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 126,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:48.099Z"
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": "d55d5eb0ba4b27311b825a966bc47dbae9de13f05ade26d4e94923944c6f76654c6163654d696e644c4c4d",
+  "ticker": "LLM",
+  "token_ascii": "LoveLace LLM",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004146333633911037,
+  "market_cap": 4146.333633911037,
+  "fully_diluted_value": 4146.333633911037,
+  "liquidity": 16764.925102,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:46:40.919Z"
+}

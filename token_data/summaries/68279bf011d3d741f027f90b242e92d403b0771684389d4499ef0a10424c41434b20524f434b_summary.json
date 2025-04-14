@@ -1,0 +1,17 @@
+{
+  "token_id": "68279bf011d3d741f027f90b242e92d403b0771684389d4499ef0a10424c41434b20524f434b",
+  "ticker": "BROCK",
+  "name": "Black Rock",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 2.344890665950895e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

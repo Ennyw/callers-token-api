@@ -1,0 +1,44 @@
+{
+  "token_id": "12536cb877860b2ed0d532f24ba170d084fe958ea02087f4540f2cd75468652042617365204a6573746572",
+  "ticker": "JEST",
+  "token_ascii": "The Base Jester",
+  "market_cap": 3922.359286641134,
+  "price": 0.000004043669367671272,
+  "liquidity": 26007.477905,
+  "circulating_supply": 970000000,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.15",
+  "token_age": 44,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:53.816Z"
+}

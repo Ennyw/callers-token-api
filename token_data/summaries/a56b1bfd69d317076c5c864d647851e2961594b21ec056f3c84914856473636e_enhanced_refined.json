@@ -1,0 +1,51 @@
+{
+  "token_id": "a56b1bfd69d317076c5c864d647851e2961594b21ec056f3c84914856473636e",
+  "ticker": "CMC",
+  "token_ascii": "Comic Coin",
+  "market_cap": 3108.3530066569815,
+  "price": 0.0005320120018849334,
+  "liquidity": 310.468904,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "10.01",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (310.47 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:27.890Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "d421fe0e7d69f7f43c798272b135af92a3a20da549df63fce9d7351f504947",
+  "ticker": "PIG",
+  "name": "Pig",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 2.7233656313534516e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,40 @@
+{
+  "token_id": "ac11a1a07f04ec9efee4c46c359725922377ec5a4596bbed670cc9204c6f756579",
+  "ticker": "Louey",
+  "token_ascii": "Louey",
+  "market_cap": 6017.451048822333,
+  "price": 0.000060596078008891976,
+  "liquidity": 3974.33743,
+  "circulating_supply": 99304299,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.51",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:33.532Z"
+}

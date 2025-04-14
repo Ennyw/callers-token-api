@@ -1,0 +1,37 @@
+{
+  "token_id": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc69436861726c",
+  "ticker": "ICHARL",
+  "token_ascii": "iCharl",
+  "market_cap": 168.60157415042272,
+  "price": 1.6860157415042273e-7,
+  "liquidity": 3067.098676,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.05",
+  "token_age": 41,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:28.568Z"
+}

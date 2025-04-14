@@ -1,0 +1,15 @@
+{
+  "token_id": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241",
+  "ticker": "MIRA",
+  "token_ascii": "MIRA - Chains of War",
+  "decimals": 2,
+  "total_supply": 1000000000,
+  "circulating_supply": 151744582.85,
+  "price": 0.0016519378345108816,
+  "market_cap": 250672.61759198605,
+  "fully_diluted_value": 1651937.8345108817,
+  "liquidity": 37349.643187,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:43:43.059Z"
+}

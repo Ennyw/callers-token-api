@@ -1,0 +1,17 @@
+{
+  "token_id": "fdd4f9c97f7bcb50ffac32943f2e695a5e7f1b31df8ecac5b7edf8d650484e544d",
+  "ticker": "PHNTM",
+  "name": "PHNTM Token",
+  "total_supply": 10000000,
+  "circulating_supply": 0,
+  "price": 0.002230604762493954,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

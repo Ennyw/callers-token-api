@@ -1,0 +1,40 @@
+{
+  "token_id": "7dea347901d67640599cc3c45b1858cb155225142f65667774a0804b47494e41",
+  "ticker": "GINA",
+  "token_ascii": "GINA",
+  "market_cap": 1441.387424517677,
+  "price": 0.0014413874245176768,
+  "liquidity": 797.1438989999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.81",
+  "token_age": 284,
+  "trust_assessment": {
+    "score": 100,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:42.819Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "71ccb467ef856b242753ca53ade36cd1f8d9abb33fdfa7d1ff89cda3434643",
+  "ticker": "CFC",
+  "name": "CFC Token",
+  "total_supply": 100000000000,
+  "circulating_supply": 0,
+  "price": 8.486148734896394e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

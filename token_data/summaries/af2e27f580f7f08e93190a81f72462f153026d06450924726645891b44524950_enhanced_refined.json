@@ -1,0 +1,42 @@
+{
+  "token_id": "af2e27f580f7f08e93190a81f72462f153026d06450924726645891b44524950",
+  "ticker": "DRIP",
+  "market_cap": 717127.9353649603,
+  "price": 0.00011353428321781042,
+  "liquidity": 46962.92306300001,
+  "circulating_supply": 6316399901.77401,
+  "outliers_filtered": false,
+  "pool_count": 10,
+  "original_pool_count": 11,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "15.27",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (10)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:36.334Z"
+}

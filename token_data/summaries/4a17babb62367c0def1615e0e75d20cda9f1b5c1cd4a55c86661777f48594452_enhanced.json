@@ -1,0 +1,15 @@
+{
+  "token_id": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f48594452",
+  "ticker": "HYDR",
+  "token_ascii": "HYDR",
+  "decimals": 0,
+  "total_supply": 45000000000,
+  "circulating_supply": 0,
+  "price": 0.00000497526561924196,
+  "market_cap": 223886.95286588822,
+  "fully_diluted_value": 223886.95286588822,
+  "liquidity": 9083.320056999999,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:44:32.831Z"
+}

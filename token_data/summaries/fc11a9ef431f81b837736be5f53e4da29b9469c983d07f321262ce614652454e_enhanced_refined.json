@@ -1,0 +1,48 @@
+{
+  "token_id": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+  "ticker": "FREN",
+  "token_ascii": "Fren",
+  "market_cap": 1394070.3486891084,
+  "price": 0.000003620930026600291,
+  "liquidity": 242363.38045200004,
+  "circulating_supply": 385003393727,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5.75",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:49.634Z"
+}

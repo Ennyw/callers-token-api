@@ -1,0 +1,17 @@
+{
+  "token_id": "87285c48e3db6dd8a76b0eaa96a7b009b16e8aa411fb9612cb892d5e646567656e65726174657320",
+  "ticker": "DEGEN",
+  "name": "degenerates",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 1.8500026099552308e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

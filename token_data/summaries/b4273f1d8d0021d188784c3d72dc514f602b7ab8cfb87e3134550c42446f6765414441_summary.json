@@ -1,0 +1,17 @@
+{
+  "token_id": "b4273f1d8d0021d188784c3d72dc514f602b7ab8cfb87e3134550c42446f6765414441",
+  "ticker": "DGADA",
+  "name": "DogeADA",
+  "total_supply": 1000000000000,
+  "circulating_supply": 0,
+  "price": 0.00001241551317122311,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

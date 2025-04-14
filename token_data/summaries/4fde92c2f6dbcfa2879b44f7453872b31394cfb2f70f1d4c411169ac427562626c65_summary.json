@@ -1,0 +1,17 @@
+{
+  "token_id": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac427562626c65",
+  "ticker": "BUBBLE",
+  "name": "Bubble",
+  "total_supply": 100000000,
+  "circulating_supply": 35973077.844823,
+  "price": 0.0008811681592818921,
+  "market_cap": 31698.3307882269,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

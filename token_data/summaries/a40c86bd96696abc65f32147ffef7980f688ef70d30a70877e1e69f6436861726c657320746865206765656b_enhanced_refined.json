@@ -1,0 +1,40 @@
+{
+  "token_id": "a40c86bd96696abc65f32147ffef7980f688ef70d30a70877e1e69f6436861726c657320746865206765656b",
+  "ticker": "GEEK",
+  "token_ascii": "Charles the Geek",
+  "market_cap": 1761.4016298108784,
+  "price": 0.0000017614016298108785,
+  "liquidity": 14612.326901999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.12",
+  "token_age": 128,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:25.048Z"
+}

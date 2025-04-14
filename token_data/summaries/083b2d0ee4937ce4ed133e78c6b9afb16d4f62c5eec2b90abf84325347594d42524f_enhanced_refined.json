@@ -1,0 +1,40 @@
+{
+  "token_id": "083b2d0ee4937ce4ed133e78c6b9afb16d4f62c5eec2b90abf84325347594d42524f",
+  "ticker": "GYM",
+  "token_ascii": "GYMBRO",
+  "market_cap": 4603.299875964061,
+  "price": 0.000004603299875964062,
+  "liquidity": 16900.633325,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.27",
+  "token_age": 87,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:45.218Z"
+}

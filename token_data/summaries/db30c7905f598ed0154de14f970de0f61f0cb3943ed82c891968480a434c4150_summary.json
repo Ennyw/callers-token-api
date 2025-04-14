@@ -1,0 +1,17 @@
+{
+  "token_id": "db30c7905f598ed0154de14f970de0f61f0cb3943ed82c891968480a434c4150",
+  "ticker": "CLAP",
+  "name": "CLAP",
+  "total_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "price": 0.001105092802712638,
+  "market_cap": 1105092.802712638,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

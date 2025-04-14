@@ -1,0 +1,39 @@
+{
+  "token_id": "16fdd33c86af604e837ae57d79d5f0f1156406086db5f16afb3fcf5144474f4c44",
+  "ticker": "DGOLD",
+  "token_ascii": "Digital Gold Token",
+  "market_cap": 312387.3235699228,
+  "price": 0.01487558683666299,
+  "liquidity": 7041.567765,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "44.36",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:56.543Z"
+}

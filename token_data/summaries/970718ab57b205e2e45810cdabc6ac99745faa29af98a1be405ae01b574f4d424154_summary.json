@@ -1,0 +1,17 @@
+{
+  "token_id": "970718ab57b205e2e45810cdabc6ac99745faa29af98a1be405ae01b574f4d424154",
+  "ticker": "WOMBAT",
+  "name": "Wombat",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000003724442545629273,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

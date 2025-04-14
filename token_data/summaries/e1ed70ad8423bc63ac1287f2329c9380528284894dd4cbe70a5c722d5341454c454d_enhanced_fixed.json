@@ -1,0 +1,21 @@
+{
+  "token_id": "e1ed70ad8423bc63ac1287f2329c9380528284894dd4cbe70a5c722d5341454c454d",
+  "ticker": "SAELEM",
+  "token_ascii": "SAELEM",
+  "decimals": 0,
+  "total_supply": 5279516,
+  "circulating_supply": 0,
+  "price": 0.00002497001225734728,
+  "market_cap": 131.82957923286108,
+  "fully_diluted_value": 131.82957923286108,
+  "liquidity": 2.627919,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:57:30.833Z"
+}

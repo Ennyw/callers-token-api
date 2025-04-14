@@ -1,0 +1,39 @@
+{
+  "token_id": "a2944573e99d2ed3055b808eaa264f0bf119e01fc6b18863067c63e44d454c44",
+  "ticker": "MELD",
+  "token_ascii": "MELD",
+  "market_cap": 226392.0991910447,
+  "price": 0.000056598075660068396,
+  "liquidity": 5336.082324,
+  "circulating_supply": 3999996405.368442,
+  "outliers_filtered": false,
+  "pool_count": 6,
+  "original_pool_count": 7,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "42.43",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (6)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:24.963Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "390af67a406c4fd494a8081c67d6da25e759244e64dd93fb7eda45504b455444414e4f",
+  "ticker": "KET",
+  "token_ascii": "Ketdano",
+  "market_cap": 11.267880276676516,
+  "price": 1.1267880276676516e-8,
+  "liquidity": 123.847244,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 154,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (123.85 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:29.908Z"
+}

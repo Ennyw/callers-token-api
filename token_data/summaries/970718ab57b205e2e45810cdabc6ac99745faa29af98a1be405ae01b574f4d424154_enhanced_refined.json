@@ -1,0 +1,44 @@
+{
+  "token_id": "970718ab57b205e2e45810cdabc6ac99745faa29af98a1be405ae01b574f4d424154",
+  "ticker": "WOMBAT",
+  "token_ascii": "Wombat",
+  "market_cap": 3724.442545629273,
+  "price": 0.000003724442545629273,
+  "liquidity": 3440.454971,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.08",
+  "token_age": 155,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:11.030Z"
+}

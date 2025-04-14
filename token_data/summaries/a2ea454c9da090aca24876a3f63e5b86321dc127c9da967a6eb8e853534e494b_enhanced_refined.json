@@ -1,0 +1,50 @@
+{
+  "token_id": "a2ea454c9da090aca24876a3f63e5b86321dc127c9da967a6eb8e853534e494b",
+  "ticker": "SNIK",
+  "token_ascii": "SNIK",
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "original_pool_count": 1,
+  "suspicious_liquidity": true,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found",
+        "points": -80
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Suspicious token: Claims to have pools but no valid liquidity data available",
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:25.200Z"
+}

@@ -1,0 +1,75 @@
+{
+  "ticker": "HOSKY",
+  "price": 9.312854272374118E-8,
+  "market_cap": 29335490.957972046,
+  "circulating_supply": 314999999999931.0,
+  "total_supply": 1000000000000000.0,
+  "holders": 99528,
+  "trading_volume_24h": 30039.661799999998,
+  "buy_volume_24h": 7084.1622,
+  "sell_volume_24h": 22955.4996,
+  "buyers_24h": 23,
+  "sellers_24h": 25,
+  "buy_txs_24h": 26,
+  "sell_txs_24h": 30
+}
+{
+  "ticker": "LQ",
+  "price": 3.021504408445755,
+  "market_cap": 60704023.27566149,
+  "circulating_supply": 20090661.825937,
+  "total_supply": 21000000.0,
+  "holders": 8986,
+  "trading_volume_24h": 30898.6004,
+  "buy_volume_24h": 6239.4156,
+  "sell_volume_24h": 24659.1848,
+  "buyers_24h": 12,
+  "sellers_24h": 13,
+  "buy_txs_24h": 14,
+  "sell_txs_24h": 19
+}
+{
+  "ticker": "MIN",
+  "price": 0.03551180594247772,
+  "market_cap": 49510600.989786565,
+  "circulating_supply": 1394201158.62269,
+  "total_supply": 3000000000.0,
+  "holders": 31445,
+  "trading_volume_24h": 124304.4364,
+  "buy_volume_24h": 54245.3953,
+  "sell_volume_24h": 70059.0411,
+  "buyers_24h": 30,
+  "sellers_24h": 28,
+  "buy_txs_24h": 41,
+  "sell_txs_24h": 31
+}
+{
+  "ticker": "SNEK",
+  "price": 0.004624708262730636,
+  "market_cap": 348670018.2493948,
+  "circulating_supply": 75392867710.0,
+  "total_supply": 75392867714.0,
+  "holders": 41755,
+  "trading_volume_24h": 931593.4347,
+  "buy_volume_24h": 440931.1968,
+  "sell_volume_24h": 490662.2379,
+  "buyers_24h": 140,
+  "sellers_24h": 117,
+  "buy_txs_24h": 278,
+  "sell_txs_24h": 255
+}
+{
+  "ticker": "WMT",
+  "price": 0.31397013008854424,
+  "market_cap": 217322797.66048533,
+  "circulating_supply": 692176665.338187,
+  "total_supply": 2000000000.0,
+  "holders": 24072,
+  "trading_volume_24h": 2602.9313,
+  "buy_volume_24h": 2027.3747,
+  "sell_volume_24h": 575.5566,
+  "buyers_24h": 5,
+  "sellers_24h": 3,
+  "buy_txs_24h": 6,
+  "sell_txs_24h": 3
+}

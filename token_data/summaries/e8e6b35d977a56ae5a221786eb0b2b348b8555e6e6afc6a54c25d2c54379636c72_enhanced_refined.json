@@ -1,0 +1,40 @@
+{
+  "token_id": "e8e6b35d977a56ae5a221786eb0b2b348b8555e6e6afc6a54c25d2c54379636c72",
+  "ticker": "Cyclr",
+  "token_ascii": "Cyclr",
+  "market_cap": 31707.236557842425,
+  "price": 0.000010569078852614142,
+  "liquidity": 522.711242,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "60.66",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:27.102Z"
+}

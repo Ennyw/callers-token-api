@@ -1,0 +1,40 @@
+{
+  "token_id": "eeeab48ea53c759e1ac8b42120414fba68f7457fd438d359ebc1f7744368616d",
+  "ticker": "CHAM",
+  "token_ascii": "Cham",
+  "market_cap": 1640.5341848479948,
+  "price": 0.0000016405341848479947,
+  "liquidity": 14444.632153999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 89,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:35.707Z"
+}

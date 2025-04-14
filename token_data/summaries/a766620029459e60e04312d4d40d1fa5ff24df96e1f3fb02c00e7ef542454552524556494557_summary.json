@@ -1,0 +1,17 @@
+{
+  "token_id": "a766620029459e60e04312d4d40d1fa5ff24df96e1f3fb02c00e7ef542454552524556494557",
+  "ticker": "BEER",
+  "name": "Beer Review",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000010990410879939788,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

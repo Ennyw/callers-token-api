@@ -1,0 +1,60 @@
+{
+  "token_id": "95b1962fbb6c42c1a16a3ac60459806e7ee7dba4f845e4498082524f4e474d49",
+  "ticker": "NGMI",
+  "token_ascii": "NGMI",
+  "market_cap": 542810.3468818631,
+  "price": 0.000007866816621476277,
+  "liquidity": 19.543564,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "27774.38",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (27774.38:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (27774.38:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (19.54 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (27774.38:1) - maximum allowed is 10000:1",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:08.153Z"
+}

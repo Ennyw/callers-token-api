@@ -1,0 +1,40 @@
+{
+  "token_id": "1effeb34f121c47e289ee6e84d34b4add451342f2da3ba0442adb3b3436861726c6573207468652050455045",
+  "ticker": "CHEPE",
+  "token_ascii": "Charles the Pepe",
+  "market_cap": 3073.2247384339944,
+  "price": 0.0000030732247384339945,
+  "liquidity": 16487.199469,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.19",
+  "token_age": 123,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:02.142Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "86360a798c6f5ad681714eb180b1db344982c72658daafe229e1efd454686520676f6f6420626f79",
+  "ticker": "MARLEY",
+  "token_ascii": "The good boy",
+  "market_cap": 18.877174005508966,
+  "price": 1.8877174005508967e-8,
+  "liquidity": 207.482323,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 119,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (207.48 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:51.319Z"
+}

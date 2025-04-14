@@ -1,0 +1,51 @@
+{
+  "token_id": "fce30a7f7d16e48c69a7847ec908fe098a0efa0dbc99bad8e2aec15a69646f6c",
+  "ticker": "IDOL",
+  "token_ascii": "IDOL",
+  "market_cap": 34275.74071752578,
+  "price": 0.00005193294048109967,
+  "liquidity": 53.623039999999996,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "639.20",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (53.62 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:52.405Z"
+}

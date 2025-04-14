@@ -1,0 +1,41 @@
+{
+  "token_id": "6ded36273214629f9ff35e9f9c7b8945d937a80a3796ddc4a646a50e485943",
+  "ticker": "HYC",
+  "token_ascii": "Hyena Coin",
+  "market_cap": 28620.968984245803,
+  "price": 2.86209689842458e-14,
+  "liquidity": 22128.677879000003,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.29",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 115,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:25.848Z"
+}

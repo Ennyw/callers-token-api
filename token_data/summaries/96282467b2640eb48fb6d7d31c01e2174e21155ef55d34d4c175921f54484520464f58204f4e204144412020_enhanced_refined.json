@@ -1,0 +1,44 @@
+{
+  "token_id": "96282467b2640eb48fb6d7d31c01e2174e21155ef55d34d4c175921f54484520464f58204f4e204144412020",
+  "ticker": "RDFX",
+  "token_ascii": "The Fox on ADA",
+  "market_cap": 10.186880110634215,
+  "price": 1.0186880110634214e-8,
+  "liquidity": 111.965782,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 117,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (111.97 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:10.973Z"
+}

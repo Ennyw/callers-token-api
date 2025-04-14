@@ -1,0 +1,37 @@
+{
+  "token_id": "79906b9c8d2fbddeba9658387a2a1187f3edd8f546e5dc49225710a146524f47474945",
+  "ticker": "FROGGIE",
+  "token_ascii": "Froggie Koin",
+  "market_cap": 9280.845434825307,
+  "price": 1.3450500630181604e-7,
+  "liquidity": 3588.182341,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.59",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:36.959Z"
+}

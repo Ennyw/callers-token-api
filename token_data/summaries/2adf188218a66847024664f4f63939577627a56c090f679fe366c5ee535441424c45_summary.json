@@ -1,0 +1,17 @@
+{
+  "token_id": "2adf188218a66847024664f4f63939577627a56c090f679fe366c5ee535441424c45",
+  "ticker": "STABLE",
+  "name": "Stablecoin",
+  "total_supply": 206420691337,
+  "circulating_supply": 178164485326,
+  "price": 0.0000014534912507887615,
+  "market_cap": 258960.52062262368,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

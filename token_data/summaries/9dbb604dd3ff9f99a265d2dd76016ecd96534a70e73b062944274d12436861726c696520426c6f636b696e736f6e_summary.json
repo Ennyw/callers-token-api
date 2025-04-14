@@ -1,0 +1,17 @@
+{
+  "token_id": "9dbb604dd3ff9f99a265d2dd76016ecd96534a70e73b062944274d12436861726c696520426c6f636b696e736f6e",
+  "ticker": "BLOCK",
+  "name": "Charles Blockinson",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000003862000275858686,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,43 @@
+{
+  "token_id": "2d420236ffaada336c21e3f4520b799f6e246d8618f2fc89a4907da64564756c6164646572546f6b656e",
+  "ticker": "ELADR",
+  "token_ascii": "EduLadder Token",
+  "market_cap": 1058.1075304706287,
+  "price": 2.3513500675557514e-8,
+  "liquidity": 30.98145,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 4,
+  "median_used": true,
+  "mcap_liquidity_ratio": "34.15",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "Insufficient liquidity (30.98 ADA) - minimum threshold is 500 ADA"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:15.958Z"
+}

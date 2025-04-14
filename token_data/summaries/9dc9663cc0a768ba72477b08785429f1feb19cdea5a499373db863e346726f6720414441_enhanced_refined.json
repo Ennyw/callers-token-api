@@ -1,0 +1,44 @@
+{
+  "token_id": "9dc9663cc0a768ba72477b08785429f1feb19cdea5a499373db863e346726f6720414441",
+  "ticker": "FADA",
+  "token_ascii": "Frog ADA",
+  "market_cap": 4076.3978435714953,
+  "price": 0.000004076397843571495,
+  "liquidity": 3433.960242,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.19",
+  "token_age": 209,
+  "trust_assessment": {
+    "score": 50,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:19.530Z"
+}

@@ -1,0 +1,40 @@
+{
+  "token_id": "9dd437ed3ef38da346619881842745611d27500c08332b34d74e236d526174746c65736e616b65",
+  "ticker": "RATTLE",
+  "token_ascii": "Rattlesnake",
+  "market_cap": 4952.375738741762,
+  "price": 0.000004952375738741762,
+  "liquidity": 17038.986069,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.29",
+  "token_age": 93,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:19.501Z"
+}

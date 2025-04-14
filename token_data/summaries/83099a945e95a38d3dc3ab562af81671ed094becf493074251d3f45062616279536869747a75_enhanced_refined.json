@@ -1,0 +1,37 @@
+{
+  "token_id": "83099a945e95a38d3dc3ab562af81671ed094becf493074251d3f45062616279536869747a75",
+  "ticker": "BBYSHTZ",
+  "token_ascii": "babyShitzu",
+  "market_cap": 5534.8066864232,
+  "price": 1.046901428203101e-8,
+  "liquidity": 2151.938443,
+  "circulating_supply": 528684605572,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.57",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:45.445Z"
+}

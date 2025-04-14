@@ -1,0 +1,50 @@
+{
+  "token_id": "cbdd51fec98ac08ff9d681792201df485c61af38a19f7214e2b7840b4f74746572576966426c616e6b6574",
+  "ticker": "OtterWifBlanket",
+  "token_ascii": "OtterWifBlanket",
+  "market_cap": 4765.809629170169,
+  "price": 0.000004765809629170168,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "original_pool_count": 0,
+  "suspicious_liquidity": true,
+  "price_from_average_price": true,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 217,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found, using fallback price source",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:59.081Z"
+}

@@ -1,0 +1,40 @@
+{
+  "token_id": "f2fa5d1c780f9c041914f96e1aa563e02c60d861e13154290cca908f426f6f6b204f662043686164",
+  "ticker": "BOC",
+  "token_ascii": "Book Of Chad",
+  "market_cap": 1519.9665762984914,
+  "price": 0.0000015199665762984914,
+  "liquidity": 14157.279069,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 126,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:38.302Z"
+}

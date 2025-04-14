@@ -1,0 +1,37 @@
+{
+  "token_id": "7d9aabc78703947e931e28273a96cf7412039fbd2e54a90ffb17239c42616279506f726b65",
+  "ticker": "BABYPORKE",
+  "token_ascii": "BabyPorke",
+  "market_cap": 9042.57904126712,
+  "price": 1.0386540750309496e-11,
+  "liquidity": 6525.816901,
+  "circulating_supply": 870605455526439,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.39",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:39.947Z"
+}

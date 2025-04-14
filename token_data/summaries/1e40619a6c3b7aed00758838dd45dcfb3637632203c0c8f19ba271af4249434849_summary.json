@@ -1,0 +1,17 @@
+{
+  "token_id": "1e40619a6c3b7aed00758838dd45dcfb3637632203c0c8f19ba271af4249434849",
+  "ticker": "BICHI",
+  "name": "Bichi",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 3.6479084588141257e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

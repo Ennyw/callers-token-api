@@ -1,0 +1,17 @@
+{
+  "token_id": "a5039068cb2b3ebcf874c0a4b012f19409befcf99e38c34c080af9d552686f6469756d436f696e",
+  "ticker": "RHOD",
+  "name": "Rhodium Coin",
+  "total_supply": 1000000,
+  "circulating_supply": 0,
+  "price": 0.0017079591540045153,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

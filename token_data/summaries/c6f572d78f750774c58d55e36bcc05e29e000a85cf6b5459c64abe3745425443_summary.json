@@ -1,0 +1,17 @@
+{
+  "token_id": "c6f572d78f750774c58d55e36bcc05e29e000a85cf6b5459c64abe3745425443",
+  "ticker": "EBTC",
+  "name": "ECOBITCOIN",
+  "total_supply": 21000000,
+  "circulating_supply": 0,
+  "price": 0.0002618915296510532,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

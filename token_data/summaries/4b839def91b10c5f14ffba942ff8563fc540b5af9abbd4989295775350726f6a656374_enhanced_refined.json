@@ -1,0 +1,44 @@
+{
+  "token_id": "4b839def91b10c5f14ffba942ff8563fc540b5af9abbd4989295775350726f6a656374",
+  "ticker": "PROJECT",
+  "token_ascii": "Project",
+  "market_cap": 451.16751954073874,
+  "price": 4.511675195407387e-7,
+  "liquidity": 308.987908,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.46",
+  "token_age": 138,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (308.99 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:49.600Z"
+}

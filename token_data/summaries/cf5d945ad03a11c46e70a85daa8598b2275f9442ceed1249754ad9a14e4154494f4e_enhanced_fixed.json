@@ -1,0 +1,21 @@
+{
+  "token_id": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a14e4154494f4e",
+  "ticker": "NATION",
+  "token_ascii": "NATION",
+  "decimals": 6,
+  "total_supply": 100000000,
+  "circulating_supply": 0,
+  "price": 0.00040158497472727645,
+  "market_cap": 40158.49747272764,
+  "fully_diluted_value": 40158.49747272764,
+  "liquidity": 89.061105,
+  "pools": {
+    "count": 2,
+    "total": 3,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:57:15.134Z"
+}

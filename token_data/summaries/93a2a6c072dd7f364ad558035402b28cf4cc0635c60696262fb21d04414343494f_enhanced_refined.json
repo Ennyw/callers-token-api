@@ -1,0 +1,44 @@
+{
+  "token_id": "93a2a6c072dd7f364ad558035402b28cf4cc0635c60696262fb21d04414343494f",
+  "ticker": "ACCIO",
+  "token_ascii": "Acciones Mithrandir",
+  "market_cap": 103743.77182238006,
+  "price": 0.19100636816157082,
+  "liquidity": 13972.08527,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "7.43",
+  "token_age": 130,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:05.385Z"
+}

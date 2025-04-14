@@ -1,0 +1,17 @@
+{
+  "token_id": "6ea9e98f9225e06ba885c26b461f842df0186bd12315dc1a4e53b81052756e20546f6b656e20414441",
+  "ticker": "RUN",
+  "name": "Run Token",
+  "total_supply": 999990000,
+  "circulating_supply": 995298000,
+  "price": 0.000006008703971096893,
+  "market_cap": 5980.451045024795,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,39 @@
+{
+  "token_id": "9153c43be41fc6f057524f98755c947494e59422a584409cf358a3ac426f6e65",
+  "ticker": "BONE",
+  "market_cap": 5230.7006778944915,
+  "price": 0.000005869898134286097,
+  "liquidity": 17674.621425999998,
+  "circulating_supply": 891105869,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.30",
+  "token_age": 117,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:02.661Z"
+}

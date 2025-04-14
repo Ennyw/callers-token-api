@@ -1,0 +1,21 @@
+{
+  "token_id": "fb4f75d1ad4eb5c21efd5a32a90c076e63a79daccf25afe4ccd4f71424504f50534e454b",
+  "ticker": "POP",
+  "token_ascii": "PopSnek",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000006105678213874926,
+  "market_cap": 6105.678213874926,
+  "fully_diluted_value": 6105.678213874926,
+  "liquidity": 4767.562484,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:57:54.227Z"
+}

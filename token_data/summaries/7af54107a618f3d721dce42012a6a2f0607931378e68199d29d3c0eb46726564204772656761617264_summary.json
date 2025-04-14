@@ -1,0 +1,17 @@
+{
+  "token_id": "7af54107a618f3d721dce42012a6a2f0607931378e68199d29d3c0eb46726564204772656761617264",
+  "ticker": "FRED",
+  "name": "Fred Gregaard",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000047344375390088595,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "fffb818d86ad49314e29379db26680c9669002ce72f2f1f6c2f761ce466f787879",
+  "ticker": "Foxxy",
+  "token_ascii": "Foxxy",
+  "market_cap": 8425.551186217346,
+  "price": 7.590586360200119e-15,
+  "liquidity": 108.214336,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "77.86",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "High market cap to liquidity ratio (77.86:1)",
+        "points": -20
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (108.21 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:55.021Z"
+}

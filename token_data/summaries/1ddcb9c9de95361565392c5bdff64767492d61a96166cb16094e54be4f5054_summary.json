@@ -1,0 +1,17 @@
+{
+  "token_id": "1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be4f5054",
+  "ticker": "OPT",
+  "name": "OptionFlowToken",
+  "total_supply": 45000000,
+  "circulating_supply": 40566679.500416,
+  "price": 0.011331587896414795,
+  "market_cap": 459684.89442465216,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

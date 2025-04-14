@@ -1,0 +1,17 @@
+{
+  "token_id": "ea02c99c0668891d6b7cdc49e075cbddf9cd5b89404e5a8a8e5d7016534c4f5020436f696e",
+  "ticker": "SLOP",
+  "name": "SLOP Coin",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000058941878361286974,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

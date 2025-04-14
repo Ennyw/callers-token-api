@@ -1,0 +1,44 @@
+{
+  "token_id": "cc8adb3cdd8bea510a0cd105faf0d8e9048126e9b5946ec7aecf4f314652454520524f474552",
+  "ticker": "ROGER",
+  "token_ascii": "FreeRoger",
+  "market_cap": 5350.0105969280075,
+  "price": 0.000005350010596928008,
+  "liquidity": 4100.507811,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.30",
+  "token_age": 145,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:01.913Z"
+}

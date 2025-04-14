@@ -1,0 +1,37 @@
+{
+  "token_id": "dbc069e6a6d41c0311608e1e1a518a68bb3d38fd30c4bbb2d3e37a1053544f4e58",
+  "ticker": "STONX",
+  "token_ascii": "STONX",
+  "market_cap": 658.722962677026,
+  "price": 9.540902098389762e-7,
+  "liquidity": 533.946069,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.23",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:15.916Z"
+}

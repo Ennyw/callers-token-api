@@ -1,0 +1,44 @@
+{
+  "token_id": "9f144f7c7c9e656f905c09442e08376dbb6ee0ef80dd8afe0a4fc07347726f6f7065657a546f6b656e",
+  "ticker": "NfA",
+  "token_ascii": "Groopeez Token",
+  "market_cap": 109.46075433244421,
+  "price": 2.606208436486767e-7,
+  "liquidity": 53.235616,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.06",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (53.24 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:19.360Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "85d87212f6096732ac1cdbf604a12aa8cfd1fd0b66ab28fc77d3764c44494e4f",
+  "ticker": "DINO",
+  "token_ascii": "DINO",
+  "market_cap": 231034.74651721265,
+  "price": 0.00023155118022158771,
+  "liquidity": 3622.92169,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "63.77",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:48.362Z"
+}

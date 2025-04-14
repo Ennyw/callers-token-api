@@ -1,0 +1,17 @@
+{
+  "token_id": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a634e455441",
+  "ticker": "cNETA",
+  "name": "anetaBTC",
+  "total_supply": 1000000000,
+  "circulating_supply": 993002500,
+  "price": 0.0002609620758903794,
+  "market_cap": 259135.99376433645,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

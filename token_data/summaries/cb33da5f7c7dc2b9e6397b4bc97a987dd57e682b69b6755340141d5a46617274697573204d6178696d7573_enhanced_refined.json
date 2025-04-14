@@ -1,0 +1,44 @@
+{
+  "token_id": "cb33da5f7c7dc2b9e6397b4bc97a987dd57e682b69b6755340141d5a46617274697573204d6178696d7573",
+  "ticker": "FMAX",
+  "token_ascii": "FMAX",
+  "market_cap": 6.355556344066945,
+  "price": 6.3555563440669445e-9,
+  "liquidity": 69.855032,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 102,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (69.86 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:58.995Z"
+}

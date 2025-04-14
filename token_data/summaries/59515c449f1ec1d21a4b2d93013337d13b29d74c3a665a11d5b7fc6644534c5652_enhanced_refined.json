@@ -1,0 +1,50 @@
+{
+  "token_id": "59515c449f1ec1d21a4b2d93013337d13b29d74c3a665a11d5b7fc6644534c5652",
+  "ticker": "DSLVR",
+  "token_ascii": "Digital Silver Token",
+  "market_cap": 2046790.5202775886,
+  "price": 0.00009746621525131374,
+  "liquidity": 2702.3336759999997,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "757.42",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 50,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      },
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:03.776Z"
+}

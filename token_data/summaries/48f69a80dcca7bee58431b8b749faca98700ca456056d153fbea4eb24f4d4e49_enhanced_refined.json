@@ -1,0 +1,44 @@
+{
+  "token_id": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb24f4d4e49",
+  "ticker": "OMNI",
+  "token_ascii": "OMNI",
+  "market_cap": 142521.17504457154,
+  "price": 0.0030672643004708952,
+  "liquidity": 7561.365508,
+  "circulating_supply": 46465241.036676,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "18.85",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:46.762Z"
+}

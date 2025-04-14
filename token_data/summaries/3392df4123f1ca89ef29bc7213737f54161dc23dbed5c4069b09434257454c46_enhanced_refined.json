@@ -1,0 +1,52 @@
+{
+  "token_id": "3392df4123f1ca89ef29bc7213737f54161dc23dbed5c4069b09434257454c46",
+  "ticker": "WELF",
+  "token_ascii": "Welf",
+  "market_cap": 70901.78908816061,
+  "price": 0.00007090178908816061,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "original_pool_count": 1,
+  "median_used": false,
+  "suspicious_liquidity": true,
+  "price_from_average_price": true,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 88,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found, using fallback price source",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Suspicious token: Claims to have pools but no valid liquidity data available",
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:21.722Z"
+}

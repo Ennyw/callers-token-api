@@ -1,0 +1,40 @@
+{
+  "token_id": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
+  "ticker": "AXO",
+  "token_ascii": "Axo Protocol",
+  "market_cap": 301808.58892525895,
+  "price": 0.05088375932925625,
+  "liquidity": 506.33019,
+  "circulating_supply": 5931334.337393,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "596.07",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:38.392Z"
+}

@@ -1,0 +1,61 @@
+{
+  "token_id": "b858a5324b7fdd8e68e2bbac0587b0bf5a68b2bb533c484b41d5b74f564f4944",
+  "ticker": "VOID",
+  "token_ascii": "VOID",
+  "market_cap": 362831.1608390366,
+  "price": 0.007256623216780732,
+  "liquidity": 2.323863,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "156132.77",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely high market cap to liquidity ratio (156132.77:1)",
+        "points": -40
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (156132.77:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (2.32 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (156132.77:1) - maximum allowed is 10000:1",
+      "Extremely suspicious market cap to liquidity ratio - likely manipulated",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:44.866Z"
+}

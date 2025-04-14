@@ -1,0 +1,44 @@
+{
+  "token_id": "f13d892fd7c9fc4c099745b6642b7e930fbfc3c49199f8169a228f5b4d634372616b696e",
+  "ticker": "RICK",
+  "token_ascii": "McCrackin",
+  "market_cap": 7.456568019342791,
+  "price": 7.456568019342791e-9,
+  "liquidity": 81.956444,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 108,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (81.96 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:38.359Z"
+}

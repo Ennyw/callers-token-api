@@ -1,0 +1,40 @@
+{
+  "token_id": "1f8ce331397091c0842791b1687f3f73b6e8a9ee02bc1eaafe2b2d964c4d454f57",
+  "ticker": "LMEOW",
+  "token_ascii": "Lmeow",
+  "market_cap": 1507.9602343760794,
+  "price": 0.0000015079602343760794,
+  "liquidity": 14152.460653999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 133,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:02.178Z"
+}

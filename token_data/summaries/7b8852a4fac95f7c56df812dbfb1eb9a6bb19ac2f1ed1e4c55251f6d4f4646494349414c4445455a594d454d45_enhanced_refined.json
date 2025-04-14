@@ -1,0 +1,51 @@
+{
+  "token_id": "7b8852a4fac95f7c56df812dbfb1eb9a6bb19ac2f1ed1e4c55251f6d4f4646494349414c4445455a594d454d45",
+  "ticker": "DEEZY",
+  "token_ascii": "Official Deezy Meme",
+  "market_cap": 2887.2370320665486,
+  "price": 0.0000028872370320665486,
+  "liquidity": 363.198048,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "7.95",
+  "token_age": 61,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (363.20 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:39.778Z"
+}

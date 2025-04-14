@@ -1,0 +1,39 @@
+{
+  "token_id": "fd281436a770fc846d48783a6378c9c567a9c6eade22ad21786f51e64d415254494e",
+  "ticker": "MARTIN",
+  "token_ascii": "Martin",
+  "market_cap": 21391.41540647142,
+  "price": 0.022732109776893016,
+  "liquidity": 4360.480435,
+  "circulating_supply": 941022,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.91",
+  "token_age": 295,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:52.377Z"
+}

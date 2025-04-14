@@ -1,0 +1,52 @@
+{
+  "token_id": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef4e564c",
+  "ticker": "NVL",
+  "token_ascii": "NuvolaDigital",
+  "market_cap": 23855416.125187207,
+  "price": 1.4205299010013763,
+  "liquidity": 880120.335526,
+  "circulating_supply": 16793322.061275,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "27.10",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 190,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token is in trusted whitelist",
+        "points": 50
+      },
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:07.056Z"
+}

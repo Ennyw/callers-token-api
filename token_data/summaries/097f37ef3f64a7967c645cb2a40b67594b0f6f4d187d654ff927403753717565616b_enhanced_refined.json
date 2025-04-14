@@ -1,0 +1,44 @@
+{
+  "token_id": "097f37ef3f64a7967c645cb2a40b67594b0f6f4d187d654ff927403753717565616b",
+  "ticker": "SQUEAK",
+  "token_ascii": "Squeakkoin",
+  "market_cap": 81279.73403198636,
+  "price": 0.0000813918848868746,
+  "liquidity": 16554.525562,
+  "circulating_supply": 998622088,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.91",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:45.063Z"
+}

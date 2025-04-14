@@ -1,0 +1,44 @@
+{
+  "token_id": "964c0bf63a9b2c9fc62ee7ae44129ce55ec91f74b758ec6f73ba32f14e415341206f6e2043617264616e6f",
+  "ticker": "NASA",
+  "token_ascii": "Nasa Cardanp",
+  "market_cap": 29933.973806435784,
+  "price": 0.000032718754598412755,
+  "liquidity": 10706.194431,
+  "circulating_supply": 914887323,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.80",
+  "token_age": 199,
+  "trust_assessment": {
+    "score": 50,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:11.086Z"
+}

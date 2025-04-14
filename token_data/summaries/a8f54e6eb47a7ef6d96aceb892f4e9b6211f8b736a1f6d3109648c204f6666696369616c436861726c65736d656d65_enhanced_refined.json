@@ -1,0 +1,40 @@
+{
+  "token_id": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c204f6666696369616c436861726c65736d656d65",
+  "ticker": "CHARLES",
+  "token_ascii": "Official Charles Meme",
+  "market_cap": 156839.82198637218,
+  "price": 0.0000017525790843104817,
+  "liquidity": 13395.673024,
+  "circulating_supply": 89490867140,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "11.71",
+  "token_age": 74,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:30.872Z"
+}

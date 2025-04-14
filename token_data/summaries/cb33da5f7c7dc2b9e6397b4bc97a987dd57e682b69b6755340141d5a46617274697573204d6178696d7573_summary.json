@@ -1,0 +1,17 @@
+{
+  "token_id": "cb33da5f7c7dc2b9e6397b4bc97a987dd57e682b69b6755340141d5a46617274697573204d6178696d7573",
+  "ticker": "FMAX",
+  "name": "FMAX",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 7.353161263157894e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

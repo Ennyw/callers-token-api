@@ -1,0 +1,42 @@
+{
+  "token_id": "ab37abdd3c55d2890e684993345bd53e9bcaacb6282169bef9be74b94c6f636f",
+  "ticker": "LOCO",
+  "market_cap": 8746.336846088472,
+  "price": 0.000008746336846088471,
+  "liquidity": 20592.902282,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.42",
+  "token_age": 118,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:33.644Z"
+}

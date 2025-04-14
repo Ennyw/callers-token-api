@@ -1,0 +1,48 @@
+{
+  "token_id": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353",
+  "ticker": "ENCS",
+  "token_ascii": "ENCOINS utility token",
+  "market_cap": 1330525.4186222171,
+  "price": 0.08870169457481447,
+  "liquidity": 32843.685255,
+  "circulating_supply": 15000000,
+  "outliers_filtered": false,
+  "pool_count": 5,
+  "original_pool_count": 6,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "40.51",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 110,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (5)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:16.401Z"
+}

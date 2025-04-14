@@ -1,0 +1,48 @@
+{
+  "token_id": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
+  "ticker": "MAYZ",
+  "token_ascii": "MAYZ",
+  "market_cap": 496697.69909633277,
+  "price": 0.004399495458565381,
+  "liquidity": 73492.114419,
+  "circulating_supply": 112898786.639116,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "6.76",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 130,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:19.445Z"
+}

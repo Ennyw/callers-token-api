@@ -1,0 +1,44 @@
+{
+  "token_id": "3df239965741de4aa02881da853867efe55f537430700effc131c3eb5065616e757420436f696e",
+  "ticker": "PEANUT",
+  "token_ascii": "Peanut Coin",
+  "market_cap": 7976.310905843063,
+  "price": 0.000007976310905843062,
+  "liquidity": 5507.123303,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.45",
+  "token_age": 162,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:32.916Z"
+}

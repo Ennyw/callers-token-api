@@ -1,0 +1,44 @@
+{
+  "token_id": "8cc023e60353569fc878e490e31e164d7ab0b9bece5cecffcf7a428755545842524f73",
+  "ticker": "UTXBRO",
+  "token_ascii": "UtxoBros",
+  "market_cap": 3.0449349591831627,
+  "price": 3.0449349591831628e-9,
+  "liquidity": 33.467413,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 148,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (33.47 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:56.847Z"
+}

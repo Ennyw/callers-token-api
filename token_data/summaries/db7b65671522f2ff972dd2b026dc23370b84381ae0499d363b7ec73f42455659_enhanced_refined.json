@@ -1,0 +1,40 @@
+{
+  "token_id": "db7b65671522f2ff972dd2b026dc23370b84381ae0499d363b7ec73f42455659",
+  "ticker": "BEVY",
+  "token_ascii": "BEVY",
+  "market_cap": 1912.2837555058366,
+  "price": 0.0000019122837555058366,
+  "liquidity": 14868.843987999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.13",
+  "token_age": 109,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:13.146Z"
+}

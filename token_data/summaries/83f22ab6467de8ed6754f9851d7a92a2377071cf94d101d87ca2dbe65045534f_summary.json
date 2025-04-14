@@ -1,0 +1,17 @@
+{
+  "token_id": "83f22ab6467de8ed6754f9851d7a92a2377071cf94d101d87ca2dbe65045534f",
+  "ticker": "PESO",
+  "name": "Peso",
+  "total_supply": 999897000,
+  "circulating_supply": 999897000,
+  "price": 1.9883917688534337e-12,
+  "market_cap": 0.0019881869645012418,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

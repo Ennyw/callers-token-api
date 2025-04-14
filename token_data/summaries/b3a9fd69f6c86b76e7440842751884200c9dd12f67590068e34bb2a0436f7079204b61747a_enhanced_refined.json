@@ -1,0 +1,44 @@
+{
+  "token_id": "b3a9fd69f6c86b76e7440842751884200c9dd12f67590068e34bb2a0436f7079204b61747a",
+  "ticker": "KATZ",
+  "token_ascii": "Copy Katz",
+  "market_cap": 2973.1124844203396,
+  "price": 0.0000029731124844203396,
+  "liquidity": 36065.505963,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.08",
+  "token_age": 76,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:39.376Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "8e790936da3037fd18cb3e16eb3f905f6e7dd0d83ae9707690d1d31247455259",
+  "ticker": "GARY",
+  "name": "GARY",
+  "total_supply": 123456789,
+  "circulating_supply": 0,
+  "price": 0.00013327399005179477,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,15 @@
+{
+  "token_id": "83f22ab6467de8ed6754f9851d7a92a2377071cf94d101d87ca2dbe65045534f",
+  "ticker": "PESO",
+  "token_ascii": "Peso",
+  "decimals": 0,
+  "total_supply": 999897000,
+  "circulating_supply": 999897000,
+  "price": 0,
+  "market_cap": 0,
+  "fully_diluted_value": 0,
+  "liquidity": 0,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:45:24.743Z"
+}

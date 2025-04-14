@@ -1,0 +1,46 @@
+{
+  "token_id": "ffb1abe9fe93ee9f13874403a3d4f8addaa65fbf22d5d7f41c087d8e4d5554414e54",
+  "ticker": "MUTANT",
+  "token_ascii": "MUTANT",
+  "market_cap": 65532.07470858764,
+  "price": 0.0016383018677146911,
+  "liquidity": 275.701907,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "237.69",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "Insufficient liquidity (275.70 ADA) - minimum threshold is 500 ADA"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:55.083Z"
+}

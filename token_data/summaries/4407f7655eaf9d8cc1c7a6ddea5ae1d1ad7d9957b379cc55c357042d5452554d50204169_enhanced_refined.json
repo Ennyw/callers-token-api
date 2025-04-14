@@ -1,0 +1,40 @@
+{
+  "token_id": "4407f7655eaf9d8cc1c7a6ddea5ae1d1ad7d9957b379cc55c357042d5452554d50204169",
+  "ticker": "TRUMP",
+  "token_ascii": "Trump AI",
+  "market_cap": 4902.200560263244,
+  "price": 0.000004912024609482209,
+  "liquidity": 18793.783018,
+  "circulating_supply": 998000000,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.26",
+  "token_age": 90,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:41.334Z"
+}

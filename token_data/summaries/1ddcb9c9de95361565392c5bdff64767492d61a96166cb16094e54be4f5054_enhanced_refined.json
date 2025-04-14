@@ -1,0 +1,43 @@
+{
+  "token_id": "1ddcb9c9de95361565392c5bdff64767492d61a96166cb16094e54be4f5054",
+  "ticker": "OPT",
+  "token_ascii": "OptionFlowToken",
+  "market_cap": 418093.31061054755,
+  "price": 0.010306323213026594,
+  "liquidity": 84321.494253,
+  "circulating_supply": 40566679.500416,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.96",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:02.056Z"
+}

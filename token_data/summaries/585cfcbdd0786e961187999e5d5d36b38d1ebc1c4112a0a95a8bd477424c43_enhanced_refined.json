@@ -1,0 +1,40 @@
+{
+  "token_id": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477424c43",
+  "ticker": "BLC",
+  "token_ascii": "Ibilecoin",
+  "market_cap": 24144.22226182515,
+  "price": 0.0011497248696107215,
+  "liquidity": 752.980115,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "32.06",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:00.820Z"
+}

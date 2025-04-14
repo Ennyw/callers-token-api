@@ -1,0 +1,48 @@
+{
+  "token_id": "85d7d630d91396fd3c06f1e912660a5756b2eb8dc003d053f54ae1620014df1046555a45",
+  "ticker": "FUZE",
+  "token_ascii": "FUZE",
+  "market_cap": 412406.88363737706,
+  "price": 0.00041240688363737706,
+  "liquidity": 35262.438545,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "11.70",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 80,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with moderate liquidity",
+        "points": -15
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:48.333Z"
+}

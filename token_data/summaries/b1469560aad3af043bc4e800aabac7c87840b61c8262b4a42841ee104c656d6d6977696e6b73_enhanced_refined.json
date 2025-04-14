@@ -1,0 +1,44 @@
+{
+  "token_id": "b1469560aad3af043bc4e800aabac7c87840b61c8262b4a42841ee104c656d6d6977696e6b73",
+  "ticker": "LEMMI",
+  "token_ascii": "Lemmiwinks",
+  "market_cap": 62911.02975233502,
+  "price": 0.00006291102975233502,
+  "liquidity": 15884.105502,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.96",
+  "token_age": 145,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:39.404Z"
+}

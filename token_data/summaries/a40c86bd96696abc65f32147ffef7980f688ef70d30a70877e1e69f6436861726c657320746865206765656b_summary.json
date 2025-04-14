@@ -1,0 +1,17 @@
+{
+  "token_id": "a40c86bd96696abc65f32147ffef7980f688ef70d30a70877e1e69f6436861726c657320746865206765656b",
+  "ticker": "GEEK",
+  "name": "Charles the Geek",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004293017773698098,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

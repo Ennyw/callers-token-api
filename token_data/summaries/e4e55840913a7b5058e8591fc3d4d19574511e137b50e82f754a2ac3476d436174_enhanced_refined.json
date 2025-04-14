@@ -1,0 +1,37 @@
+{
+  "token_id": "e4e55840913a7b5058e8591fc3d4d19574511e137b50e82f754a2ac3476d436174",
+  "ticker": "GMGM",
+  "token_ascii": "GmCat",
+  "market_cap": 4633.121948545232,
+  "price": 5.9568710767605817e-8,
+  "liquidity": 1884.775884,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.46",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:24.295Z"
+}

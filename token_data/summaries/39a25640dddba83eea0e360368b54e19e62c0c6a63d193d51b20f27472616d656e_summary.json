@@ -1,0 +1,17 @@
+{
+  "token_id": "39a25640dddba83eea0e360368b54e19e62c0c6a63d193d51b20f27472616d656e",
+  "ticker": "RAMEN",
+  "name": "Ramen",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004977365610396924,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

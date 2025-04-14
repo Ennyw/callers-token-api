@@ -1,0 +1,17 @@
+{
+  "token_id": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b63544f5349",
+  "ticker": "cTOSI",
+  "name": "TOSI",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00017505421548575119,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "0f8ef5c87769c3008e9a72455cd7257eb9ef4d16fe0795f550e620414556494c20534e454b",
+  "ticker": "EVSNK",
+  "token_ascii": "Evil Snek",
+  "market_cap": 5214.266415306135,
+  "price": 0.000005214266415306135,
+  "liquidity": 38534.939641000004,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.14",
+  "token_age": 79,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:50.693Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "40ef978ef2a69438af77513375bfc8ca79f8c062cb7429c3ed3438c243415244414e4f204d4958",
+  "ticker": "CMT",
+  "name": "CARDANO MIX",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000011228248804528929,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "d145859aa1cd53761c9c20ce00b9fbba3bcc48510069baf373d0a96b534e414b",
+  "ticker": "SNAK",
+  "name": "SNAK",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000010377765216005185,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,52 @@
+{
+  "token_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
+  "ticker": "NMKR",
+  "token_ascii": "NMKR",
+  "market_cap": 11207816.115565443,
+  "price": 0.0011207816115565443,
+  "liquidity": 155165.249063,
+  "circulating_supply": 10000000000,
+  "outliers_filtered": false,
+  "pool_count": 8,
+  "original_pool_count": 9,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "72.23",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 80,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Potential price manipulation (72.23:1 MCap/Liquidity ratio)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (8)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:09.874Z"
+}

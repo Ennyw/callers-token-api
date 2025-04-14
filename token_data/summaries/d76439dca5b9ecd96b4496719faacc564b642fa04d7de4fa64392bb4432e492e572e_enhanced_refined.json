@@ -1,0 +1,44 @@
+{
+  "token_id": "d76439dca5b9ecd96b4496719faacc564b642fa04d7de4fa64392bb4432e492e572e",
+  "ticker": "CIW",
+  "token_ascii": "C.I.W.",
+  "market_cap": 3009.369076481325,
+  "price": 0.000003009369076481325,
+  "liquidity": 2949.311155,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.02",
+  "token_age": 139,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:10.298Z"
+}

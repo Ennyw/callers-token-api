@@ -1,0 +1,40 @@
+{
+  "token_id": "01f5bdb48c0f927e6faf1eae109f7ae4f54b0f97d6c2329bfab0631a476c697463682d30783141",
+  "ticker": "GLTX",
+  "token_ascii": "Glitch AI",
+  "market_cap": 1455.1992473097175,
+  "price": 0.0000014551992473097176,
+  "liquidity": 14030.671295999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.10",
+  "token_age": 88,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:36.386Z"
+}

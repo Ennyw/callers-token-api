@@ -1,0 +1,15 @@
+{
+  "token_id": "d3a034e403b98cbdb0adbc8a3144d7779330916e190d387815bb85c650555252",
+  "ticker": "$PURR",
+  "token_ascii": "CatKinson",
+  "decimals": 0,
+  "total_supply": 100000000000,
+  "circulating_supply": 0,
+  "price": 0.000002452699922016419,
+  "market_cap": 245269.9922016419,
+  "fully_diluted_value": 245269.9922016419,
+  "liquidity": 177.216622,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:46:38.297Z"
+}

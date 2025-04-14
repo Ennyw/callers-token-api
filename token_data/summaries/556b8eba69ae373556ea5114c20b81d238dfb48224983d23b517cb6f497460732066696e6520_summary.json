@@ -1,0 +1,17 @@
+{
+  "token_id": "556b8eba69ae373556ea5114c20b81d238dfb48224983d23b517cb6f497460732066696e6520",
+  "ticker": "FINE",
+  "name": "Its Fine",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000035750879145213148,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

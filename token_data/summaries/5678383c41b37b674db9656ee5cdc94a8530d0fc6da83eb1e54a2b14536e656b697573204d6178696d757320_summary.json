@@ -1,0 +1,17 @@
+{
+  "token_id": "5678383c41b37b674db9656ee5cdc94a8530d0fc6da83eb1e54a2b14536e656b697573204d6178696d757320",
+  "ticker": "SNKM",
+  "name": "Snekius Maximus",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004059959193219043,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

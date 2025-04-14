@@ -1,0 +1,40 @@
+{
+  "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069425443",
+  "ticker": "iBTC",
+  "token_ascii": "iBTC",
+  "market_cap": 28014.654,
+  "price": 1000,
+  "liquidity": 538327.836819,
+  "circulating_supply": 28.014654,
+  "outliers_filtered": true,
+  "pool_count": 6,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.05",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 145,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (6)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:43.988Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "dfedc609867005a0fdae96a54d138d13a300b1ef19188d2ed590bc3543617264616e6f204167656e7420",
+  "ticker": "AGENT",
+  "name": "Cardano Agent",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000036773474974029414,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

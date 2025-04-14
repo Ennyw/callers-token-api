@@ -1,0 +1,21 @@
+{
+  "token_id": "786159378637c41e31ce124d4a960d0bd7624b35c8de6870c568053c46534e454b",
+  "ticker": "FSNEK",
+  "token_ascii": "FSNEK",
+  "decimals": 0,
+  "total_supply": 76715880000,
+  "circulating_supply": 0,
+  "price": 1.5174068702517412e-9,
+  "market_cap": 116.40920336940815,
+  "fully_diluted_value": 116.40920336940815,
+  "liquidity": 4.374241,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": true,
+    "medianUsed": true
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:55:52.121Z"
+}

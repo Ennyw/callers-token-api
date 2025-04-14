@@ -1,0 +1,40 @@
+{
+  "token_id": "14843d03326ab7fd91514e5c53378e9b7434b0d9c80498392293e424545341554e44",
+  "ticker": "TSAUND",
+  "token_ascii": "TSAUND",
+  "market_cap": 20294.976283400036,
+  "price": 0.000020294976283400035,
+  "liquidity": 8851.891548,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.29",
+  "token_age": 145,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:53.702Z"
+}

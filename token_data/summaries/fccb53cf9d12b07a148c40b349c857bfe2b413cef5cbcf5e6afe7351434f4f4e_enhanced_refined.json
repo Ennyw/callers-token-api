@@ -1,0 +1,48 @@
+{
+  "token_id": "fccb53cf9d12b07a148c40b349c857bfe2b413cef5cbcf5e6afe7351434f4f4e",
+  "ticker": "COON",
+  "token_ascii": "COON Coin",
+  "market_cap": 21577.691731521754,
+  "price": 0.0000021577691731521756,
+  "liquidity": 21395.187863,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.01",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 80,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with moderate liquidity",
+        "points": -15
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:49.569Z"
+}

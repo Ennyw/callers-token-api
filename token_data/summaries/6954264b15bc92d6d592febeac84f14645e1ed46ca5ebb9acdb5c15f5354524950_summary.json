@@ -1,0 +1,17 @@
+{
+  "token_id": "6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f5354524950",
+  "ticker": "STRIP",
+  "name": "StripperCoin",
+  "total_supply": 69000000,
+  "circulating_supply": 0,
+  "price": 0.0036948186205606926,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

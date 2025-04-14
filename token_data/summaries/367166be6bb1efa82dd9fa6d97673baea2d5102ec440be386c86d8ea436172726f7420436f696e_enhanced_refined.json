@@ -1,0 +1,40 @@
+{
+  "token_id": "367166be6bb1efa82dd9fa6d97673baea2d5102ec440be386c86d8ea436172726f7420436f696e",
+  "ticker": "CARROT",
+  "token_ascii": "Carrot Coin",
+  "market_cap": 7277.032755642586,
+  "price": 0.000007277032755642587,
+  "liquidity": 18024.827808,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.40",
+  "token_age": 93,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:24.412Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "f13a40b226c9f2461d201e66569cbb2b83183ae07f4ce5ada5cd62a5504f50535547",
+  "ticker": "POPSUG",
+  "token_ascii": "PopSug",
+  "market_cap": 3404.229656077518,
+  "price": 0.000003404229656077518,
+  "liquidity": 3170.032065,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.07",
+  "token_age": 144,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:38.445Z"
+}

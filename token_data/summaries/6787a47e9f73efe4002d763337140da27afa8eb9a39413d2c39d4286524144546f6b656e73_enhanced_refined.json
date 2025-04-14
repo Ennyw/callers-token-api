@@ -1,0 +1,39 @@
+{
+  "token_id": "6787a47e9f73efe4002d763337140da27afa8eb9a39413d2c39d4286524144546f6b656e73",
+  "ticker": "RAD",
+  "token_ascii": "RADTokens",
+  "market_cap": 230864.46190813975,
+  "price": 0.000026738507988575833,
+  "liquidity": 7864.945879,
+  "circulating_supply": 8634156476,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "29.35",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:20.108Z"
+}

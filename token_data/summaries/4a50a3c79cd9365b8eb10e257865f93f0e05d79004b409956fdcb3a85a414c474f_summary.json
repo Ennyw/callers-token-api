@@ -1,0 +1,17 @@
+{
+  "token_id": "4a50a3c79cd9365b8eb10e257865f93f0e05d79004b409956fdcb3a85a414c474f",
+  "ticker": "ZALGO",
+  "name": "Zalgocoin",
+  "total_supply": 1000000000000,
+  "circulating_supply": 0,
+  "price": 1.145857846564388e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

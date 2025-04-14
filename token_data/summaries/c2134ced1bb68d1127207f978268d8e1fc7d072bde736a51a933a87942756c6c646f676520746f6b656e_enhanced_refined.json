@@ -1,0 +1,40 @@
+{
+  "token_id": "c2134ced1bb68d1127207f978268d8e1fc7d072bde736a51a933a87942756c6c646f676520746f6b656e",
+  "ticker": "BDOGE",
+  "token_ascii": "Bulldoge Token",
+  "market_cap": 8647.18910279032,
+  "price": 0.00000864718910279032,
+  "liquidity": 18539.434352,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.47",
+  "token_age": 88,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:50.657Z"
+}

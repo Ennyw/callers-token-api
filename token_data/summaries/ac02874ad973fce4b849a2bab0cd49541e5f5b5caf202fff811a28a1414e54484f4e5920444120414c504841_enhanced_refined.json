@@ -1,0 +1,40 @@
+{
+  "token_id": "ac02874ad973fce4b849a2bab0cd49541e5f5b5caf202fff811a28a1414e54484f4e5920444120414c504841",
+  "ticker": "ALPHA",
+  "token_ascii": "ANTHONY DA ALPHA",
+  "market_cap": 1569.2134115250954,
+  "price": 0.0000015692134115250954,
+  "liquidity": 14267.112609,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 126,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:33.560Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "63dd2e98273b73207055e8bbab52dc74241905107bfc0cccdd8e0e772442414e414e41",
+  "ticker": "BANANA",
+  "name": "Banana",
+  "total_supply": 967000000,
+  "circulating_supply": 967000000,
+  "price": 0.000006514076038058447,
+  "market_cap": 6299.111528802518,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

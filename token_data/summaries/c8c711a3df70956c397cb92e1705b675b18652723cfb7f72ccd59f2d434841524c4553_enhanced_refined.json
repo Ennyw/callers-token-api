@@ -1,0 +1,52 @@
+{
+  "token_id": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
+  "ticker": "CHARLES",
+  "token_ascii": "Charles Media Token",
+  "market_cap": 1055623.7528660812,
+  "price": 0.035145287598280193,
+  "liquidity": 162423.147321,
+  "circulating_supply": 30035997,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "6.50",
+  "token_age": 221,
+  "trust_assessment": {
+    "score": 90,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:59.109Z"
+}

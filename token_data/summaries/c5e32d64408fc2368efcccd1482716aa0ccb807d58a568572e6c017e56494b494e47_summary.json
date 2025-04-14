@@ -1,0 +1,17 @@
+{
+  "token_id": "c5e32d64408fc2368efcccd1482716aa0ccb807d58a568572e6c017e56494b494e47",
+  "ticker": "VIKING",
+  "name": "VIKING",
+  "total_supply": 100000000000,
+  "circulating_supply": 0,
+  "price": 4.326508018778458e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

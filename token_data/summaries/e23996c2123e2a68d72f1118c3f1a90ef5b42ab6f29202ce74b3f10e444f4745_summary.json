@@ -1,0 +1,17 @@
+{
+  "token_id": "e23996c2123e2a68d72f1118c3f1a90ef5b42ab6f29202ce74b3f10e444f4745",
+  "ticker": "DOGE",
+  "name": "DOGE",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000010774578919154526,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

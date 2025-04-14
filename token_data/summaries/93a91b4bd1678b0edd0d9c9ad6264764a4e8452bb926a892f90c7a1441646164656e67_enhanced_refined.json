@@ -1,0 +1,51 @@
+{
+  "token_id": "93a91b4bd1678b0edd0d9c9ad6264764a4e8452bb926a892f90c7a1441646164656e67",
+  "ticker": "ADENG",
+  "token_ascii": "ADENG",
+  "market_cap": 4520.629037437873,
+  "price": 0.000050229211527087475,
+  "liquidity": 115.583393,
+  "circulating_supply": 90000000,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "39.11",
+  "token_age": 114,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (115.58 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:05.301Z"
+}

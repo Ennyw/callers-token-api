@@ -1,0 +1,17 @@
+{
+  "token_id": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a434152474f",
+  "ticker": "CARGO",
+  "name": "Cardano Gold",
+  "total_supply": 10000000,
+  "circulating_supply": 0,
+  "price": 0.004143856358034431,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

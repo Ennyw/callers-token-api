@@ -1,0 +1,15 @@
+{
+  "token_id": "86abe45be4d8fb2e8f28e8047d17d0ba5592f2a6c8c452fc88c2c14358524159",
+  "ticker": "XRAY",
+  "token_ascii": "XRAY",
+  "decimals": 6,
+  "total_supply": 324922240,
+  "circulating_supply": 291046319,
+  "price": 0.0038619265537082666,
+  "market_cap": 1123999.507705147,
+  "fully_diluted_value": 1254825.8265463703,
+  "liquidity": 33459.171251,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:45:27.302Z"
+}

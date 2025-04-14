@@ -1,0 +1,44 @@
+{
+  "token_id": "a2bccbe4ef8c5ecd224a00ff00f964118984ee7ce989c6de15ef4ae842554c4c52554e",
+  "ticker": "BULLRUN",
+  "token_ascii": "Bullrun",
+  "market_cap": 2884.3536272596125,
+  "price": 0.0000028843536272596125,
+  "liquidity": 2870.984279,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.00",
+  "token_age": 207,
+  "trust_assessment": {
+    "score": 50,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:25.104Z"
+}

@@ -1,0 +1,38 @@
+{
+  "token_id": "633f2e2c5280417c6b76055eda54fc07de984c122c01573ea4a9e8234361746e6970",
+  "ticker": "CATNIP",
+  "token_ascii": "Catnip",
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
+  "token_age": 0,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "No liquidity pools found",
+        "points": -80
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": []
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:12.968Z"
+}

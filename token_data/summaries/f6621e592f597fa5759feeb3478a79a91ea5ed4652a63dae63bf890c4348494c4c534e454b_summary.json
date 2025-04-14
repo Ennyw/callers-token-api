@@ -1,0 +1,17 @@
+{
+  "token_id": "f6621e592f597fa5759feeb3478a79a91ea5ed4652a63dae63bf890c4348494c4c534e454b",
+  "ticker": "CHILL",
+  "name": "Chill Snek",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 1.0431309818949551e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

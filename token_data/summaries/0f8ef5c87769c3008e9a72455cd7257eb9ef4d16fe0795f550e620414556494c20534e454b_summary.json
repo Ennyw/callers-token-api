@@ -1,0 +1,17 @@
+{
+  "token_id": "0f8ef5c87769c3008e9a72455cd7257eb9ef4d16fe0795f550e620414556494c20534e454b",
+  "ticker": "EVSNK",
+  "name": "Evil Snek",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00001547924309765023,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

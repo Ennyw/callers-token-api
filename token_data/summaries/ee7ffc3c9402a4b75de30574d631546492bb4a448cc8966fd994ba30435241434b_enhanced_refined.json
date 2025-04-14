@@ -1,0 +1,37 @@
+{
+  "token_id": "ee7ffc3c9402a4b75de30574d631546492bb4a448cc8966fd994ba30435241434b",
+  "ticker": "CRACK",
+  "token_ascii": "Cracktus Coin",
+  "market_cap": 20299.551964641116,
+  "price": 1.8269596768195273e-7,
+  "liquidity": 680.084592,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "29.85",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:35.621Z"
+}

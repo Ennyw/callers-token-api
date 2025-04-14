@@ -1,0 +1,15 @@
+{
+  "token_id": "37aa6cadc12b6b06f6fca056ac39896fe5b3d7b10e6b5513581e904d5472756d706b696e736f6e",
+  "ticker": "TRK",
+  "token_ascii": "Trumpkinson",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004857001075672171,
+  "market_cap": 4857.00107567217,
+  "fully_diluted_value": 4857.00107567217,
+  "liquidity": 4663.740204,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:44:11.954Z"
+}

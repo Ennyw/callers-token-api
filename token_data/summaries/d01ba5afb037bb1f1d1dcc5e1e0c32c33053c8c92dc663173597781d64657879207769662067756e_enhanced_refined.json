@@ -1,0 +1,40 @@
+{
+  "token_id": "d01ba5afb037bb1f1d1dcc5e1e0c32c33053c8c92dc663173597781d64657879207769662067756e",
+  "ticker": "GUN",
+  "token_ascii": "Dexy Wif Gun",
+  "market_cap": 1929.161286748812,
+  "price": 0.000001929161286748812,
+  "liquidity": 14859.395756999998,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.13",
+  "token_age": 138,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:04.796Z"
+}

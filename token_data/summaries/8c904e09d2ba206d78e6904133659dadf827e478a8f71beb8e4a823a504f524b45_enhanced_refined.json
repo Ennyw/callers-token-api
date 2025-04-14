@@ -1,0 +1,44 @@
+{
+  "token_id": "8c904e09d2ba206d78e6904133659dadf827e478a8f71beb8e4a823a504f524b45",
+  "ticker": "PORKE",
+  "token_ascii": "PORKE",
+  "market_cap": 20257.913859451124,
+  "price": 0.00002025791383919321,
+  "liquidity": 16659.639634,
+  "circulating_supply": 1000000001,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.22",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:56.992Z"
+}

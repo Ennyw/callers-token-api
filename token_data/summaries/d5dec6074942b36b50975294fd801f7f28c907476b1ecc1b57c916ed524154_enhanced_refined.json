@@ -1,0 +1,40 @@
+{
+  "token_id": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed524154",
+  "ticker": "RAT",
+  "token_ascii": "RAT",
+  "market_cap": 115566.08531069908,
+  "price": 0.0011556608531069908,
+  "liquidity": 7992.29678,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "14.46",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:10.211Z"
+}

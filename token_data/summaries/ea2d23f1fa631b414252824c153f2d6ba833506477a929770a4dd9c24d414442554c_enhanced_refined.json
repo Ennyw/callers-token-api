@@ -1,0 +1,49 @@
+{
+  "token_id": "ea2d23f1fa631b414252824c153f2d6ba833506477a929770a4dd9c24d414442554c",
+  "ticker": "MADBL",
+  "token_ascii": "MAdbuLL token",
+  "market_cap": 587061.7559623691,
+  "price": 5.870617559623692e-9,
+  "liquidity": 51.649304,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 4,
+  "median_used": true,
+  "mcap_liquidity_ratio": "11366.31",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (11366.31:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (51.65 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (11366.31:1) - maximum allowed is 10000:1",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:29.943Z"
+}

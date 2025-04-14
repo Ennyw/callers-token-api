@@ -1,0 +1,40 @@
+{
+  "token_id": "3f9aaa4dc243a779835dea22634ce7ed0f5362f4d496d0a64136741244554445",
+  "ticker": "DUDE",
+  "token_ascii": "Dude",
+  "market_cap": 3208.604250109029,
+  "price": 0.000003220833080160284,
+  "liquidity": 16261.022818999998,
+  "circulating_supply": 996203209,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.20",
+  "token_age": 128,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:35.643Z"
+}

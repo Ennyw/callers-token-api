@@ -1,0 +1,39 @@
+{
+  "token_id": "718c383a22b0239d034a95e750fd09a5930bddcffc24bf5c566b1cf153554d4d4f4e",
+  "ticker": "SUMMON",
+  "token_ascii": "Summon DAO",
+  "market_cap": 303856.9897675438,
+  "price": 0.0003038569897675438,
+  "liquidity": 17281.834928,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "17.58",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:28.625Z"
+}

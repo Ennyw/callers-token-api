@@ -1,0 +1,44 @@
+{
+  "token_id": "81097eb3fa0b103a5f1ee8c568755cc15557fd837b246f3d26719f1d54484f5220534e454b20",
+  "ticker": "THOR",
+  "token_ascii": "Thor Snek",
+  "market_cap": 12544.17881155909,
+  "price": 0.00001254417881155909,
+  "liquidity": 43409.669023,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.29",
+  "token_age": 72,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:45.602Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "eeeab48ea53c759e1ac8b42120414fba68f7457fd438d359ebc1f7744368616d",
+  "ticker": "CHAM",
+  "name": "Cham",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000003679135796277356,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

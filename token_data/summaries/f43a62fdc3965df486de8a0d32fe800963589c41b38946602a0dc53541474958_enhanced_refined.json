@@ -1,0 +1,52 @@
+{
+  "token_id": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+  "ticker": "AGIX",
+  "token_ascii": "SingularityNet AGIX Token",
+  "market_cap": 109429281.08206318,
+  "price": 0.35008380586656374,
+  "liquidity": 534808.848552,
+  "circulating_supply": 312580242.925526,
+  "outliers_filtered": false,
+  "pool_count": 8,
+  "original_pool_count": 9,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "204.61",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 80,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Potential price manipulation (204.61:1 MCap/Liquidity ratio)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (8)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:41.089Z"
+}

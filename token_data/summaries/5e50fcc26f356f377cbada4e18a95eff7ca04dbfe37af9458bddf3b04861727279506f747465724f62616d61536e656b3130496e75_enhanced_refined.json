@@ -1,0 +1,44 @@
+{
+  "token_id": "5e50fcc26f356f377cbada4e18a95eff7ca04dbfe37af9458bddf3b04861727279506f747465724f62616d61536e656b3130496e75",
+  "ticker": "SOLANA",
+  "token_ascii": "HarryPotterObamaSnek10Inu",
+  "market_cap": 6182.495437863677,
+  "price": 0.000006182495437863676,
+  "liquidity": 1068.711738,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5.78",
+  "token_age": 324,
+  "trust_assessment": {
+    "score": 50,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:10.045Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "707e7bc5ff06baefeb5ed3678e796c9d5aa8c7a8dd12faab8f1469b143617264616e6f43726f636f",
+  "ticker": "CROCO",
+  "name": "Cardano Croco",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000010510376020680369,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

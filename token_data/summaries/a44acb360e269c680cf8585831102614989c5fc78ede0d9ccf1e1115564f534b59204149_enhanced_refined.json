@@ -1,0 +1,44 @@
+{
+  "token_id": "a44acb360e269c680cf8585831102614989c5fc78ede0d9ccf1e1115564f534b59204149",
+  "ticker": "VOSKY",
+  "token_ascii": "VoskyAI",
+  "market_cap": 17546.994098474494,
+  "price": 0.000017546994098474492,
+  "liquidity": 33856.244796,
+  "circulating_supply": 1000000000,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.52",
+  "token_age": 50,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:28.004Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "8d7cc34c1a44ef419cf1560cbb84e7720ca6c03ab99f8745ab61d19d50414e4441",
+  "ticker": "PANDA",
+  "name": "PANDA Token",
+  "total_supply": 100000000,
+  "circulating_supply": 0,
+  "price": 0.00010292651484543664,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

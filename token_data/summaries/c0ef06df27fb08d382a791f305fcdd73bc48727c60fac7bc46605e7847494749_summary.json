@@ -1,0 +1,17 @@
+{
+  "token_id": "c0ef06df27fb08d382a791f305fcdd73bc48727c60fac7bc46605e7847494749",
+  "ticker": "GIGI",
+  "name": "Gigicoinada",
+  "total_supply": 300000000000,
+  "circulating_supply": 0,
+  "price": 7.364897027898082e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

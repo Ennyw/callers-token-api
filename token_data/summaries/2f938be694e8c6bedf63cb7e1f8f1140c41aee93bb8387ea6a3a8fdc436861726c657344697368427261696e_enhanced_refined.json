@@ -1,0 +1,44 @@
+{
+  "token_id": "2f938be694e8c6bedf63cb7e1f8f1140c41aee93bb8387ea6a3a8fdc436861726c657344697368427261696e",
+  "ticker": "CDB",
+  "token_ascii": "CharlesDishBrain",
+  "market_cap": 111.40707250656911,
+  "price": 1.1140707250656911e-7,
+  "liquidity": 109.612467,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.02",
+  "token_age": 73,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (109.61 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:18.713Z"
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
+  "ticker": "VYFI",
+  "token_ascii": "VYFI",
+  "market_cap": 3197899.340225542,
+  "price": 0.07953782905847569,
+  "liquidity": 576378.9989280001,
+  "circulating_supply": 40206017.414361,
+  "outliers_filtered": false,
+  "pool_count": 8,
+  "original_pool_count": 8,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5.55",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (8)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:42.704Z"
+}

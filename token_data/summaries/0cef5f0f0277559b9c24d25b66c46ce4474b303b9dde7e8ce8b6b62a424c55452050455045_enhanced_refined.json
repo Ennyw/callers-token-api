@@ -1,0 +1,40 @@
+{
+  "token_id": "0cef5f0f0277559b9c24d25b66c46ce4474b303b9dde7e8ce8b6b62a424c55452050455045",
+  "ticker": "BPEPE",
+  "token_ascii": "BLUE PEPE",
+  "market_cap": 1513.3097367571766,
+  "price": 0.0000015133097367571767,
+  "liquidity": 14197.999047,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 120,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:48.128Z"
+}

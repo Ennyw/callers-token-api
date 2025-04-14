@@ -1,0 +1,40 @@
+{
+  "token_id": "2d1b85e70963c5951ea05772a119be8899c6547d3db4df619b12b899434f4645",
+  "ticker": "COFE",
+  "token_ascii": "Cofe",
+  "market_cap": 3485.2401737041478,
+  "price": 0.000003642600515995138,
+  "liquidity": 16258.569101,
+  "circulating_supply": 956800000,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.21",
+  "token_age": 97,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:16.043Z"
+}

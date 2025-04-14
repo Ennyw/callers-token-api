@@ -1,0 +1,15 @@
+{
+  "token_id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
+  "ticker": "DJED",
+  "token_ascii": "Djed USD",
+  "decimals": 6,
+  "total_supply": 3778638.781128,
+  "circulating_supply": 3778638.781128,
+  "price": 1.3363497349547466,
+  "market_cap": 5049582.9336501295,
+  "fully_diluted_value": 5049582.9336501295,
+  "liquidity": 911626.9984830001,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:45:35.240Z"
+}

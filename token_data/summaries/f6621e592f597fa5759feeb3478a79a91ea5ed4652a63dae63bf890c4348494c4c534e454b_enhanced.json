@@ -1,0 +1,15 @@
+{
+  "token_id": "f6621e592f597fa5759feeb3478a79a91ea5ed4652a63dae63bf890c4348494c4c534e454b",
+  "ticker": "CHILL",
+  "token_ascii": "Chill Snek",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 8.846928740557766e-9,
+  "market_cap": 8.846928740557766,
+  "fully_diluted_value": 8.846928740557766,
+  "liquidity": 97.238142,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:47:12.050Z"
+}

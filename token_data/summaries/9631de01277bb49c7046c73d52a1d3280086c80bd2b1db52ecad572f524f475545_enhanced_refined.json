@@ -1,0 +1,40 @@
+{
+  "token_id": "9631de01277bb49c7046c73d52a1d3280086c80bd2b1db52ecad572f524f475545",
+  "ticker": "ROGUE",
+  "token_ascii": "ROGUE",
+  "market_cap": 51167.93987192079,
+  "price": 8.028264944030305e-8,
+  "liquidity": 22705.724456,
+  "circulating_supply": 637347424738,
+  "outliers_filtered": true,
+  "pool_count": 3,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.25",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:10.860Z"
+}

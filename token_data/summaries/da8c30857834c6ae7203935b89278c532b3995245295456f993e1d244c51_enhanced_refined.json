@@ -1,0 +1,48 @@
+{
+  "token_id": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+  "ticker": "LQ",
+  "token_ascii": "Liqwid DAO Token",
+  "market_cap": 61714374.76545183,
+  "price": 3.0717940155549637,
+  "liquidity": 973205.7236960001,
+  "circulating_supply": 20090661.825937,
+  "outliers_filtered": false,
+  "pool_count": 9,
+  "original_pool_count": 10,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "63.41",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Potential price manipulation (63.41:1 MCap/Liquidity ratio)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (9)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:12.977Z"
+}

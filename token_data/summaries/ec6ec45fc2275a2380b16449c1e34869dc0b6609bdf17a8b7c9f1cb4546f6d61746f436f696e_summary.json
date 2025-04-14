@@ -1,0 +1,17 @@
+{
+  "token_id": "ec6ec45fc2275a2380b16449c1e34869dc0b6609bdf17a8b7c9f1cb4546f6d61746f436f696e",
+  "ticker": "TCOIN",
+  "name": "TomatoCoin",
+  "total_supply": 19520515,
+  "circulating_supply": 18553453,
+  "price": 0.010213675661654126,
+  "market_cap": 189498.95134574373,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

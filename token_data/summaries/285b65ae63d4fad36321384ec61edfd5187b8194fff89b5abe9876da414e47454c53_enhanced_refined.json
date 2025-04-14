@@ -1,0 +1,52 @@
+{
+  "token_id": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
+  "ticker": "ANGELS",
+  "token_ascii": "Angels",
+  "market_cap": 1727825.6876292615,
+  "price": 3.483846961084986,
+  "liquidity": 50771.320634,
+  "circulating_supply": 495953.383409,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 3,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "34.03",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:13.305Z"
+}

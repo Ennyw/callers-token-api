@@ -1,0 +1,48 @@
+{
+  "token_id": "b201928d6bdb21c2e39205a92e226653d6002b949eaaacde3d986c2f524f4e",
+  "ticker": "RON",
+  "token_ascii": "Ron",
+  "market_cap": 360143.74222811,
+  "price": 0.000001815240636230393,
+  "liquidity": 103090.597638,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.49",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 100,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:39.175Z"
+}

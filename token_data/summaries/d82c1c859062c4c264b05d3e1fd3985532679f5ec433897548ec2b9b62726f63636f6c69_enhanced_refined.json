@@ -1,0 +1,44 @@
+{
+  "token_id": "d82c1c859062c4c264b05d3e1fd3985532679f5ec433897548ec2b9b62726f63636f6c69",
+  "ticker": "BRO",
+  "token_ascii": "broccoli",
+  "market_cap": 2090.734561112565,
+  "price": 0.0000020907345611125652,
+  "liquidity": 23597.228061,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 59,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:10.240Z"
+}

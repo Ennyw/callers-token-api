@@ -1,0 +1,44 @@
+{
+  "token_id": "83e8d2fcb4bf2ba5cbd72408187c67ce007695a5917ab791055b537350554c50204954",
+  "ticker": "PULP",
+  "token_ascii": "Pulp",
+  "market_cap": 15.399344019179024,
+  "price": 1.5399344019179024e-8,
+  "liquidity": 169.256885,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 146,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (169.26 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:45.502Z"
+}

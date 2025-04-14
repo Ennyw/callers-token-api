@@ -1,0 +1,44 @@
+{
+  "token_id": "dfee67c7858bd715f7066f1ae5977d2279316adea4c6a2756d29232157654172654e6f7454686553616d65",
+  "ticker": "WANTS",
+  "token_ascii": "WeAreNotTheSame",
+  "market_cap": 3747.120904509434,
+  "price": 0.0000037471209045094337,
+  "liquidity": 3416.396405,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.10",
+  "token_age": 154,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:18.897Z"
+}

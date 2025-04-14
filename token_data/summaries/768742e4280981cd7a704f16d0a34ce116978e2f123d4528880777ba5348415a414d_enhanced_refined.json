@@ -1,0 +1,40 @@
+{
+  "token_id": "768742e4280981cd7a704f16d0a34ce116978e2f123d4528880777ba5348415a414d",
+  "ticker": "SHAZAM",
+  "token_ascii": "SHAZAM",
+  "market_cap": 24079.928427501458,
+  "price": 0.0000024079928427501457,
+  "liquidity": 18628.188002,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.29",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:34.292Z"
+}

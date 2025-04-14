@@ -1,0 +1,44 @@
+{
+  "token_id": "1368bae53774b40d82dee2369d6608adf69f17759afb05c5dd2a7894426162792043686164",
+  "ticker": "BCHAD",
+  "token_ascii": "Baby Chad",
+  "market_cap": 10580.636840879171,
+  "price": 0.00001096824971860324,
+  "liquidity": 22262.049409,
+  "circulating_supply": 964660462,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.48",
+  "token_age": 129,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:53.787Z"
+}

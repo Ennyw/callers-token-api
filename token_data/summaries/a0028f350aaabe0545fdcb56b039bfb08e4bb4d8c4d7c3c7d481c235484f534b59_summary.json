@@ -1,0 +1,17 @@
+{
+  "token_id": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+  "ticker": "HOSKY",
+  "name": "HOSKY Token",
+  "total_supply": 1000000000000000,
+  "circulating_supply": 314999999999931,
+  "price": 9.457296179361152e-8,
+  "market_cap": 29790482.9649811,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

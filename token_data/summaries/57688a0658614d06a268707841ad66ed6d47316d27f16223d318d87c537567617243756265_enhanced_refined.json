@@ -1,0 +1,44 @@
+{
+  "token_id": "57688a0658614d06a268707841ad66ed6d47316d27f16223d318d87c537567617243756265",
+  "ticker": "CUBE",
+  "token_ascii": "SugarCube",
+  "market_cap": 16585.40784614875,
+  "price": 0.00001658540784614875,
+  "liquidity": 22950.250999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.72",
+  "token_age": 139,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:00.961Z"
+}

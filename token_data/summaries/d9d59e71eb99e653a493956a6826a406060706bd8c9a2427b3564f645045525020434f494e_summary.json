@@ -1,0 +1,17 @@
+{
+  "token_id": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f645045525020434f494e",
+  "ticker": "PERP",
+  "name": "Perp Coin",
+  "total_supply": 999995000,
+  "circulating_supply": 322595001,
+  "price": 0.0008445172592321349,
+  "market_cap": 272437.04608650785,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

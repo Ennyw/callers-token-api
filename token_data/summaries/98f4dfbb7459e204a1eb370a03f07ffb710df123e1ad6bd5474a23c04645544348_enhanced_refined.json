@@ -1,0 +1,44 @@
+{
+  "token_id": "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348",
+  "ticker": "FETCH",
+  "token_ascii": "Fetch Coin",
+  "market_cap": 1875.6942552326727,
+  "price": 0.000018756942552326727,
+  "liquidity": 1033.520008,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.81",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:13.703Z"
+}

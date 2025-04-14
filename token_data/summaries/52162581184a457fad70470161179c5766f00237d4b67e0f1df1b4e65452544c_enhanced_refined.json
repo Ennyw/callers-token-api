@@ -1,0 +1,41 @@
+{
+  "token_id": "52162581184a457fad70470161179c5766f00237d4b67e0f1df1b4e65452544c",
+  "ticker": "TRTL",
+  "token_ascii": "Tortol",
+  "market_cap": 170539.14017106386,
+  "price": 4.858928191403271e-7,
+  "liquidity": 95169.54586099999,
+  "circulating_supply": 350980984804,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.79",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 115,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:55.270Z"
+}

@@ -1,0 +1,43 @@
+{
+  "token_id": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+  "ticker": "NTX",
+  "token_ascii": "NuNet Utility Token",
+  "market_cap": 14139711.506321875,
+  "price": 0.019398564049823347,
+  "liquidity": 906572.576867,
+  "circulating_supply": 728905060.704771,
+  "outliers_filtered": false,
+  "pool_count": 8,
+  "original_pool_count": 8,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "15.60",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 145,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (8)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:32.926Z"
+}

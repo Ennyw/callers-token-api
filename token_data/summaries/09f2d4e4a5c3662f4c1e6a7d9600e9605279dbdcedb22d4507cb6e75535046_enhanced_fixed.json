@@ -1,0 +1,21 @@
+{
+  "token_id": "09f2d4e4a5c3662f4c1e6a7d9600e9605279dbdcedb22d4507cb6e75535046",
+  "ticker": "SPF",
+  "token_ascii": "SPF",
+  "decimals": 6,
+  "total_supply": 1000000000,
+  "circulating_supply": 43620393.593789,
+  "price": 0.007915871531805507,
+  "market_cap": 345293.43185522564,
+  "fully_diluted_value": 7915871.531805507,
+  "liquidity": 53199.687374,
+  "pools": {
+    "count": 2,
+    "total": 2,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:54:13.672Z"
+}

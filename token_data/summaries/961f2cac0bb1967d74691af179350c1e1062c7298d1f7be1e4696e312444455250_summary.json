@@ -1,0 +1,17 @@
+{
+  "token_id": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e312444455250",
+  "ticker": "DERP",
+  "name": "Derp Utility Token",
+  "total_supply": 100000000,
+  "circulating_supply": 9485259,
+  "price": 0.03385365054974153,
+  "market_cap": 321110.6435597908,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

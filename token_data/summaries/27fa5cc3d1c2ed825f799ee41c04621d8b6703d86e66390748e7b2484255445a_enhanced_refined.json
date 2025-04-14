@@ -1,0 +1,48 @@
+{
+  "token_id": "27fa5cc3d1c2ed825f799ee41c04621d8b6703d86e66390748e7b2484255445a",
+  "ticker": "BUDZ",
+  "token_ascii": "Budz",
+  "market_cap": 183402.26672790124,
+  "price": 0.00018345743623158223,
+  "liquidity": 24851.777607,
+  "circulating_supply": 999699279,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "7.38",
+  "token_age": 220,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with moderate liquidity",
+        "points": -15
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:10.559Z"
+}

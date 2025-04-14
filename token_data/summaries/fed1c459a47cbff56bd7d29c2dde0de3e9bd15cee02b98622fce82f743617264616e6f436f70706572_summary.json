@@ -1,0 +1,17 @@
+{
+  "token_id": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f743617264616e6f436f70706572",
+  "ticker": "CD",
+  "name": "Cardano Copper",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00000841457226539736,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

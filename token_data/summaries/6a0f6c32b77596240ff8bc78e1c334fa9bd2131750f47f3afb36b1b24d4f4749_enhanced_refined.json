@@ -1,0 +1,48 @@
+{
+  "token_id": "6a0f6c32b77596240ff8bc78e1c334fa9bd2131750f47f3afb36b1b24d4f4749",
+  "ticker": "MOGI",
+  "token_ascii": "Mogi CET",
+  "market_cap": 58047.06427795868,
+  "price": 0.00006597780244435885,
+  "liquidity": 29375.083874,
+  "circulating_supply": 879796873,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.98",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 80,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with moderate liquidity",
+        "points": -15
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:22.886Z"
+}

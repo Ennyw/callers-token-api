@@ -1,0 +1,17 @@
+{
+  "token_id": "7b9a3af857a5f956490a8714a798a1f6ef61c56167a01e9c4232f9250014df1042454552",
+  "ticker": "BEER",
+  "name": "Beer",
+  "total_supply": 250000000,
+  "circulating_supply": 0,
+  "price": 0.0039546392070965745,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

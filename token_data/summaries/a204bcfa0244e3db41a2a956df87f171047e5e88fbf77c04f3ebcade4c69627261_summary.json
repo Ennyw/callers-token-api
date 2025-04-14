@@ -1,0 +1,17 @@
+{
+  "token_id": "a204bcfa0244e3db41a2a956df87f171047e5e88fbf77c04f3ebcade4c69627261",
+  "ticker": "LIBRA",
+  "name": "Libra",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004424241757220087,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

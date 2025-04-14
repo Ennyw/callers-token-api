@@ -1,0 +1,48 @@
+{
+  "token_id": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56",
+  "ticker": "RJV",
+  "token_ascii": "Rejuve Token",
+  "market_cap": 5896391.275965793,
+  "price": 0.010340933867391483,
+  "liquidity": 375535.471196,
+  "circulating_supply": 570199108.859901,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "15.70",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 140,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:56.936Z"
+}

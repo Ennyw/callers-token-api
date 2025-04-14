@@ -1,0 +1,40 @@
+{
+  "token_id": "cc8c641f8b3dd88f96a00eee877a6811f8ea7bc0cf78eea5315f1d114e45524453204f462043415244414e4f",
+  "ticker": "NERDS",
+  "token_ascii": "Nerds Of Cardano",
+  "market_cap": 1687.0206364018131,
+  "price": 0.0000016870206364018132,
+  "liquidity": 14425.692071,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.12",
+  "token_age": 123,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:01.857Z"
+}

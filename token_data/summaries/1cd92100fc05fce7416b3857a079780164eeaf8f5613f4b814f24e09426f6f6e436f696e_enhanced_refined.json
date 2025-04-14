@@ -1,0 +1,37 @@
+{
+  "token_id": "1cd92100fc05fce7416b3857a079780164eeaf8f5613f4b814f24e09426f6f6e436f696e",
+  "ticker": "BOON",
+  "token_ascii": "BoonCoin",
+  "market_cap": 5170.408437499341,
+  "price": 1.3783976121152795e-7,
+  "liquidity": 1117.356446,
+  "circulating_supply": 37510282897,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "4.63",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:59.148Z"
+}

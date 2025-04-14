@@ -1,0 +1,40 @@
+{
+  "token_id": "7a0c09d9300f43535780a985fa43d490a4e448ee9e7aa990cb3affe84f5241434c45",
+  "ticker": "ORACLE",
+  "token_ascii": "Oracle AI",
+  "market_cap": 3753.450875857214,
+  "price": 0.000003854542710956548,
+  "liquidity": 17269.280206,
+  "circulating_supply": 973773326,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.22",
+  "token_age": 113,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:37.157Z"
+}

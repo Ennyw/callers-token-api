@@ -1,0 +1,17 @@
+{
+  "token_id": "d82c1c859062c4c264b05d3e1fd3985532679f5ec433897548ec2b9b62726f63636f6c69",
+  "ticker": "BRO",
+  "name": "broccoli",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000005773056871317139,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

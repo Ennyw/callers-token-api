@@ -1,0 +1,44 @@
+{
+  "token_id": "1a43e3c55c72181bed6d214e7b4b146c7d0ce4a2c23895aafae0472b4b4554414d494e45",
+  "ticker": "KETAMINE",
+  "token_ascii": "KETAMINE",
+  "market_cap": 501.79202262057663,
+  "price": 5.017920226205766e-8,
+  "liquidity": 62.194502,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "8.07",
+  "token_age": 155,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (62.19 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:59.292Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "368ddb898822e21fcc5ea91b75cb347d2cb00a2a573f8d1858291e0153505836393030",
+  "ticker": "SPX",
+  "name": "SPX6900",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000034643280128565443,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

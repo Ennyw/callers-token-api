@@ -1,0 +1,40 @@
+{
+  "token_id": "067cac6082f8661b6e14909b40590120bf0bf02c21f5d07ee03d0e02534e654c",
+  "ticker": "SNEL",
+  "token_ascii": "SNeL",
+  "market_cap": 2775.6234812994994,
+  "price": 0.0000027756234812994995,
+  "liquidity": 15712.570736,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.18",
+  "token_age": 116,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:42.436Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "98f4dfbb7459e204a1eb370a03f07ffb710df123e1ad6bd5474a23c04645544348",
+  "ticker": "FETCH",
+  "name": "Fetch Coin",
+  "total_supply": 100000000,
+  "circulating_supply": 0,
+  "price": 0.000019243541752052,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

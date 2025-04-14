@@ -1,0 +1,44 @@
+{
+  "token_id": "5ba7b5f6953486746b6c2e01aa5669f2925853d0710b4ee35e60e3ee436f6f6b6965204d616e",
+  "ticker": "COOKIE",
+  "token_ascii": "Cookie Man",
+  "market_cap": 1.5659262089812966,
+  "price": 1.5659262089812965e-9,
+  "liquidity": 17.211369,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 141,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (17.21 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:07.114Z"
+}

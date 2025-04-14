@@ -1,0 +1,37 @@
+{
+  "token_id": "71ccb467ef856b242753ca53ade36cd1f8d9abb33fdfa7d1ff89cda3434643",
+  "ticker": "CFC",
+  "token_ascii": "CFC Token",
+  "market_cap": 83920.52614420942,
+  "price": 8.392052614420942e-7,
+  "liquidity": 2979.226491,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "28.17",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:28.540Z"
+}

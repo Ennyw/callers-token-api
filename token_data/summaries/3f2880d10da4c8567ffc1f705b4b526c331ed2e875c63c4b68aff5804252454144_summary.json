@@ -1,0 +1,17 @@
+{
+  "token_id": "3f2880d10da4c8567ffc1f705b4b526c331ed2e875c63c4b68aff5804252454144",
+  "ticker": "Bread",
+  "name": "Bread",
+  "total_supply": 333000000000,
+  "circulating_supply": 0,
+  "price": 9.615496113422262e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

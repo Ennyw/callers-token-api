@@ -1,0 +1,17 @@
+{
+  "token_id": "fb4f75d1ad4eb5c21efd5a32a90c076e63a79daccf25afe4ccd4f71424504f50534e454b",
+  "ticker": "POP",
+  "name": "PopSnek",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000007201782927113536,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

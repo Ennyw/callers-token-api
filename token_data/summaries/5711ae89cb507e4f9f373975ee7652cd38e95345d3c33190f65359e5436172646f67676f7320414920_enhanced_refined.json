@@ -1,0 +1,44 @@
+{
+  "token_id": "5711ae89cb507e4f9f373975ee7652cd38e95345d3c33190f65359e5436172646f67676f7320414920",
+  "ticker": "DOGGOS",
+  "token_ascii": "Cardoggos AI",
+  "market_cap": 4288.9603280951815,
+  "price": 0.000004288960328095181,
+  "liquidity": 26230.477674,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.16",
+  "token_age": 49,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:00.933Z"
+}

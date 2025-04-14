@@ -1,0 +1,17 @@
+{
+  "token_id": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68424f58",
+  "ticker": "BOX",
+  "name": "BOX",
+  "total_supply": 1000000000,
+  "circulating_supply": 900000000,
+  "price": 0.00003491120609494206,
+  "market_cap": 31420.085485447857,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

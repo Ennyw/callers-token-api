@@ -1,0 +1,40 @@
+{
+  "token_id": "578029f3edb573e764de1d933a893f9ddcf58411025816b64549b1cf64656e6e6973",
+  "ticker": "DENNIS",
+  "token_ascii": "Dennis Token",
+  "market_cap": 19927.641731898995,
+  "price": 0.019927641731898996,
+  "liquidity": 2724.037994,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "7.32",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:00.848Z"
+}

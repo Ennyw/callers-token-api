@@ -1,0 +1,40 @@
+{
+  "token_id": "69740f7e0456cbe01414d33a05f0e019139b6d5117529b15c4a9f705434841524b4f4c",
+  "ticker": "CHARK",
+  "token_ascii": "Charkol",
+  "market_cap": 2158.3669510201617,
+  "price": 0.0000021583669510201615,
+  "liquidity": 15467.667668999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.14",
+  "token_age": 99,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:23.001Z"
+}

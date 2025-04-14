@@ -1,0 +1,37 @@
+{
+  "token_id": "c15495207de066e24570563cdcef30f188e153c6e207eae50c526dfb4d616b654d7943617446616d6f7573",
+  "ticker": "MYCAT",
+  "token_ascii": "MakeMyCatFamous",
+  "market_cap": 536.4896065510088,
+  "price": 5.364896065510088e-12,
+  "liquidity": 517.047709,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.04",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:50.432Z"
+}

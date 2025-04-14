@@ -1,0 +1,17 @@
+{
+  "token_id": "a32e1e73bfff4ae8ea7a9571e7ac6af187846edc816ee140236319a85049",
+  "ticker": "PI",
+  "name": "Pi",
+  "total_supply": 3,
+  "circulating_supply": 0,
+  "price": 755.2366005151227,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

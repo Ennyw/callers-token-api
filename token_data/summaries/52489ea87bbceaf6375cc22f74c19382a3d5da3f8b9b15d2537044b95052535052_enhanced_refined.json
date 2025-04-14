@@ -1,0 +1,52 @@
+{
+  "token_id": "52489ea87bbceaf6375cc22f74c19382a3d5da3f8b9b15d2537044b95052535052",
+  "ticker": "PRSPR",
+  "token_ascii": "PRSPR",
+  "market_cap": 69075.19727454503,
+  "price": 0.00018420052606545344,
+  "liquidity": 3.687107,
+  "circulating_supply": 375000000,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "18734.25",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (18734.25:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (3.69 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (18734.25:1) - maximum allowed is 10000:1",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:55.241Z"
+}

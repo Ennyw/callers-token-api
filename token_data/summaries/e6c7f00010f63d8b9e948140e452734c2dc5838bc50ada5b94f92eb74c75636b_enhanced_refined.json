@@ -1,0 +1,39 @@
+{
+  "token_id": "e6c7f00010f63d8b9e948140e452734c2dc5838bc50ada5b94f92eb74c75636b",
+  "ticker": "LUCK",
+  "token_ascii": "Luck",
+  "market_cap": 4957.613478237369,
+  "price": 0.000004957613478237369,
+  "liquidity": 17824.419856,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.28",
+  "token_age": 127,
+  "trust_assessment": {
+    "score": 115,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:27.290Z"
+}

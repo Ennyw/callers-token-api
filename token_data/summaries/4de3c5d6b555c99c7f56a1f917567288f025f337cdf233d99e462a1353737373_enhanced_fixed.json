@@ -1,0 +1,21 @@
+{
+  "token_id": "4de3c5d6b555c99c7f56a1f917567288f025f337cdf233d99e462a1353737373",
+  "ticker": "Sssssss",
+  "token_ascii": "Ssss",
+  "decimals": 0,
+  "total_supply": 2410777781,
+  "circulating_supply": 1936420004,
+  "price": 0.0000010616992259151676,
+  "market_cap": 2055.8956192934456,
+  "fully_diluted_value": 2559.5209039411857,
+  "liquidity": 889.681335,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:55:15.976Z"
+}

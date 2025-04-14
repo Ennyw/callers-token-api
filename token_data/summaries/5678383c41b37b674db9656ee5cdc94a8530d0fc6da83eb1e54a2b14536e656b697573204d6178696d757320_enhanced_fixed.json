@@ -1,0 +1,21 @@
+{
+  "token_id": "5678383c41b37b674db9656ee5cdc94a8530d0fc6da83eb1e54a2b14536e656b697573204d6178696d757320",
+  "ticker": "SNKM",
+  "token_ascii": "Snekius Maximus",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000017280868733662746,
+  "market_cap": 1728.0868733662746,
+  "fully_diluted_value": 1728.0868733662746,
+  "liquidity": 14576.963876,
+  "pools": {
+    "count": 2,
+    "total": 2,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:55:23.689Z"
+}

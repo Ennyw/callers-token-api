@@ -1,0 +1,17 @@
+{
+  "token_id": "8e969e8e238886405a1d6a43a6c0cfa8e94f15eb0e3db805c00c4f58546f6e7920746865207469676572",
+  "ticker": "TONY",
+  "name": "Tony Tiger",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.0000037306083654575584,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

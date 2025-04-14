@@ -1,0 +1,44 @@
+{
+  "token_id": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb436861726c65737352616e6368",
+  "ticker": "RANCH",
+  "token_ascii": "Charles Ranch",
+  "market_cap": 13614.837853991115,
+  "price": 0.000013614837853991115,
+  "liquidity": 5577.796303,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.44",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:44.926Z"
+}

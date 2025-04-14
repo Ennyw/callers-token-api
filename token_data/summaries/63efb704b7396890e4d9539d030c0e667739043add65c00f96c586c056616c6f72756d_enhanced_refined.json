@@ -1,0 +1,44 @@
+{
+  "token_id": "63efb704b7396890e4d9539d030c0e667739043add65c00f96c586c056616c6f72756d",
+  "ticker": "VLRM",
+  "token_ascii": "Valorum",
+  "market_cap": 61375.9836776394,
+  "price": 0.007735475289852302,
+  "liquidity": 7063.23074,
+  "circulating_supply": 7934351.9794,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "8.69",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:16.823Z"
+}

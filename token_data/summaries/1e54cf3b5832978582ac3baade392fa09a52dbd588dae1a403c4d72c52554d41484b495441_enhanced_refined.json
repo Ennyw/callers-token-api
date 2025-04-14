@@ -1,0 +1,37 @@
+{
+  "token_id": "1e54cf3b5832978582ac3baade392fa09a52dbd588dae1a403c4d72c52554d41484b495441",
+  "ticker": "RK",
+  "token_ascii": "RUMAH KITA",
+  "market_cap": 81853.08711085528,
+  "price": 6.018609346386417e-7,
+  "liquidity": 2716.80176,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "30.13",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:01.941Z"
+}

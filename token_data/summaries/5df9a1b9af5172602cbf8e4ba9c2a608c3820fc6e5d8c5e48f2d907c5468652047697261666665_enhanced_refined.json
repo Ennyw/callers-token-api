@@ -1,0 +1,43 @@
+{
+  "token_id": "5df9a1b9af5172602cbf8e4ba9c2a608c3820fc6e5d8c5e48f2d907c5468652047697261666665",
+  "ticker": "CHIPS",
+  "token_ascii": "The Giraffe",
+  "market_cap": 209951.31055047223,
+  "price": 0.0002225723768947117,
+  "liquidity": 56745.754308,
+  "circulating_supply": 943294552,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.70",
+  "token_age": 136,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:10.073Z"
+}

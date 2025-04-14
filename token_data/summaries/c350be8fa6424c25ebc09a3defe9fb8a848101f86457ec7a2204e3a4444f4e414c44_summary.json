@@ -1,0 +1,17 @@
+{
+  "token_id": "c350be8fa6424c25ebc09a3defe9fb8a848101f86457ec7a2204e3a4444f4e414c44",
+  "ticker": "DONALD",
+  "name": "Donald",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000004086769592003561,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

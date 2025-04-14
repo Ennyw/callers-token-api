@@ -1,0 +1,37 @@
+{
+  "token_id": "724a31d1421744cac3bb1d547aa692b43517d651c46e60a0cf1f70ec444f444f",
+  "ticker": "DODO",
+  "token_ascii": "DODO",
+  "market_cap": 56826.12132458847,
+  "price": 5.682612132458847e-7,
+  "liquidity": 12207.239564,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "4.66",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:28.426Z"
+}

@@ -1,0 +1,61 @@
+{
+  "token_id": "b9168f05e657b6946fede254e383586cf7e7a2573d5a0fa12b3ef6ac494450",
+  "ticker": "IDP",
+  "token_ascii": "IDO Pass DAO Utility Token",
+  "market_cap": 390477278.707768,
+  "price": 0.3957129788957516,
+  "liquidity": 5.054553,
+  "circulating_supply": 986768945,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "77252583.70",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 0,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Potential price manipulation (77252583.70:1 MCap/Liquidity ratio)",
+        "points": -40
+      },
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      },
+      {
+        "reason": "Extreme market cap to liquidity ratio (77252583.70:1)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (5.05 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (77252583.70:1) - maximum allowed is 10000:1",
+      "Extremely suspicious market cap to liquidity ratio - likely manipulated",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:44.955Z"
+}

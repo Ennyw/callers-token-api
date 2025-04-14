@@ -1,0 +1,17 @@
+{
+  "token_id": "dc280dbb5381ef28afbab4ca31751f13c29562d376998e907ff1af32474e5547",
+  "ticker": "GNUG",
+  "name": "Gold Nuggets",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000016229938895015157,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

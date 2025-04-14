@@ -1,0 +1,44 @@
+{
+  "token_id": "faf9889f47c0b39177a7e07fe71ee5f5037beb01dcec3d4f2daae586456c657661746f72204c616273",
+  "ticker": "ELV",
+  "token_ascii": "ELV",
+  "market_cap": 3014.384184623162,
+  "price": 3.014384184623162e-7,
+  "liquidity": 162.951756,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "18.50",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (162.95 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:46.876Z"
+}

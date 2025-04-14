@@ -1,0 +1,17 @@
+{
+  "token_id": "ee0633e757fdd1423220f43688c74678abde1cead7ce265ba8a24fcd43424c50",
+  "ticker": "CBLP",
+  "name": "CBLP",
+  "total_supply": 1000000000,
+  "circulating_supply": 900000000,
+  "price": 0.0030401346111460707,
+  "market_cap": 2736121.1500314637,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "9586f4b08b9ac97d676519427e55800d9a559cd6d4754a6c8faa4ab64d656d65204d696e657273",
+  "ticker": "MINE",
+  "token_ascii": "Meme Miners",
+  "market_cap": 32898.87475248688,
+  "price": 0.00003289887475248688,
+  "liquidity": 10359.250404,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "original_pool_count": 3,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "3.18",
+  "token_age": 162,
+  "trust_assessment": {
+    "score": 65,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:08.210Z"
+}

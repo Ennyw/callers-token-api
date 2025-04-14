@@ -1,0 +1,44 @@
+{
+  "token_id": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34534f4e474d41524b4554434150",
+  "ticker": "SONG",
+  "token_ascii": "SongMarketCap",
+  "market_cap": 514935.68836023187,
+  "price": 0.0005149356883602319,
+  "liquidity": 104404.546769,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.93",
+  "token_age": 77,
+  "trust_assessment": {
+    "score": 115,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:44.186Z"
+}

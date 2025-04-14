@@ -1,0 +1,21 @@
+{
+  "token_id": "cb07b6f315fe991e49504e29bdb1a15b004e324f50c71dac8c74329a5a6fef6465",
+  "ticker": "ZOIDE",
+  "token_ascii": "Zoide",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00000163481325261668,
+  "market_cap": 1634.81325261668,
+  "fully_diluted_value": 1634.81325261668,
+  "liquidity": 14422.346830999999,
+  "pools": {
+    "count": 2,
+    "total": 2,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:57:09.930Z"
+}

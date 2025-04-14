@@ -1,0 +1,39 @@
+{
+  "token_id": "96ad5ab136d2193dda2afb662285b93e48d265e14df59ee0f33925ae4447454d",
+  "ticker": "DGEM",
+  "token_ascii": "Digital Diamond Token",
+  "market_cap": 540865.6634738866,
+  "price": 0.5408662043400909,
+  "liquidity": 2194.352823,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "246.48",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:11.002Z"
+}

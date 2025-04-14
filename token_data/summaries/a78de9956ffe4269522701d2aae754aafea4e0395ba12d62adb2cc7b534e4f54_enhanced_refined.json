@@ -1,0 +1,37 @@
+{
+  "token_id": "a78de9956ffe4269522701d2aae754aafea4e0395ba12d62adb2cc7b534e4f54",
+  "ticker": "SNOT",
+  "token_ascii": "Cardona Golbins",
+  "market_cap": 26152.383496581413,
+  "price": 3.767269302302134e-7,
+  "liquidity": 17809.310322,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.47",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:27.862Z"
+}

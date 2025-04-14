@@ -1,0 +1,44 @@
+{
+  "token_id": "31889c7ea521638b588f923f21d2d675abf2acad49f3a28a9040ab16444f47204f4e2043415244414e4f",
+  "ticker": "DOG",
+  "token_ascii": "Dog on Cardano",
+  "market_cap": 16190.202015885749,
+  "price": 0.00001619020201588575,
+  "liquidity": 7919.849211,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.04",
+  "token_age": 140,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:21.635Z"
+}

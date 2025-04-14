@@ -1,0 +1,17 @@
+{
+  "token_id": "af03770556f3312d90523bc6a743ec2fb61e2eae47519faecf5127c3575342",
+  "ticker": "WSB",
+  "name": "WallStreetBets",
+  "total_supply": 300000000,
+  "circulating_supply": 0,
+  "price": 0.00003336943510526678,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

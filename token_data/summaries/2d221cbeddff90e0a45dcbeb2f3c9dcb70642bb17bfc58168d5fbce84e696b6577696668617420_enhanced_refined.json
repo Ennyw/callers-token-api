@@ -1,0 +1,44 @@
+{
+  "token_id": "2d221cbeddff90e0a45dcbeb2f3c9dcb70642bb17bfc58168d5fbce84e696b6577696668617420",
+  "ticker": "NWIF",
+  "token_ascii": "NikeWifHat",
+  "market_cap": 13.121122809890661,
+  "price": 1.3121122809890661e-8,
+  "liquidity": 144.216557,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 144,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (144.22 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:16.101Z"
+}

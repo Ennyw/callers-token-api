@@ -1,0 +1,52 @@
+{
+  "token_id": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
+  "ticker": "WMTX",
+  "token_ascii": "World Mobile Token X",
+  "market_cap": 185090366.82060683,
+  "price": 0.261511033049039,
+  "liquidity": 2143273.672218,
+  "circulating_supply": 707772688.068187,
+  "outliers_filtered": false,
+  "pool_count": 5,
+  "original_pool_count": 5,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "86.36",
+  "token_age": 306,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Potential price manipulation (86.36:1 MCap/Liquidity ratio)",
+        "points": -40
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (5)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:24.474Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
+  "ticker": "INDY",
+  "name": "Indigo DAO Token",
+  "total_supply": 35000000,
+  "circulating_supply": 16806219,
+  "price": 1.5061841463400163,
+  "market_cap": 25313260.61771836,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "0d90046ad35546156aaf790525133f7fc713ca2790e397784b85f5c85554494c",
+  "ticker": "UTIL",
+  "name": "Utility Token",
+  "total_supply": 100000000000,
+  "circulating_supply": 60000000000,
+  "price": 3.6215342841938914e-9,
+  "market_cap": 217.2920570516335,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

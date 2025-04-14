@@ -1,0 +1,37 @@
+{
+  "token_id": "3fb1b71327edc4c6d6e7354fc5951efb08a0ca8f527a1245234f5f4d4d722e204a696e676c6573",
+  "ticker": "JINGLE",
+  "token_ascii": "Mr. Jingles",
+  "market_cap": 52.60295537101356,
+  "price": 5.260295537101356e-8,
+  "liquidity": 578.168288,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 109,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:35.613Z"
+}

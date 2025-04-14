@@ -1,0 +1,40 @@
+{
+  "token_id": "cdbbe391853676285131fe2de250e274dbeb5f9d98344e86c7b383d9474c44534e454b",
+  "ticker": "GLDSNEK",
+  "token_ascii": "Golden Snakes",
+  "market_cap": 88288.74670567476,
+  "price": 0.000001156946961560312,
+  "liquidity": 13106.030722,
+  "circulating_supply": 76311835926,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "6.74",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:01.800Z"
+}

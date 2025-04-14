@@ -1,0 +1,44 @@
+{
+  "token_id": "e095e8c148f5e2e0e20b6a5243985ffead3c5cbf3bce151683eee8bb63617264616e6f206d6173636f7420",
+  "ticker": "CARINA",
+  "token_ascii": "carina",
+  "market_cap": 7605.72381014043,
+  "price": 0.00000760572381014043,
+  "liquidity": 5336.276023,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.43",
+  "token_age": 142,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:18.869Z"
+}

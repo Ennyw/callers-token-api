@@ -1,0 +1,44 @@
+{
+  "token_id": "3f3fa34870b0983af520b3048becb38ca9e030220ea16ed618ba0053476f646c6f766573796f75",
+  "ticker": "GLY",
+  "token_ascii": "Godlovesyou",
+  "market_cap": 9655.170761753572,
+  "price": 0.000009655170761753572,
+  "liquidity": 3851.859043,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.51",
+  "token_age": 69,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:35.815Z"
+}

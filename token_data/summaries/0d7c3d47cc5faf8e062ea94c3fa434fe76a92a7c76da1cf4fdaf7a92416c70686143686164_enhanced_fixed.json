@@ -1,0 +1,21 @@
+{
+  "token_id": "0d7c3d47cc5faf8e062ea94c3fa434fe76a92a7c76da1cf4fdaf7a92416c70686143686164",
+  "ticker": "ALPHA",
+  "token_ascii": "AlphaChad",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 3.3216450470491093e-9,
+  "market_cap": 3.3216450470491092,
+  "fully_diluted_value": 3.3216450470491092,
+  "liquidity": 36.508782,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": true,
+    "medianUsed": true
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:54:16.179Z"
+}

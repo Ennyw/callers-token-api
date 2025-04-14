@@ -1,0 +1,40 @@
+{
+  "token_id": "3ba34ebe2ffdf80fa479cc9636bab40093396cbe8570fefcd432d25e4f7074696d7573205465726d696e616c",
+  "ticker": "OPTI",
+  "token_ascii": "Optimus Terminal",
+  "market_cap": 3414.2387306797327,
+  "price": 0.000003414238730679733,
+  "liquidity": 16622.470172,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.21",
+  "token_age": 89,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:30.142Z"
+}

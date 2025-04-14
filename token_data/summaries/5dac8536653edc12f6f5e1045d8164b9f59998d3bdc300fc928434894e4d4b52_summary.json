@@ -1,0 +1,17 @@
+{
+  "token_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
+  "ticker": "NMKR",
+  "name": "NMKR",
+  "total_supply": 10000000000,
+  "circulating_supply": 10000000000,
+  "price": 0.0011421059120441121,
+  "market_cap": 11421059.120441122,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

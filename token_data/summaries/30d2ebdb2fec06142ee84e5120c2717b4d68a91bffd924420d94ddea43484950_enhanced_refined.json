@@ -1,0 +1,44 @@
+{
+  "token_id": "30d2ebdb2fec06142ee84e5120c2717b4d68a91bffd924420d94ddea43484950",
+  "ticker": "CHIP",
+  "token_ascii": "CHIP",
+  "market_cap": 1070.9807895757338,
+  "price": 8.50834626557219e-7,
+  "liquidity": 118.077609,
+  "circulating_supply": 1258741424.181694,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "9.07",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (118.08 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:18.774Z"
+}

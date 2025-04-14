@@ -1,0 +1,44 @@
+{
+  "token_id": "5cf5cdae71774c8d132397a16acf535ea18c5fc759682c39382a80f443554c37",
+  "ticker": "CUL7",
+  "token_ascii": "CUL7",
+  "market_cap": 55780.91176371841,
+  "price": 0.00007171831519649913,
+  "liquidity": 12887.672731,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.33",
+  "token_age": 122,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:07.085Z"
+}

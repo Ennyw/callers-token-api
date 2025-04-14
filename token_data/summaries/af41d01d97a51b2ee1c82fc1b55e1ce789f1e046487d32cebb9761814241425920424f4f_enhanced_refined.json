@@ -1,0 +1,40 @@
+{
+  "token_id": "af41d01d97a51b2ee1c82fc1b55e1ce789f1e046487d32cebb9761814241425920424f4f",
+  "ticker": "BBOO",
+  "token_ascii": "Baby Boo",
+  "market_cap": 1870.46280304369,
+  "price": 0.00000187046280304369,
+  "liquidity": 14836.729793999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.13",
+  "token_age": 128,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:36.517Z"
+}

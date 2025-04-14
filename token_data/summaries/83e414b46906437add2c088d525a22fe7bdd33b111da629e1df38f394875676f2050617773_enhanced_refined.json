@@ -1,0 +1,40 @@
+{
+  "token_id": "83e414b46906437add2c088d525a22fe7bdd33b111da629e1df38f394875676f2050617773",
+  "ticker": "HUGO",
+  "token_ascii": "Hugo Paws",
+  "market_cap": 2166.8443160913143,
+  "price": 0.0000021668443160913144,
+  "liquidity": 15413.347762,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.14",
+  "token_age": 92,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:45.658Z"
+}

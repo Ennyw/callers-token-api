@@ -1,0 +1,15 @@
+{
+  "token_id": "f2fe9aafd2e5b3b00e2949a96d44a84d9f4d818d63945010a466a4ae4155444954",
+  "ticker": "AUDIT",
+  "token_ascii": "Smart Contract Audit Token",
+  "decimals": 0,
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00444474840484966,
+  "market_cap": 4444748.40484966,
+  "fully_diluted_value": 4444748.40484966,
+  "liquidity": 18.877412,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:47:06.827Z"
+}

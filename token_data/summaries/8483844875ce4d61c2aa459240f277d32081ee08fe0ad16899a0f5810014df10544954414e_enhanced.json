@@ -1,0 +1,15 @@
+{
+  "token_id": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
+  "ticker": "TITAN",
+  "token_ascii": "Titan",
+  "decimals": 6,
+  "total_supply": 39999999.889999,
+  "circulating_supply": 26542865.889999,
+  "price": 0.19534223823559282,
+  "market_cap": 5184942.832139575,
+  "fully_diluted_value": 7813689.507935872,
+  "liquidity": 427487.874153,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:45:24.803Z"
+}

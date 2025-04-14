@@ -1,0 +1,43 @@
+{
+  "token_id": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+  "ticker": "EMP",
+  "token_ascii": "Empowa",
+  "market_cap": 1583661.0850814476,
+  "price": 0.04424251540236365,
+  "liquidity": 107812.497572,
+  "circulating_supply": 35795005.566,
+  "outliers_filtered": false,
+  "pool_count": 8,
+  "original_pool_count": 9,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "14.69",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 145,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (8)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:22.858Z"
+}

@@ -1,0 +1,39 @@
+{
+  "token_id": "afc910d7a306d20c12903979d4935ae4307241d03245743548e767834153484942",
+  "ticker": "ASHIB",
+  "token_ascii": "ADA Shiba Inu",
+  "market_cap": 72369.98630353667,
+  "price": 0.000001318437398831867,
+  "liquidity": 13383.021408999999,
+  "circulating_supply": 54890726224.587036,
+  "outliers_filtered": false,
+  "pool_count": 5,
+  "original_pool_count": 5,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5.41",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (5)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:36.305Z"
+}

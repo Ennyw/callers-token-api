@@ -1,0 +1,43 @@
+{
+  "token_id": "14fac3fc691fe8c9883bde39cb3ac80012a9151e872dc1357e0cc90d5348215420434f494e",
+  "ticker": "SHT",
+  "token_ascii": "SHT",
+  "market_cap": 94629.0525851964,
+  "price": 0.00019012705196207356,
+  "liquidity": 62095.34123799999,
+  "circulating_supply": 497714826,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.52",
+  "token_age": 126,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:53.645Z"
+}

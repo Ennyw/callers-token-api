@@ -1,0 +1,44 @@
+{
+  "token_id": "3e553f140105f9b64ffd9b579e6f15dede7a40e09c3db1df953f37b64761746f2047617469746f",
+  "ticker": "GATO",
+  "token_ascii": "Gato Gatito",
+  "market_cap": 6.0649196287021185,
+  "price": 6.0649196287021184e-9,
+  "liquidity": 66.660593,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.09",
+  "token_age": 104,
+  "trust_assessment": {
+    "score": 5,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (66.66 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:32.944Z"
+}

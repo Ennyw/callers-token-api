@@ -1,0 +1,44 @@
+{
+  "token_id": "f0e3bb60e1e637e87cd3b49d7e3f2522fe84fec8600edfd8906cdf74534e494b45",
+  "ticker": "SNIKE",
+  "token_ascii": "SNIKE",
+  "market_cap": 16.72922939523667,
+  "price": 1.2512512636676642e-8,
+  "liquidity": 9.298757,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.80",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (9.30 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:35.565Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "9bf4408daed32e5653a7d5f7d78d1d1ba61e1c16c64cc88cb5b45e30534e454b552053414959414e",
+  "ticker": "SNYK",
+  "token_ascii": "SNEKU SAIYAN",
+  "market_cap": 3633.8218286952088,
+  "price": 0.000003633821828695209,
+  "liquidity": 3309.642206,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.10",
+  "token_age": 146,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:16.632Z"
+}

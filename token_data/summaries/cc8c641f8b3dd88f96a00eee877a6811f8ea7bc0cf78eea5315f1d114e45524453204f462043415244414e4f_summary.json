@@ -1,0 +1,17 @@
+{
+  "token_id": "cc8c641f8b3dd88f96a00eee877a6811f8ea7bc0cf78eea5315f1d114e45524453204f462043415244414e4f",
+  "ticker": "NERDS",
+  "name": "Nerds Of Cardano",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000003885630772034387,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

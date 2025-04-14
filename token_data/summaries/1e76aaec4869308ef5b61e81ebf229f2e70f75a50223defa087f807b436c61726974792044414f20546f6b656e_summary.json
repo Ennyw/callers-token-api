@@ -1,0 +1,17 @@
+{
+  "token_id": "1e76aaec4869308ef5b61e81ebf229f2e70f75a50223defa087f807b436c61726974792044414f20546f6b656e",
+  "ticker": "CLARITY",
+  "name": "Clarity DAO Token",
+  "total_supply": 2000000000,
+  "circulating_supply": 743044385.749476,
+  "price": 0.003427804102620124,
+  "market_cap": 2547010.593900904,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

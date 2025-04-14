@@ -1,0 +1,17 @@
+{
+  "token_id": "54cfd47adbdb85c3e2f980bb45b8c7ad657a9cdc0faa1057140614b146524544",
+  "ticker": "FRED",
+  "name": "Fred Meme",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 6.687871241621801e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

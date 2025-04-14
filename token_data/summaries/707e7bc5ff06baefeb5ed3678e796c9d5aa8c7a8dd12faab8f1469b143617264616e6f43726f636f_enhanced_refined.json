@@ -1,0 +1,44 @@
+{
+  "token_id": "707e7bc5ff06baefeb5ed3678e796c9d5aa8c7a8dd12faab8f1469b143617264616e6f43726f636f",
+  "ticker": "CROCO",
+  "token_ascii": "Cardano Croco",
+  "market_cap": 1012.3533621069336,
+  "price": 0.0000010123533621069335,
+  "liquidity": 705.751051,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.43",
+  "token_age": 146,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:25.676Z"
+}

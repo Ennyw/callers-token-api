@@ -1,0 +1,40 @@
+{
+  "token_id": "849cef42e2f7966b73eee78c6d9a37460a2e668cccff403f90d55ea954616c6f73207468652043686164",
+  "ticker": "TTC",
+  "token_ascii": "Talos the Chad",
+  "market_cap": 5810.402281967843,
+  "price": 0.000005810402281967843,
+  "liquidity": 17838.823834,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.33",
+  "token_age": 86,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:48.447Z"
+}

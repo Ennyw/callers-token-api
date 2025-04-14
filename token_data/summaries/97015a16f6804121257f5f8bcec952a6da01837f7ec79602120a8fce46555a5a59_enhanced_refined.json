@@ -1,0 +1,40 @@
+{
+  "token_id": "97015a16f6804121257f5f8bcec952a6da01837f7ec79602120a8fce46555a5a59",
+  "ticker": "FUZZY",
+  "token_ascii": "Fuzzy",
+  "market_cap": 5666.050135950946,
+  "price": 0.000006326210290820589,
+  "liquidity": 18378.19186,
+  "circulating_supply": 895646821,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.31",
+  "token_age": 128,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:11.058Z"
+}

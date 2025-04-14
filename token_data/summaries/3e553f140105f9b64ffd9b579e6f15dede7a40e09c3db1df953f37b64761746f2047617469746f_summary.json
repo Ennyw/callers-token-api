@@ -1,0 +1,17 @@
+{
+  "token_id": "3e553f140105f9b64ffd9b579e6f15dede7a40e09c3db1df953f37b64761746f2047617469746f",
+  "ticker": "GATO",
+  "name": "Gato Gatito",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 7.00068430187627e-8,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,37 @@
+{
+  "token_id": "2edc63d29e94747f7ef65df559260c994d2ecfe208ac6afa564517384b494e47",
+  "ticker": "KING",
+  "token_ascii": "KING",
+  "market_cap": 10459.389365622965,
+  "price": 2.3243087479162145e-7,
+  "liquidity": 656.543798,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "15.93",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:18.803Z"
+}

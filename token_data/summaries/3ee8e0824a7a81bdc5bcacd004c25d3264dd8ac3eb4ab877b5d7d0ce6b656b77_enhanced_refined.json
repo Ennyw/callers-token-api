@@ -1,0 +1,37 @@
+{
+  "token_id": "3ee8e0824a7a81bdc5bcacd004c25d3264dd8ac3eb4ab877b5d7d0ce6b656b77",
+  "ticker": "kekw",
+  "token_ascii": "kekw",
+  "market_cap": 2561.2678676434075,
+  "price": 2.5333728710676465e-8,
+  "liquidity": 1630.317452,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.57",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:32.718Z"
+}

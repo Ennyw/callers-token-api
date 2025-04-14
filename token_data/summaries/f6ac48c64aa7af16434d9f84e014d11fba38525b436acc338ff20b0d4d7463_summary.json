@@ -1,0 +1,17 @@
+{
+  "token_id": "f6ac48c64aa7af16434d9f84e014d11fba38525b436acc338ff20b0d4d7463",
+  "ticker": "Mtc",
+  "name": "Mithrandir Coin",
+  "total_supply": 1000000,
+  "circulating_supply": 598631,
+  "price": 0.00211048588660382,
+  "market_cap": 1263.4022767835313,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

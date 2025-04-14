@@ -1,0 +1,17 @@
+{
+  "token_id": "f13515ca37ae4a0cf44f13860f325f0d017ee9988f2e7598c06e1d9a42554653",
+  "ticker": "BUFS",
+  "name": "Buffer",
+  "total_supply": 100000000000,
+  "circulating_supply": 0,
+  "price": 0.00001439799435332593,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

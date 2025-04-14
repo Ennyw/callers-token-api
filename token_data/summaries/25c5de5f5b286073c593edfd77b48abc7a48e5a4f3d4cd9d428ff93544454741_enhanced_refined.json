@@ -1,0 +1,44 @@
+{
+  "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93544454741",
+  "ticker": "DEGA",
+  "token_ascii": "DEGA",
+  "market_cap": 100412.00152550533,
+  "price": 0.00004190050333290388,
+  "liquidity": 6951.103838,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "14.45",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:07.721Z"
+}

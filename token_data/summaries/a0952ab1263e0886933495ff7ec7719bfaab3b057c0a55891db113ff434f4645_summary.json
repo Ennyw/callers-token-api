@@ -1,0 +1,17 @@
+{
+  "token_id": "a0952ab1263e0886933495ff7ec7719bfaab3b057c0a55891db113ff434f4645",
+  "ticker": "COFE",
+  "name": "Cofe",
+  "total_supply": 100000000,
+  "circulating_supply": 0,
+  "price": 0.0000034001149005123377,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

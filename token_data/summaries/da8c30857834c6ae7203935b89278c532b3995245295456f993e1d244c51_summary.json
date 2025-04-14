@@ -1,0 +1,17 @@
+{
+  "token_id": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+  "ticker": "LQ",
+  "name": "Liqwid DAO Token",
+  "total_supply": 21000000,
+  "circulating_supply": 20090661.825937,
+  "price": 3.3476775641640297,
+  "market_cap": 67257057.84389603,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

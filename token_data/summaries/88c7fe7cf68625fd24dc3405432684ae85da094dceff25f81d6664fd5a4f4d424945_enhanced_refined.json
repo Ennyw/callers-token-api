@@ -1,0 +1,44 @@
+{
+  "token_id": "88c7fe7cf68625fd24dc3405432684ae85da094dceff25f81d6664fd5a4f4d424945",
+  "ticker": "ZOMBIE",
+  "token_ascii": "Zombie",
+  "market_cap": 100.02914947215736,
+  "price": 9.903876185362114e-8,
+  "liquidity": 84.61575300000001,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.18",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (84.62 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:54.095Z"
+}

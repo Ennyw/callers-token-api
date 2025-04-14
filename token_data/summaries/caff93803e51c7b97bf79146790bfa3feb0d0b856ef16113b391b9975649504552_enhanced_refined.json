@@ -1,0 +1,43 @@
+{
+  "token_id": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
+  "ticker": "VIPER",
+  "token_ascii": "VIPER",
+  "market_cap": 869703.095121648,
+  "price": 0.000011844393932466815,
+  "liquidity": 96663.06245699999,
+  "circulating_supply": 73427403722,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "9.00",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 135,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:59.137Z"
+}

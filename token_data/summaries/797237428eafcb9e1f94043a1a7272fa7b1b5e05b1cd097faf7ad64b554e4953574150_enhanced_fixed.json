@@ -1,0 +1,21 @@
+{
+  "token_id": "797237428eafcb9e1f94043a1a7272fa7b1b5e05b1cd097faf7ad64b554e4953574150",
+  "ticker": "UNISWAP",
+  "token_ascii": "UNISWAP",
+  "decimals": 0,
+  "total_supply": 10000000,
+  "circulating_supply": 0,
+  "price": 0.000025000025000025,
+  "market_cap": 250.00025000025002,
+  "fully_diluted_value": 250.00025000025002,
+  "liquidity": 250,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:55:54.782Z"
+}

@@ -1,0 +1,43 @@
+{
+  "token_id": "8355126778819d7a29d2676c941978a9c160b64557eda25a0a906ad04f4646494349414c20515541434b55",
+  "ticker": "QUACKU",
+  "token_ascii": "Quacku Official",
+  "market_cap": 22850.508303499373,
+  "price": 0.000024587112641050703,
+  "liquidity": 26668.224816,
+  "circulating_supply": 929369326,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.86",
+  "token_age": 83,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:45.631Z"
+}

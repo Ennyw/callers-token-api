@@ -1,0 +1,44 @@
+{
+  "token_id": "5c11da2f9cd467d836570d6d10f7ed3a23936c110a11e17366bd5221446f626279",
+  "ticker": "DOB",
+  "token_ascii": "Dobby",
+  "market_cap": 4237.988627712826,
+  "price": 0.000004237988627712826,
+  "liquidity": 3767.259118,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.12",
+  "token_age": 147,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:07.202Z"
+}

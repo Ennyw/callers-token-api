@@ -1,0 +1,17 @@
+{
+  "token_id": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
+  "ticker": "MILK",
+  "name": "MILK",
+  "total_supply": 10000000,
+  "circulating_supply": 2809978,
+  "price": 0.5458764452929731,
+  "market_cap": 1533900.8019914578,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

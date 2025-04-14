@@ -1,0 +1,17 @@
+{
+  "token_id": "ed5517ccf67c60004355cee3c546c77226cd89a04b3aaeae6a65589e4d6f6d",
+  "ticker": "MOM",
+  "name": "Mom",
+  "total_supply": 2000000000,
+  "circulating_supply": 0,
+  "price": 0.000003220706136593019,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

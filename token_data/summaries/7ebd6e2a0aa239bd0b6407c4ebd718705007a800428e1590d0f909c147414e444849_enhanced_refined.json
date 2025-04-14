@@ -1,0 +1,44 @@
+{
+  "token_id": "7ebd6e2a0aa239bd0b6407c4ebd718705007a800428e1590d0f909c147414e444849",
+  "ticker": "GANDHI",
+  "token_ascii": "Gandhi Token",
+  "market_cap": 4245.966509999345,
+  "price": 0.000020200909333547168,
+  "liquidity": 737.869141,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5.75",
+  "token_age": 77,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:42.734Z"
+}

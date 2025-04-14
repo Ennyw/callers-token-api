@@ -1,0 +1,17 @@
+{
+  "token_id": "16eda0e9007468496f824d4836aa3a6daad90cbec3728542fc434cc824474f524420",
+  "ticker": "GORD",
+  "name": "Gord",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00000813099052729841,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

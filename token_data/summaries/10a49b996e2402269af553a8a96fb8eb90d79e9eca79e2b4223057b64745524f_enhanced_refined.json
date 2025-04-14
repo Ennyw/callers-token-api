@@ -1,0 +1,48 @@
+{
+  "token_id": "10a49b996e2402269af553a8a96fb8eb90d79e9eca79e2b4223057b64745524f",
+  "ticker": "GERO",
+  "token_ascii": "GERO",
+  "market_cap": 1494828.6317639493,
+  "price": 0.003024120136604645,
+  "liquidity": 145393.576992,
+  "circulating_supply": 494302000,
+  "outliers_filtered": false,
+  "pool_count": 6,
+  "original_pool_count": 6,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "10.28",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 120,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (6)",
+        "points": 10
+      },
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:50.784Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "def41fe7c12b1761841e4e0574a880d6b3a56876a3cbfab94260d831574f4f4c59204d494345",
+  "ticker": "WOOLY",
+  "token_ascii": "Wooly Mice",
+  "market_cap": 2966.4782471337267,
+  "price": 0.0000029664782471337265,
+  "liquidity": 25067.502078,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.12",
+  "token_age": 40,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:18.813Z"
+}

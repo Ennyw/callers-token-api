@@ -1,0 +1,44 @@
+{
+  "token_id": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68424f58",
+  "ticker": "BOX",
+  "token_ascii": "BOX",
+  "market_cap": 52160.720074766476,
+  "price": 0.00005795635563862942,
+  "liquidity": 10239.3096,
+  "circulating_supply": 900000000,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "5.09",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:46.792Z"
+}

@@ -1,0 +1,37 @@
+{
+  "token_id": "556b8eba69ae373556ea5114c20b81d238dfb48224983d23b517cb6f497460732066696e6520",
+  "ticker": "FINE",
+  "token_ascii": "Its Fine",
+  "market_cap": 95.92917296084964,
+  "price": 9.592917296084964e-8,
+  "liquidity": 1745.085957,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "0.05",
+  "token_age": 67,
+  "trust_assessment": {
+    "score": 75,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:58.046Z"
+}

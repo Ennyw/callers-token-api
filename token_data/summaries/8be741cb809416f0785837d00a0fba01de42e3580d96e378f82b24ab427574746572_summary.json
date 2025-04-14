@@ -1,0 +1,17 @@
+{
+  "token_id": "8be741cb809416f0785837d00a0fba01de42e3580d96e378f82b24ab427574746572",
+  "ticker": "Butter",
+  "name": "Butter",
+  "total_supply": 150000000000,
+  "circulating_supply": 0,
+  "price": 1.4388739681041778e-9,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

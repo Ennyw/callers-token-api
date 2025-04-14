@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Callers Token API</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+      color: #f0f0f0;
+      background-color: #121212;
+      margin: 0;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    h1, h2, h3 {
+      color: #1db954;
+    }
+    header {
+      margin-bottom: 40px;
+      border-bottom: 1px solid #333;
+      padding-bottom: 20px;
+    }
+    .api-section {
+      margin-bottom: 30px;
+      background-color: #1e1e1e;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    .endpoint {
+      background-color: #2d2d2d;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 4px;
+      border-left: 4px solid #1db954;
+    }
+    .endpoint h3 {
+      margin-top: 0;
+    }
+    code {
+      background-color: #333;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: Monaco, 'Courier New', monospace;
+      font-size: 0.9em;
+    }
+    .method {
+      display: inline-block;
+      padding: 4px 8px;
+      margin-right: 8px;
+      border-radius: 4px;
+      font-weight: bold;
+      text-transform: uppercase;
+      font-size: 0.8em;
+    }
+    .get {
+      background-color: #4caf50;
+      color: #fff;
+    }
+    .post {
+      background-color: #2196f3;
+      color: #fff;
+    }
+    .delete {
+      background-color: #f44336;
+      color: #fff;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    th, td {
+      text-align: left;
+      padding: 12px;
+      border-bottom: 1px solid #333;
+    }
+    th {
+      background-color: #2d2d2d;
+    }
+    tr:hover {
+      background-color: #2a2a2a;
+    }
+    .test-section {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .test-card {
+      flex: 1;
+      min-width: 300px;
+      background-color: #1e1e1e;
+      padding: 20px;
+      border-radius: 8px;
+    }
+    button {
+      background-color: #1db954;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #17a146;
+    }
+    input, select {
+      width: 100%;
+      padding: 8px;
+      margin: 8px 0;
+      border: 1px solid #555;
+      border-radius: 4px;
+      background-color: #2d2d2d;
+      color: #f0f0f0;
+    }
+    .result {
+      margin-top: 15px;
+      max-height: 300px;
+      overflow: auto;
+      background-color: #2d2d2d;
+      padding: 10px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Callers Token API</h1>
+      <p>A RESTful API for Cardano token data on the Callers platform</p>
+    </header>
+
+    <div class="api-section">
+      <h2>API Endpoints</h2>
+      
+      <div class="endpoint">
+        <span class="method get">GET</span>
+        <code>/api/tokens</code>
+        <h3>Get All Tokens</h3>
+        <p>Returns all tokens sorted by market cap.</p>
+      </div>
+      
+      <div class="endpoint">
+        <span class="method get">GET</span>
+        <code>/api/tokens/top/:limit</code>
+        <h3>Get Top Tokens</h3>
+        <p>Returns top N tokens by market cap. Default limit is 50.</p>
+      </div>
+      
+      <div class="endpoint">
+        <span class="method get">GET</span>
+        <code>/api/tokens/:tokenId</code>
+        <h3>Get Token Details</h3>
+        <p>Returns detailed information about a specific token.</p>
+      </div>
+      
+      <div class="endpoint">
+        <span class="method get">GET</span>
+        <code>/api/tokens/search/:query</code>
+        <h3>Search Tokens</h3>
+        <p>Searches for tokens by ticker or name.</p>
+      </div>
+      
+      <div class="endpoint">
+        <span class="method get">GET</span>
+        <code>/api/tokens/stats</code>
+        <h3>Get Token Statistics</h3>
+        <p>Returns statistics about all tokens.</p>
+      </div>
+    </div>
+
+    <div class="api-section">
+      <h2>Test the API</h2>
+      
+      <div class="test-section">
+        <div class="test-card">
+          <h3>Get Top Tokens</h3>
+          <label for="limit">Number of tokens:</label>
+          <input type="number" id="limit" min="1" max="100" value="10">
+          <button onclick="getTopTokens()">Get Tokens</button>
+          <div id="top-tokens-result" class="result">Results will appear here...</div>
+        </div>
+        
+        <div class="test-card">
+          <h3>Search Tokens</h3>
+          <label for="search-query">Search query:</label>
+          <input type="text" id="search-query" placeholder="Enter token name or ticker...">
+          <button onclick="searchTokens()">Search</button>
+          <div id="search-result" class="result">Results will appear here...</div>
+        </div>
+      </div>
+      
+      <div class="test-section" style="margin-top: 20px;">
+        <div class="test-card">
+          <h3>Get Token Details</h3>
+          <label for="token-id">Token ID:</label>
+          <input type="text" id="token-id" placeholder="Enter token ID...">
+          <button onclick="getTokenDetails()">Get Details</button>
+          <div id="token-details-result" class="result">Results will appear here...</div>
+        </div>
+        
+        <div class="test-card">
+          <h3>Token Statistics</h3>
+          <button onclick="getTokenStats()">Get Statistics</button>
+          <div id="stats-result" class="result">Results will appear here...</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="api-section">
+      <h2>Data Refresh Controls</h2>
+      
+      <div class="test-section">
+        <div class="test-card">
+          <h3>Manual Refresh</h3>
+          <p>Manually trigger a refresh of token data by running the enhanced integration script.</p>
+          <button onclick="refreshData()">Refresh Data Now</button>
+          <div id="refresh-result" class="result">Click the button to refresh data...</div>
+        </div>
+        
+        <div class="test-card">
+          <h3>Scheduler Settings</h3>
+          <p>Control how often the data is automatically refreshed.</p>
+          <label for="interval-minutes">Refresh interval (minutes):</label>
+          <input type="number" id="interval-minutes" min="5" max="1440" value="60">
+          <button onclick="updateRefreshInterval()">Update Interval</button>
+          <div id="interval-result" class="result">Current interval: 60 minutes</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Helper function to format JSON
+    function formatJson(json) {
+      return JSON.stringify(json, null, 2);
+    }
+
+    // Get top tokens
+    async function getTopTokens() {
+      const limitInput = document.getElementById('limit');
+      const resultDiv = document.getElementById('top-tokens-result');
+      const limit = limitInput.value || 10;
+      
+      resultDiv.innerHTML = 'Loading...';
+      
+      try {
+        const response = await fetch(`/api/tokens/top/${limit}`);
+        const data = await response.json();
+        resultDiv.innerHTML = `<pre>${formatJson(data)}</pre>`;
+      } catch (error) {
+        resultDiv.innerHTML = `<pre>Error: ${error.message}</pre>`;
+      }
+    }
+
+    // Search tokens
+    async function searchTokens() {
+      const queryInput = document.getElementById('search-query');
+      const resultDiv = document.getElementById('search-result');
+      const query = queryInput.value;
+      
+      if (!query) {
+        resultDiv.innerHTML = 'Please enter a search query';
+        return;
+      }
+      
+      resultDiv.innerHTML = 'Loading...';
+      
+      try {
+        const response = await fetch(`/api/tokens/search/${query}`);
+        const data = await response.json();
+        resultDiv.innerHTML = `<pre>${formatJson(data)}</pre>`;
+      } catch (error) {
+        resultDiv.innerHTML = `<pre>Error: ${error.message}</pre>`;
+      }
+    }
+
+    // Get token details
+    async function getTokenDetails() {
+      const tokenIdInput = document.getElementById('token-id');
+      const resultDiv = document.getElementById('token-details-result');
+      const tokenId = tokenIdInput.value;
+      
+      if (!tokenId) {
+        resultDiv.innerHTML = 'Please enter a token ID';
+        return;
+      }
+      
+      resultDiv.innerHTML = 'Loading...';
+      
+      try {
+        const response = await fetch(`/api/tokens/${tokenId}`);
+        const data = await response.json();
+        resultDiv.innerHTML = `<pre>${formatJson(data)}</pre>`;
+      } catch (error) {
+        resultDiv.innerHTML = `<pre>Error: ${error.message}</pre>`;
+      }
+    }
+
+    // Get token statistics
+    async function getTokenStats() {
+      const resultDiv = document.getElementById('stats-result');
+      resultDiv.innerHTML = 'Loading...';
+      
+      try {
+        const response = await fetch('/api/tokens/stats');
+        const data = await response.json();
+        resultDiv.innerHTML = `<pre>${formatJson(data)}</pre>`;
+      } catch (error) {
+        resultDiv.innerHTML = `<pre>Error: ${error.message}</pre>`;
+      }
+    }
+
+    // Refresh token data
+    async function refreshData() {
+      const resultDiv = document.getElementById('refresh-result');
+      resultDiv.innerHTML = 'Refreshing data... (this may take a few minutes)';
+      
+      try {
+        const response = await fetch('/api/refresh-data', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          }
+        });
+        
+        const data = await response.json();
+        
+        if (response.ok) {
+          resultDiv.innerHTML = `<pre>Success: ${data.message}</pre>`;
+        } else {
+          resultDiv.innerHTML = `<pre>Error: ${data.message}</pre>`;
+        }
+      } catch (error) {
+        resultDiv.innerHTML = `<pre>Error: ${error.message}</pre>`;
+      }
+    }
+
+    // Update refresh interval
+    async function updateRefreshInterval() {
+      const intervalInput = document.getElementById('interval-minutes');
+      const resultDiv = document.getElementById('interval-result');
+      const intervalMinutes = parseInt(intervalInput.value) || 60;
+      
+      if (intervalMinutes < 5) {
+        resultDiv.innerHTML = 'Interval must be at least 5 minutes';
+        return;
+      }
+      
+      resultDiv.innerHTML = 'Updating interval...';
+      
+      try {
+        const response = await fetch('/api/refresh-interval', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ intervalMinutes })
+        });
+        
+        const data = await response.json();
+        
+        if (response.ok) {
+          resultDiv.innerHTML = `<pre>Success: ${data.message}</pre>`;
+        } else {
+          resultDiv.innerHTML = `<pre>Error: ${data.message}</pre>`;
+        }
+      } catch (error) {
+        resultDiv.innerHTML = `<pre>Error: ${error.message}</pre>`;
+      }
+    }
+
+    // Check server status on page load
+    async function checkStatus() {
+      try {
+        const response = await fetch('/api/status');
+        const data = await response.json();
+        
+        if (data.refreshScheduler && data.refreshScheduler.active) {
+          document.getElementById('interval-result').innerHTML = 
+            `<pre>Refresh scheduler is active${data.refreshScheduler.isRefreshing ? ' and currently refreshing' : ''}</pre>`;
+        }
+      } catch (error) {
+        console.error('Error checking server status:', error);
+      }
+    }
+
+    // Run on page load
+    checkStatus();
+  </script>
+</body>
+</html> 

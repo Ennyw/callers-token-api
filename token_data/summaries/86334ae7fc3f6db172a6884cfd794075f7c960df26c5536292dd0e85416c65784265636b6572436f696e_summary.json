@@ -1,0 +1,17 @@
+{
+  "token_id": "86334ae7fc3f6db172a6884cfd794075f7c960df26c5536292dd0e85416c65784265636b6572436f696e",
+  "ticker": "BECKER",
+  "name": "Alex Becker Coin",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 4.847997682969116e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

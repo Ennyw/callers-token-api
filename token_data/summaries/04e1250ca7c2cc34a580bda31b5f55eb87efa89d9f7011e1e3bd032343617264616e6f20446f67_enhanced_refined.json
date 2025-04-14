@@ -1,0 +1,44 @@
+{
+  "token_id": "04e1250ca7c2cc34a580bda31b5f55eb87efa89d9f7011e1e3bd032343617264616e6f20446f67",
+  "ticker": "ADOG",
+  "token_ascii": "Ada Dog",
+  "market_cap": 5141.528799836818,
+  "price": 0.0000051415287998368175,
+  "liquidity": 4318.221783,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.19",
+  "token_age": 140,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:42.465Z"
+}

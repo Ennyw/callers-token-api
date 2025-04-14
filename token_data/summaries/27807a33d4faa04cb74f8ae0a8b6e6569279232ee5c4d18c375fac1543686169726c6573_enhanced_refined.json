@@ -1,0 +1,44 @@
+{
+  "token_id": "27807a33d4faa04cb74f8ae0a8b6e6569279232ee5c4d18c375fac1543686169726c6573",
+  "ticker": "CHAI",
+  "token_ascii": "Chairles",
+  "market_cap": 2279.164329799599,
+  "price": 0.000002279164329799599,
+  "liquidity": 23846.949507,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.10",
+  "token_age": 38,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:10.619Z"
+}

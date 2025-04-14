@@ -1,0 +1,17 @@
+{
+  "token_id": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
+  "ticker": "BODEGA",
+  "name": "Bodega",
+  "total_supply": 25000000,
+  "circulating_supply": 20044544.272598,
+  "price": 0.28262177035389885,
+  "market_cap": 5665024.58825875,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

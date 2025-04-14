@@ -1,0 +1,44 @@
+{
+  "token_id": "0d90046ad35546156aaf790525133f7fc713ca2790e397784b85f5c85554494c",
+  "ticker": "UTIL",
+  "token_ascii": "Utility Token",
+  "market_cap": 217.2920570516335,
+  "price": 3.6215342841938914e-9,
+  "liquidity": 48.177039,
+  "circulating_supply": 60000000000,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "4.51",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 15,
+    "level": "Very Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (48.18 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:50.844Z"
+}

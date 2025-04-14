@@ -1,0 +1,39 @@
+{
+  "token_id": "eda69ce0f80d0f2ff78892b07fe648ec5bf5375afc1ed545278cb15043686169726d616e4d656f77",
+  "ticker": "MEOW",
+  "token_ascii": "Meow",
+  "market_cap": 4164.403557176691,
+  "price": 0.00004629780067820695,
+  "liquidity": 1760.8865030000002,
+  "circulating_supply": 89948194,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "2.36",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:32.781Z"
+}

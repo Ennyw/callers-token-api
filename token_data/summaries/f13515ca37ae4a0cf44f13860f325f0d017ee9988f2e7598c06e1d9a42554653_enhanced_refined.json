@@ -1,0 +1,50 @@
+{
+  "token_id": "f13515ca37ae4a0cf44f13860f325f0d017ee9988f2e7598c06e1d9a42554653",
+  "ticker": "BUFS",
+  "token_ascii": "Buffer",
+  "market_cap": 1437167.8872585122,
+  "price": 0.000014371678872585122,
+  "liquidity": 1530.2379030000002,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 4,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "939.18",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 70,
+    "level": "Good",
+    "penalties": [
+      {
+        "reason": "Possible copycat token with suspicious name pattern",
+        "points": -25
+      },
+      {
+        "reason": "Suspicious circulating supply vs. liquidity ratio",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (4)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [
+      "High market cap with zero or unreported circulating supply - potential manipulation"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:38.330Z"
+}

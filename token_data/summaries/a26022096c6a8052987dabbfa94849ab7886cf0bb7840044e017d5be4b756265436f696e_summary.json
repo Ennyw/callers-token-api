@@ -1,0 +1,17 @@
+{
+  "token_id": "a26022096c6a8052987dabbfa94849ab7886cf0bb7840044e017d5be4b756265436f696e",
+  "ticker": "KUBE",
+  "name": "KubeCoin",
+  "total_supply": 480000000,
+  "circulating_supply": 0,
+  "price": 0.000739434841790772,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

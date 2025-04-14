@@ -1,0 +1,17 @@
+{
+  "token_id": "cfbc6b8519f252b1f1694cdbb9df9f339b343bdd0f2079d84e4afdd941504543415348",
+  "ticker": "APECASH",
+  "name": "APECASH",
+  "total_supply": 100000000000,
+  "circulating_supply": 0,
+  "price": 1.0901415635093901e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

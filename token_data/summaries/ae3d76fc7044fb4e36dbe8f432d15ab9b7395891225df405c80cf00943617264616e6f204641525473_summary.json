@@ -1,0 +1,17 @@
+{
+  "token_id": "ae3d76fc7044fb4e36dbe8f432d15ab9b7395891225df405c80cf00943617264616e6f204641525473",
+  "ticker": "FART",
+  "name": "Fart",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000007562311976488805,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

@@ -1,0 +1,48 @@
+{
+  "token_id": "21354385d168c135533591e450bd90f4d881a1dc84b1ca6823bf20c657495a",
+  "ticker": "WIZ",
+  "token_ascii": "Adawiz",
+  "market_cap": 842407.5504268687,
+  "price": 0.0008424075504268687,
+  "liquidity": 14760.087207,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "57.07",
+  "token_age": 76,
+  "trust_assessment": {
+    "score": 25,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "High market cap to liquidity ratio (57.07:1)",
+        "points": -20
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:04.868Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "cc86454a4fba2d91cca4ddd095d1879fc15e5fd5e8fdd59f9eb2a5594a61636b",
+  "ticker": "JACK",
+  "token_ascii": "Jack",
+  "market_cap": 505.6213694263164,
+  "price": 7.223162420375949e-8,
+  "liquidity": 349.77954,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.45",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (349.78 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:01.770Z"
+}

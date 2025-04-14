@@ -1,0 +1,17 @@
+{
+  "token_id": "53abd3b2432d7edfd7c59a11e577c872a898847e230e46c63c42938c444f4c4c59",
+  "ticker": "DOLLY",
+  "name": "DOLLY",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 3.7957164333156446e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

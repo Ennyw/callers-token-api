@@ -1,0 +1,15 @@
+{
+  "token_id": "a2936e00439913f1ac105c29883c013322360247c409343028b831be4d564f5543484552",
+  "ticker": "MVOUCHER",
+  "token_ascii": "MILK Voucher",
+  "decimals": 6,
+  "total_supply": 1000000,
+  "circulating_supply": 0,
+  "price": 2.00639406973751,
+  "market_cap": 2006394.0697375103,
+  "fully_diluted_value": 2006394.0697375103,
+  "liquidity": 2.57998,
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:45:59.043Z"
+}

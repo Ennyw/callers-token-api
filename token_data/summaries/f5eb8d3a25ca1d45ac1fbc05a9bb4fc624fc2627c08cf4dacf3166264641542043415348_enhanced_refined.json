@@ -1,0 +1,40 @@
+{
+  "token_id": "f5eb8d3a25ca1d45ac1fbc05a9bb4fc624fc2627c08cf4dacf3166264641542043415348",
+  "ticker": "CASH",
+  "token_ascii": "Fat Cash",
+  "market_cap": 2064.2164038667343,
+  "price": 0.000002064216403866734,
+  "liquidity": 15106.766910999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.14",
+  "token_age": 121,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:41.293Z"
+}

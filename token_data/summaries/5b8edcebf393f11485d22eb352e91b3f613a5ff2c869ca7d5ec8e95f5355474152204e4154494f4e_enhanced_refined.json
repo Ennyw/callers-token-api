@@ -1,0 +1,44 @@
+{
+  "token_id": "5b8edcebf393f11485d22eb352e91b3f613a5ff2c869ca7d5ec8e95f5355474152204e4154494f4e",
+  "ticker": "SUGNAT",
+  "token_ascii": "Sugar Nation",
+  "market_cap": 3393.4752532683788,
+  "price": 0.0000033934752532683787,
+  "liquidity": 3208.727117,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.06",
+  "token_age": 142,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:07.234Z"
+}

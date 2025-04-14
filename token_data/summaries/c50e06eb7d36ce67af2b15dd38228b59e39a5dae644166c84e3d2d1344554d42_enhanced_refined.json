@@ -1,0 +1,48 @@
+{
+  "token_id": "c50e06eb7d36ce67af2b15dd38228b59e39a5dae644166c84e3d2d1344554d42",
+  "ticker": "DUMB",
+  "token_ascii": "DUMB",
+  "market_cap": 144670.09286730323,
+  "price": 0.00004604992080343499,
+  "liquidity": 143125.843679,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.01",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 100,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Very high liquidity",
+        "points": 20
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:53.417Z"
+}

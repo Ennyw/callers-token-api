@@ -1,0 +1,21 @@
+{
+  "token_id": "3bbddae6b3898ae8253483d2fa4fbaf75f836dac2f973bee570677ab4c696c536e656b6b6965",
+  "ticker": "Lil",
+  "token_ascii": "Lil Snekkie",
+  "decimals": 9,
+  "total_supply": 777777777,
+  "circulating_supply": 0,
+  "price": 348.6744069483716,
+  "market_cap": 271191205133.0978,
+  "fully_diluted_value": 271191205133.0978,
+  "liquidity": 190.225178,
+  "pools": {
+    "count": 1,
+    "total": 1,
+    "filteredOutliers": false,
+    "medianUsed": false
+  },
+  "supply_source": "local",
+  "price_source": "dexhunter",
+  "updated_at": "2025-03-25T23:54:55.268Z"
+}

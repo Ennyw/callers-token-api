@@ -1,0 +1,40 @@
+{
+  "token_id": "ae3d76fc7044fb4e36dbe8f432d15ab9b7395891225df405c80cf00943617264616e6f204641525473",
+  "ticker": "FART",
+  "token_ascii": "Fart",
+  "market_cap": 2835.814408225779,
+  "price": 0.000002835814408225779,
+  "liquidity": 15636.063570999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.18",
+  "token_age": 98,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:36.548Z"
+}

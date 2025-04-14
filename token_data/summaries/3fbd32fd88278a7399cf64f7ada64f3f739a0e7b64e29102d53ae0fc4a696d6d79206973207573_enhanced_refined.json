@@ -1,0 +1,40 @@
+{
+  "token_id": "3fbd32fd88278a7399cf64f7ada64f3f739a0e7b64e29102d53ae0fc4a696d6d79206973207573",
+  "ticker": "JIMMY",
+  "token_ascii": "Jimmy is us",
+  "market_cap": 1598.4016580753573,
+  "price": 0.0000015984016580753572,
+  "liquidity": 14263.005825,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 128,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:35.729Z"
+}

@@ -1,0 +1,44 @@
+{
+  "token_id": "53abd3b2432d7edfd7c59a11e577c872a898847e230e46c63c42938c444f4c4c59",
+  "ticker": "DOLLY",
+  "token_ascii": "DOLLY",
+  "market_cap": 379.5716433315645,
+  "price": 3.7957164333156446e-7,
+  "liquidity": 300.098041,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.26",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Very low liquidity",
+        "points": -50
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (300.10 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:58.214Z"
+}

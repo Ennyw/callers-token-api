@@ -1,0 +1,17 @@
+{
+  "token_id": "8d94085182fb206c28850f194defe748e455a104d5ff7466d90f537c566f6c756d65",
+  "ticker": "VOL",
+  "name": "Volume",
+  "total_supply": 899712916,
+  "circulating_supply": 899712916,
+  "price": 0.00008302714848809762,
+  "market_cap": 74700.5978733913,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

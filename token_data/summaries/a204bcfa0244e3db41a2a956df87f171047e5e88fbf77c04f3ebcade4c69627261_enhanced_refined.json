@@ -1,0 +1,44 @@
+{
+  "token_id": "a204bcfa0244e3db41a2a956df87f171047e5e88fbf77c04f3ebcade4c69627261",
+  "ticker": "LIBRA",
+  "token_ascii": "Libra",
+  "market_cap": 4424.318206518229,
+  "price": 0.0000044243182065182295,
+  "liquidity": 3769.252914,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.17",
+  "token_age": 175,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:25.076Z"
+}

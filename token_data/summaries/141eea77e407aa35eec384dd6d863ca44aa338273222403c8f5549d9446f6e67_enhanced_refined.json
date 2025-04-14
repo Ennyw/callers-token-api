@@ -1,0 +1,43 @@
+{
+  "token_id": "141eea77e407aa35eec384dd6d863ca44aa338273222403c8f5549d9446f6e67",
+  "ticker": "DONG",
+  "token_ascii": "Dong",
+  "market_cap": 155762.44560190808,
+  "price": 0.00016941657441705025,
+  "liquidity": 33273.339884,
+  "circulating_supply": 919405000,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.68",
+  "token_age": 220,
+  "trust_assessment": {
+    "score": 130,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than 6 months",
+        "points": 10
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:53.731Z"
+}

@@ -1,0 +1,17 @@
+{
+  "token_id": "dbcfe1dd9c9152fa3e4b251717cad9be5ec7374260c8ba5ee5ffcbf354726f706963616c204269726473",
+  "ticker": "BIRD",
+  "name": "Tropical Birds",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000003390321264846291,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

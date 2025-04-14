@@ -1,0 +1,17 @@
+{
+  "token_id": "797237428eafcb9e1f94043a1a7272fa7b1b5e05b1cd097faf7ad64b554e4953574150",
+  "ticker": "UNISWAP",
+  "name": "UNISWAP",
+  "total_supply": 10000000,
+  "circulating_supply": 0,
+  "price": 0.0001000001000001,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

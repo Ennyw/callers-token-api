@@ -1,0 +1,44 @@
+{
+  "token_id": "2a2da15edfb850666b134d13cd8ebafd61e8a526798ac26a24cbcc394d6f6f6e4d697373696f6e",
+  "ticker": "MOON",
+  "token_ascii": "MoonMission",
+  "market_cap": 6790.745226142643,
+  "price": 0.000006790745226142643,
+  "liquidity": 5758.027,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.18",
+  "token_age": 148,
+  "trust_assessment": {
+    "score": 45,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:13.363Z"
+}

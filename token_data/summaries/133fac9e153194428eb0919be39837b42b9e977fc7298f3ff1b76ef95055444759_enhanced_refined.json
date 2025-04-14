@@ -1,0 +1,39 @@
+{
+  "token_id": "133fac9e153194428eb0919be39837b42b9e977fc7298f3ff1b76ef95055444759",
+  "ticker": "PUDGY",
+  "token_ascii": "Pudgy Token",
+  "market_cap": 33261.0596653378,
+  "price": 0.0000332610596653378,
+  "liquidity": 2428.265372,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 4,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "13.70",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:53.759Z"
+}

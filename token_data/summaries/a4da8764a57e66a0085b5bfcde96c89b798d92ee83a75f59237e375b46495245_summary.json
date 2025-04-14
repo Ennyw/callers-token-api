@@ -1,0 +1,17 @@
+{
+  "token_id": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b46495245",
+  "ticker": "FIRE",
+  "name": "FIRE Token",
+  "total_supply": 500000000,
+  "circulating_supply": 499742202,
+  "price": 0.000007893289356355358,
+  "market_cap": 3944.609803968189,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

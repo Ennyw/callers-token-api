@@ -1,0 +1,44 @@
+{
+  "token_id": "8f52f6a88acf6127bc4758a16b6047afc4da7887feae121ec217b75a534e4f57",
+  "ticker": "SNOW",
+  "token_ascii": "SNOW",
+  "market_cap": 81151.26420610306,
+  "price": 0.08244716880538612,
+  "liquidity": 2865.533799,
+  "circulating_supply": 984282,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "28.32",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 55,
+    "level": "Moderate",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:02.574Z"
+}

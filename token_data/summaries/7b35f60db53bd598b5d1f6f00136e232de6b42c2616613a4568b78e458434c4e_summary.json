@@ -1,0 +1,17 @@
+{
+  "token_id": "7b35f60db53bd598b5d1f6f00136e232de6b42c2616613a4568b78e458434c4e",
+  "ticker": "XCLN",
+  "name": "Excelon",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 2.465085182305682e-7,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

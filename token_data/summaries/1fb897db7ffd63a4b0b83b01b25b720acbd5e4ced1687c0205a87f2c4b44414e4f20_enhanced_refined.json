@@ -1,0 +1,40 @@
+{
+  "token_id": "1fb897db7ffd63a4b0b83b01b25b720acbd5e4ced1687c0205a87f2c4b44414e4f20",
+  "ticker": "KDANO",
+  "token_ascii": "KDANO",
+  "market_cap": 1449.2810955553114,
+  "price": 0.0000014492810955553114,
+  "liquidity": 13991.878020999999,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.10",
+  "token_age": 139,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:56:04.953Z"
+}

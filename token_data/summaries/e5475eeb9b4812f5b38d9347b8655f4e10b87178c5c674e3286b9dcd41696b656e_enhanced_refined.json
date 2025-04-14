@@ -1,0 +1,43 @@
+{
+  "token_id": "e5475eeb9b4812f5b38d9347b8655f4e10b87178c5c674e3286b9dcd41696b656e",
+  "ticker": "AIKEN",
+  "token_ascii": "Aiken",
+  "market_cap": 16234.922021602912,
+  "price": 0.00001623492202160291,
+  "liquidity": 32357.959955,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 3,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.50",
+  "token_age": 58,
+  "trust_assessment": {
+    "score": 125,
+    "level": "High",
+    "penalties": [],
+    "bonuses": [
+      {
+        "reason": "Good number of liquidity pools (3)",
+        "points": 10
+      },
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:24.444Z"
+}

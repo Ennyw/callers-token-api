@@ -1,0 +1,40 @@
+{
+  "token_id": "aa55497a83595de3d65d64ddfcaf722a53ea0abdc85e6b5f028dbb595175616e74756d20446f6773686974",
+  "ticker": "QSHID",
+  "token_ascii": "Quantum Dogshit",
+  "market_cap": 1960.752594628511,
+  "price": 0.000001960752594628511,
+  "liquidity": 14909.565765,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.13",
+  "token_age": 97,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:30.816Z"
+}

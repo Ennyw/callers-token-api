@@ -1,0 +1,40 @@
+{
+  "token_id": "5678383c41b37b674db9656ee5cdc94a8530d0fc6da83eb1e54a2b14536e656b697573204d6178696d757320",
+  "ticker": "SNKM",
+  "token_ascii": "Snekius Maximus",
+  "market_cap": 1728.0868733662746,
+  "price": 0.0000017280868733662746,
+  "liquidity": 14576.963876,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.12",
+  "token_age": 101,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:00.905Z"
+}

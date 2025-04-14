@@ -1,0 +1,17 @@
+{
+  "token_id": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed524154",
+  "ticker": "RAT",
+  "name": "RAT",
+  "total_supply": 100000000,
+  "circulating_supply": 0,
+  "price": 0.0011597103783165573,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

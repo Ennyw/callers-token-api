@@ -1,0 +1,40 @@
+{
+  "token_id": "ff64cff1d790d8810f19d4a0e227159f884b1060916c1b4a26b070934c6f67616e204c6f6273746572",
+  "ticker": "LOGAN",
+  "token_ascii": "Logan Lobster",
+  "market_cap": 1636.250440329073,
+  "price": 0.0000016362504403290728,
+  "liquidity": 14405.643094,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.11",
+  "token_age": 132,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:59:55.168Z"
+}

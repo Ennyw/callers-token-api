@@ -1,0 +1,17 @@
+{
+  "token_id": "def41fe7c12b1761841e4e0574a880d6b3a56876a3cbfab94260d831574f4f4c59204d494345",
+  "ticker": "WOOLY",
+  "name": "Wooly Mice",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.00001029499324403225,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

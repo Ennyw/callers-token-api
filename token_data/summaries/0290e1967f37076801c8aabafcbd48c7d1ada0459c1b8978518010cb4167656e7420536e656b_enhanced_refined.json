@@ -1,0 +1,44 @@
+{
+  "token_id": "0290e1967f37076801c8aabafcbd48c7d1ada0459c1b8978518010cb4167656e7420536e656b",
+  "ticker": "AISNEK",
+  "token_ascii": "Agent Snek",
+  "market_cap": 17963.123461421827,
+  "price": 0.00001955628453129747,
+  "liquidity": 24243.713481,
+  "circulating_supply": 918534573,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.74",
+  "token_age": 93,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:55:39.641Z"
+}

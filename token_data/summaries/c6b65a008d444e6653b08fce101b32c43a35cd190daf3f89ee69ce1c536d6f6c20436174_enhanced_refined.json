@@ -1,0 +1,44 @@
+{
+  "token_id": "c6b65a008d444e6653b08fce101b32c43a35cd190daf3f89ee69ce1c536d6f6c20436174",
+  "ticker": "SMOL",
+  "token_ascii": "Smol Cat",
+  "market_cap": 156057.73608342436,
+  "price": 0.00015970122041237606,
+  "liquidity": 33936.630858,
+  "circulating_supply": 977185620,
+  "outliers_filtered": true,
+  "pool_count": 2,
+  "original_pool_count": 3,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "4.60",
+  "token_age": 142,
+  "trust_assessment": {
+    "score": 105,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:56.287Z"
+}

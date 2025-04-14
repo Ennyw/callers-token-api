@@ -1,0 +1,17 @@
+{
+  "token_id": "4756b1e7626e84c6de4fe4256b874412c5529a8e75b707ba1e677f4642455043",
+  "ticker": "BEPC",
+  "name": "BEPC",
+  "total_supply": 1000000000,
+  "circulating_supply": 0,
+  "price": 0.000006279795743637638,
+  "market_cap": null,
+  "liquidity": 0,
+  "pool_count": 0,
+  "trust_score": 100,
+  "has_market_cap": true,
+  "volume": 0,
+  "volume_in_token": 0,
+  "order_count": 0,
+  "rank": 0
+}

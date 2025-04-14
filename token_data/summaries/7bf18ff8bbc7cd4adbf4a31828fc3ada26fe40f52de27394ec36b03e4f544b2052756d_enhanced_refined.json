@@ -1,0 +1,50 @@
+{
+  "token_id": "7bf18ff8bbc7cd4adbf4a31828fc3ada26fe40f52de27394ec36b03e4f544b2052756d",
+  "ticker": "RUM",
+  "token_ascii": "OTK Rum Token",
+  "market_cap": 148688.89836765765,
+  "price": 0.0016727689420144357,
+  "liquidity": 1753.66641,
+  "circulating_supply": 0,
+  "outliers_filtered": false,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "84.79",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 35,
+    "level": "Low",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      },
+      {
+        "reason": "High market cap to liquidity ratio (84.79:1)",
+        "points": -20
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": true,
+  "validation": {
+    "valid": false,
+    "reasons": [
+      "Potential honeypot token: Low trust score"
+    ],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:57:39.806Z"
+}

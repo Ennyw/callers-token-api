@@ -1,0 +1,40 @@
+{
+  "token_id": "c28abadabaf05e47780e970ccaa709a489f4e09b4e34192636674d9f4b454b4543",
+  "ticker": "KEKEC",
+  "token_ascii": "KEKEC",
+  "market_cap": 2402.374030543172,
+  "price": 0.0000029907368785913338,
+  "liquidity": 15811.94968,
+  "circulating_supply": 803271611,
+  "outliers_filtered": false,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.15",
+  "token_age": 118,
+  "trust_assessment": {
+    "score": 95,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a month",
+        "points": 5
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:50.629Z"
+}

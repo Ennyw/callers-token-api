@@ -1,0 +1,37 @@
+{
+  "token_id": "c058aa2ab98a6a89bac4b216b0a045f9ea33a0148e6cad07c241364659554745",
+  "ticker": "YUGE",
+  "token_ascii": "denald trumpo",
+  "market_cap": 1662.4083679791752,
+  "price": 2.4092874898248916e-8,
+  "liquidity": 629.090037,
+  "circulating_supply": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.64",
+  "token_age": 739354,
+  "trust_assessment": {
+    "score": 85,
+    "level": "High",
+    "penalties": [
+      {
+        "reason": "Single liquidity pool",
+        "points": -30
+      }
+    ],
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
+  },
+  "honeypot_risk": false,
+  "validation": {
+    "valid": true,
+    "reasons": [],
+    "trustScore": 0
+  },
+  "updated_at": "2025-04-14T13:58:47.777Z"
+}
