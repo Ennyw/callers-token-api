@@ -2,9 +2,9 @@
   "token_id": "df1d850c46d6c9d12cbf6181c35db9225a91b77c8a646b7f636f8ae40014df104e494e4a415a",
   "ticker": "NINJAZ",
   "token_ascii": "Danketsu Token",
-  "market_cap": 10118.17529929593,
-  "price": 0.00002620715588798124,
-  "liquidity": 562.201139,
+  "market_cap": 9659.810695074011,
+  "price": 0.000025019942553457124,
+  "liquidity": 549.338299,
   "circulating_supply": 386084447.4137,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "18.00",
+  "mcap_liquidity_ratio": "17.58",
   "token_age": 739354,
   "trust_assessment": {
     "score": 55,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:23.137Z"
+  "updated_at": "2025-04-14T20:09:46.123Z"
 }

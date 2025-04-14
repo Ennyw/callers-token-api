@@ -2,9 +2,9 @@
   "token_id": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c4d79555344",
   "ticker": "MyUSD",
   "token_ascii": "Mynth USD",
-  "market_cap": 1979535.083900335,
-  "price": 1.8220479552674238,
-  "liquidity": 260872.811407,
+  "market_cap": 1979507.4807177163,
+  "price": 1.8220225481287182,
+  "liquidity": 260870.994838,
   "circulating_supply": 1086434.129342,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:08.438Z"
+  "updated_at": "2025-04-14T19:36:59.675Z"
 }

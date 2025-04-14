@@ -2,9 +2,9 @@
   "token_id": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
   "ticker": "STUFF",
   "token_ascii": "STUFF",
-  "market_cap": 20861126.356862105,
-  "price": 0.00981402735380958,
-  "liquidity": 1130265.937397,
+  "market_cap": 20864404.083456546,
+  "price": 0.009815569346217174,
+  "liquidity": 1130369.3704630001,
   "circulating_supply": 2125643795.843334,
   "outliers_filtered": false,
   "pool_count": 7,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:59.551Z"
+  "updated_at": "2025-04-14T19:20:19.780Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
   "ticker": "GENS",
   "token_ascii": "Genius Yield Token",
-  "market_cap": 2094998.7974103729,
-  "price": 0.02184754403624999,
-  "liquidity": 64567.78524499999,
+  "market_cap": 2097573.2429556483,
+  "price": 0.021874391456157275,
+  "liquidity": 64606.83665899999,
   "circulating_supply": 95891730.161262,
   "outliers_filtered": false,
   "pool_count": 7,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "32.45",
+  "mcap_liquidity_ratio": "32.47",
   "token_age": 739354,
   "trust_assessment": {
     "score": 110,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:20.511Z"
+  "updated_at": "2025-04-14T20:09:43.518Z"
 }

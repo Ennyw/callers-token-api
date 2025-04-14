@@ -2,9 +2,9 @@
   "token_id": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
   "ticker": "MILKv2",
   "token_ascii": "MILKv2",
-  "market_cap": 3143072.050940155,
-  "price": 0.3798006254932203,
-  "liquidity": 256523.708954,
+  "market_cap": 3135288.6359374453,
+  "price": 0.3788600979333706,
+  "liquidity": 256206.53500700003,
   "circulating_supply": 8275584.188042,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "12.25",
+  "mcap_liquidity_ratio": "12.24",
   "token_age": 739354,
   "trust_assessment": {
     "score": 140,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:40.006Z"
+  "updated_at": "2025-04-14T19:52:55.472Z"
 }

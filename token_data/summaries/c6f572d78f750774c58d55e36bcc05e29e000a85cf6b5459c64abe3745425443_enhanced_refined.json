@@ -2,29 +2,25 @@
   "token_id": "c6f572d78f750774c58d55e36bcc05e29e000a85cf6b5459c64abe3745425443",
   "ticker": "EBTC",
   "token_ascii": "ECOBITCOIN",
-  "market_cap": 5499.722122672118,
-  "price": 0.0002618915296510532,
-  "liquidity": 525.396712,
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
   "circulating_supply": 0,
   "outliers_filtered": false,
-  "pool_count": 1,
-  "original_pool_count": 1,
-  "median_used": true,
-  "suspicious_liquidity": true,
-  "price_from_average_price": false,
-  "mcap_liquidity_ratio": "10.47",
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 55,
-    "level": "Moderate",
+    "score": 0,
+    "level": "Very Low",
     "penalties": [
       {
-        "reason": "Single liquidity pool",
-        "points": -30
+        "reason": "No liquidity pools found",
+        "points": -80
       },
       {
-        "reason": "Suspicious liquidity distribution with low total liquidity",
-        "points": -30
+        "reason": "Extremely low liquidity",
+        "points": -70
       }
     ],
     "bonuses": [
@@ -34,11 +30,14 @@
       }
     ]
   },
-  "honeypot_risk": false,
+  "honeypot_risk": true,
   "validation": {
-    "valid": true,
-    "reasons": [],
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:59.994Z"
+  "updated_at": "2025-04-14T20:09:22.608Z"
 }

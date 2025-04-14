@@ -2,9 +2,9 @@
   "token_id": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe424f4f",
   "ticker": "BOO",
   "token_ascii": "Boo",
-  "market_cap": 527673.0693267352,
-  "price": 0.0006900448965922667,
-  "liquidity": 74031.672449,
+  "market_cap": 524760.8992060426,
+  "price": 0.000686236614065443,
+  "liquidity": 73827.586939,
   "circulating_supply": 764693822,
   "outliers_filtered": true,
   "pool_count": 2,
@@ -12,8 +12,8 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "7.13",
-  "token_age": 140,
+  "mcap_liquidity_ratio": "7.11",
+  "token_age": 141,
   "trust_assessment": {
     "score": 105,
     "level": "High",
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:11.938Z"
+  "updated_at": "2025-04-14T20:09:34.735Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241",
   "ticker": "MIRA",
   "token_ascii": "MIRA - Chains of War",
-  "market_cap": 194411.87478558533,
-  "price": 0.0012811783533502616,
-  "liquidity": 32117.449125,
+  "market_cap": 190707.79650080533,
+  "price": 0.001256768399365667,
+  "liquidity": 31567.032149,
   "circulating_supply": 151744582.85,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "6.05",
+  "mcap_liquidity_ratio": "6.04",
   "token_age": 739354,
   "trust_assessment": {
     "score": 100,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:55:59.974Z"
+  "updated_at": "2025-04-14T19:03:30.729Z"
 }

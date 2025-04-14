@@ -2,9 +2,9 @@
   "token_id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344",
   "ticker": "SHEN",
   "token_ascii": "Shen USD",
-  "market_cap": 26441165.033983678,
-  "price": 1.103478068295133,
-  "liquidity": 1629484.3402210001,
+  "market_cap": 26221214.711032823,
+  "price": 1.0942988072005952,
+  "liquidity": 1622695.323825,
   "circulating_supply": 23961658.861816,
   "outliers_filtered": false,
   "pool_count": 7,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "16.23",
+  "mcap_liquidity_ratio": "16.16",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:02.863Z"
+  "updated_at": "2025-04-14T19:36:53.804Z"
 }

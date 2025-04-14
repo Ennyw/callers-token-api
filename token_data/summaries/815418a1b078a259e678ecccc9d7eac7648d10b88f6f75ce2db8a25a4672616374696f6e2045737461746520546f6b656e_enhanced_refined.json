@@ -2,9 +2,9 @@
   "token_id": "815418a1b078a259e678ecccc9d7eac7648d10b88f6f75ce2db8a25a4672616374696f6e2045737461746520546f6b656e",
   "ticker": "FET",
   "token_ascii": "Fraction Estate Token",
-  "market_cap": 35873.04680007277,
-  "price": 0.033446340585466056,
-  "liquidity": 9260.110913,
+  "market_cap": 35876.35077766118,
+  "price": 0.033449421058678284,
+  "liquidity": 6492.376744,
   "circulating_supply": 1072555.208496,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "3.87",
+  "mcap_liquidity_ratio": "5.53",
   "token_age": 739354,
   "trust_assessment": {
     "score": 55,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:57:48.664Z"
+  "updated_at": "2025-04-14T19:36:39.235Z"
 }

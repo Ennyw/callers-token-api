@@ -2,9 +2,9 @@
   "token_id": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a390014df10574c4b",
   "ticker": "WLK",
   "token_ascii": "WALK",
-  "market_cap": 952141.4937164789,
-  "price": 0.000017311663522117798,
-  "liquidity": 49401.894292000004,
+  "market_cap": 951523.6993283832,
+  "price": 0.000017300430896879694,
+  "liquidity": 48383.990358,
   "circulating_supply": 55000000000,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "19.27",
+  "mcap_liquidity_ratio": "19.67",
   "token_age": 739354,
   "trust_assessment": {
     "score": 135,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:55:39.730Z"
+  "updated_at": "2025-04-14T19:03:09.646Z"
 }

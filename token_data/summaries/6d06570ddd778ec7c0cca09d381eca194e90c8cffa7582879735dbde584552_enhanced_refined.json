@@ -2,9 +2,9 @@
   "token_id": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
   "ticker": "XER",
   "token_ascii": "Xerberus DAO LLC",
-  "market_cap": 1983286.5691921634,
-  "price": 0.009275532301599993,
-  "liquidity": 294448.083569,
+  "market_cap": 1985101.2465410929,
+  "price": 0.00928401927399644,
+  "liquidity": 294343.149646,
   "circulating_supply": 213819164.734088,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:57:28.170Z"
+  "updated_at": "2025-04-14T19:20:48.610Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18426f6b20436869636b",
   "ticker": "BOK",
   "token_ascii": "Bok Chick",
-  "market_cap": 153057.9538118721,
-  "price": 0.0001530579538118721,
-  "liquidity": 46104.224732,
+  "market_cap": 181791.64771592562,
+  "price": 0.00018179164771592562,
+  "liquidity": 48942.360843,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "3.32",
+  "mcap_liquidity_ratio": "3.71",
   "token_age": 116,
   "trust_assessment": {
     "score": 125,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:57.027Z"
+  "updated_at": "2025-04-14T20:10:20.562Z"
 }

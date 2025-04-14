@@ -2,9 +2,9 @@
   "token_id": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a14e4154494f4e",
   "ticker": "NATION",
   "token_ascii": "NATION",
-  "market_cap": 103615.42591323383,
-  "price": 0.0010361542591323383,
-  "liquidity": 126.764968,
+  "market_cap": 87116.57178112013,
+  "price": 0.0008711657178112013,
+  "liquidity": 116.249917,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "817.38",
+  "mcap_liquidity_ratio": "749.39",
   "token_age": 739354,
   "trust_assessment": {
     "score": 0,
@@ -23,7 +23,7 @@
         "points": -30
       },
       {
-        "reason": "Extremely high market cap to liquidity ratio (817.38:1)",
+        "reason": "Extremely high market cap to liquidity ratio (749.39:1)",
         "points": -40
       },
       {
@@ -46,10 +46,10 @@
   "validation": {
     "valid": false,
     "reasons": [
-      "Insufficient liquidity (126.76 ADA) - minimum threshold is 500 ADA",
+      "Insufficient liquidity (116.25 ADA) - minimum threshold is 500 ADA",
       "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:08.531Z"
+  "updated_at": "2025-04-14T20:09:31.971Z"
 }

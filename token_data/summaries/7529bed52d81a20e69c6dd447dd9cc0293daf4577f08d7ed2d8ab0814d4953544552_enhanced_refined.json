@@ -2,9 +2,9 @@
   "token_id": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab0814d4953544552",
   "ticker": "MISTER",
   "token_ascii": "Mister",
-  "market_cap": 137056.19799863818,
-  "price": 0.00013852686835803439,
-  "liquidity": 77788.49788499999,
+  "market_cap": 153809.00255538046,
+  "price": 0.0001554594375183344,
+  "liquidity": 80339.92970800001,
   "circulating_supply": 989383501,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "1.76",
+  "mcap_liquidity_ratio": "1.91",
   "token_age": 78,
   "trust_assessment": {
     "score": 105,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:57:34.481Z"
+  "updated_at": "2025-04-14T19:20:54.204Z"
 }

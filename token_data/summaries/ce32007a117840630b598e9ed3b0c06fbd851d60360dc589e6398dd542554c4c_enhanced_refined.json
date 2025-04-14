@@ -2,9 +2,9 @@
   "token_id": "ce32007a117840630b598e9ed3b0c06fbd851d60360dc589e6398dd542554c4c",
   "ticker": "BULL",
   "token_ascii": "Bull",
-  "market_cap": 410099.8364261115,
-  "price": 0.00042183912140463935,
-  "liquidity": 52944.787682999995,
+  "market_cap": 411145.96987123095,
+  "price": 0.00042291520087154916,
+  "liquidity": 53013.442821,
   "circulating_supply": 972171180,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "7.75",
+  "mcap_liquidity_ratio": "7.76",
   "token_age": 76,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:05.626Z"
+  "updated_at": "2025-04-14T20:09:28.821Z"
 }

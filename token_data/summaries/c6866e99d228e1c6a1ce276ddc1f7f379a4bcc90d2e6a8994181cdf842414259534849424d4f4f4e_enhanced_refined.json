@@ -2,25 +2,21 @@
   "token_id": "c6866e99d228e1c6a1ce276ddc1f7f379a4bcc90d2e6a8994181cdf842414259534849424d4f4f4e",
   "ticker": "BABYSHIBMOON",
   "token_ascii": "BABYSHIBMOON",
-  "market_cap": 17176.297519951706,
-  "price": 0.00021470371899939632,
-  "liquidity": 15.012467,
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
   "circulating_supply": 0,
   "outliers_filtered": false,
-  "pool_count": 2,
-  "original_pool_count": 2,
-  "median_used": false,
-  "suspicious_liquidity": false,
-  "price_from_average_price": false,
-  "mcap_liquidity_ratio": "1144.14",
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 35,
-    "level": "Low",
+    "score": 0,
+    "level": "Very Low",
     "penalties": [
       {
-        "reason": "Low number of liquidity pools (2)",
-        "points": -10
+        "reason": "No liquidity pools found",
+        "points": -80
       },
       {
         "reason": "Extremely low liquidity",
@@ -38,10 +34,10 @@
   "validation": {
     "valid": false,
     "reasons": [
-      "Insufficient liquidity (15.01 ADA) - minimum threshold is 500 ADA",
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
       "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:00.053Z"
+  "updated_at": "2025-04-14T20:09:22.838Z"
 }

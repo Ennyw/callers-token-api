@@ -2,9 +2,9 @@
   "token_id": "c9281d64953f9531304e57e4ff15111f0c5445167c0b413f70fcd50c52554e45",
   "ticker": "RUNE",
   "token_ascii": "RUNE",
-  "market_cap": 22503.557374634776,
-  "price": 0.0004377625260171677,
-  "liquidity": 102.22445400000001,
+  "market_cap": 18904.27629241879,
+  "price": 0.00036774557926666545,
+  "liquidity": 91.184449,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,19 +12,19 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "220.14",
+  "mcap_liquidity_ratio": "207.32",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 55,
-    "level": "Moderate",
+    "score": 35,
+    "level": "Low",
     "penalties": [
       {
         "reason": "Low number of liquidity pools (2)",
         "points": -10
       },
       {
-        "reason": "Very low liquidity",
-        "points": -50
+        "reason": "Extremely low liquidity",
+        "points": -70
       }
     ],
     "bonuses": [
@@ -34,13 +34,14 @@
       }
     ]
   },
-  "honeypot_risk": false,
+  "honeypot_risk": true,
   "validation": {
-    "valid": true,
+    "valid": false,
     "reasons": [
-      "Insufficient liquidity (102.22 ADA) - minimum threshold is 500 ADA"
+      "Insufficient liquidity (91.18 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:02.850Z"
+  "updated_at": "2025-04-14T20:09:25.506Z"
 }

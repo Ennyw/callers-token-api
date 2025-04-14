@@ -2,9 +2,9 @@
   "token_id": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa566f6964",
   "ticker": "VOID",
   "token_ascii": "Void",
-  "market_cap": 169399.41268377847,
-  "price": 0.0033879882536755695,
-  "liquidity": 5115.299857,
+  "market_cap": 174254.02997416505,
+  "price": 0.0034850805994833013,
+  "liquidity": 5188.176757,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "33.12",
+  "mcap_liquidity_ratio": "33.59",
   "token_age": 739354,
   "trust_assessment": {
     "score": 55,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:25.945Z"
+  "updated_at": "2025-04-14T20:09:49.046Z"
 }

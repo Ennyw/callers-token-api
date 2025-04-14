@@ -2,14 +2,14 @@
   "token_id": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c",
   "ticker": "SHARL",
   "token_ascii": "SHARL",
-  "market_cap": 317372.38866832474,
-  "price": 3.3985587836792936e-7,
-  "liquidity": 51082.234147999996,
+  "market_cap": 317248.42100393015,
+  "price": 3.397231285101083e-7,
+  "liquidity": 50577.310068,
   "circulating_supply": 933844046460,
   "outliers_filtered": true,
   "pool_count": 4,
   "median_used": true,
-  "mcap_liquidity_ratio": "6.21",
+  "mcap_liquidity_ratio": "6.27",
   "token_age": 739354,
   "trust_assessment": {
     "score": 135,
@@ -36,5 +36,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:57:07.999Z"
+  "updated_at": "2025-04-14T19:20:28.308Z"
 }

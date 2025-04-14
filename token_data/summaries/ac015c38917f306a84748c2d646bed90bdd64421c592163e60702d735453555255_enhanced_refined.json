@@ -2,9 +2,9 @@
   "token_id": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255",
   "ticker": "TOOL",
   "token_ascii": "TOOL",
-  "market_cap": 625059.9145187389,
-  "price": 0.0006269646355895183,
-  "liquidity": 82005.553654,
+  "market_cap": 622223.8998207719,
+  "price": 0.0006241199788128854,
+  "liquidity": 81821.15365600001,
   "circulating_supply": 996961996,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "7.62",
+  "mcap_liquidity_ratio": "7.60",
   "token_age": 739354,
   "trust_assessment": {
     "score": 115,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:37.280Z"
+  "updated_at": "2025-04-14T19:52:52.536Z"
 }

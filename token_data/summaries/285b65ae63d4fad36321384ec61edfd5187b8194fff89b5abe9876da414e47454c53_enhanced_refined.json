@@ -2,9 +2,9 @@
   "token_id": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
   "ticker": "ANGELS",
   "token_ascii": "Angels",
-  "market_cap": 1696172.0747119035,
-  "price": 3.4200231946257618,
-  "liquidity": 50306.813945,
+  "market_cap": 1719213.0052250768,
+  "price": 3.4664810499080434,
+  "liquidity": 50648.813942,
   "circulating_supply": 495953.383409,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "33.72",
+  "mcap_liquidity_ratio": "33.94",
   "token_age": 739354,
   "trust_assessment": {
     "score": 85,
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:17.041Z"
+  "updated_at": "2025-04-14T19:19:36.995Z"
 }

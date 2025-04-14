@@ -2,9 +2,9 @@
   "token_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
   "ticker": "NMKR",
   "token_ascii": "NMKR",
-  "market_cap": 11207816.115565443,
-  "price": 0.0011207816115565443,
-  "liquidity": 155165.249063,
+  "market_cap": 11210095.045999466,
+  "price": 0.0011210095045999465,
+  "liquidity": 155180.596563,
   "circulating_supply": 10000000000,
   "outliers_filtered": false,
   "pool_count": 8,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "72.23",
+  "mcap_liquidity_ratio": "72.24",
   "token_age": 739354,
   "trust_assessment": {
     "score": 80,
@@ -23,7 +23,7 @@
         "points": -25
       },
       {
-        "reason": "Potential price manipulation (72.23:1 MCap/Liquidity ratio)",
+        "reason": "Potential price manipulation (72.24:1 MCap/Liquidity ratio)",
         "points": -40
       }
     ],
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:57:13.834Z"
+  "updated_at": "2025-04-14T19:20:34.338Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9464554",
   "ticker": "FET",
   "token_ascii": "ASI Alliance",
-  "market_cap": 33587148.689451724,
-  "price": 0.7696053450230703,
-  "liquidity": 510210.434161,
+  "market_cap": 33842542.786130734,
+  "price": 0.7754573649045088,
+  "liquidity": 512154.683767,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "65.83",
+  "mcap_liquidity_ratio": "66.08",
   "token_age": 221,
   "trust_assessment": {
     "score": 0,
@@ -23,7 +23,7 @@
         "points": -50
       },
       {
-        "reason": "Potential price manipulation (65.83:1 MCap/Liquidity ratio)",
+        "reason": "Potential price manipulation (66.08:1 MCap/Liquidity ratio)",
         "points": -40
       },
       {
@@ -39,7 +39,7 @@
         "points": -50
       },
       {
-        "reason": "High market cap to liquidity ratio (65.83:1)",
+        "reason": "High market cap to liquidity ratio (66.08:1)",
         "points": -20
       },
       {
@@ -69,5 +69,5 @@
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:31.483Z"
+  "updated_at": "2025-04-14T20:09:54.723Z"
 }

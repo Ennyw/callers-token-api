@@ -2,9 +2,9 @@
   "token_id": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb436861726c65737352616e6368",
   "ticker": "RANCH",
   "token_ascii": "Charles Ranch",
-  "market_cap": 13614.837853991115,
-  "price": 0.000013614837853991115,
-  "liquidity": 5577.796303,
+  "market_cap": 13575.899885379962,
+  "price": 0.000013575899885379962,
+  "liquidity": 5569.824427,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:48.713Z"
+  "updated_at": "2025-04-14T19:53:04.120Z"
 }

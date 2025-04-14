@@ -10,7 +10,7 @@
   "pool_count": 1,
   "median_used": true,
   "mcap_liquidity_ratio": "1.06",
-  "token_age": 210,
+  "token_age": 211,
   "trust_assessment": {
     "score": 80,
     "level": "High",
@@ -33,5 +33,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:48.207Z"
+  "updated_at": "2025-04-14T19:20:08.566Z"
 }

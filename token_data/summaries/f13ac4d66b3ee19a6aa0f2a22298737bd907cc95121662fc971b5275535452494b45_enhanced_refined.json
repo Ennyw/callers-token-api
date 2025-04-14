@@ -2,9 +2,9 @@
   "token_id": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
   "ticker": "STRIKE",
   "token_ascii": "STRIKE",
-  "market_cap": 3759073.089852678,
-  "price": 0.21026457304726162,
-  "liquidity": 624936.0333100001,
+  "market_cap": 3728249.689465862,
+  "price": 0.2085404594247588,
+  "liquidity": 622384.268805,
   "circulating_supply": 17877824.282875,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "6.02",
+  "mcap_liquidity_ratio": "5.99",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:42.810Z"
+  "updated_at": "2025-04-14T20:10:06.351Z"
 }

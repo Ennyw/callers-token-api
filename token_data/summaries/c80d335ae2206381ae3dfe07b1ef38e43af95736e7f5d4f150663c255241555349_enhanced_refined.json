@@ -2,22 +2,25 @@
   "token_id": "c80d335ae2206381ae3dfe07b1ef38e43af95736e7f5d4f150663c255241555349",
   "ticker": "RAUSI",
   "token_ascii": "RAUSI",
-  "market_cap": 3409.1526822837695,
-  "price": 6.240432453012182e-7,
-  "liquidity": 1835.794212,
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
   "circulating_supply": 5463007104,
-  "outliers_filtered": true,
-  "pool_count": 1,
-  "median_used": true,
-  "mcap_liquidity_ratio": "1.86",
+  "outliers_filtered": false,
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 85,
-    "level": "High",
+    "score": 0,
+    "level": "Very Low",
     "penalties": [
       {
-        "reason": "Single liquidity pool",
-        "points": -30
+        "reason": "No liquidity pools found",
+        "points": -80
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
       }
     ],
     "bonuses": [
@@ -27,11 +30,14 @@
       }
     ]
   },
-  "honeypot_risk": false,
+  "honeypot_risk": true,
   "validation": {
-    "valid": true,
-    "reasons": [],
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:59.962Z"
+  "updated_at": "2025-04-14T20:09:22.527Z"
 }

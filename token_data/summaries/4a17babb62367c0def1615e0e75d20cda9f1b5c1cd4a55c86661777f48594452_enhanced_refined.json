@@ -2,9 +2,9 @@
   "token_id": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f48594452",
   "ticker": "HYDR",
   "token_ascii": "HYDR",
-  "market_cap": 202460.36293868488,
-  "price": 0.00000449911917641522,
-  "liquidity": 10203.357231000002,
+  "market_cap": 204026.1372834454,
+  "price": 0.000004533914161854342,
+  "liquidity": 10243.187171,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "19.84",
+  "mcap_liquidity_ratio": "19.92",
   "token_age": 169,
   "trust_assessment": {
     "score": 65,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:54.024Z"
+  "updated_at": "2025-04-14T19:20:14.261Z"
 }

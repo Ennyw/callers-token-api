@@ -2,9 +2,9 @@
   "token_id": "40ef978ef2a69438af77513375bfc8ca79f8c062cb7429c3ed3438c243415244414e4f204d4958",
   "ticker": "CMT",
   "token_ascii": "CARDANO MIX",
-  "market_cap": 331.6620349175984,
-  "price": 3.3166203491759843e-7,
-  "liquidity": 6033.396742,
+  "market_cap": 323.4199693811361,
+  "price": 3.2341996938113615e-7,
+  "liquidity": 5883.462031,
   "circulating_supply": 0,
   "outliers_filtered": true,
   "pool_count": 1,
@@ -33,5 +33,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:42.580Z"
+  "updated_at": "2025-04-14T19:20:02.831Z"
 }

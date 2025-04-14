@@ -2,25 +2,25 @@
   "token_id": "c790501de82a77199636e4f4c2f90fe35e02c656bc152d135d34bb5f596f726f692074686520536c6f7468",
   "ticker": "YOROI",
   "token_ascii": "Yoroi the Sloth",
-  "market_cap": 1812.0293471299997,
-  "price": 0.0000018120293471299997,
-  "liquidity": 14720.627638,
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
   "circulating_supply": 0,
   "outliers_filtered": false,
-  "pool_count": 2,
-  "original_pool_count": 2,
-  "median_used": false,
-  "suspicious_liquidity": false,
-  "price_from_average_price": false,
-  "mcap_liquidity_ratio": "0.12",
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
   "token_age": 125,
   "trust_assessment": {
-    "score": 95,
-    "level": "High",
+    "score": 0,
+    "level": "Very Low",
     "penalties": [
       {
-        "reason": "Low number of liquidity pools (2)",
-        "points": -10
+        "reason": "No liquidity pools found",
+        "points": -80
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
       }
     ],
     "bonuses": [
@@ -30,11 +30,14 @@
       }
     ]
   },
-  "honeypot_risk": false,
+  "honeypot_risk": true,
   "validation": {
-    "valid": true,
-    "reasons": [],
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:00.194Z"
+  "updated_at": "2025-04-14T20:09:22.646Z"
 }

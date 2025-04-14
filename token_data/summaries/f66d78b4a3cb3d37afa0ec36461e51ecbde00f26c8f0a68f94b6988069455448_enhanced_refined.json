@@ -4,12 +4,12 @@
   "token_ascii": "iETH",
   "market_cap": 421171.06799999997,
   "price": 1000,
-  "liquidity": 166265.083693,
+  "liquidity": 167263.417693,
   "circulating_supply": 421.171068,
   "outliers_filtered": true,
   "pool_count": 5,
   "median_used": true,
-  "mcap_liquidity_ratio": "2.53",
+  "mcap_liquidity_ratio": "2.52",
   "token_age": 739354,
   "trust_assessment": {
     "score": 145,
@@ -36,5 +36,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:48.444Z"
+  "updated_at": "2025-04-14T20:10:11.995Z"
 }

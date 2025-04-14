@@ -2,9 +2,9 @@
   "token_id": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
   "ticker": "CLAY",
   "token_ascii": "CLAY",
-  "market_cap": 1232854.2563809725,
-  "price": 0.00246992339752104,
-  "liquidity": 69324.65023399999,
+  "market_cap": 1227697.2153224077,
+  "price": 0.002459591684500949,
+  "liquidity": 69179.58297999999,
   "circulating_supply": 499146758,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "17.78",
+  "mcap_liquidity_ratio": "17.75",
   "token_age": 739354,
   "trust_assessment": {
     "score": 110,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:31.371Z"
+  "updated_at": "2025-04-14T19:19:51.020Z"
 }

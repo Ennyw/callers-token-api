@@ -2,9 +2,9 @@
   "token_id": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf4d796e746820546f6b656e",
   "ticker": "MNT",
   "token_ascii": "Mynth Token",
-  "market_cap": 2857101.376722738,
-  "price": 0.04112320714554262,
-  "liquidity": 2252.123216,
+  "market_cap": 3171724.9074348025,
+  "price": 0.04565168790990921,
+  "liquidity": 2376.256616,
   "circulating_supply": 69476618.557763,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "1268.63",
+  "mcap_liquidity_ratio": "1334.76",
   "token_age": 739354,
   "trust_assessment": {
     "score": 125,
@@ -35,5 +35,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:45.574Z"
+  "updated_at": "2025-04-14T19:20:05.785Z"
 }

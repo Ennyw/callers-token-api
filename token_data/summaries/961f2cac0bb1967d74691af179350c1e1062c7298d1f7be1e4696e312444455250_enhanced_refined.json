@@ -2,9 +2,9 @@
   "token_id": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e312444455250",
   "ticker": "DERP",
   "token_ascii": "Derp Utility Token",
-  "market_cap": 378217.7787693531,
-  "price": 0.03987427004042305,
-  "liquidity": 124885.10790999999,
+  "market_cap": 370419.98665945494,
+  "price": 0.039052174185170374,
+  "liquidity": 123593.254093,
   "circulating_supply": 9485259,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "3.03",
+  "mcap_liquidity_ratio": "3.00",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:14.103Z"
+  "updated_at": "2025-04-14T19:37:05.225Z"
 }

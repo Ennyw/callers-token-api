@@ -2,9 +2,9 @@
   "token_id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
   "ticker": "DJED",
   "token_ascii": "Djed USD",
-  "market_cap": 5927787.852128013,
-  "price": 1.568762772915396,
-  "liquidity": 683135.072161,
+  "market_cap": 5840706.117390372,
+  "price": 1.5457169779130895,
+  "liquidity": 678124.7524989999,
   "circulating_supply": 3778638.781128,
   "outliers_filtered": false,
   "pool_count": 6,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "8.68",
+  "mcap_liquidity_ratio": "8.61",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:02.890Z"
+  "updated_at": "2025-04-14T19:36:53.921Z"
 }

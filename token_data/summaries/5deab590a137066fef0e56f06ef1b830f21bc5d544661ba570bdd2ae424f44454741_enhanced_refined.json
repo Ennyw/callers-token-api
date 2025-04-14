@@ -2,9 +2,9 @@
   "token_id": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
   "ticker": "BODEGA",
   "token_ascii": "Bodega",
-  "market_cap": 4477465.567021195,
-  "price": 0.22337577278532283,
-  "liquidity": 341658.06293500005,
+  "market_cap": 4433412.863266654,
+  "price": 0.22117803243485934,
+  "liquidity": 339987.32497,
   "circulating_supply": 20044544.272598,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "13.11",
+  "mcap_liquidity_ratio": "13.04",
   "token_age": 146,
   "trust_assessment": {
     "score": 110,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:57:14.009Z"
+  "updated_at": "2025-04-14T19:20:34.251Z"
 }

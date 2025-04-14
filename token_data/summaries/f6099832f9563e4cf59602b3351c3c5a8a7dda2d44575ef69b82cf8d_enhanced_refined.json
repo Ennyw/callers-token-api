@@ -2,9 +2,9 @@
   "token_id": "f6099832f9563e4cf59602b3351c3c5a8a7dda2d44575ef69b82cf8d",
   "ticker": "OADA",
   "token_ascii": "The OADA Token",
-  "market_cap": 16276717.069317231,
-  "price": 0.683361303352139,
-  "liquidity": 642989.685335,
+  "market_cap": 16276755.185002364,
+  "price": 0.6833629036001595,
+  "liquidity": 340353.403306,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "25.31",
+  "mcap_liquidity_ratio": "47.82",
   "token_age": 739354,
   "trust_assessment": {
     "score": 35,
@@ -60,5 +60,5 @@
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:45.738Z"
+  "updated_at": "2025-04-14T20:10:09.241Z"
 }

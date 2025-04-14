@@ -8,8 +8,6 @@
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 0,
-  "original_pool_count": 0,
-  "suspicious_liquidity": true,
   "mcap_liquidity_ratio": "N/A",
   "token_age": 739354,
   "trust_assessment": {
@@ -23,10 +21,6 @@
       {
         "reason": "Extremely low liquidity",
         "points": -70
-      },
-      {
-        "reason": "Suspicious liquidity distribution with low total liquidity",
-        "points": -30
       }
     ],
     "bonuses": [
@@ -45,5 +39,5 @@
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:00.222Z"
+  "updated_at": "2025-04-14T20:09:22.578Z"
 }

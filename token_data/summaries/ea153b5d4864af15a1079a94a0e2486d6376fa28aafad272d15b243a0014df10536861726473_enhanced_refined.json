@@ -2,9 +2,9 @@
   "token_id": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
   "ticker": "SHARDS",
   "token_ascii": "SHARDS",
-  "market_cap": 817491.2596753722,
-  "price": 0.3150604192241628,
-  "liquidity": 51913.158104,
+  "market_cap": 813962.713970265,
+  "price": 0.3137005207837267,
+  "liquidity": 51790.912649000005,
   "circulating_supply": 2594712.663966,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "15.75",
+  "mcap_liquidity_ratio": "15.72",
   "token_age": 739354,
   "trust_assessment": {
     "score": 135,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:34.315Z"
+  "updated_at": "2025-04-14T20:09:57.484Z"
 }

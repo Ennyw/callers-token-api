@@ -2,9 +2,9 @@
   "token_id": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e94361726465787363616e",
   "ticker": "CDS",
   "token_ascii": "Cardexscan",
-  "market_cap": 110086.81385746633,
-  "price": 0.00011008681385746633,
-  "liquidity": 44313.580130999995,
+  "market_cap": 107948.6605527367,
+  "price": 0.00010794866055273671,
+  "liquidity": 44026.093970999995,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "2.48",
+  "mcap_liquidity_ratio": "2.45",
   "token_age": 109,
   "trust_assessment": {
     "score": 105,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:42.727Z"
+  "updated_at": "2025-04-14T19:20:02.926Z"
 }

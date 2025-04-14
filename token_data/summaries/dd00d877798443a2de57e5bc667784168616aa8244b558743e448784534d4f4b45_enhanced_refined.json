@@ -2,9 +2,9 @@
   "token_id": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45",
   "ticker": "SMOKE",
   "token_ascii": "SMOKE",
-  "market_cap": 32730.950257140434,
-  "price": 0.000004905583236385284,
-  "liquidity": 18937.774812,
+  "market_cap": 32643.90285274327,
+  "price": 0.000004892536921370693,
+  "liquidity": 18912.660328,
   "circulating_supply": 6672183241,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -36,5 +36,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:20.482Z"
+  "updated_at": "2025-04-14T20:09:43.490Z"
 }

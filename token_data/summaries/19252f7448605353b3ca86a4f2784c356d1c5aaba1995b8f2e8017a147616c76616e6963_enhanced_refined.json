@@ -2,9 +2,9 @@
   "token_id": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a147616c76616e6963",
   "ticker": "GALV",
   "token_ascii": "Galvanic",
-  "market_cap": 91738.6989959659,
-  "price": 0.00009715496222730723,
-  "liquidity": 41791.290189,
+  "market_cap": 93736.23865782509,
+  "price": 0.00009927043685818261,
+  "liquidity": 42091.040091999996,
   "circulating_supply": 944251296,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "2.20",
+  "mcap_liquidity_ratio": "2.23",
   "token_age": 107,
   "trust_assessment": {
     "score": 125,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:56:00.135Z"
+  "updated_at": "2025-04-14T19:03:30.795Z"
 }

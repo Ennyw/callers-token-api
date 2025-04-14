@@ -2,9 +2,9 @@
   "token_id": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
   "ticker": "ROLL",
   "token_ascii": "Roll",
-  "market_cap": 1295626.5334618897,
-  "price": 0.003191463602527877,
-  "liquidity": 271202.584624,
+  "market_cap": 1284334.2985343349,
+  "price": 0.00316364790422924,
+  "liquidity": 270021.58045400004,
   "circulating_supply": 405966257.1228,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,8 +12,8 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "4.78",
-  "token_age": 73,
+  "mcap_liquidity_ratio": "4.76",
+  "token_age": 74,
   "trust_assessment": {
     "score": 85,
     "level": "High",
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:19.935Z"
+  "updated_at": "2025-04-14T19:37:10.994Z"
 }

@@ -2,53 +2,42 @@
   "token_id": "c8764cd53485b29f6ad94bf69f399ac72903b4df1e70d6a119d6596e4859445241",
   "ticker": "HYDRA",
   "token_ascii": "HYDRA",
-  "market_cap": 1129558.8062250926,
-  "price": 1.1295588062250925,
-  "liquidity": 3011.117486,
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
   "circulating_supply": 0,
   "outliers_filtered": false,
-  "pool_count": 3,
-  "original_pool_count": 3,
-  "median_used": true,
-  "suspicious_liquidity": true,
-  "price_from_average_price": false,
-  "mcap_liquidity_ratio": "375.13",
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 40,
-    "level": "Moderate",
+    "score": 0,
+    "level": "Very Low",
     "penalties": [
       {
-        "reason": "Possible copycat token with suspicious name pattern",
-        "points": -25
+        "reason": "No liquidity pools found",
+        "points": -80
       },
       {
-        "reason": "Suspicious circulating supply vs. liquidity ratio",
-        "points": -30
-      },
-      {
-        "reason": "Suspicious liquidity distribution with low total liquidity",
-        "points": -30
+        "reason": "Extremely low liquidity",
+        "points": -70
       }
     ],
     "bonuses": [
-      {
-        "reason": "Good number of liquidity pools (3)",
-        "points": 10
-      },
       {
         "reason": "Token has existed for more than a year",
         "points": 15
       }
     ]
   },
-  "honeypot_risk": false,
+  "honeypot_risk": true,
   "validation": {
-    "valid": true,
+    "valid": false,
     "reasons": [
-      "High market cap with zero or unreported circulating supply - potential manipulation"
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:00.138Z"
+  "updated_at": "2025-04-14T20:09:22.805Z"
 }

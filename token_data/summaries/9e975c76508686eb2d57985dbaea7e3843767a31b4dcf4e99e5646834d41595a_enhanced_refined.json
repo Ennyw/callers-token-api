@@ -2,9 +2,9 @@
   "token_id": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
   "ticker": "MAYZ",
   "token_ascii": "MAYZ",
-  "market_cap": 496697.69909633277,
-  "price": 0.004399495458565381,
-  "liquidity": 73492.114419,
+  "market_cap": 468716.0867766488,
+  "price": 0.004151648575948937,
+  "liquidity": 71443.03940800001,
   "circulating_supply": 112898786.639116,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "6.76",
+  "mcap_liquidity_ratio": "6.56",
   "token_age": 739354,
   "trust_assessment": {
     "score": 130,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:23.032Z"
+  "updated_at": "2025-04-14T19:52:38.200Z"
 }

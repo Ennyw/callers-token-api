@@ -2,9 +2,9 @@
   "token_id": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
   "ticker": "PBX",
   "token_ascii": "Paribus",
-  "market_cap": 3407607.0131643275,
-  "price": 0.0003407607013164327,
-  "liquidity": 30007.046197999996,
+  "market_cap": 3426534.535051432,
+  "price": 0.0003426534535051432,
+  "liquidity": 30088.436198,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "113.56",
+  "mcap_liquidity_ratio": "113.88",
   "token_age": 739354,
   "trust_assessment": {
     "score": 105,
@@ -46,5 +46,5 @@
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:05.539Z"
+  "updated_at": "2025-04-14T20:09:28.707Z"
 }

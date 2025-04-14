@@ -2,47 +2,42 @@
   "token_id": "c881c20e49dbaca3ff6cef365969354150983230c39520b917f5cf7c4e696b65",
   "ticker": "NIKEPIG",
   "token_ascii": "NikePig",
-  "market_cap": 3262503.5571240755,
-  "price": 0.0036261406467267034,
-  "liquidity": 203873.494156,
+  "market_cap": 0,
+  "price": 0,
+  "liquidity": 0,
   "circulating_supply": 899717875,
   "outliers_filtered": false,
-  "pool_count": 5,
-  "original_pool_count": 5,
-  "median_used": false,
-  "suspicious_liquidity": false,
-  "price_from_average_price": false,
-  "mcap_liquidity_ratio": "16.00",
+  "pool_count": 0,
+  "mcap_liquidity_ratio": "N/A",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 120,
-    "level": "High",
+    "score": 0,
+    "level": "Very Low",
     "penalties": [
       {
-        "reason": "Possible copycat token with suspicious name pattern",
-        "points": -25
+        "reason": "No liquidity pools found",
+        "points": -80
+      },
+      {
+        "reason": "Extremely low liquidity",
+        "points": -70
       }
     ],
     "bonuses": [
-      {
-        "reason": "Good number of liquidity pools (5)",
-        "points": 10
-      },
-      {
-        "reason": "Very high liquidity",
-        "points": 20
-      },
       {
         "reason": "Token has existed for more than a year",
         "points": 15
       }
     ]
   },
-  "honeypot_risk": false,
+  "honeypot_risk": true,
   "validation": {
-    "valid": true,
-    "reasons": [],
+    "valid": false,
+    "reasons": [
+      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Potential honeypot token: Low trust score"
+    ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:00.110Z"
+  "updated_at": "2025-04-14T20:09:22.710Z"
 }

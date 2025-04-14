@@ -2,9 +2,9 @@
   "token_id": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
   "ticker": "CHAD",
   "token_ascii": "Charles the Chad",
-  "market_cap": 4216497.887885061,
-  "price": 0.004424770155385477,
-  "liquidity": 284721.735329,
+  "market_cap": 4190683.927089447,
+  "price": 0.004397681124071385,
+  "liquidity": 283906.405306,
   "circulating_supply": 952930376,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "14.81",
+  "mcap_liquidity_ratio": "14.76",
   "token_age": 138,
   "trust_assessment": {
     "score": 110,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:17.188Z"
+  "updated_at": "2025-04-14T19:37:08.224Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
   "ticker": "SUNDAE",
   "token_ascii": "SUNDAE",
-  "market_cap": 10458812.579839565,
-  "price": 0.008613084516595534,
-  "liquidity": 2317332.8045940003,
+  "market_cap": 10455937.903173065,
+  "price": 0.008610717150998584,
+  "liquidity": 2317068.6633810005,
   "circulating_supply": 1214293504.224615,
   "outliers_filtered": false,
   "pool_count": 10,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:16.958Z"
+  "updated_at": "2025-04-14T19:37:08.082Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
   "ticker": "DUX",
   "token_ascii": "The Chosen Dux",
-  "market_cap": 291518.5102679742,
-  "price": 0.00030802177907686456,
-  "liquidity": 70318.66689299999,
+  "market_cap": 288950.93700007384,
+  "price": 0.0003053088519108953,
+  "liquidity": 70077.464196,
   "circulating_supply": 946421747,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "4.15",
+  "mcap_liquidity_ratio": "4.12",
   "token_age": 124,
   "trust_assessment": {
     "score": 125,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:59:42.838Z"
+  "updated_at": "2025-04-14T20:10:06.436Z"
 }

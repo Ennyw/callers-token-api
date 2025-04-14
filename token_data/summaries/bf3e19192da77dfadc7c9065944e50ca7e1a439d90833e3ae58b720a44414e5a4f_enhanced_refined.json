@@ -2,9 +2,9 @@
   "token_id": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
   "ticker": "DANZO",
   "token_ascii": "DANZO",
-  "market_cap": 1087133.1373176647,
-  "price": 0.000016327698809728916,
-  "liquidity": 131957.143502,
+  "market_cap": 1064158.4061934082,
+  "price": 0.000015982640346184213,
+  "liquidity": 130573.045596,
   "circulating_supply": 66582140569,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "8.24",
+  "mcap_liquidity_ratio": "8.15",
   "token_age": 739354,
   "trust_assessment": {
     "score": 75,
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:51.692Z"
+  "updated_at": "2025-04-14T19:53:06.842Z"
 }

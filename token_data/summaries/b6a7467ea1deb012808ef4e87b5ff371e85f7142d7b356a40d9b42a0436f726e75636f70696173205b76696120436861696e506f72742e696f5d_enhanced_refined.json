@@ -2,9 +2,9 @@
   "token_id": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
   "ticker": "COPI",
   "token_ascii": "Cornucopias Token",
-  "market_cap": 20722679.057790637,
-  "price": 0.02051815554015541,
-  "liquidity": 899314.8673340001,
+  "market_cap": 20755216.203777507,
+  "price": 0.020550371559152257,
+  "liquidity": 900024.0398060001,
   "circulating_supply": 1009967929,
   "outliers_filtered": false,
   "pool_count": 8,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "23.04",
+  "mcap_liquidity_ratio": "23.06",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:58:46.053Z"
+  "updated_at": "2025-04-14T19:53:00.985Z"
 }

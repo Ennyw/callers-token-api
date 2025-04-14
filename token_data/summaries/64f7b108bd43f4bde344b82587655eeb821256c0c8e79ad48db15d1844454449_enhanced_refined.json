@@ -2,9 +2,9 @@
   "token_id": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
   "ticker": "DEDI",
   "token_ascii": "Dedium",
-  "market_cap": 2178467.1092568096,
-  "price": 0.03630778454917946,
-  "liquidity": 183221.64116899998,
+  "market_cap": 2156114.842017737,
+  "price": 0.03593524676807026,
+  "liquidity": 182285.09104899998,
   "circulating_supply": 60000000.999952,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "11.89",
+  "mcap_liquidity_ratio": "11.83",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T15:57:19.597Z"
+  "updated_at": "2025-04-14T19:20:39.881Z"
 }

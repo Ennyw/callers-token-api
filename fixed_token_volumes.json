@@ -1,17 +1,35 @@
 {
-  "timestamp": "2025-04-14T15:26:13.771Z",
+  "timestamp": "2025-04-14T20:09:36.139Z",
   "time_window": {
-    "from": "2025-04-13T15:24:23.414Z",
-    "to": "2025-04-14T15:24:23.414Z"
+    "from": "2025-04-13T19:36:26.604Z",
+    "to": "2025-04-14T19:36:26.604Z"
   },
-  "total_tokens": 243,
+  "total_tokens": 230,
   "tokens": [
+    {
+      "tokenId": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
+      "name": "WMTX",
+      "volumeInAda": 372821.6883630001,
+      "volumeInToken": 1370294.8082580003,
+      "orderCount": 191,
+      "tokenInfo": {
+        "token_id": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
+        "token_decimals": 6,
+        "token_policy": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a",
+        "token_ascii": "World Mobile Token X",
+        "ticker": "WMTX",
+        "is_verified": true,
+        "supply": 687306389423280,
+        "creation_date": "2024-06-12T10:22:33Z",
+        "price": 0
+      }
+    },
     {
       "tokenId": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
       "name": "SNEK",
-      "volumeInAda": 379097.50296400004,
-      "volumeInToken": 87382948,
-      "orderCount": 284,
+      "volumeInAda": 308784.0284249999,
+      "volumeInToken": 72024640,
+      "orderCount": 247,
       "tokenInfo": {
         "token_id": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
         "token_decimals": 0,
@@ -25,11 +43,29 @@
       }
     },
     {
+      "tokenId": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d50414c4d0a",
+      "name": "PALM",
+      "volumeInAda": 267021.6568949999,
+      "volumeInToken": 128155769.40611695,
+      "orderCount": 274,
+      "tokenInfo": {
+        "token_id": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d50414c4d0a",
+        "token_decimals": 6,
+        "token_policy": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d",
+        "token_ascii": "Palm Economy",
+        "ticker": "PALM",
+        "is_verified": true,
+        "supply": 50000000000000000,
+        "creation_date": "2025-03-22T11:56:29Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
       "name": "USDA",
-      "volumeInAda": 306641.6924800002,
-      "volumeInToken": 203028.49691299995,
-      "orderCount": 100,
+      "volumeInAda": 257726.82092600013,
+      "volumeInToken": 170133.08488099996,
+      "orderCount": 76,
       "tokenInfo": {
         "token_id": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
         "token_decimals": 6,
@@ -45,9 +81,9 @@
     {
       "tokenId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
       "name": "iUSD",
-      "volumeInAda": 292912.44403800013,
-      "volumeInToken": 187777.63801199986,
-      "orderCount": 160,
+      "volumeInAda": 175527.64645799992,
+      "volumeInToken": 112694.543318,
+      "orderCount": 109,
       "tokenInfo": {
         "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
         "token_decimals": 6,
@@ -61,29 +97,11 @@
       }
     },
     {
-      "tokenId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
-      "name": "LQ",
-      "volumeInAda": 198378.89544799997,
-      "volumeInToken": 62057.164514,
-      "orderCount": 152,
-      "tokenInfo": {
-        "token_id": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
-        "token_decimals": 6,
-        "token_policy": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24",
-        "token_ascii": "Liqwid DAO Token",
-        "ticker": "LQ",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
       "name": "USDM",
-      "volumeInAda": 185114.550779,
-      "volumeInToken": 120685.07113399998,
-      "orderCount": 64,
+      "volumeInAda": 172892.37036900004,
+      "volumeInToken": 112632.86400399999,
+      "orderCount": 66,
       "tokenInfo": {
         "token_id": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
         "token_decimals": 6,
@@ -97,47 +115,11 @@
       }
     },
     {
-      "tokenId": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d50414c4d0a",
-      "name": "PALM",
-      "volumeInAda": 161668.36210999996,
-      "volumeInToken": 71579910.262353,
-      "orderCount": 168,
-      "tokenInfo": {
-        "token_id": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d50414c4d0a",
-        "token_decimals": 6,
-        "token_policy": "b7c5cd554f3e83c8aa0900a0c9053284a5348244d23d0406c28eaf4d",
-        "token_ascii": "Palm Economy",
-        "ticker": "PALM",
-        "is_verified": true,
-        "supply": 50000000000000000,
-        "creation_date": "2025-03-22T11:56:29Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
-      "name": "LENFI",
-      "volumeInAda": 154464.19234999997,
-      "volumeInToken": 174914.60304999995,
-      "orderCount": 125,
-      "tokenInfo": {
-        "token_id": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
-        "token_decimals": 6,
-        "token_policy": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587",
-        "token_ascii": "Lenfi DAO token",
-        "ticker": "LENFI",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
       "name": "IAG",
-      "volumeInAda": 154344.32475600005,
-      "volumeInToken": 523489.2015530001,
-      "orderCount": 112,
+      "volumeInAda": 171307.70712300003,
+      "volumeInToken": 586853.63744,
+      "orderCount": 129,
       "tokenInfo": {
         "token_id": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
         "token_decimals": 6,
@@ -151,29 +133,11 @@
       }
     },
     {
-      "tokenId": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
-      "name": "WMTX",
-      "volumeInAda": 143968.76148999995,
-      "volumeInToken": 551249.162957,
-      "orderCount": 138,
-      "tokenInfo": {
-        "token_id": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
-        "token_decimals": 6,
-        "token_policy": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a",
-        "token_ascii": "World Mobile Token X",
-        "ticker": "WMTX",
-        "is_verified": true,
-        "supply": 687039169423280,
-        "creation_date": "2024-06-12T10:22:33Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
       "name": "DJED",
-      "volumeInAda": 123087.61906900002,
-      "volumeInToken": 80453.96232900002,
-      "orderCount": 116,
+      "volumeInAda": 140340.27999199994,
+      "volumeInToken": 91352.64028300002,
+      "orderCount": 129,
       "tokenInfo": {
         "token_id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
         "token_decimals": 6,
@@ -187,11 +151,29 @@
       }
     },
     {
+      "tokenId": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+      "name": "LQ",
+      "volumeInAda": 113800.975657,
+      "volumeInToken": 36082.89385399998,
+      "orderCount": 98,
+      "tokenInfo": {
+        "token_id": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51",
+        "token_decimals": 6,
+        "token_policy": "da8c30857834c6ae7203935b89278c532b3995245295456f993e1d24",
+        "token_ascii": "Liqwid DAO Token",
+        "ticker": "LQ",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef4e564c",
       "name": "NVL",
-      "volumeInAda": 110238.001488,
-      "volumeInToken": 82018.97841500005,
-      "orderCount": 58,
+      "volumeInAda": 91488.27478899999,
+      "volumeInToken": 65839.643528,
+      "orderCount": 55,
       "tokenInfo": {
         "token_id": "5b26e685cc5c9ad630bde3e3cd48c694436671f3d25df53777ca60ef4e564c",
         "token_decimals": 6,
@@ -205,65 +187,29 @@
       }
     },
     {
-      "tokenId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
-      "name": "AGIX",
-      "volumeInAda": 72121.17973700003,
-      "volumeInToken": 210607.89458906002,
-      "orderCount": 71,
+      "tokenId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+      "name": "LENFI",
+      "volumeInAda": 64029.32216800002,
+      "volumeInToken": 73008.480685,
+      "orderCount": 66,
       "tokenInfo": {
-        "token_id": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
-        "token_decimals": 8,
-        "token_policy": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
-        "token_ascii": "SingularityNet AGIX Token",
-        "ticker": "AGIX",
+        "token_id": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
+        "token_decimals": 6,
+        "token_policy": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587",
+        "token_ascii": "Lenfi DAO token",
+        "ticker": "LENFI",
         "is_verified": true,
-        "supply": 397666886879375,
+        "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f3446672038543617264616e6f204d617869",
-      "name": "MAXI",
-      "volumeInAda": 57378.02834999999,
-      "volumeInToken": 884295323,
-      "orderCount": 338,
-      "tokenInfo": {
-        "token_id": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f3446672038543617264616e6f204d617869",
-        "token_decimals": 0,
-        "token_policy": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f34466720385",
-        "token_ascii": "Cardano Maxi",
-        "ticker": "MAXI",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-04-10T22:40:15Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
-      "name": "COCK",
-      "volumeInAda": 50716.961997,
-      "volumeInToken": 12235125,
-      "orderCount": 212,
-      "tokenInfo": {
-        "token_id": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
-        "token_decimals": 0,
-        "token_policy": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b",
-        "token_ascii": "Cock Coin",
-        "ticker": "COCK",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2024-12-05T11:41:27Z",
         "price": 0
       }
     },
     {
       "tokenId": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e",
       "name": "BTN",
-      "volumeInAda": 39217.753489999996,
-      "volumeInToken": 85119.833837,
-      "orderCount": 14,
+      "volumeInAda": 48883.44703199999,
+      "volumeInToken": 104405.15941800002,
+      "orderCount": 18,
       "tokenInfo": {
         "token_id": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e",
         "token_decimals": 6,
@@ -277,11 +223,29 @@
       }
     },
     {
+      "tokenId": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+      "name": "AGIX",
+      "volumeInAda": 48377.81020900002,
+      "volumeInToken": 140945.02701211,
+      "orderCount": 50,
+      "tokenInfo": {
+        "token_id": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
+        "token_decimals": 8,
+        "token_policy": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535",
+        "token_ascii": "SingularityNet AGIX Token",
+        "ticker": "AGIX",
+        "is_verified": true,
+        "supply": 395176058799666,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec54616c6f73",
       "name": "AGENTIC",
-      "volumeInAda": 30634.726716000012,
-      "volumeInToken": 3266313,
-      "orderCount": 57,
+      "volumeInAda": 38224.50505499999,
+      "volumeInToken": 4109785,
+      "orderCount": 80,
       "tokenInfo": {
         "token_id": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec54616c6f73",
         "token_decimals": 0,
@@ -295,10 +259,46 @@
       }
     },
     {
+      "tokenId": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f3446672038543617264616e6f204d617869",
+      "name": "MAXI",
+      "volumeInAda": 34954.234272999995,
+      "volumeInToken": 366839309,
+      "orderCount": 201,
+      "tokenInfo": {
+        "token_id": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f3446672038543617264616e6f204d617869",
+        "token_decimals": 0,
+        "token_policy": "b28976e7d89abc3c4e463aa24b4af6dc02de2e186846f34466720385",
+        "token_ascii": "Cardano Maxi",
+        "ticker": "MAXI",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-04-10T22:40:15Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
+      "name": "FLDT",
+      "volumeInAda": 28277.688318,
+      "volumeInToken": 91323.214851,
+      "orderCount": 20,
+      "tokenInfo": {
+        "token_id": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
+        "token_decimals": 6,
+        "token_policy": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e",
+        "token_ascii": "FLDT",
+        "ticker": "FLDT",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
       "name": "SPXT",
-      "volumeInAda": 28304.460284,
-      "volumeInToken": 664489532.8107442,
+      "volumeInAda": 28145.598029000004,
+      "volumeInToken": 661487472.9488732,
       "orderCount": 19,
       "tokenInfo": {
         "token_id": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
@@ -313,47 +313,29 @@
       }
     },
     {
-      "tokenId": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
-      "name": "INDY",
-      "volumeInAda": 26781.032755000004,
-      "volumeInToken": 19989.935813999997,
-      "orderCount": 43,
+      "tokenId": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
+      "name": "COCK",
+      "volumeInAda": 25112.415324,
+      "volumeInToken": 6002847,
+      "orderCount": 155,
       "tokenInfo": {
-        "token_id": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
-        "token_decimals": 6,
-        "token_policy": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0",
-        "token_ascii": "Indigo DAO Token",
-        "ticker": "INDY",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
-      "name": "CHAD",
-      "volumeInAda": 23503.736625000005,
-      "volumeInToken": 4991991,
-      "orderCount": 33,
-      "tokenInfo": {
-        "token_id": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
+        "token_id": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
         "token_decimals": 0,
-        "token_policy": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
-        "token_ascii": "Charles the Chad",
-        "ticker": "CHAD",
+        "token_policy": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b",
+        "token_ascii": "Cock Coin",
+        "ticker": "COCK",
         "is_verified": true,
         "supply": 1000000000,
-        "creation_date": "2024-11-26T20:17:24Z",
+        "creation_date": "2024-12-05T11:41:27Z",
         "price": 0
       }
     },
     {
       "tokenId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069425443",
       "name": "iBTC",
-      "volumeInAda": 22680.402586999997,
-      "volumeInToken": 0.17020700000000002,
-      "orderCount": 20,
+      "volumeInAda": 20926.442017999998,
+      "volumeInToken": 0.156619,
+      "orderCount": 18,
       "tokenInfo": {
         "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069425443",
         "token_decimals": 6,
@@ -367,11 +349,29 @@
       }
     },
     {
+      "tokenId": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
+      "name": "CHAD",
+      "volumeInAda": 20512.264011000003,
+      "volumeInToken": 4392736,
+      "orderCount": 30,
+      "tokenInfo": {
+        "token_id": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b436861726c6573207468652043686164",
+        "token_decimals": 0,
+        "token_policy": "97075bf380e65f3c63fb733267adbb7d42eec574428a754d2abca55b",
+        "token_ascii": "Charles the Chad",
+        "ticker": "CHAD",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2024-11-26T20:17:24Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
       "name": "SUNDAE",
-      "volumeInAda": 21202.818961000008,
-      "volumeInToken": 2470171.6890200004,
-      "orderCount": 20,
+      "volumeInAda": 19755.007964000008,
+      "volumeInToken": 2303155.088436,
+      "orderCount": 27,
       "tokenInfo": {
         "token_id": "9a9693a9a37912a5097918f97918d15240c92ab729a0b7c4aa144d7753554e444145",
         "token_decimals": 6,
@@ -385,29 +385,11 @@
       }
     },
     {
-      "tokenId": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9464554",
-      "name": "FET",
-      "volumeInAda": 19466.460489999998,
-      "volumeInToken": 24871.10890275,
-      "orderCount": 14,
-      "tokenInfo": {
-        "token_id": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9464554",
-        "token_decimals": 8,
-        "token_policy": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9",
-        "token_ascii": "ASI Alliance",
-        "ticker": "FET",
-        "is_verified": true,
-        "supply": 4324382661796052,
-        "creation_date": "2024-09-05T14:49:51Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
       "name": "HUNT",
-      "volumeInAda": 18281.934981,
-      "volumeInToken": 108828.327517,
-      "orderCount": 27,
+      "volumeInAda": 18889.514717,
+      "volumeInToken": 113735.852763,
+      "orderCount": 31,
       "tokenInfo": {
         "token_id": "95a427e384527065f2f8946f5e86320d0117839a5e98ea2c0b55fb0048554e54",
         "token_decimals": 6,
@@ -421,35 +403,17 @@
       }
     },
     {
-      "tokenId": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
-      "name": "NTX",
-      "volumeInAda": 17539.112764999998,
-      "volumeInToken": 914495.237021,
-      "orderCount": 27,
+      "tokenId": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
+      "name": "WMT",
+      "volumeInAda": 18582.209077,
+      "volumeInToken": 66432.810065,
+      "orderCount": 11,
       "tokenInfo": {
-        "token_id": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+        "token_id": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
         "token_decimals": 6,
-        "token_policy": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e99344479",
-        "token_ascii": "NuNet Utility Token",
-        "ticker": "NTX",
-        "is_verified": true,
-        "supply": 19821440546121,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
-      "name": "C3",
-      "volumeInAda": 16919.021205999998,
-      "volumeInToken": 222083.54510799996,
-      "orderCount": 29,
-      "tokenInfo": {
-        "token_id": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
-        "token_decimals": 6,
-        "token_policy": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a",
-        "token_ascii": "CHARLI3",
-        "ticker": "C3",
+        "token_policy": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e",
+        "token_ascii": "World Mobile Token",
+        "ticker": "WMT",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -459,9 +423,9 @@
     {
       "tokenId": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
       "name": "STUFF",
-      "volumeInAda": 16487.970460999997,
-      "volumeInToken": 1673327.7922069998,
-      "orderCount": 34,
+      "volumeInAda": 16777.961723,
+      "volumeInToken": 1707831.9010550003,
+      "orderCount": 31,
       "tokenInfo": {
         "token_id": "51a5e236c4de3af2b8020442e2a26f454fda3b04cb621c1294a0ef34424f4f4b",
         "token_decimals": 6,
@@ -475,20 +439,20 @@
       }
     },
     {
-      "tokenId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
-      "name": "ROLL",
-      "volumeInAda": 16424.992001000002,
-      "volumeInToken": 5334430.021414,
-      "orderCount": 15,
+      "tokenId": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
+      "name": "NTX",
+      "volumeInAda": 16755.570189,
+      "volumeInToken": 865363.4646949999,
+      "orderCount": 18,
       "tokenInfo": {
-        "token_id": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
+        "token_id": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
         "token_decimals": 6,
-        "token_policy": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
-        "token_ascii": "Roll",
-        "ticker": "ROLL",
+        "token_policy": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e99344479",
+        "token_ascii": "NuNet Utility Token",
+        "ticker": "NTX",
         "is_verified": true,
-        "supply": 1000000000000000,
-        "creation_date": "2025-01-30T18:03:21Z",
+        "supply": 19821440546121,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
@@ -506,132 +470,29 @@
       }
     },
     {
-      "tokenId": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b0014df106f79e3e55eef82b9d03cf62cc3d4a6d0d03b00bf7b1b43330f829779",
-      "name": "Unknown",
-      "volumeInAda": 15157.856935,
-      "volumeInToken": 25000000000,
-      "orderCount": 1,
+      "tokenId": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
+      "name": "ROLL",
+      "volumeInAda": 15040.676708,
+      "volumeInToken": 4852228.491894,
+      "orderCount": 18,
       "tokenInfo": {
-        "token_id": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b0014df106f79e3e55eef82b9d03cf62cc3d4a6d0d03b00bf7b1b43330f829779",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
-      }
-    },
-    {
-      "tokenId": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
-      "name": "MILKv2",
-      "volumeInAda": 14949.082373000003,
-      "volumeInToken": 40362.332252000015,
-      "orderCount": 31,
-      "tokenInfo": {
-        "token_id": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
+        "token_id": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017524f4c4c",
         "token_decimals": 6,
-        "token_policy": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb",
-        "token_ascii": "MILKv2",
-        "ticker": "MILKv2",
+        "token_policy": "9d05077f2e6dcb17915f9b99bc443726939dd2047aafd6cb4a6fe017",
+        "token_ascii": "Roll",
+        "ticker": "ROLL",
         "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
-      "name": "HOSKY",
-      "volumeInAda": 14065.599394,
-      "volumeInToken": 186829598030,
-      "orderCount": 36,
-      "tokenInfo": {
-        "token_id": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
-        "token_decimals": 0,
-        "token_policy": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
-        "token_ascii": "HOSKY Token",
-        "ticker": "HOSKY",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
-      "name": "TITAN",
-      "volumeInAda": 11641.985492,
-      "volumeInToken": 69299.28975299999,
-      "orderCount": 13,
-      "tokenInfo": {
-        "token_id": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
-        "token_decimals": 6,
-        "token_policy": "",
-        "token_ascii": "Titan",
-        "ticker": "TITAN",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
-      "name": "SHARDS",
-      "volumeInAda": 9073.359457,
-      "volumeInToken": 26476.589955999996,
-      "orderCount": 20,
-      "tokenInfo": {
-        "token_id": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
-        "token_decimals": 6,
-        "token_policy": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a",
-        "token_ascii": "SHARDS",
-        "ticker": "SHARDS",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
-      "name": "MIN",
-      "volumeInAda": 8313.879246999999,
-      "volumeInToken": 239760.14839199997,
-      "orderCount": 55,
-      "tokenInfo": {
-        "token_id": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
-        "token_decimals": 6,
-        "token_policy": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",
-        "token_ascii": "Minswap",
-        "ticker": "MIN",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
-      "name": "DEDI",
-      "volumeInAda": 7850.714060999999,
-      "volumeInToken": 211611.301524,
-      "orderCount": 15,
-      "tokenInfo": {
-        "token_id": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
-        "token_decimals": 6,
-        "token_policy": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d18",
-        "token_ascii": "Dedium",
-        "ticker": "DEDI",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "supply": 1000000000000000,
+        "creation_date": "2025-01-30T18:03:21Z",
         "price": 0
       }
     },
     {
       "tokenId": "c881c20e49dbaca3ff6cef365969354150983230c39520b917f5cf7c4e696b65",
       "name": "NIKEPIG",
-      "volumeInAda": 7781.141691000001,
-      "volumeInToken": 2181035,
-      "orderCount": 17,
+      "volumeInAda": 14535.290680000002,
+      "volumeInToken": 4008864,
+      "orderCount": 22,
       "tokenInfo": {
         "token_id": "c881c20e49dbaca3ff6cef365969354150983230c39520b917f5cf7c4e696b65",
         "token_decimals": 0,
@@ -645,138 +506,17 @@
       }
     },
     {
-      "tokenId": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b0014df1007358fbfcf493cab2b353b45e9536b210b75724138ec4f19ab903317",
-      "name": "Unknown",
-      "volumeInAda": 7694.757801,
-      "volumeInToken": 6955354352,
-      "orderCount": 1,
+      "tokenId": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
+      "name": "INDY",
+      "volumeInAda": 14005.908545,
+      "volumeInToken": 10395.62473,
+      "orderCount": 32,
       "tokenInfo": {
-        "token_id": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b0014df1007358fbfcf493cab2b353b45e9536b210b75724138ec4f19ab903317",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
-      }
-    },
-    {
-      "tokenId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e753554741522042555348",
-      "name": "SUGR",
-      "volumeInAda": 7323.212348,
-      "volumeInToken": 8943582,
-      "orderCount": 15,
-      "tokenInfo": {
-        "token_id": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e753554741522042555348",
-        "token_decimals": 0,
-        "token_policy": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
-        "token_ascii": "Sugar Bush",
-        "ticker": "SUGR",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2024-11-14T05:29:44Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255",
-      "name": "TOOL",
-      "volumeInAda": 7050.078821,
-      "volumeInToken": 10338988,
-      "orderCount": 14,
-      "tokenInfo": {
-        "token_id": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255",
-        "token_decimals": 0,
-        "token_policy": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d73",
-        "token_ascii": "TOOL",
-        "ticker": "TOOL",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
-      "name": "COPI",
-      "volumeInAda": 6832.512817,
-      "volumeInToken": 335281.71808499994,
-      "orderCount": 17,
-      "tokenInfo": {
-        "token_id": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
+        "token_id": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
         "token_decimals": 6,
-        "token_policy": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0",
-        "token_ascii": "Cornucopias Token",
-        "ticker": "COPI",
-        "is_verified": true,
-        "supply": 73247022710106,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
-      "name": "FLDT",
-      "volumeInAda": 6808.522892000002,
-      "volumeInToken": 21654.802985,
-      "orderCount": 22,
-      "tokenInfo": {
-        "token_id": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e0014df10464c4454",
-        "token_decimals": 6,
-        "token_policy": "577f0b1342f8f8f4aed3388b80a8535812950c7a892495c0ecdf0f1e",
-        "token_ascii": "FLDT",
-        "ticker": "FLDT",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
-      "name": "XER",
-      "volumeInAda": 6800.707176,
-      "volumeInToken": 692589.56715,
-      "orderCount": 12,
-      "tokenInfo": {
-        "token_id": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
-        "token_decimals": 6,
-        "token_policy": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde",
-        "token_ascii": "Xerberus DAO LLC",
-        "ticker": "XER",
-        "is_verified": true,
-        "supply": 1000000000000000,
-        "creation_date": "2024-11-10T15:49:30Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "bb4a260170bcc1a3cfcbaa744806cbf43930e63086c3e44454a80d114e414e41",
-      "name": "NANA",
-      "volumeInAda": 6641.291971999999,
-      "volumeInToken": 840477253,
-      "orderCount": 55,
-      "tokenInfo": {
-        "token_id": "bb4a260170bcc1a3cfcbaa744806cbf43930e63086c3e44454a80d114e414e41",
-        "token_decimals": 0,
-        "token_policy": "bb4a260170bcc1a3cfcbaa744806cbf43930e63086c3e44454a80d11",
-        "token_ascii": "NANA",
-        "ticker": "NANA",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-11T12:58:11Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
-      "name": "FREN",
-      "volumeInAda": 6581.815318000001,
-      "volumeInToken": 1853571585,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
-        "token_decimals": 0,
-        "token_policy": "",
-        "token_ascii": "Fren",
-        "ticker": "FREN",
+        "token_policy": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0",
+        "token_ascii": "Indigo DAO Token",
+        "ticker": "INDY",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -786,9 +526,9 @@
     {
       "tokenId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344",
       "name": "SHEN",
-      "volumeInAda": 6542.046104999999,
-      "volumeInToken": 5917.906799,
-      "orderCount": 5,
+      "volumeInAda": 13353.877656,
+      "volumeInToken": 12139.144676,
+      "orderCount": 8,
       "tokenInfo": {
         "token_id": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd615368656e4d6963726f555344",
         "token_decimals": 6,
@@ -802,17 +542,17 @@
       }
     },
     {
-      "tokenId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
-      "name": "rsERG",
-      "volumeInAda": 6090.231717,
-      "volumeInToken": 4797.53880564,
-      "orderCount": 6,
+      "tokenId": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+      "name": "MIN",
+      "volumeInAda": 12508.237688000001,
+      "volumeInToken": 359630.56107999996,
+      "orderCount": 59,
       "tokenInfo": {
-        "token_id": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
-        "token_decimals": 9,
-        "token_policy": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
-        "token_ascii": "rsERG",
-        "ticker": "rsERG",
+        "token_id": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c64d494e",
+        "token_decimals": 6,
+        "token_policy": "29d222ce763455e3d7a09a665ce554f00ac89d2e99a1a83d267170c6",
+        "token_ascii": "Minswap",
+        "ticker": "MIN",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -820,35 +560,197 @@
       }
     },
     {
-      "tokenId": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
-      "name": "BODEGA",
-      "volumeInAda": 5836.974015,
-      "volumeInToken": 26267.987524999997,
+      "tokenId": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
+      "name": "TITAN",
+      "volumeInAda": 11146.505726,
+      "volumeInToken": 66409.663801,
       "orderCount": 11,
       "tokenInfo": {
-        "token_id": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
+        "token_id": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
         "token_decimals": 6,
-        "token_policy": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
-        "token_ascii": "Bodega",
-        "ticker": "BODEGA",
+        "token_policy": "",
+        "token_ascii": "Titan",
+        "ticker": "TITAN",
         "is_verified": true,
-        "supply": 25000000000000,
-        "creation_date": "2024-11-19T10:07:10Z",
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
     {
-      "tokenId": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
-      "name": "C4",
-      "volumeInAda": 5086.3632020000005,
-      "volumeInToken": 25269180,
-      "orderCount": 18,
+      "tokenId": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9464554",
+      "name": "FET",
+      "volumeInAda": 10573.479926,
+      "volumeInToken": 13645.37238302,
+      "orderCount": 8,
       "tokenInfo": {
-        "token_id": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
+        "token_id": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9464554",
+        "token_decimals": 8,
+        "token_policy": "e824c0011176f0926ad51f492bcc63ac6a03a589653520839dc7e3d9",
+        "token_ascii": "ASI Alliance",
+        "ticker": "FET",
+        "is_verified": true,
+        "supply": 4324382661796052,
+        "creation_date": "2024-09-05T14:49:51Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
+      "name": "SHARDS",
+      "volumeInAda": 10013.053146999999,
+      "volumeInToken": 29516.355340999995,
+      "orderCount": 22,
+      "tokenInfo": {
+        "token_id": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a0014df10536861726473",
+        "token_decimals": 6,
+        "token_policy": "ea153b5d4864af15a1079a94a0e2486d6376fa28aafad272d15b243a",
+        "token_ascii": "SHARDS",
+        "ticker": "SHARDS",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+      "name": "HOSKY",
+      "volumeInAda": 8338.711307999998,
+      "volumeInToken": 110907627257,
+      "orderCount": 38,
+      "tokenInfo": {
+        "token_id": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
         "token_decimals": 0,
-        "token_policy": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b939",
-        "token_ascii": "Cardano Crocs Club Coin",
-        "ticker": "C4",
+        "token_policy": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
+        "token_ascii": "HOSKY Token",
+        "ticker": "HOSKY",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
+      "name": "C3",
+      "volumeInAda": 8027.237364000001,
+      "volumeInToken": 106495.90927199999,
+      "orderCount": 15,
+      "tokenInfo": {
+        "token_id": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a434841524c4933",
+        "token_decimals": 6,
+        "token_policy": "8e51398904a5d3fc129fbf4f1589701de23c7824d5c90fdb9490e15a",
+        "token_ascii": "CHARLI3",
+        "ticker": "C3",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
+      "name": "DEDI",
+      "volumeInAda": 7994.853590000001,
+      "volumeInToken": 216924.91951500002,
+      "orderCount": 16,
+      "tokenInfo": {
+        "token_id": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d1844454449",
+        "token_decimals": 6,
+        "token_policy": "64f7b108bd43f4bde344b82587655eeb821256c0c8e79ad48db15d18",
+        "token_ascii": "Dedium",
+        "ticker": "DEDI",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18426f6b20436869636b",
+      "name": "BOK",
+      "volumeInAda": 7214.414379999999,
+      "volumeInToken": 34839460,
+      "orderCount": 24,
+      "tokenInfo": {
+        "token_id": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18426f6b20436869636b",
+        "token_decimals": 0,
+        "token_policy": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18",
+        "token_ascii": "Bok Chick",
+        "ticker": "BOK",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2024-12-19T13:02:43Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+      "name": "STRIKE",
+      "volumeInAda": 6933.109748000001,
+      "volumeInToken": 33486.56759,
+      "orderCount": 12,
+      "tokenInfo": {
+        "token_id": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+        "token_decimals": 6,
+        "token_policy": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275",
+        "token_ascii": "STRIKE",
+        "ticker": "STRIKE",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255",
+      "name": "TOOL",
+      "volumeInAda": 5961.688253,
+      "volumeInToken": 8914204,
+      "orderCount": 10,
+      "tokenInfo": {
+        "token_id": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d735453555255",
+        "token_decimals": 0,
+        "token_policy": "ac015c38917f306a84748c2d646bed90bdd64421c592163e60702d73",
+        "token_ascii": "TOOL",
+        "ticker": "TOOL",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "c59077498bb5b674ea080af917fecd0d1ad128dfe16652b8f4260f1558494e4c20436f696e",
+      "name": "XINL Coin",
+      "volumeInAda": 5884.190766999999,
+      "volumeInToken": 976182749,
+      "orderCount": 58,
+      "tokenInfo": {
+        "token_id": "c59077498bb5b674ea080af917fecd0d1ad128dfe16652b8f4260f1558494e4c20436f696e",
+        "token_decimals": 0,
+        "token_policy": "c59077498bb5b674ea080af917fecd0d1ad128dfe16652b8f4260f15",
+        "token_ascii": "XINL Coin",
+        "ticker": "XINL Coin",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-14T03:44:29Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b756246524e",
+      "name": "FRN",
+      "volumeInAda": 5411.6075200000005,
+      "volumeInToken": 58634.786392,
+      "orderCount": 5,
+      "tokenInfo": {
+        "token_id": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b756246524e",
+        "token_decimals": 6,
+        "token_policy": "",
+        "token_ascii": "Foreon Network",
+        "ticker": "FRN",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -887,11 +789,47 @@
       }
     },
     {
+      "tokenId": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
+      "name": "COPI",
+      "volumeInAda": 4744.42256,
+      "volumeInToken": 230751.58096999998,
+      "orderCount": 16,
+      "tokenInfo": {
+        "token_id": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d",
+        "token_decimals": 6,
+        "token_policy": "b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0",
+        "token_ascii": "Cornucopias Token",
+        "ticker": "COPI",
+        "is_verified": true,
+        "supply": 73247022710106,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "32c6d25dd1b4ce4b3ce31b5be64277c5e34891c412d8324fd91ae3cc524643",
+      "name": "RFC",
+      "volumeInAda": 4499.565005,
+      "volumeInToken": 329817144,
+      "orderCount": 22,
+      "tokenInfo": {
+        "token_id": "32c6d25dd1b4ce4b3ce31b5be64277c5e34891c412d8324fd91ae3cc524643",
+        "token_decimals": 0,
+        "token_policy": "32c6d25dd1b4ce4b3ce31b5be64277c5e34891c412d8324fd91ae3cc",
+        "token_ascii": "RFC",
+        "ticker": "RFC",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-14T18:27:14Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e",
       "name": "FACT",
-      "volumeInAda": 5023.042808,
-      "volumeInToken": 739934.848063,
-      "orderCount": 8,
+      "volumeInAda": 4307.612622,
+      "volumeInToken": 644745.4589450001,
+      "orderCount": 6,
       "tokenInfo": {
         "token_id": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e",
         "token_decimals": 6,
@@ -905,51 +843,20 @@
       }
     },
     {
-      "tokenId": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b0014df102d07be758f0803996e716ecf2fc96fa67ec43b825737f9cd4f5a15ce",
-      "name": "Unknown",
-      "volumeInAda": 4983.526229,
-      "volumeInToken": 4281850636,
-      "orderCount": 1,
+      "tokenId": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
+      "name": "XER",
+      "volumeInAda": 4054.946896,
+      "volumeInToken": 414679.411178,
+      "orderCount": 13,
       "tokenInfo": {
-        "token_id": "e0302560ced2fdcbfcb2602697df970cd0d6a38f94b32703f51c312b0014df102d07be758f0803996e716ecf2fc96fa67ec43b825737f9cd4f5a15ce",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
-      }
-    },
-    {
-      "tokenId": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b756246524e",
-      "name": "FRN",
-      "volumeInAda": 4724.333016,
-      "volumeInToken": 50735.47695800001,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "e69eaae4740f240ba9dfffd0ed6b7cb34070efe567e2ec841e3b756246524e",
+        "token_id": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde584552",
         "token_decimals": 6,
-        "token_policy": "",
-        "token_ascii": "Foreon Network",
-        "ticker": "FRN",
+        "token_policy": "6d06570ddd778ec7c0cca09d381eca194e90c8cffa7582879735dbde",
+        "token_ascii": "Xerberus DAO LLC",
+        "ticker": "XER",
         "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18426f6b20436869636b",
-      "name": "BOK",
-      "volumeInAda": 4477.86114,
-      "volumeInToken": 22099187,
-      "orderCount": 12,
-      "tokenInfo": {
-        "token_id": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18426f6b20436869636b",
-        "token_decimals": 0,
-        "token_policy": "fcf3707eff37f79c02c8c976b3047daf161ead2fce4a999a5deeeb18",
-        "token_ascii": "Bok Chick",
-        "ticker": "BOK",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2024-12-19T13:02:43Z",
+        "supply": 1000000000000000,
+        "creation_date": "2024-11-10T15:49:30Z",
         "price": 0
       }
     },
@@ -967,38 +874,56 @@
       }
     },
     {
-      "tokenId": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f6036453796e74686573697a654149",
-      "name": "SYNTH",
-      "volumeInAda": 3701.592842,
-      "volumeInToken": 5450402,
-      "orderCount": 16,
+      "tokenId": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
+      "name": "C4",
+      "volumeInAda": 3905.0821450000003,
+      "volumeInToken": 19219267,
+      "orderCount": 10,
       "tokenInfo": {
-        "token_id": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f6036453796e74686573697a654149",
+        "token_id": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
         "token_decimals": 0,
-        "token_policy": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f60364",
-        "token_ascii": "SynthetizeAI",
-        "ticker": "SYNTH",
+        "token_policy": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b939",
+        "token_ascii": "Cardano Crocs Club Coin",
+        "ticker": "C4",
         "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-01-17T17:14:11Z",
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
     {
-      "tokenId": "95f62b78ce7abada9105cf4a5784dcf8a9d193cae3cf8c5e08f58120475553425553",
-      "name": "GUSBUS",
-      "volumeInAda": 3691.045092,
-      "volumeInToken": 129603250,
-      "orderCount": 36,
+      "tokenId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+      "name": "iETH",
+      "volumeInAda": 3904.1666080000005,
+      "volumeInToken": 1.5375710000000002,
+      "orderCount": 7,
       "tokenInfo": {
-        "token_id": "95f62b78ce7abada9105cf4a5784dcf8a9d193cae3cf8c5e08f58120475553425553",
+        "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+        "token_decimals": 6,
+        "token_policy": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+        "token_ascii": "iETH",
+        "ticker": "iETH",
+        "is_verified": true,
+        "supply": -24505191,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab0814d4953544552",
+      "name": "MISTER",
+      "volumeInAda": 3760.096917,
+      "volumeInToken": 16599876,
+      "orderCount": 10,
+      "tokenInfo": {
+        "token_id": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab0814d4953544552",
         "token_decimals": 0,
-        "token_policy": "95f62b78ce7abada9105cf4a5784dcf8a9d193cae3cf8c5e08f58120",
-        "token_ascii": "GUSBUS",
-        "ticker": "GUSBUS",
-        "is_verified": false,
+        "token_policy": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab081",
+        "token_ascii": "Mister",
+        "ticker": "MISTER",
+        "is_verified": true,
         "supply": 1000000000,
-        "creation_date": "2025-04-11T03:57:30Z",
+        "creation_date": "2025-01-26T05:17:17Z",
         "price": 0
       }
     },
@@ -1021,38 +946,20 @@
       }
     },
     {
-      "tokenId": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
-      "name": "DUX",
-      "volumeInAda": 3469.9599969999995,
-      "volumeInToken": 9740471,
-      "orderCount": 15,
+      "tokenId": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
+      "name": "BODEGA",
+      "volumeInAda": 3542.183494,
+      "volumeInToken": 15882.748977,
+      "orderCount": 7,
       "tokenInfo": {
-        "token_id": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
-        "token_decimals": 0,
-        "token_policy": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b",
-        "token_ascii": "The Chosen Dux",
-        "ticker": "DUX",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2024-12-11T05:07:28Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
-      "name": "STRIKE",
-      "volumeInAda": 3467.004621,
-      "volumeInToken": 16642.212046,
-      "orderCount": 10,
-      "tokenInfo": {
-        "token_id": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45",
+        "token_id": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae424f44454741",
         "token_decimals": 6,
-        "token_policy": "f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275",
-        "token_ascii": "STRIKE",
-        "ticker": "STRIKE",
+        "token_policy": "5deab590a137066fef0e56f06ef1b830f21bc5d544661ba570bdd2ae",
+        "token_ascii": "Bodega",
+        "ticker": "BODEGA",
         "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "supply": 25000000000000,
+        "creation_date": "2024-11-19T10:07:10Z",
         "price": 0
       }
     },
@@ -1075,17 +982,35 @@
       }
     },
     {
-      "tokenId": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
-      "name": "O",
-      "volumeInAda": 2933.842683,
-      "volumeInToken": 10083.520407000002,
-      "orderCount": 7,
+      "tokenId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935444f47",
+      "name": "DOG",
+      "volumeInAda": 3381.646008,
+      "volumeInToken": 1550898.8766,
+      "orderCount": 19,
       "tokenInfo": {
-        "token_id": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
-        "token_decimals": 6,
-        "token_policy": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
-        "token_ascii": "The O Token",
-        "ticker": "O",
+        "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935444f47",
+        "token_decimals": 5,
+        "token_policy": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+        "token_ascii": "Wanchain Dog",
+        "ticker": "DOG",
+        "is_verified": true,
+        "supply": 3530090752301,
+        "creation_date": "2025-03-24T04:18:23Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
+      "name": "rsERG",
+      "volumeInAda": 3309.826723,
+      "volumeInToken": 2601.936889374,
+      "orderCount": 5,
+      "tokenInfo": {
+        "token_id": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
+        "token_decimals": 9,
+        "token_policy": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb14",
+        "token_ascii": "rsERG",
+        "ticker": "rsERG",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -1093,35 +1018,17 @@
       }
     },
     {
-      "tokenId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
-      "name": "iETH",
-      "volumeInAda": 2904.1666080000005,
-      "volumeInToken": 1.1510380000000002,
+      "tokenId": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
+      "name": "O",
+      "volumeInAda": 2688.035191,
+      "volumeInToken": 9232.236570000001,
       "orderCount": 5,
       "tokenInfo": {
-        "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+        "token_id": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
         "token_decimals": 6,
-        "token_policy": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
-        "token_ascii": "iETH",
-        "ticker": "iETH",
-        "is_verified": true,
-        "supply": -24505191,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
-      "name": "BabySNEK",
-      "volumeInAda": 2798.544057,
-      "volumeInToken": 82594893,
-      "orderCount": 8,
-      "tokenInfo": {
-        "token_id": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
-        "token_decimals": 0,
-        "token_policy": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede430436",
-        "token_ascii": "BabySNEK",
-        "ticker": "BabySNEK",
+        "token_policy": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
+        "token_ascii": "The O Token",
+        "ticker": "O",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -1142,10 +1049,28 @@
       }
     },
     {
+      "tokenId": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
+      "name": "MAYZ",
+      "volumeInAda": 2443.3056469999997,
+      "volumeInToken": 591271.07464,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
+        "token_decimals": 6,
+        "token_policy": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e564683",
+        "token_ascii": "MAYZ",
+        "ticker": "MAYZ",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "ce32007a117840630b598e9ed3b0c06fbd851d60360dc589e6398dd542554c4c",
       "name": "BULL",
       "volumeInAda": 2360.205622,
-      "volumeInToken": 5469654,
+      "volumeInToken": 5474906,
       "orderCount": 4,
       "tokenInfo": {
         "token_id": "ce32007a117840630b598e9ed3b0c06fbd851d60360dc589e6398dd542554c4c",
@@ -1160,17 +1085,17 @@
       }
     },
     {
-      "tokenId": "2d587111358801114f04df83dc0015de0a740b462b75cce5170fc935434749",
-      "name": "CGI",
-      "volumeInAda": 2349.39619,
-      "volumeInToken": 56823.48623,
+      "tokenId": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
+      "name": "MILKv2",
+      "volumeInAda": 2341.924903,
+      "volumeInToken": 6192.590956,
       "orderCount": 3,
       "tokenInfo": {
-        "token_id": "2d587111358801114f04df83dc0015de0a740b462b75cce5170fc935434749",
+        "token_id": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb4d494c4b7632",
         "token_decimals": 6,
-        "token_policy": "2d587111358801114f04df83dc0015de0a740b462b75cce5170fc935",
-        "token_ascii": "CardanoGPT",
-        "ticker": "CGI",
+        "token_policy": "afbe91c0b44b3040e360057bf8354ead8c49c4979ae6ab7c4fbdc9eb",
+        "token_ascii": "MILKv2",
+        "ticker": "MILKv2",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -1178,20 +1103,38 @@
       }
     },
     {
-      "tokenId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935444f47",
-      "name": "DOG",
-      "volumeInAda": 2336.194073,
-      "volumeInToken": 1030554.22449,
-      "orderCount": 13,
+      "tokenId": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
+      "name": "DANZO",
+      "volumeInAda": 2336.490626,
+      "volumeInToken": 145286649,
+      "orderCount": 5,
       "tokenInfo": {
-        "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935444f47",
-        "token_decimals": 5,
-        "token_policy": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
-        "token_ascii": "Wanchain Dog",
-        "ticker": "DOG",
+        "token_id": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
+        "token_decimals": 0,
+        "token_policy": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a",
+        "token_ascii": "DANZO",
+        "ticker": "DANZO",
         "is_verified": true,
-        "supply": 3577920117621,
-        "creation_date": "2025-03-24T04:18:23Z",
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+      "name": "BabySNEK",
+      "volumeInAda": 2292.544057,
+      "volumeInToken": 67571188,
+      "orderCount": 6,
+      "tokenInfo": {
+        "token_id": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede43043642616279534e454b",
+        "token_decimals": 0,
+        "token_policy": "7507734918533b3b896241b4704f3d4ce805256b01da6fcede430436",
+        "token_ascii": "BabySNEK",
+        "ticker": "BabySNEK",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
@@ -1227,38 +1170,20 @@
       }
     },
     {
-      "tokenId": "578a4a771657219ea9b29340fbf364b7d02e619ca9a31eae2195ad54524f4f4b4945",
-      "name": "ROOKIE",
-      "volumeInAda": 2202.8559459999997,
-      "volumeInToken": 121737776,
-      "orderCount": 9,
+      "tokenId": "09697894974297c94982a9e09a17a34066750a18412799fee84b77585045504120434f494e",
+      "name": "PEPA COIN",
+      "volumeInAda": 2099.517666,
+      "volumeInToken": 517752117,
+      "orderCount": 26,
       "tokenInfo": {
-        "token_id": "578a4a771657219ea9b29340fbf364b7d02e619ca9a31eae2195ad54524f4f4b4945",
+        "token_id": "09697894974297c94982a9e09a17a34066750a18412799fee84b77585045504120434f494e",
         "token_decimals": 0,
-        "token_policy": "578a4a771657219ea9b29340fbf364b7d02e619ca9a31eae2195ad54",
-        "token_ascii": "Clay Rookie",
-        "ticker": "ROOKIE",
-        "is_verified": true,
-        "supply": 10000000000,
-        "creation_date": "2025-03-26T15:25:27Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
-      "name": "VYFI",
-      "volumeInAda": 2182.888507,
-      "volumeInToken": 27436.578647000002,
-      "orderCount": 6,
-      "tokenInfo": {
-        "token_id": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
-        "token_decimals": 6,
-        "token_policy": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f",
-        "token_ascii": "VYFI",
-        "ticker": "VYFI",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "token_policy": "09697894974297c94982a9e09a17a34066750a18412799fee84b7758",
+        "token_ascii": "PEPA COIN",
+        "ticker": "PEPA COIN",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-14T17:09:06Z",
         "price": 0
       }
     },
@@ -1276,11 +1201,101 @@
       }
     },
     {
+      "tokenId": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f6036453796e74686573697a654149",
+      "name": "SYNTH",
+      "volumeInAda": 2037.2307949999997,
+      "volumeInToken": 3019080,
+      "orderCount": 10,
+      "tokenInfo": {
+        "token_id": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f6036453796e74686573697a654149",
+        "token_decimals": 0,
+        "token_policy": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f60364",
+        "token_ascii": "SynthetizeAI",
+        "ticker": "SYNTH",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-01-17T17:14:11Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a147616c76616e6963",
+      "name": "GALV",
+      "volumeInAda": 1993.414355,
+      "volumeInToken": 14818672,
+      "orderCount": 7,
+      "tokenInfo": {
+        "token_id": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a147616c76616e6963",
+        "token_decimals": 0,
+        "token_policy": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a1",
+        "token_ascii": "Galvanic",
+        "ticker": "GALV",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2024-12-27T20:18:44Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
+      "name": "ANGELS",
+      "volumeInAda": 1943.8529740000001,
+      "volumeInToken": 563.744942,
+      "orderCount": 7,
+      "tokenInfo": {
+        "token_id": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
+        "token_decimals": 6,
+        "token_policy": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da",
+        "token_ascii": "Angels",
+        "ticker": "ANGELS",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "578a4a771657219ea9b29340fbf364b7d02e619ca9a31eae2195ad54524f4f4b4945",
+      "name": "ROOKIE",
+      "volumeInAda": 1901.508136,
+      "volumeInToken": 104664512,
+      "orderCount": 8,
+      "tokenInfo": {
+        "token_id": "578a4a771657219ea9b29340fbf364b7d02e619ca9a31eae2195ad54524f4f4b4945",
+        "token_decimals": 0,
+        "token_policy": "578a4a771657219ea9b29340fbf364b7d02e619ca9a31eae2195ad54",
+        "token_ascii": "Clay Rookie",
+        "ticker": "ROOKIE",
+        "is_verified": true,
+        "supply": 10000000000,
+        "creation_date": "2025-03-26T15:25:27Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "95f62b78ce7abada9105cf4a5784dcf8a9d193cae3cf8c5e08f58120475553425553",
+      "name": "GUSBUS",
+      "volumeInAda": 1882.332279,
+      "volumeInToken": 56894568,
+      "orderCount": 31,
+      "tokenInfo": {
+        "token_id": "95f62b78ce7abada9105cf4a5784dcf8a9d193cae3cf8c5e08f58120475553425553",
+        "token_decimals": 0,
+        "token_policy": "95f62b78ce7abada9105cf4a5784dcf8a9d193cae3cf8c5e08f58120",
+        "token_ascii": "GUSBUS",
+        "ticker": "GUSBUS",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-11T03:57:30Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a390014df10574c4b",
       "name": "WLK",
-      "volumeInAda": 2008.1020939999996,
-      "volumeInToken": 112590810,
-      "orderCount": 13,
+      "volumeInAda": 1865.734666,
+      "volumeInToken": 105134472,
+      "orderCount": 9,
       "tokenInfo": {
         "token_id": "017af5d958fffdf65f3e5b8b3ff5abefd210a03464a9fc48ea0f4a390014df10574c4b",
         "token_decimals": 0,
@@ -1294,56 +1309,20 @@
       }
     },
     {
-      "tokenId": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d4345525241",
-      "name": "CERRA",
-      "volumeInAda": 1968.4914659999997,
-      "volumeInToken": 1319912.4249439999,
-      "orderCount": 20,
+      "tokenId": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
+      "name": "NEWM",
+      "volumeInAda": 1777.158836,
+      "volumeInToken": 1222133.489254,
+      "orderCount": 5,
       "tokenInfo": {
-        "token_id": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d4345525241",
+        "token_id": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
         "token_decimals": 6,
-        "token_policy": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d",
-        "token_ascii": "cerra",
-        "ticker": "CERRA",
+        "token_policy": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f63",
+        "token_ascii": "NEWM",
+        "ticker": "NEWM",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0544f4b45",
-      "name": "TOKE",
-      "volumeInAda": 1947.007753,
-      "volumeInToken": 59746,
-      "orderCount": 7,
-      "tokenInfo": {
-        "token_id": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0544f4b45",
-        "token_decimals": 0,
-        "token_policy": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
-        "token_ascii": "Tokeo Token",
-        "ticker": "TOKE",
-        "is_verified": true,
-        "supply": 94986013,
-        "creation_date": "2024-11-18T07:51:39Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f645045525020434f494e",
-      "name": "PERP",
-      "volumeInAda": 1851.345447,
-      "volumeInToken": 6597522,
-      "orderCount": 6,
-      "tokenInfo": {
-        "token_id": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f645045525020434f494e",
-        "token_decimals": 0,
-        "token_policy": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f64",
-        "token_ascii": "Perp Coin",
-        "ticker": "PERP",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-01-13T23:55:11Z",
         "price": 0
       }
     },
@@ -1366,17 +1345,17 @@
       }
     },
     {
-      "tokenId": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec42414e41",
-      "name": "BANA",
-      "volumeInAda": 1689.404743,
-      "volumeInToken": 4515210.4889,
-      "orderCount": 3,
+      "tokenId": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b",
+      "name": "BANK",
+      "volumeInAda": 1649.0381439999999,
+      "volumeInToken": 1282952051,
+      "orderCount": 4,
       "tokenInfo": {
-        "token_id": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec42414e41",
-        "token_decimals": 4,
-        "token_policy": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec",
-        "token_ascii": "BananaClip",
-        "ticker": "BANA",
+        "token_id": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b",
+        "token_decimals": 0,
+        "token_policy": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f218",
+        "token_ascii": "Bankercoin",
+        "ticker": "BANK",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -1384,53 +1363,71 @@
       }
     },
     {
-      "tokenId": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552",
-      "name": "RAKER",
-      "volumeInAda": 1672.379363,
-      "volumeInToken": 82125,
-      "orderCount": 8,
+      "tokenId": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
+      "name": "CHARLES",
+      "volumeInAda": 1493.919302,
+      "volumeInToken": 42418,
+      "orderCount": 7,
       "tokenInfo": {
-        "token_id": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552",
+        "token_id": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
         "token_decimals": 0,
-        "token_policy": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b602",
-        "token_ascii": "MarketRaker",
-        "ticker": "RAKER",
+        "token_policy": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d",
+        "token_ascii": "Charles Media Token",
+        "ticker": "CHARLES",
         "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "supply": 10000,
+        "creation_date": "2024-09-04T21:00:55Z",
         "price": 0
       }
     },
     {
-      "tokenId": "c59077498bb5b674ea080af917fecd0d1ad128dfe16652b8f4260f1558494e4c20436f696e",
-      "name": "XINL Coin",
-      "volumeInAda": 1605.4588139999998,
-      "volumeInToken": 468290950,
-      "orderCount": 16,
-      "tokenInfo": {
-        "token_id": "c59077498bb5b674ea080af917fecd0d1ad128dfe16652b8f4260f1558494e4c20436f696e",
-        "token_decimals": 0,
-        "token_policy": "c59077498bb5b674ea080af917fecd0d1ad128dfe16652b8f4260f15",
-        "token_ascii": "XINL Coin",
-        "ticker": "XINL Coin",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-14T03:44:29Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
-      "name": "WMT",
-      "volumeInAda": 1552.598916,
-      "volumeInToken": 5620.962199,
+      "tokenId": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+      "name": "FREN",
+      "volumeInAda": 1478.584808,
+      "volumeInToken": 409669138,
       "orderCount": 2,
       "tokenInfo": {
-        "token_id": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
+        "token_id": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
+        "token_decimals": 0,
+        "token_policy": "",
+        "token_ascii": "Fren",
+        "ticker": "FREN",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d4345525241",
+      "name": "CERRA",
+      "volumeInAda": 1444.928246,
+      "volumeInToken": 907931.523724,
+      "orderCount": 19,
+      "tokenInfo": {
+        "token_id": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d4345525241",
         "token_decimals": 6,
-        "token_policy": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e",
-        "token_ascii": "World Mobile Token",
-        "ticker": "WMT",
+        "token_policy": "4342a3d3c15545a592bf38294dc75c7a1dd3550388303e3a06f4416d",
+        "token_ascii": "cerra",
+        "ticker": "CERRA",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59",
+      "name": "JELLY",
+      "volumeInAda": 1442.205079,
+      "volumeInToken": 25994.836719000003,
+      "orderCount": 5,
+      "tokenInfo": {
+        "token_id": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59",
+        "token_decimals": 6,
+        "token_policy": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa683",
+        "token_ascii": "JELLY",
+        "ticker": "JELLY",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -1440,8 +1437,8 @@
     {
       "tokenId": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56",
       "name": "RJV",
-      "volumeInAda": 1496.0702999999999,
-      "volumeInToken": 144748.833734,
+      "volumeInAda": 1426.1119429999999,
+      "volumeInToken": 138387.73091800002,
       "orderCount": 3,
       "tokenInfo": {
         "token_id": "8cfd6893f5f6c1cc954cec1a0a1460841b74da6e7803820dde62bb78524a56",
@@ -1451,42 +1448,6 @@
         "ticker": "RJV",
         "is_verified": true,
         "supply": 4066779629736,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a147616c76616e6963",
-      "name": "GALV",
-      "volumeInAda": 1493.414355,
-      "volumeInToken": 11047183,
-      "orderCount": 4,
-      "tokenInfo": {
-        "token_id": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a147616c76616e6963",
-        "token_decimals": 0,
-        "token_policy": "19252f7448605353b3ca86a4f2784c356d1c5aaba1995b8f2e8017a1",
-        "token_ascii": "Galvanic",
-        "ticker": "GALV",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2024-12-27T20:18:44Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047",
-      "name": "JPG",
-      "volumeInAda": 1420.79576,
-      "volumeInToken": 329980.726201,
-      "orderCount": 9,
-      "tokenInfo": {
-        "token_id": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047",
-        "token_decimals": 6,
-        "token_policy": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
-        "token_ascii": "JPG TOKEN",
-        "ticker": "JPG",
-        "is_verified": true,
-        "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
@@ -1510,46 +1471,82 @@
       }
     },
     {
-      "tokenId": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c204f6666696369616c436861726c65736d656d65",
-      "name": "CHARLES",
-      "volumeInAda": 1345.124713,
-      "volumeInToken": 716162703,
-      "orderCount": 13,
+      "tokenId": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e312444455250",
+      "name": "DERP",
+      "volumeInAda": 1338.410191,
+      "volumeInToken": 34017,
+      "orderCount": 2,
       "tokenInfo": {
-        "token_id": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c204f6666696369616c436861726c65736d656d65",
+        "token_id": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e312444455250",
         "token_decimals": 0,
-        "token_policy": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c20",
-        "token_ascii": "Official Charles Meme",
-        "ticker": "CHARLES",
+        "token_policy": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e31",
+        "token_ascii": "Derp Utility Token",
+        "ticker": "DERP",
         "is_verified": true,
-        "supply": 1000000000000,
-        "creation_date": "2025-01-29T17:40:23Z",
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
     {
-      "tokenId": "f271bb1ecbe20d31415130561855408883376286c0e272bc0912b5844d304d4f",
-      "name": "MOMO",
-      "volumeInAda": 1320.926447,
-      "volumeInToken": 18591173,
-      "orderCount": 1,
+      "tokenId": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d534b59",
+      "name": "SKY",
+      "volumeInAda": 1313.683787,
+      "volumeInToken": 54781.866269,
+      "orderCount": 2,
       "tokenInfo": {
-        "token_id": "f271bb1ecbe20d31415130561855408883376286c0e272bc0912b5844d304d4f",
-        "token_decimals": 0,
-        "token_policy": "f271bb1ecbe20d31415130561855408883376286c0e272bc0912b584",
-        "token_ascii": "MOMO",
-        "ticker": "MOMO",
+        "token_id": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d534b59",
+        "token_decimals": 6,
+        "token_policy": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d",
+        "token_ascii": "Sky Protocol",
+        "ticker": "SKY",
         "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2024-12-24T19:22:12Z",
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec42414e41",
+      "name": "BANA",
+      "volumeInAda": 1296.16325,
+      "volumeInToken": 3552159.3414000003,
+      "orderCount": 3,
+      "tokenInfo": {
+        "token_id": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec42414e41",
+        "token_decimals": 4,
+        "token_policy": "3a89cf5f2f18887fcaec3d2e9bd4fee52caeaebc50f338ff23861cec",
+        "token_ascii": "BananaClip",
+        "ticker": "BANA",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "861d38630fb45457b2534c20b4a56fbe3cc25f74727ba9b0b46d8c9d0014df10534b554c4c59",
+      "name": "SKULLY",
+      "volumeInAda": 1249.002822,
+      "volumeInToken": 3027197,
+      "orderCount": 8,
+      "tokenInfo": {
+        "token_id": "861d38630fb45457b2534c20b4a56fbe3cc25f74727ba9b0b46d8c9d0014df10534b554c4c59",
+        "token_decimals": 0,
+        "token_policy": "861d38630fb45457b2534c20b4a56fbe3cc25f74727ba9b0b46d8c9d",
+        "token_ascii": "Skully",
+        "ticker": "SKULLY",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
     {
       "tokenId": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e94361726465787363616e",
       "name": "CDS",
-      "volumeInAda": 1319.08557,
-      "volumeInToken": 8890488,
+      "volumeInAda": 1203.707843,
+      "volumeInToken": 8293740,
       "orderCount": 4,
       "tokenInfo": {
         "token_id": "4128947ee2e2e983c8710d6ddeb1f90ad8f3b843650d13045f13b9e94361726465787363616e",
@@ -1564,47 +1561,11 @@
       }
     },
     {
-      "tokenId": "861d38630fb45457b2534c20b4a56fbe3cc25f74727ba9b0b46d8c9d0014df10534b554c4c59",
-      "name": "SKULLY",
-      "volumeInAda": 1313.955512,
-      "volumeInToken": 3193720,
-      "orderCount": 10,
-      "tokenInfo": {
-        "token_id": "861d38630fb45457b2534c20b4a56fbe3cc25f74727ba9b0b46d8c9d0014df10534b554c4c59",
-        "token_decimals": 0,
-        "token_policy": "861d38630fb45457b2534c20b4a56fbe3cc25f74727ba9b0b46d8c9d",
-        "token_ascii": "Skully",
-        "ticker": "SKULLY",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
-      "name": "NEWM",
-      "volumeInAda": 1257.258836,
-      "volumeInToken": 866314.2898200001,
-      "orderCount": 4,
-      "tokenInfo": {
-        "token_id": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f634e45574d",
-        "token_decimals": 6,
-        "token_policy": "682fe60c9918842b3323c43b5144bc3d52a23bd2fb81345560d73f63",
-        "token_ascii": "NEWM",
-        "ticker": "NEWM",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "b802699571d14bf3ff9f666b1c744ffc934ec198db7b5d7a39c32100476173",
       "name": "Gas",
-      "volumeInAda": 1180.5484529999999,
-      "volumeInToken": 372276801,
-      "orderCount": 14,
+      "volumeInAda": 1183.5484529999999,
+      "volumeInToken": 373443686,
+      "orderCount": 15,
       "tokenInfo": {
         "token_id": "b802699571d14bf3ff9f666b1c744ffc934ec198db7b5d7a39c32100476173",
         "token_decimals": 0,
@@ -1636,209 +1597,29 @@
       }
     },
     {
-      "tokenId": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
-      "name": "ANGELS",
-      "volumeInAda": 1137.346285,
-      "volumeInToken": 329.608161,
-      "orderCount": 4,
-      "tokenInfo": {
-        "token_id": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da414e47454c53",
-        "token_decimals": 6,
-        "token_policy": "285b65ae63d4fad36321384ec61edfd5187b8194fff89b5abe9876da",
-        "token_ascii": "Angels",
-        "ticker": "ANGELS",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
-      "name": "MILK",
-      "volumeInAda": 1097.522066,
-      "volumeInToken": 2873,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
-        "token_decimals": 0,
-        "token_policy": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa",
-        "token_ascii": "MILK",
-        "ticker": "MILK",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
-      "name": "VIPER",
-      "volumeInAda": 991.684101,
-      "volumeInToken": 82978633,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
-        "token_decimals": 0,
-        "token_policy": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b997",
-        "token_ascii": "VIPER",
-        "ticker": "VIPER",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
-      "name": "EMP",
-      "volumeInAda": 985.860929,
-      "volumeInToken": 22137.34565,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
-        "token_decimals": 6,
-        "token_policy": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81",
-        "token_ascii": "Empowa",
-        "ticker": "EMP",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
-      "name": "DANZO",
-      "volumeInAda": 952.3927199999999,
-      "volumeInToken": 56962702,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a44414e5a4f",
-        "token_decimals": 0,
-        "token_policy": "bf3e19192da77dfadc7c9065944e50ca7e1a439d90833e3ae58b720a",
-        "token_ascii": "DANZO",
-        "ticker": "DANZO",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
+      "tokenId": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c204f6666696369616c436861726c65736d656d65",
       "name": "CHARLES",
-      "volumeInAda": 939.170203,
-      "volumeInToken": 26673,
-      "orderCount": 8,
+      "volumeInAda": 1140.9884,
+      "volumeInToken": 614673277,
+      "orderCount": 10,
       "tokenInfo": {
-        "token_id": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
+        "token_id": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c204f6666696369616c436861726c65736d656d65",
         "token_decimals": 0,
-        "token_policy": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d",
-        "token_ascii": "Charles Media Token",
+        "token_policy": "a8f54e6eb47a7ef6d96aceb892f4e9b6211f8b736a1f6d3109648c20",
+        "token_ascii": "Official Charles Meme",
         "ticker": "CHARLES",
         "is_verified": true,
-        "supply": 10000,
-        "creation_date": "2024-09-04T21:00:55Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "92fd3efd6f561227ccb7751f73f5290eb2c70df4f5f1196a20ec766d436865657365627572676572",
-      "name": "Cheeseburger",
-      "volumeInAda": 881.863682,
-      "volumeInToken": 289608110,
-      "orderCount": 11,
-      "tokenInfo": {
-        "token_id": "92fd3efd6f561227ccb7751f73f5290eb2c70df4f5f1196a20ec766d436865657365627572676572",
-        "token_decimals": 0,
-        "token_policy": "92fd3efd6f561227ccb7751f73f5290eb2c70df4f5f1196a20ec766d",
-        "token_ascii": "Cheeseburger",
-        "ticker": "Cheeseburger",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T20:29:01Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534454",
-      "name": "USDT",
-      "volumeInAda": 788.4732899999999,
-      "volumeInToken": 285.38899811999994,
-      "orderCount": 10,
-      "tokenInfo": {
-        "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534454",
-        "token_decimals": 8,
-        "token_policy": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
-        "token_ascii": "WanChain USDT",
-        "ticker": "USDT",
-        "is_verified": true,
-        "supply": -43521083727804,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc69436861726c",
-      "name": "ICHARL",
-      "volumeInAda": 746.44771,
-      "volumeInToken": 38220866,
-      "orderCount": 6,
-      "tokenInfo": {
-        "token_id": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc69436861726c",
-        "token_decimals": 0,
-        "token_policy": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc",
-        "token_ascii": "iCharl",
-        "ticker": "ICHARL",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-03-04T08:01:38Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab0814d4953544552",
-      "name": "MISTER",
-      "volumeInAda": 711.90374,
-      "volumeInToken": 3309560,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab0814d4953544552",
-        "token_decimals": 0,
-        "token_policy": "7529bed52d81a20e69c6dd447dd9cc0293daf4577f08d7ed2d8ab081",
-        "token_ascii": "Mister",
-        "ticker": "MISTER",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-01-26T05:17:17Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "f8e412b35f4883f9060d1895040ecdf816466bfca20eedc598905f16436865657a796372617a79",
-      "name": "Cheezycrazy",
-      "volumeInAda": 702.634875,
-      "volumeInToken": 235735418,
-      "orderCount": 10,
-      "tokenInfo": {
-        "token_id": "f8e412b35f4883f9060d1895040ecdf816466bfca20eedc598905f16436865657a796372617a79",
-        "token_decimals": 0,
-        "token_policy": "f8e412b35f4883f9060d1895040ecdf816466bfca20eedc598905f16",
-        "token_ascii": "Cheezycrazy",
-        "ticker": "Cheezycrazy",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T17:04:10Z",
+        "supply": 1000000000000,
+        "creation_date": "2025-01-29T17:40:23Z",
         "price": 0
       }
     },
     {
       "tokenId": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf4d796e746820546f6b656e",
       "name": "MNT",
-      "volumeInAda": 696.997035,
-      "volumeInToken": 14960.716609000003,
-      "orderCount": 10,
+      "volumeInAda": 928.7605020000001,
+      "volumeInToken": 20201.555036,
+      "orderCount": 14,
       "tokenInfo": {
         "token_id": "43b07d4037f0d75ee10f9863097463fc02ff3c0b8b705ae61d9c75bf4d796e746820546f6b656e",
         "token_decimals": 6,
@@ -1852,29 +1633,29 @@
       }
     },
     {
-      "tokenId": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b",
-      "name": "BANK",
-      "volumeInAda": 684.0381439999999,
-      "volumeInToken": 537217568,
+      "tokenId": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc69436861726c",
+      "name": "ICHARL",
+      "volumeInAda": 900.940495,
+      "volumeInToken": 46315481,
       "orderCount": 5,
       "tokenInfo": {
-        "token_id": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f21842414e4b",
+        "token_id": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc69436861726c",
         "token_decimals": 0,
-        "token_policy": "2b28c81dbba6d67e4b5a997c6be1212cba9d60d33f82444ab8b1f218",
-        "token_ascii": "Bankercoin",
-        "ticker": "BANK",
+        "token_policy": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc",
+        "token_ascii": "iCharl",
+        "ticker": "ICHARL",
         "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "supply": 1000000000,
+        "creation_date": "2025-03-04T08:01:38Z",
         "price": 0
       }
     },
     {
       "tokenId": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe424f4f",
       "name": "BOO",
-      "volumeInAda": 661.261588,
-      "volumeInToken": 949491,
-      "orderCount": 4,
+      "volumeInAda": 794.8190000000001,
+      "volumeInToken": 1144432,
+      "orderCount": 3,
       "tokenInfo": {
         "token_id": "d4b29d5d48edf300128a5f08150ad196a6af15ebd7932306d3099efe424f4f",
         "token_decimals": 0,
@@ -1888,83 +1669,137 @@
       }
     },
     {
-      "tokenId": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
-      "name": "GENS",
-      "volumeInAda": 652.795124,
-      "volumeInToken": 29904.966559,
-      "orderCount": 7,
-      "tokenInfo": {
-        "token_id": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
-        "token_decimals": 6,
-        "token_policy": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb",
-        "token_ascii": "Genius Yield Token",
-        "ticker": "GENS",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "fa309b7b60d07017338d538e847d62a685c7dc349336a3fe6d01576454726173682043616e",
-      "name": "Trash Can",
-      "volumeInAda": 631.347499,
-      "volumeInToken": 224495696,
+      "tokenId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534454",
+      "name": "USDT",
+      "volumeInAda": 787.4732899999999,
+      "volumeInToken": 284.77052504999995,
       "orderCount": 9,
       "tokenInfo": {
-        "token_id": "fa309b7b60d07017338d538e847d62a685c7dc349336a3fe6d01576454726173682043616e",
-        "token_decimals": 0,
-        "token_policy": "fa309b7b60d07017338d538e847d62a685c7dc349336a3fe6d015764",
-        "token_ascii": "Trash Can",
-        "ticker": "Trash Can",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T19:24:12Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59",
-      "name": "JELLY",
-      "volumeInAda": 627.14571,
-      "volumeInToken": 11087.981066,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59",
-        "token_decimals": 6,
-        "token_policy": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa683",
-        "token_ascii": "JELLY",
-        "ticker": "JELLY",
+        "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534454",
+        "token_decimals": 8,
+        "token_policy": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
+        "token_ascii": "WanChain USDT",
+        "ticker": "USDT",
         "is_verified": true,
-        "supply": 0,
+        "supply": -41346541933804,
         "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
     {
-      "tokenId": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b27273425443",
-      "name": "rsBTC",
-      "volumeInAda": 611.983514,
-      "volumeInToken": 0.00436531,
+      "tokenId": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0544f4b45",
+      "name": "TOKE",
+      "volumeInAda": 772.4553510000001,
+      "volumeInToken": 23883,
       "orderCount": 2,
       "tokenInfo": {
-        "token_id": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b27273425443",
-        "token_decimals": 8,
-        "token_policy": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b2",
-        "token_ascii": "rsBTC",
-        "ticker": "rsBTC",
+        "token_id": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0544f4b45",
+        "token_decimals": 0,
+        "token_policy": "375df3f2fb44d3c42b3381a09edd4ea2303a57ada32b5308c0774ee0",
+        "token_ascii": "Tokeo Token",
+        "ticker": "TOKE",
+        "is_verified": true,
+        "supply": 94986013,
+        "creation_date": "2024-11-18T07:51:39Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "1d6c31a80ebd66b53004f6c603b419d1cc264dadc016daaf36a95a31484950504f20434f494e",
+      "name": "HIPPO COIN",
+      "volumeInAda": 756.425428,
+      "volumeInToken": 221252473,
+      "orderCount": 9,
+      "tokenInfo": {
+        "token_id": "1d6c31a80ebd66b53004f6c603b419d1cc264dadc016daaf36a95a31484950504f20434f494e",
+        "token_decimals": 0,
+        "token_policy": "1d6c31a80ebd66b53004f6c603b419d1cc264dadc016daaf36a95a31",
+        "token_ascii": "HIPPO COIN",
+        "ticker": "HIPPO COIN",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-14T19:09:20Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
+      "name": "VIPER",
+      "volumeInAda": 749.7841010000001,
+      "volumeInToken": 62784313,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b9975649504552",
+        "token_decimals": 0,
+        "token_policy": "caff93803e51c7b97bf79146790bfa3feb0d0b856ef16113b391b997",
+        "token_ascii": "VIPER",
+        "ticker": "VIPER",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
+      "name": "VYFI",
+      "volumeInAda": 712.1573739999999,
+      "volumeInToken": 8976.445896000001,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f56594649",
+        "token_decimals": 6,
+        "token_policy": "804f5544c1962a40546827cab750a88404dc7108c0f588b72964754f",
+        "token_ascii": "VYFI",
+        "ticker": "VYFI",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
+      "name": "WRT",
+      "volumeInAda": 683.4774110000001,
+      "volumeInToken": 19864.79813,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
+        "token_decimals": 6,
+        "token_policy": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d5073",
+        "token_ascii": "WingRiders Governance Token",
+        "ticker": "WRT",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
+      "name": "DUX",
+      "volumeInAda": 651.348221,
+      "volumeInToken": 1773321,
+      "orderCount": 3,
+      "tokenInfo": {
+        "token_id": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b5468652043686f73656e20447578",
+        "token_decimals": 0,
+        "token_policy": "f42d942e6d7f9f3adeacd3468df58079867da7c12cfeff784dd68a2b",
+        "token_ascii": "The Chosen Dux",
+        "ticker": "DUX",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2024-12-11T05:07:28Z",
         "price": 0
       }
     },
     {
       "tokenId": "141eea77e407aa35eec384dd6d863ca44aa338273222403c8f5549d9446f6e67",
       "name": "DONG",
-      "volumeInAda": 586.9,
-      "volumeInToken": 3496732,
-      "orderCount": 10,
+      "volumeInAda": 584.9,
+      "volumeInToken": 3484572,
+      "orderCount": 9,
       "tokenInfo": {
         "token_id": "141eea77e407aa35eec384dd6d863ca44aa338273222403c8f5549d9446f6e67",
         "token_decimals": 0,
@@ -1978,53 +1813,17 @@
       }
     },
     {
-      "tokenId": "984931d40d2aa75004dbb9fbf3bcb44d17b1a585fa4f349752ed273c507572706c65204d6f6f6e",
-      "name": "Purple Moon",
-      "volumeInAda": 564.379601,
-      "volumeInToken": 164887928,
-      "orderCount": 5,
+      "tokenId": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
+      "name": "PBX",
+      "volumeInAda": 583.682506,
+      "volumeInToken": 1723027.444359,
+      "orderCount": 7,
       "tokenInfo": {
-        "token_id": "984931d40d2aa75004dbb9fbf3bcb44d17b1a585fa4f349752ed273c507572706c65204d6f6f6e",
-        "token_decimals": 0,
-        "token_policy": "984931d40d2aa75004dbb9fbf3bcb44d17b1a585fa4f349752ed273c",
-        "token_ascii": "Purple Moon",
-        "ticker": "Purple Moon",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T15:42:52Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "7914fae20eb2903ed6fd5021a415c1bd2626b64a2d86a304cb40ff5e4c494649",
-      "name": "LIFI",
-      "volumeInAda": 560.417641,
-      "volumeInToken": 31697.116523,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "7914fae20eb2903ed6fd5021a415c1bd2626b64a2d86a304cb40ff5e4c494649",
+        "token_id": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
         "token_decimals": 6,
-        "token_policy": "7914fae20eb2903ed6fd5021a415c1bd2626b64a2d86a304cb40ff5e",
-        "token_ascii": "LinkageFinanceToken",
-        "ticker": "LIFI",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "e633efbf19a37500c6f22965af3130baa34c3a644a146662dd2d74a250554e4b53",
-      "name": "PUNKS",
-      "volumeInAda": 553.4972329999999,
-      "volumeInToken": 112267946224,
-      "orderCount": 6,
-      "tokenInfo": {
-        "token_id": "e633efbf19a37500c6f22965af3130baa34c3a644a146662dd2d74a250554e4b53",
-        "token_decimals": 0,
-        "token_policy": "e633efbf19a37500c6f22965af3130baa34c3a644a146662dd2d74a2",
-        "token_ascii": "PUNKS",
-        "ticker": "PUNKS",
+        "token_policy": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb6",
+        "token_ascii": "Paribus",
+        "ticker": "PBX",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -2050,17 +1849,17 @@
       }
     },
     {
-      "tokenId": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
-      "name": "PBX",
-      "volumeInAda": 505.832506,
-      "volumeInToken": 1504574.396926,
-      "orderCount": 4,
+      "tokenId": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c",
+      "name": "SHARL",
+      "volumeInAda": 506.57408,
+      "volumeInToken": 1500000000,
+      "orderCount": 2,
       "tokenInfo": {
-        "token_id": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb650617269627573",
-        "token_decimals": 6,
-        "token_policy": "cc8d1b026353022abbfcc2e1e71159f9e308d9c6e905ac1db24c7fb6",
-        "token_ascii": "Paribus",
-        "ticker": "PBX",
+        "token_id": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b534841524c",
+        "token_decimals": 0,
+        "token_policy": "590f6d119b214cdcf7ef7751f8b7f1de615ff8f6de097a5ce62b257b",
+        "token_ascii": "SHARL",
+        "ticker": "SHARL",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -2070,7 +1869,7 @@
     {
       "tokenId": "1e76aaec4869308ef5b61e81ebf229f2e70f75a50223defa087f807b436c61726974792044414f20546f6b656e",
       "name": "CLARITY",
-      "volumeInAda": 494.434734,
+      "volumeInAda": 493.530705,
       "volumeInToken": 161664.111523,
       "orderCount": 3,
       "tokenInfo": {
@@ -2082,24 +1881,6 @@
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34534f4e474d41524b4554434150",
-      "name": "SONG",
-      "volumeInAda": 486.08004,
-      "volumeInToken": 683050,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34534f4e474d41524b4554434150",
-        "token_decimals": 0,
-        "token_policy": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34",
-        "token_ascii": "SongMarketCap",
-        "ticker": "SONG",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-01-27T02:46:51Z",
         "price": 0
       }
     },
@@ -2116,8 +1897,44 @@
         "token_ascii": "xVYFI",
         "ticker": "xVYFI",
         "is_verified": false,
-        "supply": 2463758652043,
+        "supply": 2467163121574,
         "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34534f4e474d41524b4554434150",
+      "name": "SONG",
+      "volumeInAda": 460.91950799999995,
+      "volumeInToken": 646819,
+      "orderCount": 6,
+      "tokenInfo": {
+        "token_id": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34534f4e474d41524b4554434150",
+        "token_decimals": 0,
+        "token_policy": "f71b4cf652d8edb33a57928b8b8a546a3c954b7ba24db5583ac79b34",
+        "token_ascii": "SongMarketCap",
+        "ticker": "SONG",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-01-27T02:46:51Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "31568b7c72d4835efb0cbe512c9cb10acb6606722b66ff5b590bd7fa486f736b696e2050617061",
+      "name": "Hoskin Papa",
+      "volumeInAda": 458.094973,
+      "volumeInToken": 149194049,
+      "orderCount": 5,
+      "tokenInfo": {
+        "token_id": "31568b7c72d4835efb0cbe512c9cb10acb6606722b66ff5b590bd7fa486f736b696e2050617061",
+        "token_decimals": 0,
+        "token_policy": "31568b7c72d4835efb0cbe512c9cb10acb6606722b66ff5b590bd7fa",
+        "token_ascii": "Hoskin Papa",
+        "ticker": "Hoskin Papa",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-14T16:25:57Z",
         "price": 0
       }
     },
@@ -2158,35 +1975,17 @@
       }
     },
     {
-      "tokenId": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
-      "name": "WRT",
-      "volumeInAda": 407.971947,
-      "volumeInToken": 11897.10059,
+      "tokenId": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552",
+      "name": "RAKER",
+      "volumeInAda": 400.883819,
+      "volumeInToken": 20000,
       "orderCount": 2,
       "tokenInfo": {
-        "token_id": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
-        "token_decimals": 6,
-        "token_policy": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d5073",
-        "token_ascii": "WingRiders Governance Token",
-        "ticker": "WRT",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f4084b49545550",
-      "name": "KITUP",
-      "volumeInAda": 398.120709,
-      "volumeInToken": 3191324,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f4084b49545550",
+        "token_id": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b60252414b4552",
         "token_decimals": 0,
-        "token_policy": "b166a1047a8cd275bf0a50201ece3d4f0b4da300094ffcc668a6f408",
-        "token_ascii": "KITUP",
-        "ticker": "KITUP",
+        "token_policy": "ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b602",
+        "token_ascii": "MarketRaker",
+        "ticker": "RAKER",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -2194,17 +1993,53 @@
       }
     },
     {
-      "tokenId": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
-      "name": "MAYZ",
-      "volumeInAda": 392.730636,
-      "volumeInToken": 87090.317123,
+      "tokenId": "c863ceaa796d5429b526c336ab45016abd636859f331758e67204e5c4353574150",
+      "name": "CSWAP",
+      "volumeInAda": 385.13239599999997,
+      "volumeInToken": 122002331386,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "c863ceaa796d5429b526c336ab45016abd636859f331758e67204e5c4353574150",
+        "token_decimals": 6,
+        "token_policy": "c863ceaa796d5429b526c336ab45016abd636859f331758e67204e5c",
+        "token_ascii": "CSWAP",
+        "ticker": "CSWAP",
+        "is_verified": false,
+        "supply": 455258547000000,
+        "creation_date": "2025-03-11T21:05:28Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "a44acb360e269c680cf8585831102614989c5fc78ede0d9ccf1e1115564f534b59204149",
+      "name": "VOSKY",
+      "volumeInAda": 378.64329499999997,
+      "volumeInToken": 10458476,
       "orderCount": 3,
       "tokenInfo": {
-        "token_id": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e5646834d41595a",
+        "token_id": "a44acb360e269c680cf8585831102614989c5fc78ede0d9ccf1e1115564f534b59204149",
+        "token_decimals": 0,
+        "token_policy": "a44acb360e269c680cf8585831102614989c5fc78ede0d9ccf1e1115",
+        "token_ascii": "VoskyAI",
+        "ticker": "VOSKY",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-02-22T19:42:36Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047",
+      "name": "JPG",
+      "volumeInAda": 370.01508,
+      "volumeInToken": 87958.071975,
+      "orderCount": 5,
+      "tokenInfo": {
+        "token_id": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd2764a5047",
         "token_decimals": 6,
-        "token_policy": "9e975c76508686eb2d57985dbaea7e3843767a31b4dcf4e99e564683",
-        "token_ascii": "MAYZ",
-        "ticker": "MAYZ",
+        "token_policy": "681b5d0383ac3b457e1bcc453223c90ccef26b234328f45fa10fd276",
+        "token_ascii": "JPG TOKEN",
+        "ticker": "JPG",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -2212,38 +2047,92 @@
       }
     },
     {
-      "tokenId": "74ffb290d609695e6d97c5a48315422ca7bcee114a8cd926b40d34ad534e4f4b4520434f494e",
-      "name": "SNOKE COIN",
-      "volumeInAda": 375.41966,
-      "volumeInToken": 125628569,
-      "orderCount": 7,
+      "tokenId": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f48594452",
+      "name": "HYDR",
+      "volumeInAda": 359.215042,
+      "volumeInToken": 76027763,
+      "orderCount": 5,
       "tokenInfo": {
-        "token_id": "74ffb290d609695e6d97c5a48315422ca7bcee114a8cd926b40d34ad534e4f4b4520434f494e",
+        "token_id": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f48594452",
         "token_decimals": 0,
-        "token_policy": "74ffb290d609695e6d97c5a48315422ca7bcee114a8cd926b40d34ad",
-        "token_ascii": "SNOKE COIN",
-        "ticker": "SNOKE COIN",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T16:07:04Z",
+        "token_policy": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f",
+        "token_ascii": "HYDR",
+        "ticker": "HYDR",
+        "is_verified": true,
+        "supply": 45000000000,
+        "creation_date": "2024-10-27T05:35:30Z",
         "price": 0
       }
     },
     {
-      "tokenId": "101f9f53ae54479898aa8ae7144ea8f8fbd94ac86869de90a2d0d17342616279504f4f4c",
-      "name": "BabyPOOL",
-      "volumeInAda": 342.94554600000004,
-      "volumeInToken": 112637847,
-      "orderCount": 5,
+      "tokenId": "057410ac817aab713a9494ad1de5406910ba2b36c7a460dd6aedb0464469636b62757474",
+      "name": "Dickbutt",
+      "volumeInAda": 353.423899,
+      "volumeInToken": 116218866,
+      "orderCount": 3,
       "tokenInfo": {
-        "token_id": "101f9f53ae54479898aa8ae7144ea8f8fbd94ac86869de90a2d0d17342616279504f4f4c",
+        "token_id": "057410ac817aab713a9494ad1de5406910ba2b36c7a460dd6aedb0464469636b62757474",
         "token_decimals": 0,
-        "token_policy": "101f9f53ae54479898aa8ae7144ea8f8fbd94ac86869de90a2d0d173",
-        "token_ascii": "BabyPOOL",
-        "ticker": "BabyPOOL",
+        "token_policy": "057410ac817aab713a9494ad1de5406910ba2b36c7a460dd6aedb046",
+        "token_ascii": "Dickbutt",
+        "ticker": "Dickbutt",
         "is_verified": false,
         "supply": 1000000000,
-        "creation_date": "2025-04-12T19:09:47Z",
+        "creation_date": "2025-04-14T18:20:20Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "2e1202db1de018a05aa0e2bdcf963f3332b5f90607be34840ce7470e567946695f4144412f574d54585f4c50",
+      "name": "VyFi_ADA/WMTX_LP",
+      "volumeInAda": 349.9,
+      "volumeInToken": 325396871,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "2e1202db1de018a05aa0e2bdcf963f3332b5f90607be34840ce7470e567946695f4144412f574d54585f4c50",
+        "token_decimals": 0,
+        "token_policy": "2e1202db1de018a05aa0e2bdcf963f3332b5f90607be34840ce7470e",
+        "token_ascii": "VyFi_ADA/WMTX_LP",
+        "ticker": "VyFi_ADA/WMTX_LP",
+        "is_verified": false,
+        "supply": 304483839098,
+        "creation_date": "2024-09-30T14:06:20Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e753554741522042555348",
+      "name": "SUGR",
+      "volumeInAda": 347.357036,
+      "volumeInToken": 430773,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e753554741522042555348",
+        "token_decimals": 0,
+        "token_policy": "766fce8055f39d40fcfc19721677b3deb2e7846950ae08dce757f1e7",
+        "token_ascii": "Sugar Bush",
+        "ticker": "SUGR",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2024-11-14T05:29:44Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
+      "name": "MILK",
+      "volumeInAda": 327.651543,
+      "volumeInToken": 873,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa4d494c4b",
+        "token_decimals": 0,
+        "token_policy": "8a1cfae21368b8bebbbed9800fec304e95cce39a2a57dc35e2e3ebaa",
+        "token_ascii": "MILK",
+        "ticker": "MILK",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
@@ -2284,6 +2173,42 @@
       }
     },
     {
+      "tokenId": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241",
+      "name": "MIRA",
+      "volumeInAda": 304.540113,
+      "volumeInToken": 240666.69,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc4d495241",
+        "token_decimals": 2,
+        "token_policy": "160a880d9fc45380737cb7e57ff859763230aab28b3ef6a84007bfcc",
+        "token_ascii": "MIRA - Chains of War",
+        "ticker": "MIRA",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
+      "name": "GENS",
+      "volumeInAda": 303.060474,
+      "volumeInToken": 13870.523635000001,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb0014df1047454e53",
+        "token_decimals": 6,
+        "token_policy": "dda5fdb1002f7389b33e036b6afee82a8189becb6cba852e8b79b4fb",
+        "token_ascii": "Genius Yield Token",
+        "ticker": "GENS",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "c6b65a008d444e6653b08fce101b32c43a35cd190daf3f89ee69ce1c536d6f6c20436174",
       "name": "SMOL",
       "volumeInAda": 301.135993,
@@ -2302,56 +2227,56 @@
       }
     },
     {
-      "tokenId": "6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f5354524950",
-      "name": "STRIP",
-      "volumeInAda": 300.9,
-      "volumeInToken": 83189.165,
+      "tokenId": "389a81d09f92e156649049e15db6e82f8d945bd1520033a0734088bd686f6e65792e",
+      "name": "HNY",
+      "volumeInAda": 300,
+      "volumeInToken": 2368276,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "389a81d09f92e156649049e15db6e82f8d945bd1520033a0734088bd686f6e65792e",
+        "token_decimals": 0,
+        "token_policy": "389a81d09f92e156649049e15db6e82f8d945bd1520033a0734088bd",
+        "token_ascii": "honey.",
+        "ticker": "HNY",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-01-27T13:44:18Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "984931d40d2aa75004dbb9fbf3bcb44d17b1a585fa4f349752ed273c507572706c65204d6f6f6e",
+      "name": "Purple Moon",
+      "volumeInAda": 291.906525,
+      "volumeInToken": 100000000,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f5354524950",
-        "token_decimals": 3,
-        "token_policy": "6954264b15bc92d6d592febeac84f14645e1ed46ca5ebb9acdb5c15f",
-        "token_ascii": "StripperCoin",
-        "ticker": "STRIP",
+        "token_id": "984931d40d2aa75004dbb9fbf3bcb44d17b1a585fa4f349752ed273c507572706c65204d6f6f6e",
+        "token_decimals": 0,
+        "token_policy": "984931d40d2aa75004dbb9fbf3bcb44d17b1a585fa4f349752ed273c",
+        "token_ascii": "Purple Moon",
+        "ticker": "Purple Moon",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-13T15:42:52Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
+      "name": "SPLASH",
+      "volumeInAda": 288.988095,
+      "volumeInToken": 2474.6900960000003,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
+        "token_decimals": 6,
+        "token_policy": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
+        "token_ascii": "Splash Protocol",
+        "ticker": "SPLASH",
         "is_verified": true,
-        "supply": 0,
+        "supply": -693556724388,
         "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "e12abe66d27a7693a1b1029e3234d02ff687a06bd64d088d1d22c07a534841495241",
-      "name": "SHAIRA",
-      "volumeInAda": 289.672385,
-      "volumeInToken": 101897764,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "e12abe66d27a7693a1b1029e3234d02ff687a06bd64d088d1d22c07a534841495241",
-        "token_decimals": 0,
-        "token_policy": "e12abe66d27a7693a1b1029e3234d02ff687a06bd64d088d1d22c07a",
-        "token_ascii": "SHAIRA",
-        "ticker": "SHAIRA",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T16:48:30Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "2cf60bbfb1c0fe99db3b2f34c0dc0d4611cf8237f17f2c7150250b88507572706c6520436174",
-      "name": "Purple Cat",
-      "volumeInAda": 289.672033,
-      "volumeInToken": 101897764,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "2cf60bbfb1c0fe99db3b2f34c0dc0d4611cf8237f17f2c7150250b88507572706c6520436174",
-        "token_decimals": 0,
-        "token_policy": "2cf60bbfb1c0fe99db3b2f34c0dc0d4611cf8237f17f2c7150250b88",
-        "token_ascii": "Purple Cat",
-        "ticker": "Purple Cat",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T17:23:55Z",
         "price": 0
       }
     },
@@ -2369,6 +2294,24 @@
         "ticker": "VyFi_ADA/VYFI_LP",
         "is_verified": false,
         "supply": -305932058001,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "e633efbf19a37500c6f22965af3130baa34c3a644a146662dd2d74a250554e4b53",
+      "name": "PUNKS",
+      "volumeInAda": 280.964428,
+      "volumeInToken": 58132216506,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "e633efbf19a37500c6f22965af3130baa34c3a644a146662dd2d74a250554e4b53",
+        "token_decimals": 0,
+        "token_policy": "e633efbf19a37500c6f22965af3130baa34c3a644a146662dd2d74a2",
+        "token_ascii": "PUNKS",
+        "ticker": "PUNKS",
+        "is_verified": true,
+        "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
@@ -2405,6 +2348,42 @@
       }
     },
     {
+      "tokenId": "d4afd05030f40301f600e2f33c959821abaadea57e29ffb6abf7f1c142656572",
+      "name": "Beer",
+      "volumeInAda": 267.482391,
+      "volumeInToken": 90561784,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "d4afd05030f40301f600e2f33c959821abaadea57e29ffb6abf7f1c142656572",
+        "token_decimals": 0,
+        "token_policy": "d4afd05030f40301f600e2f33c959821abaadea57e29ffb6abf7f1c1",
+        "token_ascii": "Beer",
+        "ticker": "Beer",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-11T02:00:58Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "5d2e8f0349a3f32709bc6756f36585143253c7987ea872115aab5df15042264a20436f696e",
+      "name": "PB&J Coin",
+      "volumeInAda": 251.586992,
+      "volumeInToken": 14814968,
+      "orderCount": 7,
+      "tokenInfo": {
+        "token_id": "5d2e8f0349a3f32709bc6756f36585143253c7987ea872115aab5df15042264a20436f696e",
+        "token_decimals": 0,
+        "token_policy": "5d2e8f0349a3f32709bc6756f36585143253c7987ea872115aab5df1",
+        "token_ascii": "PB&J Coin",
+        "ticker": "PB&J Coin",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-03-11T17:55:53Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "7cba820bde0a55556fc8a0fa79a329137196fdfc0be170a3f7ccc1b2436865657a79616e677279",
       "name": "Cheezyangry",
       "volumeInAda": 245.316562,
@@ -2423,28 +2402,10 @@
       }
     },
     {
-      "tokenId": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
-      "name": "CATSKY",
-      "volumeInAda": 235.605145,
-      "volumeInToken": 1475030845,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
-        "token_decimals": 0,
-        "token_policy": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921",
-        "token_ascii": "Catsky AI",
-        "ticker": "CATSKY",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
       "name": "NMKR",
-      "volumeInAda": 231.195609,
-      "volumeInToken": 206072.765865,
+      "volumeInAda": 245.18188999999998,
+      "volumeInToken": 217685.38628200002,
       "orderCount": 3,
       "tokenInfo": {
         "token_id": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc928434894e4d4b52",
@@ -2452,6 +2413,24 @@
         "token_policy": "5dac8536653edc12f6f5e1045d8164b9f59998d3bdc300fc92843489",
         "token_ascii": "NMKR",
         "ticker": "NMKR",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
+      "name": "CATSKY",
+      "volumeInAda": 230.605145,
+      "volumeInToken": 1444462464,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
+        "token_decimals": 0,
+        "token_policy": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921",
+        "token_ascii": "Catsky AI",
+        "ticker": "CATSKY",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -2477,56 +2456,20 @@
       }
     },
     {
-      "tokenId": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f48594452",
-      "name": "HYDR",
-      "volumeInAda": 222.94770699999998,
-      "volumeInToken": 50524218,
+      "tokenId": "480e4d0b1c62bf0497230b6a905663a4445ca5eea9140cb067f02584546f72636879",
+      "name": "Torchy",
+      "volumeInAda": 224.463188,
+      "volumeInToken": 12804691,
       "orderCount": 2,
       "tokenInfo": {
-        "token_id": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f48594452",
+        "token_id": "480e4d0b1c62bf0497230b6a905663a4445ca5eea9140cb067f02584546f72636879",
         "token_decimals": 0,
-        "token_policy": "4a17babb62367c0def1615e0e75d20cda9f1b5c1cd4a55c86661777f",
-        "token_ascii": "HYDR",
-        "ticker": "HYDR",
-        "is_verified": true,
-        "supply": 45000000000,
-        "creation_date": "2024-10-27T05:35:30Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "63efb704b7396890e4d9539d030c0e667739043add65c00f96c586c056616c6f72756d",
-      "name": "VLRM",
-      "volumeInAda": 209.983191,
-      "volumeInToken": 26446.8336,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "63efb704b7396890e4d9539d030c0e667739043add65c00f96c586c056616c6f72756d",
-        "token_decimals": 4,
-        "token_policy": "63efb704b7396890e4d9539d030c0e667739043add65c00f96c586c0",
-        "token_ascii": "Valorum",
-        "ticker": "VLRM",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "797e54149886d5aa8106e1065ae0b97e4be87e77a0ee05030a3f97ca486f736b696c69656e",
-      "name": "HSKN",
-      "volumeInAda": 206.664877,
-      "volumeInToken": 876880,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "797e54149886d5aa8106e1065ae0b97e4be87e77a0ee05030a3f97ca486f736b696c69656e",
-        "token_decimals": 0,
-        "token_policy": "797e54149886d5aa8106e1065ae0b97e4be87e77a0ee05030a3f97ca",
-        "token_ascii": "Hoskillien",
-        "ticker": "HSKN",
-        "is_verified": true,
+        "token_policy": "480e4d0b1c62bf0497230b6a905663a4445ca5eea9140cb067f02584",
+        "token_ascii": "Torchy",
+        "ticker": "Torchy",
+        "is_verified": false,
         "supply": 1000000000,
-        "creation_date": "2024-12-02T00:50:27Z",
+        "creation_date": "2025-02-24T03:48:28Z",
         "price": 0
       }
     },
@@ -2567,42 +2510,6 @@
       }
     },
     {
-      "tokenId": "680d05f173b6ab03b6afb72ad9ae8481f73ea239245b1595fe87986a43485542",
-      "name": "CHUB",
-      "volumeInAda": 198.40259,
-      "volumeInToken": 1573661,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "680d05f173b6ab03b6afb72ad9ae8481f73ea239245b1595fe87986a43485542",
-        "token_decimals": 0,
-        "token_policy": "680d05f173b6ab03b6afb72ad9ae8481f73ea239245b1595fe87986a",
-        "token_ascii": "ChubGPT",
-        "ticker": "CHUB",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-02-12T00:37:14Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "c863ceaa796d5429b526c336ab45016abd636859f331758e67204e5c4353574150",
-      "name": "CSWAP",
-      "volumeInAda": 195.232396,
-      "volumeInToken": 62167313717,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "c863ceaa796d5429b526c336ab45016abd636859f331758e67204e5c4353574150",
-        "token_decimals": 6,
-        "token_policy": "c863ceaa796d5429b526c336ab45016abd636859f331758e67204e5c",
-        "token_ascii": "CSWAP",
-        "ticker": "CSWAP",
-        "is_verified": false,
-        "supply": 455258547000000,
-        "creation_date": "2025-03-11T21:05:28Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "d65d8018fd89282c4386d788ab6a0e7e28a33d72165fb1ed7f2438d74e4d53",
       "name": "Unknown",
       "volumeInAda": 186.176797,
@@ -2613,24 +2520,6 @@
         "token_ascii": "Unknown",
         "ticker": "Unknown",
         "is_verified": false
-      }
-    },
-    {
-      "tokenId": "df7773f307ce7e4a45963b9e548500020bee8bc48eb436d72e79cb915472756d704d61726b65744d6f766573",
-      "name": "TrumpMarketMoves",
-      "volumeInAda": 175.109364,
-      "volumeInToken": 65380294,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "df7773f307ce7e4a45963b9e548500020bee8bc48eb436d72e79cb915472756d704d61726b65744d6f766573",
-        "token_decimals": 0,
-        "token_policy": "df7773f307ce7e4a45963b9e548500020bee8bc48eb436d72e79cb91",
-        "token_ascii": "TrumpMarketMoves",
-        "ticker": "TrumpMarketMoves",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-12T13:24:12Z",
-        "price": 0
       }
     },
     {
@@ -2648,42 +2537,6 @@
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "00b5075590bed130cc703d2e8b5c846ef081276a11728d3a41c7162e4e6f7420462053656c6c696e67",
-      "name": "Not F Selling",
-      "volumeInAda": 170.072576,
-      "volumeInToken": 63717514,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "00b5075590bed130cc703d2e8b5c846ef081276a11728d3a41c7162e4e6f7420462053656c6c696e67",
-        "token_decimals": 0,
-        "token_policy": "00b5075590bed130cc703d2e8b5c846ef081276a11728d3a41c7162e",
-        "token_ascii": "Not F Selling",
-        "ticker": "Not F Selling",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T20:14:02Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "5d2e8f0349a3f32709bc6756f36585143253c7987ea872115aab5df15042264a20436f696e",
-      "name": "PB&J Coin",
-      "volumeInAda": 163.979169,
-      "volumeInToken": 9671788,
-      "orderCount": 5,
-      "tokenInfo": {
-        "token_id": "5d2e8f0349a3f32709bc6756f36585143253c7987ea872115aab5df15042264a20436f696e",
-        "token_decimals": 0,
-        "token_policy": "5d2e8f0349a3f32709bc6756f36585143253c7987ea872115aab5df1",
-        "token_ascii": "PB&J Coin",
-        "ticker": "PB&J Coin",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-03-11T17:55:53Z",
         "price": 0
       }
     },
@@ -2706,6 +2559,24 @@
       }
     },
     {
+      "tokenId": "101f9f53ae54479898aa8ae7144ea8f8fbd94ac86869de90a2d0d17342616279504f4f4c",
+      "name": "BabyPOOL",
+      "volumeInAda": 161.67569500000002,
+      "volumeInToken": 60519914,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "101f9f53ae54479898aa8ae7144ea8f8fbd94ac86869de90a2d0d17342616279504f4f4c",
+        "token_decimals": 0,
+        "token_policy": "101f9f53ae54479898aa8ae7144ea8f8fbd94ac86869de90a2d0d173",
+        "token_ascii": "BabyPOOL",
+        "ticker": "BabyPOOL",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-12T19:09:47Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "e0f433cee37fe0d11682830202efb8a098e92deb8a7012f3048ff3425a454b45",
       "name": "Unknown",
       "volumeInAda": 158.564036,
@@ -2716,24 +2587,6 @@
         "token_ascii": "Unknown",
         "ticker": "Unknown",
         "is_verified": false
-      }
-    },
-    {
-      "tokenId": "0f86bd613bc13b63b360af0cbb8073fd8b2cc7339a90f864f92b23bf53454544",
-      "name": "SEED",
-      "volumeInAda": 157.42867999999999,
-      "volumeInToken": 30136026,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "0f86bd613bc13b63b360af0cbb8073fd8b2cc7339a90f864f92b23bf53454544",
-        "token_decimals": 0,
-        "token_policy": "0f86bd613bc13b63b360af0cbb8073fd8b2cc7339a90f864f92b23bf",
-        "token_ascii": "SEED",
-        "ticker": "SEED",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-03-27T17:04:57Z",
-        "price": 0
       }
     },
     {
@@ -2750,6 +2603,24 @@
         "ticker": "HEXO",
         "is_verified": true,
         "supply": 189274,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "ab0dec21aa7d939ad124ffaf95faf8ed72b1018ff72fffd8f9974907474f4b4559",
+      "name": "GOKEY",
+      "volumeInAda": 156.40428300000002,
+      "volumeInToken": 23885.768271,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "ab0dec21aa7d939ad124ffaf95faf8ed72b1018ff72fffd8f9974907474f4b4559",
+        "token_decimals": 6,
+        "token_policy": "ab0dec21aa7d939ad124ffaf95faf8ed72b1018ff72fffd8f9974907",
+        "token_ascii": "GoKey",
+        "ticker": "GOKEY",
+        "is_verified": true,
+        "supply": -793913118150,
         "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
@@ -2773,6 +2644,42 @@
       }
     },
     {
+      "tokenId": "40ef978ef2a69438af77513375bfc8ca79f8c062cb7429c3ed3438c243415244414e4f204d4958",
+      "name": "CMT",
+      "volumeInAda": 147.935364,
+      "volumeInToken": 4745032,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "40ef978ef2a69438af77513375bfc8ca79f8c062cb7429c3ed3438c243415244414e4f204d4958",
+        "token_decimals": 0,
+        "token_policy": "40ef978ef2a69438af77513375bfc8ca79f8c062cb7429c3ed3438c2",
+        "token_ascii": "CARDANO MIX",
+        "ticker": "CMT",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-02-22T21:50:08Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
+      "name": "CLAY",
+      "volumeInAda": 145.067254,
+      "volumeInToken": 59366,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
+        "token_decimals": 4,
+        "token_policy": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535",
+        "token_ascii": "CLAY",
+        "ticker": "CLAY",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "00000000000410c2d9e01e8ec78ab1dc6bbc383fae76cbe2689beb024d49444153",
       "name": "MIDAS",
       "volumeInAda": 129.331991,
@@ -2787,42 +2694,6 @@
         "is_verified": true,
         "supply": 61528840230,
         "creation_date": "2025-02-24T17:34:31Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "d4afd05030f40301f600e2f33c959821abaadea57e29ffb6abf7f1c142656572",
-      "name": "Beer",
-      "volumeInAda": 125.378797,
-      "volumeInToken": 37798845,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "d4afd05030f40301f600e2f33c959821abaadea57e29ffb6abf7f1c142656572",
-        "token_decimals": 0,
-        "token_policy": "d4afd05030f40301f600e2f33c959821abaadea57e29ffb6abf7f1c1",
-        "token_ascii": "Beer",
-        "ticker": "Beer",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-11T02:00:58Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "03cf92d1217f976e3ca67bef832a4214249492fbc7278329d273b83e456d626572",
-      "name": "Ember",
-      "volumeInAda": 115.774573,
-      "volumeInToken": 30522932,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "03cf92d1217f976e3ca67bef832a4214249492fbc7278329d273b83e456d626572",
-        "token_decimals": 0,
-        "token_policy": "03cf92d1217f976e3ca67bef832a4214249492fbc7278329d273b83e",
-        "token_ascii": "Ember",
-        "ticker": "Ember",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T09:39:09Z",
         "price": 0
       }
     },
@@ -2845,17 +2716,35 @@
       }
     },
     {
-      "tokenId": "e1a212122b07460a739af69751bd01cd03174791f778b2365cc0b8f645524d4f",
-      "name": "ERMO",
-      "volumeInAda": 102.200036,
-      "volumeInToken": 41011,
+      "tokenId": "00b5075590bed130cc703d2e8b5c846ef081276a11728d3a41c7162e4e6f7420462053656c6c696e67",
+      "name": "Not F Selling",
+      "volumeInAda": 100,
+      "volumeInToken": 36113868,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "e1a212122b07460a739af69751bd01cd03174791f778b2365cc0b8f645524d4f",
+        "token_id": "00b5075590bed130cc703d2e8b5c846ef081276a11728d3a41c7162e4e6f7420462053656c6c696e67",
         "token_decimals": 0,
-        "token_policy": "e1a212122b07460a739af69751bd01cd03174791f778b2365cc0b8f6",
-        "token_ascii": "ERMO",
-        "ticker": "ERMO",
+        "token_policy": "00b5075590bed130cc703d2e8b5c846ef081276a11728d3a41c7162e",
+        "token_ascii": "Not F Selling",
+        "ticker": "Not F Selling",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-13T20:14:02Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353",
+      "name": "ENCS",
+      "volumeInAda": 100,
+      "volumeInToken": 1132.99403,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96454e4353",
+        "token_decimals": 6,
+        "token_policy": "9abf0afd2f236a19f2842d502d0450cbcd9c79f123a9708f96fd9b96",
+        "token_ascii": "ENCOINS utility token",
+        "ticker": "ENCS",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -2865,9 +2754,9 @@
     {
       "tokenId": "fbae99b8679369079a7f6f0da14a2cf1c2d6bfd3afdf3a96a64ab67a0014df1047454e5358",
       "name": "GENSX",
-      "volumeInAda": 100.893077,
-      "volumeInToken": 238362.44188499998,
-      "orderCount": 2,
+      "volumeInAda": 100,
+      "volumeInToken": 236223.826197,
+      "orderCount": 1,
       "tokenInfo": {
         "token_id": "fbae99b8679369079a7f6f0da14a2cf1c2d6bfd3afdf3a96a64ab67a0014df1047454e5358",
         "token_decimals": 6,
@@ -2899,38 +2788,38 @@
       }
     },
     {
-      "tokenId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac427562626c65",
-      "name": "BUBBLE",
-      "volumeInAda": 97.812379,
-      "volumeInToken": 100000,
+      "tokenId": "df7773f307ce7e4a45963b9e548500020bee8bc48eb436d72e79cb915472756d704d61726b65744d6f766573",
+      "name": "TrumpMarketMoves",
+      "volumeInAda": 95.906528,
+      "volumeInToken": 37411493,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac427562626c65",
-        "token_decimals": 6,
-        "token_policy": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
-        "token_ascii": "Bubble",
-        "ticker": "BUBBLE",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "token_id": "df7773f307ce7e4a45963b9e548500020bee8bc48eb436d72e79cb915472756d704d61726b65744d6f766573",
+        "token_decimals": 0,
+        "token_policy": "df7773f307ce7e4a45963b9e548500020bee8bc48eb436d72e79cb91",
+        "token_ascii": "TrumpMarketMoves",
+        "ticker": "TrumpMarketMoves",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-12T13:24:12Z",
         "price": 0
       }
     },
     {
-      "tokenId": "2a2da15edfb850666b134d13cd8ebafd61e8a526798ac26a24cbcc394d6f6f6e4d697373696f6e",
-      "name": "MOON",
-      "volumeInAda": 97.580198,
-      "volumeInToken": 14054956,
+      "tokenId": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+      "name": "EMP",
+      "volumeInAda": 94.328079,
+      "volumeInToken": 2137.34565,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "2a2da15edfb850666b134d13cd8ebafd61e8a526798ac26a24cbcc394d6f6f6e4d697373696f6e",
-        "token_decimals": 0,
-        "token_policy": "2a2da15edfb850666b134d13cd8ebafd61e8a526798ac26a24cbcc39",
-        "token_ascii": "MoonMission",
-        "ticker": "MOON",
+        "token_id": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81456d706f7761",
+        "token_decimals": 6,
+        "token_policy": "6c8642400e8437f737eb86df0fc8a8437c760f48592b1ba8f5767e81",
+        "token_ascii": "Empowa",
+        "ticker": "EMP",
         "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2024-11-16T14:50:48Z",
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
@@ -2971,6 +2860,19 @@
       }
     },
     {
+      "tokenId": "816afbd76ab300348df78478bb7977f5bc7444564247d6ad561d303b0014df1050524f5045525459434f494e",
+      "name": "Unknown",
+      "volumeInAda": 86.43818,
+      "volumeInToken": 26475352532418,
+      "orderCount": 4,
+      "tokenInfo": {
+        "token_id": "816afbd76ab300348df78478bb7977f5bc7444564247d6ad561d303b0014df1050524f5045525459434f494e",
+        "token_ascii": "Unknown",
+        "ticker": "Unknown",
+        "is_verified": false
+      }
+    },
+    {
       "tokenId": "ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac044494e47",
       "name": "DING",
       "volumeInAda": 80,
@@ -2989,84 +2891,17 @@
       }
     },
     {
-      "tokenId": "7b142c34a0bf2f57334e27006c634c007e887aa9149bf576df88f4a9506f7765724675656c",
-      "name": "PowerFuel",
-      "volumeInAda": 79.769638,
-      "volumeInToken": 31122260,
+      "tokenId": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa566f6964",
+      "name": "VOID",
+      "volumeInAda": 77.085615,
+      "volumeInToken": 22352,
       "orderCount": 2,
       "tokenInfo": {
-        "token_id": "7b142c34a0bf2f57334e27006c634c007e887aa9149bf576df88f4a9506f7765724675656c",
+        "token_id": "e0f2699e4773e64bfd8f28c9efe9b0a305806251c58efacbe3d270fa566f6964",
         "token_decimals": 0,
-        "token_policy": "7b142c34a0bf2f57334e27006c634c007e887aa9149bf576df88f4a9",
-        "token_ascii": "PowerFuel",
-        "ticker": "PowerFuel",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-12T19:12:57Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "816afbd76ab300348df78478bb7977f5bc7444564247d6ad561d303b0014df1050524f5045525459434f494e",
-      "name": "Unknown",
-      "volumeInAda": 71.43818,
-      "volumeInToken": 26386570481392,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "816afbd76ab300348df78478bb7977f5bc7444564247d6ad561d303b0014df1050524f5045525459434f494e",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
-      }
-    },
-    {
-      "tokenId": "480e4d0b1c62bf0497230b6a905663a4445ca5eea9140cb067f02584546f72636879",
-      "name": "Torchy",
-      "volumeInAda": 63.378163,
-      "volumeInToken": 3503737,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "480e4d0b1c62bf0497230b6a905663a4445ca5eea9140cb067f02584546f72636879",
-        "token_decimals": 0,
-        "token_policy": "480e4d0b1c62bf0497230b6a905663a4445ca5eea9140cb067f02584",
-        "token_ascii": "Torchy",
-        "ticker": "Torchy",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-02-24T03:48:28Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "e53207a806c6879a98c86df7e298bfe4f9b1976f486cdc7aa66fcd4a50656e6775696e20546172696666",
-      "name": "Penguin Tariff",
-      "volumeInAda": 55.978625,
-      "volumeInToken": 22188576,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "e53207a806c6879a98c86df7e298bfe4f9b1976f486cdc7aa66fcd4a50656e6775696e20546172696666",
-        "token_decimals": 0,
-        "token_policy": "e53207a806c6879a98c86df7e298bfe4f9b1976f486cdc7aa66fcd4a",
-        "token_ascii": "Penguin Tariff",
-        "ticker": "Penguin Tariff",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-13T15:16:47Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
-      "name": "CLAY",
-      "volumeInAda": 53.287124,
-      "volumeInToken": 21617.5352,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535434c4159",
-        "token_decimals": 4,
-        "token_policy": "38ad9dc3aec6a2f38e220142b9aa6ade63ebe71f65e7cc2b7d8a8535",
-        "token_ascii": "CLAY",
-        "ticker": "CLAY",
+        "token_policy": "",
+        "token_ascii": "Void",
+        "ticker": "VOID",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -3074,20 +2909,38 @@
       }
     },
     {
-      "tokenId": "79945fb690608d4ff0629fb321f33ab44d224128c01f59646f4cbc7b50756c7365",
-      "name": "Pulse",
-      "volumeInAda": 51.040327,
-      "volumeInToken": 20296588,
+      "tokenId": "0290e1967f37076801c8aabafcbd48c7d1ada0459c1b8978518010cb4167656e7420536e656b",
+      "name": "AISNEK",
+      "volumeInAda": 69,
+      "volumeInToken": 1944695,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "79945fb690608d4ff0629fb321f33ab44d224128c01f59646f4cbc7b50756c7365",
+        "token_id": "0290e1967f37076801c8aabafcbd48c7d1ada0459c1b8978518010cb4167656e7420536e656b",
         "token_decimals": 0,
-        "token_policy": "79945fb690608d4ff0629fb321f33ab44d224128c01f59646f4cbc7b",
-        "token_ascii": "Pulse",
-        "ticker": "Pulse",
+        "token_policy": "0290e1967f37076801c8aabafcbd48c7d1ada0459c1b8978518010cb",
+        "token_ascii": "Agent Snek",
+        "ticker": "AISNEK",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-01-10T17:33:15Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "79a1a4cf78ae7647b4134dd87ff03e48f15ec74f3e9ea3b9651f20ac434841442057494620534e454b",
+      "name": "CHAD WIF SNEK",
+      "volumeInAda": 61.042109,
+      "volumeInToken": 13602196,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "79a1a4cf78ae7647b4134dd87ff03e48f15ec74f3e9ea3b9651f20ac434841442057494620534e454b",
+        "token_decimals": 0,
+        "token_policy": "79a1a4cf78ae7647b4134dd87ff03e48f15ec74f3e9ea3b9651f20ac",
+        "token_ascii": "CHAD WIF SNEK",
+        "ticker": "CHAD WIF SNEK",
         "is_verified": false,
         "supply": 1000000000,
-        "creation_date": "2025-04-11T06:22:30Z",
+        "creation_date": "2024-12-06T12:02:40Z",
         "price": 0
       }
     },
@@ -3128,102 +2981,53 @@
       }
     },
     {
-      "tokenId": "f16c2f5c9962a4d61db95e1902e817b8da12ee1cb6ab8e7902d0827246756e",
-      "name": "Fun",
-      "volumeInAda": 46.687704,
-      "volumeInToken": 14256569,
+      "tokenId": "a6b92cdf28af39782e8baecb712298e0bc91787375569b1f0c8fd703244353427631",
+      "name": "$CSBv1",
+      "volumeInAda": 44.1941,
+      "volumeInToken": 5357807,
       "orderCount": 2,
       "tokenInfo": {
-        "token_id": "f16c2f5c9962a4d61db95e1902e817b8da12ee1cb6ab8e7902d0827246756e",
+        "token_id": "a6b92cdf28af39782e8baecb712298e0bc91787375569b1f0c8fd703244353427631",
         "token_decimals": 0,
-        "token_policy": "f16c2f5c9962a4d61db95e1902e817b8da12ee1cb6ab8e7902d08272",
-        "token_ascii": "Fun",
-        "ticker": "Fun",
+        "token_policy": "a6b92cdf28af39782e8baecb712298e0bc91787375569b1f0c8fd703",
+        "token_ascii": "$CSBv1",
+        "ticker": "$CSBv1",
         "is_verified": false,
         "supply": 1000000000,
-        "creation_date": "2025-04-08T14:11:40Z",
+        "creation_date": "2024-09-10T17:06:15Z",
         "price": 0
       }
     },
     {
-      "tokenId": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e312444455250",
-      "name": "DERP",
-      "volumeInAda": 46.556374,
-      "volumeInToken": 1187,
+      "tokenId": "0f86bd613bc13b63b360af0cbb8073fd8b2cc7339a90f864f92b23bf53454544",
+      "name": "SEED",
+      "volumeInAda": 44.115078,
+      "volumeInToken": 9213014,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "0f86bd613bc13b63b360af0cbb8073fd8b2cc7339a90f864f92b23bf53454544",
+        "token_decimals": 0,
+        "token_policy": "0f86bd613bc13b63b360af0cbb8073fd8b2cc7339a90f864f92b23bf",
+        "token_ascii": "SEED",
+        "ticker": "SEED",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-03-27T17:04:57Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b27273425443",
+      "name": "rsBTC",
+      "volumeInAda": 36.983514,
+      "volumeInToken": 0.00027827,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e312444455250",
-        "token_decimals": 0,
-        "token_policy": "961f2cac0bb1967d74691af179350c1e1062c7298d1f7be1e4696e31",
-        "token_ascii": "Derp Utility Token",
-        "ticker": "DERP",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "e8fdfd41ce52ad724244c4d746364e366c87a3600f18789d0a65ac32444a2042454152",
-      "name": "DJ BEAR",
-      "volumeInAda": 46.110021,
-      "volumeInToken": 15675129,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "e8fdfd41ce52ad724244c4d746364e366c87a3600f18789d0a65ac32444a2042454152",
-        "token_decimals": 0,
-        "token_policy": "e8fdfd41ce52ad724244c4d746364e366c87a3600f18789d0a65ac32",
-        "token_ascii": "DJ BEAR",
-        "ticker": "DJ BEAR",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-11T14:06:12Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "a8608df12a746799565a277c8c42cea5d1ee0bc9134f60e0cc72e16f4275747446617274546f6b656e",
-      "name": "Unknown",
-      "volumeInAda": 45.225727000000006,
-      "volumeInToken": 43480776,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "a8608df12a746799565a277c8c42cea5d1ee0bc9134f60e0cc72e16f4275747446617274546f6b656e",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
-      }
-    },
-    {
-      "tokenId": "e44726409fa3dd0645c2405b790620f1e719e70efaf48bd2192d318244656d6f50656e6752657075626c6963",
-      "name": "DemoPengRepublic",
-      "volumeInAda": 43.069946,
-      "volumeInToken": 16529819,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "e44726409fa3dd0645c2405b790620f1e719e70efaf48bd2192d318244656d6f50656e6752657075626c6963",
-        "token_decimals": 0,
-        "token_policy": "e44726409fa3dd0645c2405b790620f1e719e70efaf48bd2192d3182",
-        "token_ascii": "DemoPengRepublic",
-        "ticker": "DemoPengRepublic",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-10T09:19:05Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68424f58",
-      "name": "BOX",
-      "volumeInAda": 41.740923,
-      "volumeInToken": 716416,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68424f58",
-        "token_decimals": 0,
-        "token_policy": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68",
-        "token_ascii": "BOX",
-        "ticker": "BOX",
+        "token_id": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b27273425443",
+        "token_decimals": 8,
+        "token_policy": "2dbc49f682ad21f6d18705cf446f9f7a277731ab70ae21a454f888b2",
+        "token_ascii": "rsBTC",
+        "ticker": "rsBTC",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -3298,37 +3102,19 @@
       }
     },
     {
-      "tokenId": "a44acb360e269c680cf8585831102614989c5fc78ede0d9ccf1e1115564f534b59204149",
-      "name": "VOSKY",
-      "volumeInAda": 34.324937,
-      "volumeInToken": 900000,
-      "orderCount": 1,
+      "tokenId": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
+      "name": "AXO",
+      "volumeInAda": 31.793785,
+      "volumeInToken": 624.099595715,
+      "orderCount": 3,
       "tokenInfo": {
-        "token_id": "a44acb360e269c680cf8585831102614989c5fc78ede0d9ccf1e1115564f534b59204149",
-        "token_decimals": 0,
-        "token_policy": "a44acb360e269c680cf8585831102614989c5fc78ede0d9ccf1e1115",
-        "token_ascii": "VoskyAI",
-        "ticker": "VOSKY",
+        "token_id": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
+        "token_decimals": 9,
+        "token_policy": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a44",
+        "token_ascii": "Axo Protocol",
+        "ticker": "AXO",
         "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-02-22T19:42:36Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
-      "name": "SPLASH",
-      "volumeInAda": 31.973505,
-      "volumeInToken": 230.03546699999998,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e353504c415348",
-        "token_decimals": 6,
-        "token_policy": "ececc92aeaaac1f5b665f567b01baec8bc2771804b4c21716a87a4e3",
-        "token_ascii": "Splash Protocol",
-        "ticker": "SPLASH",
-        "is_verified": true,
-        "supply": -693556724388,
+        "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
@@ -3370,35 +3156,17 @@
       }
     },
     {
-      "tokenId": "745b8b45b28fadcb50dcc1b1d7a446b23c12115dffd7c5d9821bc64b50757373794d696c6b",
-      "name": "PUSSYMILK",
-      "volumeInAda": 26.845349,
-      "volumeInToken": 337343627,
+      "tokenId": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45",
+      "name": "SMOKE",
+      "volumeInAda": 25.114484,
+      "volumeInToken": 5134600,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "745b8b45b28fadcb50dcc1b1d7a446b23c12115dffd7c5d9821bc64b50757373794d696c6b",
+        "token_id": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784534d4f4b45",
         "token_decimals": 0,
-        "token_policy": "745b8b45b28fadcb50dcc1b1d7a446b23c12115dffd7c5d9821bc64b",
-        "token_ascii": "PussyMilk",
-        "ticker": "PUSSYMILK",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "394d8a0021c8825ad9385c1112009994e37b7b53c0c406d389d452db47756d6d79",
-      "name": "GUMMY",
-      "volumeInAda": 25.143266,
-      "volumeInToken": 4250344,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "394d8a0021c8825ad9385c1112009994e37b7b53c0c406d389d452db47756d6d79",
-        "token_decimals": 0,
-        "token_policy": "394d8a0021c8825ad9385c1112009994e37b7b53c0c406d389d452db",
-        "token_ascii": "Gummy",
-        "ticker": "GUMMY",
+        "token_policy": "dd00d877798443a2de57e5bc667784168616aa8244b558743e448784",
+        "token_ascii": "SMOKE",
+        "ticker": "SMOKE",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -3424,42 +3192,6 @@
       }
     },
     {
-      "tokenId": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967574f4a414b424c5545",
-      "name": "WOJAKBLUE",
-      "volumeInAda": 25,
-      "volumeInToken": 4202316,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967574f4a414b424c5545",
-        "token_decimals": 0,
-        "token_policy": "a1b284d7218dd63772c67ca26ab73721a196b404929cddef595f9967",
-        "token_ascii": "Wojak Blue",
-        "ticker": "WOJAKBLUE",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "01bb95a10a3295c296fe0e304e975460e7d1aff1762814d30fe5f81742656172204d61726b65742042756c6c73",
-      "name": "BMB",
-      "volumeInAda": 24.405398,
-      "volumeInToken": 30000000,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "01bb95a10a3295c296fe0e304e975460e7d1aff1762814d30fe5f81742656172204d61726b65742042756c6c73",
-        "token_decimals": 1,
-        "token_policy": "01bb95a10a3295c296fe0e304e975460e7d1aff1762814d30fe5f817",
-        "token_ascii": "Bear Market Bulls",
-        "ticker": "BMB",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "aefde80544848c93b42536435fd19d12a5362e0f5d738bcc509f5f5c446550696e",
       "name": "DePin",
       "volumeInAda": 24.25,
@@ -3474,6 +3206,24 @@
         "is_verified": false,
         "supply": 1000000000,
         "creation_date": "2024-09-23T20:45:44Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "52419331e752bc3a7c6ee74d76f1169df1535d77d07da382c62b0bab435342",
+      "name": "CSB",
+      "volumeInAda": 24.134495,
+      "volumeInToken": 9192721,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "52419331e752bc3a7c6ee74d76f1169df1535d77d07da382c62b0bab435342",
+        "token_decimals": 0,
+        "token_policy": "52419331e752bc3a7c6ee74d76f1169df1535d77d07da382c62b0bab",
+        "token_ascii": "CSB",
+        "ticker": "CSB",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-01-01T17:48:03Z",
         "price": 0
       }
     },
@@ -3496,20 +3246,20 @@
       }
     },
     {
-      "tokenId": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b4154484f4d",
-      "name": "ATH",
-      "volumeInAda": 22.976078,
-      "volumeInToken": 24918225543541504,
-      "orderCount": 2,
+      "tokenId": "03cf92d1217f976e3ca67bef832a4214249492fbc7278329d273b83e456d626572",
+      "name": "Ember",
+      "volumeInAda": 22.215571,
+      "volumeInToken": 6705325,
+      "orderCount": 1,
       "tokenInfo": {
-        "token_id": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b4154484f4d",
+        "token_id": "03cf92d1217f976e3ca67bef832a4214249492fbc7278329d273b83e456d626572",
         "token_decimals": 0,
-        "token_policy": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b",
-        "token_ascii": "ATHOM",
-        "ticker": "ATH",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "token_policy": "03cf92d1217f976e3ca67bef832a4214249492fbc7278329d273b83e",
+        "token_ascii": "Ember",
+        "ticker": "Ember",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-13T09:39:09Z",
         "price": 0
       }
     },
@@ -3532,78 +3282,6 @@
       }
     },
     {
-      "tokenId": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b09233414245415244",
-      "name": "BEARD",
-      "volumeInAda": 21.105646999999998,
-      "volumeInToken": 1800000,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b09233414245415244",
-        "token_decimals": 0,
-        "token_policy": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b0923341",
-        "token_ascii": "BEARD",
-        "ticker": "BEARD",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "a6b92cdf28af39782e8baecb712298e0bc91787375569b1f0c8fd703244353427631",
-      "name": "$CSBv1",
-      "volumeInAda": 20.1941,
-      "volumeInToken": 2338219,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "a6b92cdf28af39782e8baecb712298e0bc91787375569b1f0c8fd703244353427631",
-        "token_decimals": 0,
-        "token_policy": "a6b92cdf28af39782e8baecb712298e0bc91787375569b1f0c8fd703",
-        "token_ascii": "$CSBv1",
-        "ticker": "$CSBv1",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2024-09-10T17:06:15Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "c2134ced1bb68d1127207f978268d8e1fc7d072bde736a51a933a87942756c6c646f676520746f6b656e",
-      "name": "BDOGE",
-      "volumeInAda": 20,
-      "volumeInToken": 1003545,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "c2134ced1bb68d1127207f978268d8e1fc7d072bde736a51a933a87942756c6c646f676520746f6b656e",
-        "token_decimals": 0,
-        "token_policy": "c2134ced1bb68d1127207f978268d8e1fc7d072bde736a51a933a879",
-        "token_ascii": "Bulldoge Token",
-        "ticker": "BDOGE",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-01-15T19:59:56Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "b3bd74dd43f83815519e387bdffd1cb9be411df8f2774f48e0fd3669534e455045",
-      "name": "SNEPE",
-      "volumeInAda": 19.303312,
-      "volumeInToken": 274324627,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "b3bd74dd43f83815519e387bdffd1cb9be411df8f2774f48e0fd3669534e455045",
-        "token_decimals": 0,
-        "token_policy": "b3bd74dd43f83815519e387bdffd1cb9be411df8f2774f48e0fd3669",
-        "token_ascii": "SNEPE",
-        "ticker": "SNEPE",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "58ddcc8e10148e945987083b2c45357a17dbed10b280299f0d140263506169626c6f",
       "name": "Paiblo",
       "volumeInAda": 19.263043,
@@ -3618,6 +3296,24 @@
         "is_verified": false,
         "supply": 1000000000,
         "creation_date": "2025-03-05T20:07:52Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "797e54149886d5aa8106e1065ae0b97e4be87e77a0ee05030a3f97ca486f736b696c69656e",
+      "name": "HSKN",
+      "volumeInAda": 17.664877,
+      "volumeInToken": 70000,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "797e54149886d5aa8106e1065ae0b97e4be87e77a0ee05030a3f97ca486f736b696c69656e",
+        "token_decimals": 0,
+        "token_policy": "797e54149886d5aa8106e1065ae0b97e4be87e77a0ee05030a3f97ca",
+        "token_ascii": "Hoskillien",
+        "ticker": "HSKN",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2024-12-02T00:50:27Z",
         "price": 0
       }
     },
@@ -3640,56 +3336,20 @@
       }
     },
     {
-      "tokenId": "de27f9eb9ed6f011e30a56dbe09d982c9facde3a37efd92f4dfac015446f6e616c644a5472756d70",
-      "name": "DonaldJTrump",
-      "volumeInAda": 16.431383,
-      "volumeInToken": 37819892,
+      "tokenId": "e44726409fa3dd0645c2405b790620f1e719e70efaf48bd2192d318244656d6f50656e6752657075626c6963",
+      "name": "DemoPengRepublic",
+      "volumeInAda": 15.979152,
+      "volumeInToken": 6279849,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "de27f9eb9ed6f011e30a56dbe09d982c9facde3a37efd92f4dfac015446f6e616c644a5472756d70",
+        "token_id": "e44726409fa3dd0645c2405b790620f1e719e70efaf48bd2192d318244656d6f50656e6752657075626c6963",
         "token_decimals": 0,
-        "token_policy": "de27f9eb9ed6f011e30a56dbe09d982c9facde3a37efd92f4dfac015",
-        "token_ascii": "DonaldJTrump",
-        "ticker": "DonaldJTrump",
-        "is_verified": false,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "a9ca6b1beedaa3a2f42ce5596f088571fd0bf53b8659a9d7a5f0bc6744616f2044616f",
-      "name": "Dao Dao",
-      "volumeInAda": 15,
-      "volumeInToken": 5087107,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "a9ca6b1beedaa3a2f42ce5596f088571fd0bf53b8659a9d7a5f0bc6744616f2044616f",
-        "token_decimals": 0,
-        "token_policy": "a9ca6b1beedaa3a2f42ce5596f088571fd0bf53b8659a9d7a5f0bc67",
-        "token_ascii": "Dao Dao",
-        "ticker": "Dao Dao",
+        "token_policy": "e44726409fa3dd0645c2405b790620f1e719e70efaf48bd2192d3182",
+        "token_ascii": "DemoPengRepublic",
+        "ticker": "DemoPengRepublic",
         "is_verified": false,
         "supply": 1000000000,
-        "creation_date": "2025-04-09T15:21:13Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
-      "name": "AXO",
-      "volumeInAda": 14.68989,
-      "volumeInToken": 260.479868548,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a4441584f",
-        "token_decimals": 9,
-        "token_policy": "420000029ad9527271b1b1e3c27ee065c18df70a4a4cfc3093a41a44",
-        "token_ascii": "Axo Protocol",
-        "ticker": "AXO",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "creation_date": "2025-04-10T09:19:05Z",
         "price": 0
       }
     },
@@ -3712,42 +3372,6 @@
       }
     },
     {
-      "tokenId": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a634e455441",
-      "name": "cNETA",
-      "volumeInAda": 13.94039,
-      "volumeInToken": 50162,
-      "orderCount": 3,
-      "tokenInfo": {
-        "token_id": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a634e455441",
-        "token_decimals": 0,
-        "token_policy": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a",
-        "token_ascii": "anetaBTC",
-        "ticker": "cNETA",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "11ec207b1a3269f225540f222cc660ea0f7b2c0d2af95f131e624254577261707065642043686164",
-      "name": "Wrapped Chad",
-      "volumeInAda": 13.409844,
-      "volumeInToken": 5517675,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "11ec207b1a3269f225540f222cc660ea0f7b2c0d2af95f131e624254577261707065642043686164",
-        "token_decimals": 0,
-        "token_policy": "11ec207b1a3269f225540f222cc660ea0f7b2c0d2af95f131e624254",
-        "token_ascii": "Wrapped Chad",
-        "ticker": "Wrapped Chad",
-        "is_verified": false,
-        "supply": 1000000000,
-        "creation_date": "2025-04-11T08:11:44Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "26133a45038c2d4f76484888365a6ab01b5940262d2ee9339aa54ae8576f6f6c6c79204d696365",
       "name": "Woolly Mice",
       "volumeInAda": 13.292415,
@@ -3766,6 +3390,96 @@
       }
     },
     {
+      "tokenId": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a634e455441",
+      "name": "cNETA",
+      "volumeInAda": 13.177949,
+      "volumeInToken": 50000,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a634e455441",
+        "token_decimals": 0,
+        "token_policy": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a",
+        "token_ascii": "anetaBTC",
+        "ticker": "cNETA",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "7b142c34a0bf2f57334e27006c634c007e887aa9149bf576df88f4a9506f7765724675656c",
+      "name": "PowerFuel",
+      "volumeInAda": 13,
+      "volumeInToken": 5034071,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "7b142c34a0bf2f57334e27006c634c007e887aa9149bf576df88f4a9506f7765724675656c",
+        "token_decimals": 0,
+        "token_policy": "7b142c34a0bf2f57334e27006c634c007e887aa9149bf576df88f4a9",
+        "token_ascii": "PowerFuel",
+        "ticker": "PowerFuel",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-12T19:12:57Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "f16c2f5c9962a4d61db95e1902e817b8da12ee1cb6ab8e7902d0827246756e",
+      "name": "Fun",
+      "volumeInAda": 12.805195,
+      "volumeInToken": 4118723,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "f16c2f5c9962a4d61db95e1902e817b8da12ee1cb6ab8e7902d0827246756e",
+        "token_decimals": 0,
+        "token_policy": "f16c2f5c9962a4d61db95e1902e817b8da12ee1cb6ab8e7902d08272",
+        "token_ascii": "Fun",
+        "ticker": "Fun",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-08T14:11:40Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b09233414245415244",
+      "name": "BEARD",
+      "volumeInAda": 11.814522,
+      "volumeInToken": 1000000,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b09233414245415244",
+        "token_decimals": 0,
+        "token_policy": "8d7526784ef72fe0ccdd085976ada0da88e7fb013e38e794b0923341",
+        "token_ascii": "BEARD",
+        "ticker": "BEARD",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f645045525020434f494e",
+      "name": "PERP",
+      "volumeInAda": 11.062059,
+      "volumeInToken": 40070,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f645045525020434f494e",
+        "token_decimals": 0,
+        "token_policy": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f64",
+        "token_ascii": "Perp Coin",
+        "ticker": "PERP",
+        "is_verified": true,
+        "supply": 1000000000,
+        "creation_date": "2025-01-13T23:55:11Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "def41fe7c12b1761841e4e0574a880d6b3a56876a3cbfab94260d831574f4f4c59204d494345",
       "name": "WOOLY",
       "volumeInAda": 10.720495,
@@ -3780,6 +3494,42 @@
         "is_verified": true,
         "supply": 1000000000,
         "creation_date": "2025-03-04T15:32:52Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a14e4154494f4e",
+      "name": "NATION",
+      "volumeInAda": 10.515051,
+      "volumeInToken": 11100.003675,
+      "orderCount": 2,
+      "tokenInfo": {
+        "token_id": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a14e4154494f4e",
+        "token_decimals": 6,
+        "token_policy": "cf5d945ad03a11c46e70a85daa8598b2275f9442ceed1249754ad9a1",
+        "token_ascii": "NATION",
+        "ticker": "NATION",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "82dd1d2447658f7a4765f11accb9c5f6da1283cd718d2e0001a28b0b50554d50414a",
+      "name": "PUMPAJ",
+      "volumeInAda": 10,
+      "volumeInToken": 3888315,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "82dd1d2447658f7a4765f11accb9c5f6da1283cd718d2e0001a28b0b50554d50414a",
+        "token_decimals": 0,
+        "token_policy": "82dd1d2447658f7a4765f11accb9c5f6da1283cd718d2e0001a28b0b",
+        "token_ascii": "PUMPAJ",
+        "ticker": "PUMPAJ",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-03-09T21:34:23Z",
         "price": 0
       }
     },
@@ -3874,6 +3624,24 @@
       }
     },
     {
+      "tokenId": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b4154484f4d",
+      "name": "ATH",
+      "volumeInAda": 9,
+      "volumeInToken": 9863479481714504,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b4154484f4d",
+        "token_decimals": 0,
+        "token_policy": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b",
+        "token_ascii": "ATHOM",
+        "ticker": "ATH",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "3285c7328f24872b0337ef2a03a9dde280c1c8f292104c84653256284368696c6c477579436861726c6573",
       "name": "ChillGuyCharles",
       "volumeInAda": 8.567675,
@@ -3888,6 +3656,42 @@
         "is_verified": false,
         "supply": 1000000000,
         "creation_date": "2024-11-28T14:57:17Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb436861726c65737352616e6368",
+      "name": "RANCH",
+      "volumeInAda": 7.991486,
+      "volumeInToken": 588131,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb436861726c65737352616e6368",
+        "token_decimals": 0,
+        "token_policy": "bb5a7d8e8667d05b25d609b313364bcd9814d95b2eb21be501eaeedb",
+        "token_ascii": "Charles Ranch",
+        "ticker": "RANCH",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477424c43",
+      "name": "BLC",
+      "volumeInAda": 7.9,
+      "volumeInToken": 6696.327521,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477424c43",
+        "token_decimals": 6,
+        "token_policy": "585cfcbdd0786e961187999e5d5d36b38d1ebc1c4112a0a95a8bd477",
+        "token_ascii": "Ibilecoin",
+        "ticker": "BLC",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
         "price": 0
       }
     },
@@ -3928,29 +3732,39 @@
       }
     },
     {
-      "tokenId": "0e5d558fdbf7f703fbe6a9b3cbb73f34ce6f151cba3f7971f687bfc20014df1041504558",
-      "name": "Unknown",
-      "volumeInAda": 5,
-      "volumeInToken": 27008093833864,
+      "tokenId": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68424f58",
+      "name": "BOX",
+      "volumeInAda": 5.740923,
+      "volumeInToken": 100000,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "0e5d558fdbf7f703fbe6a9b3cbb73f34ce6f151cba3f7971f687bfc20014df1041504558",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
+        "token_id": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68424f58",
+        "token_decimals": 0,
+        "token_policy": "f9a491442678bb2f90a3be676d1f888ce87330003ab7151f9efb3b68",
+        "token_ascii": "BOX",
+        "ticker": "BOX",
+        "is_verified": true,
+        "supply": 0,
+        "creation_date": "0001-01-01T00:00:00Z",
+        "price": 0
       }
     },
     {
-      "tokenId": "2afb448ef716bfbed1dcb676102194c3009bee5399e93b90def9db6a4249534f4e",
-      "name": "Unknown",
+      "tokenId": "711f28d5bc6044cc656ea1c442cf89fe443fd45fe412952e9542a24f6d617863",
+      "name": "maxc",
       "volumeInAda": 5,
-      "volumeInToken": 107756303429,
+      "volumeInToken": 1809312,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "2afb448ef716bfbed1dcb676102194c3009bee5399e93b90def9db6a4249534f4e",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
+        "token_id": "711f28d5bc6044cc656ea1c442cf89fe443fd45fe412952e9542a24f6d617863",
+        "token_decimals": 0,
+        "token_policy": "711f28d5bc6044cc656ea1c442cf89fe443fd45fe412952e9542a24f",
+        "token_ascii": "maxc",
+        "ticker": "maxc",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-12T12:15:15Z",
+        "price": 0
       }
     },
     {
@@ -3972,38 +3786,110 @@
       }
     },
     {
-      "tokenId": "52419331e752bc3a7c6ee74d76f1169df1535d77d07da382c62b0bab435342",
-      "name": "CSB",
-      "volumeInAda": 4.134495,
-      "volumeInToken": 1788747,
+      "tokenId": "c8a6024843e54819a0ee7986bc669981819d051f711476aad1251ef74f542053747564696f73",
+      "name": "OT Studios",
+      "volumeInAda": 3,
+      "volumeInToken": 1166700,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "52419331e752bc3a7c6ee74d76f1169df1535d77d07da382c62b0bab435342",
+        "token_id": "c8a6024843e54819a0ee7986bc669981819d051f711476aad1251ef74f542053747564696f73",
         "token_decimals": 0,
-        "token_policy": "52419331e752bc3a7c6ee74d76f1169df1535d77d07da382c62b0bab",
-        "token_ascii": "CSB",
-        "ticker": "CSB",
-        "is_verified": true,
+        "token_policy": "c8a6024843e54819a0ee7986bc669981819d051f711476aad1251ef7",
+        "token_ascii": "OT Studios",
+        "ticker": "OT Studios",
+        "is_verified": false,
         "supply": 1000000000,
-        "creation_date": "2025-01-01T17:48:03Z",
+        "creation_date": "2025-04-11T23:35:23Z",
         "price": 0
       }
     },
     {
-      "tokenId": "f9df19feef0d3dbeac7dbe6130bd64dde9634324151af4657c49c9765468654e696b65536f6369657479",
-      "name": "TheNikeSociety",
-      "volumeInAda": 3.9791939999999997,
-      "volumeInToken": 17874565542,
+      "tokenId": "9b980ada7a4f09ba32c34e1214268ecc1c9bbf56d076b1d4b246abdf544152494646",
+      "name": "TARIFF",
+      "volumeInAda": 3,
+      "volumeInToken": 1164508,
       "orderCount": 1,
       "tokenInfo": {
-        "token_id": "f9df19feef0d3dbeac7dbe6130bd64dde9634324151af4657c49c9765468654e696b65536f6369657479",
+        "token_id": "9b980ada7a4f09ba32c34e1214268ecc1c9bbf56d076b1d4b246abdf544152494646",
         "token_decimals": 0,
-        "token_policy": "f9df19feef0d3dbeac7dbe6130bd64dde9634324151af4657c49c976",
-        "token_ascii": "TheNikeSociety",
-        "ticker": "TheNikeSociety",
+        "token_policy": "9b980ada7a4f09ba32c34e1214268ecc1c9bbf56d076b1d4b246abdf",
+        "token_ascii": "TARIFF",
+        "ticker": "TARIFF",
         "is_verified": false,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
+        "supply": 1000000000,
+        "creation_date": "2025-04-12T07:33:15Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "a78ecc33002a73fff42076935a4d74f983a70d0b9982e75163e2fcd55472616465204149",
+      "name": "Trade AI",
+      "volumeInAda": 3,
+      "volumeInToken": 1166874,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "a78ecc33002a73fff42076935a4d74f983a70d0b9982e75163e2fcd55472616465204149",
+        "token_decimals": 0,
+        "token_policy": "a78ecc33002a73fff42076935a4d74f983a70d0b9982e75163e2fcd5",
+        "token_ascii": "Trade AI",
+        "ticker": "Trade AI",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-12T14:57:03Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "8b35753b85768f2e286ea4f53496017255d5e898393620dc11f05ee04441524b2045434c49505345",
+      "name": "DARK ECLIPSE",
+      "volumeInAda": 3,
+      "volumeInToken": 1166885,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "8b35753b85768f2e286ea4f53496017255d5e898393620dc11f05ee04441524b2045434c49505345",
+        "token_decimals": 0,
+        "token_policy": "8b35753b85768f2e286ea4f53496017255d5e898393620dc11f05ee0",
+        "token_ascii": "DARK ECLIPSE",
+        "ticker": "DARK ECLIPSE",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-12T15:32:30Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "e8fdfd41ce52ad724244c4d746364e366c87a3600f18789d0a65ac32444a2042454152",
+      "name": "DJ BEAR",
+      "volumeInAda": 3,
+      "volumeInToken": 1015900,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "e8fdfd41ce52ad724244c4d746364e366c87a3600f18789d0a65ac32444a2042454152",
+        "token_decimals": 0,
+        "token_policy": "e8fdfd41ce52ad724244c4d746364e366c87a3600f18789d0a65ac32",
+        "token_ascii": "DJ BEAR",
+        "ticker": "DJ BEAR",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-11T14:06:12Z",
+        "price": 0
+      }
+    },
+    {
+      "tokenId": "92fd3efd6f561227ccb7751f73f5290eb2c70df4f5f1196a20ec766d436865657365627572676572",
+      "name": "Cheeseburger",
+      "volumeInAda": 3,
+      "volumeInToken": 1162924,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "92fd3efd6f561227ccb7751f73f5290eb2c70df4f5f1196a20ec766d436865657365627572676572",
+        "token_decimals": 0,
+        "token_policy": "92fd3efd6f561227ccb7751f73f5290eb2c70df4f5f1196a20ec766d",
+        "token_ascii": "Cheeseburger",
+        "ticker": "Cheeseburger",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-13T20:29:01Z",
         "price": 0
       }
     },
@@ -4044,42 +3930,6 @@
       }
     },
     {
-      "tokenId": "16eda0e9007468496f824d4836aa3a6daad90cbec3728542fc434cc824474f524420",
-      "name": "GORD",
-      "volumeInAda": 2.347917,
-      "volumeInToken": 42721,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "16eda0e9007468496f824d4836aa3a6daad90cbec3728542fc434cc824474f524420",
-        "token_decimals": 0,
-        "token_policy": "16eda0e9007468496f824d4836aa3a6daad90cbec3728542fc434cc8",
-        "token_ascii": "Gord",
-        "ticker": "GORD",
-        "is_verified": true,
-        "supply": 1000000000,
-        "creation_date": "2025-01-10T12:54:55Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b63544f5349",
-      "name": "cTOSI",
-      "volumeInAda": 2.169021,
-      "volumeInToken": 12054,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b63544f5349",
-        "token_decimals": 0,
-        "token_policy": "a8a1dccea2e378081f2d500d98d022dd3c0bd77afd9dbc7b55a9d21b",
-        "token_ascii": "TOSI",
-        "ticker": "cTOSI",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "a8d877eb7346e1da25703f69888888d55b03223f76bf53968d42815b444f4e5554",
       "name": "DONUT",
       "volumeInAda": 2.084188,
@@ -4098,9 +3948,27 @@
       }
     },
     {
+      "tokenId": "3a65111567e6da251dcc2b2b205c5f534eebc7efe12a8f5ba298269b6d696e696e67207665727365",
+      "name": "mining verse",
+      "volumeInAda": 2,
+      "volumeInToken": 775597,
+      "orderCount": 1,
+      "tokenInfo": {
+        "token_id": "3a65111567e6da251dcc2b2b205c5f534eebc7efe12a8f5ba298269b6d696e696e67207665727365",
+        "token_decimals": 0,
+        "token_policy": "3a65111567e6da251dcc2b2b205c5f534eebc7efe12a8f5ba298269b",
+        "token_ascii": "mining verse",
+        "ticker": "mining verse",
+        "is_verified": false,
+        "supply": 1000000000,
+        "creation_date": "2025-04-13T01:23:28Z",
+        "price": 0
+      }
+    },
+    {
       "tokenId": "92776616f1f32c65a173392e4410a3d8c39dcf6ef768c73af164779c4d79555344",
       "name": "MyUSD",
-      "volumeInAda": 1.8165939999999998,
+      "volumeInAda": 1.8165689999999999,
       "volumeInToken": 1,
       "orderCount": 1,
       "tokenInfo": {
@@ -4152,37 +4020,6 @@
       }
     },
     {
-      "tokenId": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93544454741",
-      "name": "DEGA",
-      "volumeInAda": 1,
-      "volumeInToken": 24956.88239013,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93544454741",
-        "token_decimals": 8,
-        "token_policy": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff935",
-        "token_ascii": "DEGA",
-        "ticker": "DEGA",
-        "is_verified": true,
-        "supply": 212453376598197340,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb243561646f736961",
-      "name": "Unknown",
-      "volumeInAda": 0.8916979999999999,
-      "volumeInToken": 30316793863,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "5ad8deb64bfec21ad2d96e1270b5873d0c4d0f231b928b4c39eb243561646f736961",
-        "token_ascii": "Unknown",
-        "ticker": "Unknown",
-        "is_verified": false
-      }
-    },
-    {
       "tokenId": "48f69a80dcca7bee58431b8b749faca98700ca456056d153fbea4eb24f4d4e49",
       "name": "OMNI",
       "volumeInAda": 0.7220979999999999,
@@ -4201,24 +4038,6 @@
       }
     },
     {
-      "tokenId": "7bf18ff8bbc7cd4adbf4a31828fc3ada26fe40f52de27394ec36b03e4f544b2052756d",
-      "name": "RUM",
-      "volumeInAda": 0.6455190000000002,
-      "volumeInToken": 386.917,
-      "orderCount": 1,
-      "tokenInfo": {
-        "token_id": "7bf18ff8bbc7cd4adbf4a31828fc3ada26fe40f52de27394ec36b03e4f544b2052756d",
-        "token_decimals": 3,
-        "token_policy": "7bf18ff8bbc7cd4adbf4a31828fc3ada26fe40f52de27394ec36b03e",
-        "token_ascii": "OTK Rum Token",
-        "ticker": "RUM",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
       "tokenId": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
       "name": "MELD",
       "volumeInAda": 0.4457070000000001,
@@ -4230,24 +4049,6 @@
         "token_policy": "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d10",
         "token_ascii": "MELD",
         "ticker": "MELD",
-        "is_verified": true,
-        "supply": 0,
-        "creation_date": "0001-01-01T00:00:00Z",
-        "price": 0
-      }
-    },
-    {
-      "tokenId": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed524154",
-      "name": "RAT",
-      "volumeInAda": 0.28010800000000025,
-      "volumeInToken": 1133.1182370000001,
-      "orderCount": 2,
-      "tokenInfo": {
-        "token_id": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed524154",
-        "token_decimals": 6,
-        "token_policy": "d5dec6074942b36b50975294fd801f7f28c907476b1ecc1b57c916ed",
-        "token_ascii": "RAT",
-        "ticker": "RAT",
         "is_verified": true,
         "supply": 0,
         "creation_date": "0001-01-01T00:00:00Z",
@@ -4276,8 +4077,8 @@
       "tokenId": "000000000000000000000000000000000000000000000000000000006c6f76656c616365",
       "name": "ADA",
       "volumeInAda": 0,
-      "volumeInToken": 1388545.59192,
-      "orderCount": 3542,
+      "volumeInToken": 1294884.3327269992,
+      "orderCount": 3200,
       "tokenInfo": {
         "token_id": "000000000000000000000000000000000000000000000000000000006c6f76656c616365",
         "token_ascii": "Cardano",
