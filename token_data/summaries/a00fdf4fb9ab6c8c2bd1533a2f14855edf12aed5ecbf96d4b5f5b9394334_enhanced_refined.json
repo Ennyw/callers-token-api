@@ -2,9 +2,9 @@
   "token_id": "a00fdf4fb9ab6c8c2bd1533a2f14855edf12aed5ecbf96d4b5f5b9394334",
   "ticker": "C4",
   "token_ascii": "Cardano Crocs Club Coin",
-  "market_cap": 321965.63240505557,
-  "price": 0.00019285978778578558,
-  "liquidity": 64304.172445,
+  "market_cap": 355113.35370533424,
+  "price": 0.00021271551725541866,
+  "liquidity": 67549.37712499998,
   "circulating_supply": 1669428532,
   "outliers_filtered": false,
   "pool_count": 5,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "5.01",
+  "mcap_liquidity_ratio": "5.26",
   "token_age": 739354,
   "trust_assessment": {
     "score": 135,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:58:21.120Z"
+  "updated_at": "2025-04-14T15:58:25.747Z"
 }

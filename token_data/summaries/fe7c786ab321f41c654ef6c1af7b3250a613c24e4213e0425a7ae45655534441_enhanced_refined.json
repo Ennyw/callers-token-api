@@ -2,9 +2,9 @@
   "token_id": "fe7c786ab321f41c654ef6c1af7b3250a613c24e4213e0425a7ae45655534441",
   "ticker": "USDA",
   "token_ascii": "Anzens USD",
-  "market_cap": 10919185.334080558,
-  "price": 1.4988929745299726,
-  "liquidity": 6658882.598448,
+  "market_cap": 11052062.063271124,
+  "price": 1.517133162764586,
+  "liquidity": 6699326.626239,
   "circulating_supply": 7284833.22,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "1.64",
+  "mcap_liquidity_ratio": "1.65",
   "token_age": 87,
   "trust_assessment": {
     "score": 85,
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:51.598Z"
+  "updated_at": "2025-04-14T15:59:57.055Z"
 }

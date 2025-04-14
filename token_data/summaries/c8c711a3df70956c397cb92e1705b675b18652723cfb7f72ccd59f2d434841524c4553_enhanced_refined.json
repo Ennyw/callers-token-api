@@ -2,9 +2,9 @@
   "token_id": "c8c711a3df70956c397cb92e1705b675b18652723cfb7f72ccd59f2d434841524c4553",
   "ticker": "CHARLES",
   "token_ascii": "Charles Media Token",
-  "market_cap": 1055623.7528660812,
-  "price": 0.035145287598280193,
-  "liquidity": 162423.147321,
+  "market_cap": 1054592.274689798,
+  "price": 0.03511094619864951,
+  "liquidity": 162264.477798,
   "circulating_supply": 30035997,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:58:58.123Z"
+  "updated_at": "2025-04-14T15:59:02.934Z"
 }

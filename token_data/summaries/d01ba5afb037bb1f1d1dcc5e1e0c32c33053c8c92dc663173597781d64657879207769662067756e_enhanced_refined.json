@@ -13,7 +13,7 @@
   "suspicious_liquidity": false,
   "price_from_average_price": false,
   "mcap_liquidity_ratio": "0.13",
-  "token_age": 138,
+  "token_age": 139,
   "trust_assessment": {
     "score": 95,
     "level": "High",
@@ -36,5 +36,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:03.884Z"
+  "updated_at": "2025-04-14T15:59:08.475Z"
 }

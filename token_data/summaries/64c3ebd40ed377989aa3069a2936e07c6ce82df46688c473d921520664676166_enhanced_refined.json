@@ -2,14 +2,14 @@
   "token_id": "64c3ebd40ed377989aa3069a2936e07c6ce82df46688c473d921520664676166",
   "ticker": "DGAF",
   "token_ascii": "DGAF",
-  "market_cap": 12278.246290266505,
-  "price": 7.377050908149166e-7,
-  "liquidity": 1011.377209,
+  "market_cap": 12209.530005787297,
+  "price": 7.335764594384323e-7,
+  "liquidity": 1010.1850019999999,
   "circulating_supply": 16643841073,
   "outliers_filtered": true,
   "pool_count": 2,
   "median_used": true,
-  "mcap_liquidity_ratio": "12.14",
+  "mcap_liquidity_ratio": "12.09",
   "token_age": 739354,
   "trust_assessment": {
     "score": 105,
@@ -33,5 +33,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:57:16.250Z"
+  "updated_at": "2025-04-14T15:57:19.683Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
   "ticker": "SNEK",
   "token_ascii": "Snek",
-  "market_cap": 318037847.866882,
-  "price": 0.004272634671331948,
-  "liquidity": 6740239.651345998,
+  "market_cap": 317773058.5434207,
+  "price": 0.004269077396461654,
+  "liquidity": 6737827.292389999,
   "circulating_supply": 74436003153,
   "outliers_filtered": false,
   "pool_count": 9,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "47.18",
+  "mcap_liquidity_ratio": "47.16",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:56:10.623Z"
+  "updated_at": "2025-04-14T15:56:14.350Z"
 }

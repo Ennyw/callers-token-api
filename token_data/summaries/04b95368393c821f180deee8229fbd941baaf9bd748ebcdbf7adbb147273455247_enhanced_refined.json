@@ -2,9 +2,9 @@
   "token_id": "04b95368393c821f180deee8229fbd941baaf9bd748ebcdbf7adbb147273455247",
   "ticker": "rsERG",
   "token_ascii": "rsERG",
-  "market_cap": 4623433.317783083,
-  "price": 1.2784994132806773,
-  "liquidity": 830225.300612,
+  "market_cap": 4623385.801667829,
+  "price": 1.278486273840504,
+  "liquidity": 830221.18438,
   "circulating_supply": 3616296.784931,
   "outliers_filtered": false,
   "pool_count": 5,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:55:42.235Z"
+  "updated_at": "2025-04-14T15:55:46.053Z"
 }

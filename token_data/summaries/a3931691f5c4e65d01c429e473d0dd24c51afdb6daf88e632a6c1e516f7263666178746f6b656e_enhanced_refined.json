@@ -2,9 +2,9 @@
   "token_id": "a3931691f5c4e65d01c429e473d0dd24c51afdb6daf88e632a6c1e516f7263666178746f6b656e",
   "ticker": "FACT",
   "token_ascii": "Orcfax Token",
-  "market_cap": 2494325.3132010815,
-  "price": 0.006774957938681754,
-  "liquidity": 371997.749675,
+  "market_cap": 2498045.1502334108,
+  "price": 0.006785061568428606,
+  "liquidity": 372277.98637000006,
   "circulating_supply": 368168383.593894,
   "outliers_filtered": false,
   "pool_count": 6,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:58:23.922Z"
+  "updated_at": "2025-04-14T15:58:28.508Z"
 }

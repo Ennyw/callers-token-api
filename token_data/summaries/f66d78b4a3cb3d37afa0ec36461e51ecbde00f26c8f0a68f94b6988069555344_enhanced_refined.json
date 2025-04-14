@@ -2,9 +2,9 @@
   "token_id": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
   "ticker": "iUSD",
   "token_ascii": "iUSD",
-  "market_cap": 11888617.296270702,
-  "price": 1.5439887562460488,
-  "liquidity": 2903606.652745,
+  "market_cap": 12083402.101910807,
+  "price": 1.5692856887909492,
+  "liquidity": 2927321.0688940007,
   "circulating_supply": 7699937.741241,
   "outliers_filtered": false,
   "pool_count": 8,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "4.09",
+  "mcap_liquidity_ratio": "4.13",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:43.355Z"
+  "updated_at": "2025-04-14T15:59:48.557Z"
 }

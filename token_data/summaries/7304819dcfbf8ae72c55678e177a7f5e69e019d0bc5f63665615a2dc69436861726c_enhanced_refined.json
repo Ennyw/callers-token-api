@@ -2,9 +2,9 @@
   "token_id": "7304819dcfbf8ae72c55678e177a7f5e69e019d0bc5f63665615a2dc69436861726c",
   "ticker": "ICHARL",
   "token_ascii": "iCharl",
-  "market_cap": 168.60157415042272,
-  "price": 1.6860157415042273e-7,
-  "liquidity": 3067.098676,
+  "market_cap": 157.989416977253,
+  "price": 1.5798941697725299e-7,
+  "liquidity": 2874.04868,
   "circulating_supply": 0,
   "outliers_filtered": true,
   "pool_count": 1,
@@ -33,5 +33,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:57:27.492Z"
+  "updated_at": "2025-04-14T15:57:31.201Z"
 }

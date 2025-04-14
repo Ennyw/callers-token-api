@@ -2,9 +2,9 @@
   "token_id": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc53541474958",
   "ticker": "AGIX",
   "token_ascii": "SingularityNet AGIX Token",
-  "market_cap": 109429281.08206318,
-  "price": 0.35008380586656374,
-  "liquidity": 534808.848552,
+  "market_cap": 109418208.43240729,
+  "price": 0.3500483824835877,
+  "liquidity": 534781.6269650001,
   "circulating_supply": 312580242.925526,
   "outliers_filtered": false,
   "pool_count": 8,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "204.61",
+  "mcap_liquidity_ratio": "204.60",
   "token_age": 739354,
   "trust_assessment": {
     "score": 80,
@@ -23,7 +23,7 @@
         "points": -25
       },
       {
-        "reason": "Potential price manipulation (204.61:1 MCap/Liquidity ratio)",
+        "reason": "Potential price manipulation (204.60:1 MCap/Liquidity ratio)",
         "points": -40
       }
     ],
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:40.544Z"
+  "updated_at": "2025-04-14T15:59:45.704Z"
 }

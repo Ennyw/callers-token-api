@@ -2,9 +2,9 @@
   "token_id": "354a6c0acd846b195768ead31c92693ad26d82ba013e7df5d9777081514149",
   "ticker": "QAI",
   "token_ascii": "QuantumAI",
-  "market_cap": 33348.30142780708,
-  "price": 0.00003334830142780708,
-  "liquidity": 222.137171,
+  "market_cap": 24607.347214749356,
+  "price": 0.000024607347214749357,
+  "liquidity": 190.850574,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "150.12",
+  "mcap_liquidity_ratio": "128.94",
   "token_age": 739354,
   "trust_assessment": {
     "score": 0,
@@ -23,7 +23,7 @@
         "points": -30
       },
       {
-        "reason": "Extremely high market cap to liquidity ratio (150.12:1)",
+        "reason": "Extremely high market cap to liquidity ratio (128.94:1)",
         "points": -40
       },
       {
@@ -46,10 +46,10 @@
   "validation": {
     "valid": false,
     "reasons": [
-      "Insufficient liquidity (222.14 ADA) - minimum threshold is 500 ADA",
+      "Insufficient liquidity (190.85 ADA) - minimum threshold is 500 ADA",
       "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:56:25.250Z"
+  "updated_at": "2025-04-14T15:56:28.602Z"
 }

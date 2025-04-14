@@ -2,9 +2,9 @@
   "token_id": "5d16cc1a177b5d9ba9cfa9793b07e60f1fb70fea1f8aef064415d114494147",
   "ticker": "IAG",
   "token_ascii": "IAGON",
-  "market_cap": 115864811.95803231,
-  "price": 0.29041594771346957,
-  "liquidity": 3162491.850798,
+  "market_cap": 115705176.98637581,
+  "price": 0.29001582155956335,
+  "liquidity": 3160324.293114,
   "circulating_supply": 398961602.729706,
   "outliers_filtered": false,
   "pool_count": 7,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "36.64",
+  "mcap_liquidity_ratio": "36.61",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:57:10.722Z"
+  "updated_at": "2025-04-14T15:57:14.037Z"
 }

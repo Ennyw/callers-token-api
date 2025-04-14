@@ -4,12 +4,12 @@
   "token_ascii": "HOSKY Token",
   "market_cap": 23576612.484525964,
   "price": 7.484638883978136e-8,
-  "liquidity": 882396.191233,
+  "liquidity": 883126.748762,
   "circulating_supply": 314999999999931,
   "outliers_filtered": true,
   "pool_count": 9,
   "median_used": true,
-  "mcap_liquidity_ratio": "26.72",
+  "mcap_liquidity_ratio": "26.70",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -41,5 +41,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:58:18.248Z"
+  "updated_at": "2025-04-14T15:58:22.976Z"
 }

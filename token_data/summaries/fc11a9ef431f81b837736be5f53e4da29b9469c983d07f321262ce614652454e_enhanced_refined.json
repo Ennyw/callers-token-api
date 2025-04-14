@@ -2,9 +2,9 @@
   "token_id": "fc11a9ef431f81b837736be5f53e4da29b9469c983d07f321262ce614652454e",
   "ticker": "FREN",
   "token_ascii": "Fren",
-  "market_cap": 1394070.3486891084,
-  "price": 0.000003620930026600291,
-  "liquidity": 242363.38045200004,
+  "market_cap": 1387982.9517488433,
+  "price": 0.0000036051187453506985,
+  "liquidity": 241817.44952400003,
   "circulating_supply": 385003393727,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "5.75",
+  "mcap_liquidity_ratio": "5.74",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:48.965Z"
+  "updated_at": "2025-04-14T15:59:54.172Z"
 }

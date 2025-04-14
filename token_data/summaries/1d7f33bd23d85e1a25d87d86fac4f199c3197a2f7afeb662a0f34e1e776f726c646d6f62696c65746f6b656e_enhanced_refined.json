@@ -2,9 +2,9 @@
   "token_id": "1d7f33bd23d85e1a25d87d86fac4f199c3197a2f7afeb662a0f34e1e776f726c646d6f62696c65746f6b656e",
   "ticker": "WMT",
   "token_ascii": "World Mobile Token",
-  "market_cap": 193537559.4301696,
-  "price": 0.2776024423107742,
-  "liquidity": 734586.382041,
+  "market_cap": 193529794.47335225,
+  "price": 0.2775913045709821,
+  "liquidity": 734571.541508,
   "circulating_supply": 697175276.338187,
   "outliers_filtered": false,
   "pool_count": 10,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:56:02.104Z"
+  "updated_at": "2025-04-14T15:56:05.740Z"
 }

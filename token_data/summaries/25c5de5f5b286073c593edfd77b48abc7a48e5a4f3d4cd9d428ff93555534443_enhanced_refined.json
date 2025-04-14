@@ -2,9 +2,9 @@
   "token_id": "25c5de5f5b286073c593edfd77b48abc7a48e5a4f3d4cd9d428ff93555534443",
   "ticker": "USDC",
   "token_ascii": "USDC",
-  "market_cap": 1775356.3943488442,
-  "price": 1.5740092491026128,
-  "liquidity": 9693.715793999998,
+  "market_cap": 1767560.0408610273,
+  "price": 1.5670970975266483,
+  "liquidity": 9673.027780999999,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 6,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "183.15",
+  "mcap_liquidity_ratio": "182.73",
   "token_age": 739354,
   "trust_assessment": {
     "score": 70,
@@ -46,5 +46,5 @@
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:56:07.918Z"
+  "updated_at": "2025-04-14T15:56:11.553Z"
 }

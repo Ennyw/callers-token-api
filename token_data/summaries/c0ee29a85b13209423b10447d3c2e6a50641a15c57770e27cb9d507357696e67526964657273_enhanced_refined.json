@@ -2,9 +2,9 @@
   "token_id": "c0ee29a85b13209423b10447d3c2e6a50641a15c57770e27cb9d507357696e67526964657273",
   "ticker": "WRT",
   "token_ascii": "WingRiders Governance Token",
-  "market_cap": 2947101.8451304827,
-  "price": 0.03427522668564456,
-  "liquidity": 554183.454015,
+  "market_cap": 2947110.903733155,
+  "price": 0.03427533203852219,
+  "liquidity": 547302.391556,
   "circulating_supply": 85983438.480505,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "5.32",
+  "mcap_liquidity_ratio": "5.38",
   "token_age": 739354,
   "trust_assessment": {
     "score": 145,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:58:46.825Z"
+  "updated_at": "2025-04-14T15:58:51.665Z"
 }

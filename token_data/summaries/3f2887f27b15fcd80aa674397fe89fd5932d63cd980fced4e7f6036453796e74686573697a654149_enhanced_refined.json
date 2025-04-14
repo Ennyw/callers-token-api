@@ -2,9 +2,9 @@
   "token_id": "3f2887f27b15fcd80aa674397fe89fd5932d63cd980fced4e7f6036453796e74686573697a654149",
   "ticker": "SYNTH",
   "token_ascii": "SynthetizeAI",
-  "market_cap": 574248.5684484694,
-  "price": 0.0005808071302653018,
-  "liquidity": 86659.252964,
+  "market_cap": 574685.1193051612,
+  "price": 0.0005812486670217191,
+  "liquidity": 86686.710531,
   "circulating_supply": 988707849,
   "outliers_filtered": false,
   "pool_count": 4,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:56:36.571Z"
+  "updated_at": "2025-04-14T15:56:39.792Z"
 }

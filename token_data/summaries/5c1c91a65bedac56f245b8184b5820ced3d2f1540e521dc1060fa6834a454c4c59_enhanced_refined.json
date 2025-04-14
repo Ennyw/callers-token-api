@@ -2,9 +2,9 @@
   "token_id": "5c1c91a65bedac56f245b8184b5820ced3d2f1540e521dc1060fa6834a454c4c59",
   "ticker": "JELLY",
   "token_ascii": "JELLY",
-  "market_cap": 382405.1819802074,
-  "price": 0.056736508422050115,
-  "liquidity": 34262.195568,
+  "market_cap": 381694.5344896933,
+  "price": 0.05663107141640632,
+  "liquidity": 34230.624704,
   "circulating_supply": 6740019.656049,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "11.16",
+  "mcap_liquidity_ratio": "11.15",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:57:07.825Z"
+  "updated_at": "2025-04-14T15:57:11.081Z"
 }

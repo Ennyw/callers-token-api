@@ -2,9 +2,9 @@
   "token_id": "f7516c9f7b347eb412a777f3c711099b199ccd2be23b568a4a3abf6d535058",
   "ticker": "SPXT",
   "token_ascii": "SmartPlaces X",
-  "market_cap": 474784.8022237648,
-  "price": 0.000040553237553257714,
-  "liquidity": 143693.37867499999,
+  "market_cap": 475322.08362724487,
+  "price": 0.00004059912887135851,
+  "liquidity": 143774.80700600002,
   "circulating_supply": 11707691688,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "3.30",
+  "mcap_liquidity_ratio": "3.31",
   "token_age": 739354,
   "trust_assessment": {
     "score": 145,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:45.886Z"
+  "updated_at": "2025-04-14T15:59:51.280Z"
 }

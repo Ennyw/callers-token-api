@@ -2,9 +2,9 @@
   "token_id": "c48cbb3d5e57ed56e276bc45f99ab39abe94e6cd7ac39fb402da47ad0014df105553444d",
   "ticker": "USDM",
   "token_ascii": "USDM",
-  "market_cap": 15873208.260474587,
-  "price": 1.51876715611594,
-  "liquidity": 6765528.306135,
+  "market_cap": 16146975.531633347,
+  "price": 1.5449615292402914,
+  "liquidity": 6823832.409024,
   "circulating_supply": 10451377.09,
   "outliers_filtered": false,
   "pool_count": 7,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "2.35",
+  "mcap_liquidity_ratio": "2.37",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:58:52.478Z"
+  "updated_at": "2025-04-14T15:58:57.304Z"
 }

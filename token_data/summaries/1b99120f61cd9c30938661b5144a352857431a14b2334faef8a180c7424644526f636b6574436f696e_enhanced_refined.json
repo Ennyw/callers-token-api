@@ -2,9 +2,9 @@
   "token_id": "1b99120f61cd9c30938661b5144a352857431a14b2334faef8a180c7424644526f636b6574436f696e",
   "ticker": "BFD",
   "token_ascii": "BFD Rocket Coin",
-  "market_cap": 28306.3336877625,
-  "price": 0.00003330156904442647,
-  "liquidity": 2975.366896,
+  "market_cap": 27723.42190588082,
+  "price": 0.00003261579047750685,
+  "liquidity": 2946.644068,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "9.51",
+  "mcap_liquidity_ratio": "9.41",
   "token_age": 739354,
   "trust_assessment": {
     "score": 105,
@@ -36,5 +36,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:55:59.255Z"
+  "updated_at": "2025-04-14T15:56:02.840Z"
 }

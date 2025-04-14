@@ -2,9 +2,9 @@
   "token_id": "65bdf33f8f7fd4debeb2ad659473749eb4eac177e06650bb75a8fe504d69746872546f6b656e",
   "ticker": "MITHR",
   "token_ascii": "Mithrandir Token",
-  "market_cap": 2704738.482925982,
-  "price": 0.0064398535307761485,
-  "liquidity": 50972.960292,
+  "market_cap": 2684273.035213676,
+  "price": 0.006391126274318276,
+  "liquidity": 50780.64206,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 2,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "53.06",
+  "mcap_liquidity_ratio": "52.86",
   "token_age": 739354,
   "trust_assessment": {
     "score": 60,
@@ -50,5 +50,5 @@
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:57:16.156Z"
+  "updated_at": "2025-04-14T15:57:19.504Z"
 }

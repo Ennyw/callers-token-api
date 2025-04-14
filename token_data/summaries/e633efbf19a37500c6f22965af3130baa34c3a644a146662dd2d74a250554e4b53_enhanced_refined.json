@@ -2,14 +2,14 @@
   "token_id": "e633efbf19a37500c6f22965af3130baa34c3a644a146662dd2d74a250554e4b53",
   "ticker": "PUNKS",
   "token_ascii": "PUNKS",
-  "market_cap": 479482.65447330574,
-  "price": 4.7948265447330575e-9,
-  "liquidity": 4927.289255,
+  "market_cap": 499112.6940866862,
+  "price": 4.991126940866862e-9,
+  "liquidity": 5027.289255,
   "circulating_supply": 0,
   "outliers_filtered": true,
   "pool_count": 1,
   "median_used": true,
-  "mcap_liquidity_ratio": "97.31",
+  "mcap_liquidity_ratio": "99.28",
   "token_age": 739354,
   "trust_assessment": {
     "score": 65,
@@ -20,7 +20,7 @@
         "points": -30
       },
       {
-        "reason": "High market cap to liquidity ratio (97.31:1)",
+        "reason": "High market cap to liquidity ratio (99.28:1)",
         "points": -20
       }
     ],
@@ -37,5 +37,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:23.485Z"
+  "updated_at": "2025-04-14T15:59:28.794Z"
 }

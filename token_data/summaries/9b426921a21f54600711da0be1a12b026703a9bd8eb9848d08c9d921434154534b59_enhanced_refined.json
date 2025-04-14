@@ -2,14 +2,14 @@
   "token_id": "9b426921a21f54600711da0be1a12b026703a9bd8eb9848d08c9d921434154534b59",
   "ticker": "CATSKY",
   "token_ascii": "Catsky AI",
-  "market_cap": 157162.30400056543,
-  "price": 1.5716230400103693e-7,
-  "liquidity": 20546.473899,
+  "market_cap": 156461.9943794064,
+  "price": 1.5646199437987577e-7,
+  "liquidity": 20468.932061,
   "circulating_supply": 999999999997,
   "outliers_filtered": true,
   "pool_count": 3,
   "median_used": true,
-  "mcap_liquidity_ratio": "7.65",
+  "mcap_liquidity_ratio": "7.64",
   "token_age": 739354,
   "trust_assessment": {
     "score": 135,
@@ -36,5 +36,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:58:15.551Z"
+  "updated_at": "2025-04-14T15:58:20.333Z"
 }

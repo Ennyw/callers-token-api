@@ -2,9 +2,9 @@
   "token_id": "016be5325fd988fea98ad422fcfd53e5352cacfced5c106a932a35a442544e",
   "ticker": "BTN",
   "token_ascii": "Butane",
-  "market_cap": 5942830.54526741,
-  "price": 0.4779978976105274,
-  "liquidity": 880915.448208,
+  "market_cap": 5846334.765647398,
+  "price": 0.4702364816597755,
+  "liquidity": 873736.2204300001,
   "circulating_supply": 12432754.568535,
   "outliers_filtered": false,
   "pool_count": 5,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "6.75",
+  "mcap_liquidity_ratio": "6.69",
   "token_age": 739354,
   "trust_assessment": {
     "score": 140,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:55:36.485Z"
+  "updated_at": "2025-04-14T15:55:39.848Z"
 }

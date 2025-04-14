@@ -4,7 +4,7 @@
   "token_ascii": "iBTC",
   "market_cap": 28014.654,
   "price": 1000,
-  "liquidity": 538498.241597,
+  "liquidity": 538662.283981,
   "circulating_supply": 28.014654,
   "outliers_filtered": true,
   "pool_count": 6,
@@ -36,5 +36,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:59:43.324Z"
+  "updated_at": "2025-04-14T15:59:48.501Z"
 }

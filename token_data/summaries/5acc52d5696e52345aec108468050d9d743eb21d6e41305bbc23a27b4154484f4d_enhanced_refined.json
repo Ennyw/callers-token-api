@@ -2,14 +2,14 @@
   "token_id": "5acc52d5696e52345aec108468050d9d743eb21d6e41305bbc23a27b4154484f4d",
   "ticker": "ATH",
   "token_ascii": "ATHOM",
-  "market_cap": 8131.951824814858,
-  "price": 8.816679835011731e-16,
-  "liquidity": 483.176695,
+  "market_cap": 8701.237130585374,
+  "price": 9.4339002002922e-16,
+  "liquidity": 492.175946,
   "circulating_supply": 0,
   "outliers_filtered": true,
   "pool_count": 2,
   "median_used": true,
-  "mcap_liquidity_ratio": "16.83",
+  "mcap_liquidity_ratio": "17.68",
   "token_age": 739354,
   "trust_assessment": {
     "score": 55,
@@ -35,9 +35,9 @@
   "validation": {
     "valid": true,
     "reasons": [
-      "Insufficient liquidity (483.18 ADA) - minimum threshold is 500 ADA"
+      "Insufficient liquidity (492.18 ADA) - minimum threshold is 500 ADA"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T14:57:07.732Z"
+  "updated_at": "2025-04-14T15:57:10.966Z"
 }
