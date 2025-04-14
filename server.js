@@ -386,7 +386,17 @@ app.get('/api/health', (req, res) => {
   res.json({
     status: 'ok',
     timestamp: new Date().toISOString(),
-    environment: process.env.VERCEL ? 'vercel' : 'local'
+    environment: process.env.VERCEL ? 'vercel' : 'local',
+    routes: {
+      'debug_env': '/api/debug/env',
+      'refresh_data': '/api/refresh-data',
+      'tokens_refresh': '/api/tokens/refresh',
+      'tokens_refresh_volumes': '/api/tokens/refresh-volumes',
+      'tokens_refresh_snek': '/api/tokens/refresh-snek',
+      'tokens_test_supabase': '/api/tokens/test-supabase',
+      'tokens_stats': '/api/tokens/stats',
+      'tokens_by_id': '/api/tokens/:tokenId'
+    }
   });
 });
 
