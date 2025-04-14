@@ -795,24 +795,32 @@ class TokenService {
     try {
       if (!this.supabase) {
         console.error('[TEST] ❌ No Supabase client available');
-        return false;
+        console.log('[TEST] 💻 Environment check: SUPABASE_URL exists:', !!process.env.REACT_APP_SUPABASE_URL);
+        console.log('[TEST] 💻 Environment check: SUPABASE_URL value:', process.env.REACT_APP_SUPABASE_URL);
+        console.log('[TEST] 💻 Environment check: SUPABASE_ANON_KEY exists:', !!process.env.REACT_APP_SUPABASE_ANON_KEY);
+        console.log('[TEST] 💻 Environment check: SUPABASE_ANON_KEY value (first 10 chars):', 
+          process.env.REACT_APP_SUPABASE_ANON_KEY ? process.env.REACT_APP_SUPABASE_ANON_KEY.substring(0, 10) + '...' : 'not available');
+        
+        // Try to initialize Supabase client with available credentials
+        if (process.env.REACT_APP_SUPABASE_URL && process.env.REACT_APP_SUPABASE_ANON_KEY && supabaseClient) {
+          try {
+            console.log('[TEST] 🔄 Attempting to initialize Supabase client with available credentials');
+            this.supabase = supabaseClient(
+              process.env.REACT_APP_SUPABASE_URL,
+              process.env.REACT_APP_SUPABASE_ANON_KEY
+            );
+            console.log('[TEST] ✅ Successfully created new Supabase client');
+          } catch (supabaseError) {
+            console.error('[TEST] ❌ Failed to create Supabase client:', supabaseError);
+            return false;
+          }
+        } else {
+          console.log('[TEST] ⚠️ Missing one or more required Supabase credentials');
+          return false;
+        }
       }
       
       console.log('[TEST] 🔍 Testing Supabase connection');
-      
-      // Try to create a test table first
-      try {
-        const { error: createError } = await this.supabase.rpc('create_test_table');
-        
-        if (createError) {
-          // If RPC function doesn't exist, log it but continue
-          console.warn('[TEST] ⚠️ Error creating test table (RPC may not exist):', createError);
-        } else {
-          console.log('[TEST] ✅ Test table created successfully');
-        }
-      } catch (rpcError) {
-        console.warn('[TEST] ⚠️ RPC call failed, will try direct table access:', rpcError);
-      }
       
       // Simple test record
       const testData = {
@@ -821,20 +829,41 @@ class TokenService {
         timestamp: new Date().toISOString()
       };
       
-      // Try to insert into a test table (assuming it exists)
+      // Try to insert into api_logs table
+      console.log('[TEST] 📝 Attempting to insert test record into api_logs table');
       const { error: insertError } = await this.supabase
         .from('api_logs')
         .insert([testData]);
         
       if (insertError) {
         console.error('[TEST] ❌ Error inserting test record:', insertError);
-        return false;
+        
+        // Try a simple select query from tokens table as a fallback
+        console.log('[TEST] 🔍 Attempting to query tokens table as a fallback test');
+        const { data, error: selectError } = await this.supabase
+          .from('tokens')
+          .select('token_id')
+          .limit(1);
+          
+        if (selectError) {
+          console.error('[TEST] ❌ Error querying tokens table:', selectError);
+          return false;
+        }
+        
+        if (data && data.length > 0) {
+          console.log('[TEST] ✅ Successfully queried tokens table');
+          return true;
+        } else {
+          console.log('[TEST] ⚠️ No tokens found in database');
+          return false;
+        }
       }
       
       console.log('[TEST] ✅ Successfully inserted test record into Supabase');
       return true;
     } catch (error) {
       console.error('[TEST] ❌ Error testing Supabase connection:', error);
+      console.error('[TEST] 📚 Stack trace:', error.stack);
       return false;
     }
   }
