@@ -2,9 +2,9 @@
   "token_id": "37a2b93b4aa2b286b92b7099faff0bb87e0c629a5079c0584da2d5774f534d",
   "ticker": "OSM",
   "token_ascii": "OsmiumDAO Token",
-  "market_cap": 124527.00869446216,
-  "price": 0.20754501449077026,
-  "liquidity": 9221.020997,
+  "market_cap": 116318.4007139517,
+  "price": 0.1938640011899195,
+  "liquidity": 8913.17561,
   "circulating_supply": 0,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "13.50",
+  "mcap_liquidity_ratio": "13.05",
   "token_age": 739354,
   "trust_assessment": {
     "score": 55,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:56:27.051Z"
+  "updated_at": "2025-04-14T14:56:28.125Z"
 }

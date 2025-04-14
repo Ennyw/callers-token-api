@@ -2,9 +2,9 @@
   "token_id": "d9d59e71eb99e653a493956a6826a406060706bd8c9a2427b3564f645045525020434f494e",
   "ticker": "PERP",
   "token_ascii": "Perp Coin",
-  "market_cap": 65845.35097468471,
-  "price": 0.00020411150442682996,
-  "liquidity": 42689.399771,
+  "market_cap": 65897.09726030254,
+  "price": 0.00020427191077366553,
+  "liquidity": 42700.445256,
   "circulating_supply": 322595001,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:59:13.118Z"
+  "updated_at": "2025-04-14T14:59:12.271Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac044494e47",
   "ticker": "DING",
   "token_ascii": "DING",
-  "market_cap": 420069.5146678585,
-  "price": 0.0030399503980901438,
-  "liquidity": 24106.363018,
+  "market_cap": 422779.41856055433,
+  "price": 0.0030595613746779125,
+  "liquidity": 24186.229737999998,
   "circulating_supply": 138183016.055712,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "17.43",
+  "mcap_liquidity_ratio": "17.48",
   "token_age": 739354,
   "trust_assessment": {
     "score": 135,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:59:04.534Z"
+  "updated_at": "2025-04-14T14:59:03.696Z"
 }

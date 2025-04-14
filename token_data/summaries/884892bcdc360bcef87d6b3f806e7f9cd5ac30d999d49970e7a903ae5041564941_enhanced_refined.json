@@ -2,9 +2,9 @@
   "token_id": "884892bcdc360bcef87d6b3f806e7f9cd5ac30d999d49970e7a903ae5041564941",
   "ticker": "PAVIA",
   "token_ascii": "PAVIA Token",
-  "market_cap": 873018.1265380976,
-  "price": 0.0008730181265380976,
-  "liquidity": 56364.141413000005,
+  "market_cap": 872106.5248023011,
+  "price": 0.0008721065248023011,
+  "liquidity": 56335.029708,
   "circulating_supply": 1000000000,
   "outliers_filtered": false,
   "pool_count": 8,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "15.49",
+  "mcap_liquidity_ratio": "15.48",
   "token_age": 739354,
   "trust_assessment": {
     "score": 135,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:54.123Z"
+  "updated_at": "2025-04-14T14:57:52.975Z"
 }

@@ -2,37 +2,43 @@
   "token_id": "633f2e2c5280417c6b76055eda54fc07de984c122c01573ea4a9e8234361746e6970",
   "ticker": "CATNIP",
   "token_ascii": "Catnip",
-  "market_cap": 0,
-  "price": 0,
-  "liquidity": 0,
+  "market_cap": 5454.937771269047,
+  "price": 0.000006061041968076718,
+  "liquidity": 4272.38685,
   "circulating_supply": 0,
   "outliers_filtered": false,
-  "pool_count": 0,
-  "mcap_liquidity_ratio": "N/A",
-  "token_age": 0,
+  "pool_count": 1,
+  "original_pool_count": 1,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "1.28",
+  "token_age": 739354,
   "trust_assessment": {
-    "score": 0,
-    "level": "Very Low",
+    "score": 55,
+    "level": "Moderate",
     "penalties": [
       {
-        "reason": "No liquidity pools found",
-        "points": -80
+        "reason": "Single liquidity pool",
+        "points": -30
       },
       {
-        "reason": "Extremely low liquidity",
-        "points": -70
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
       }
     ],
-    "bonuses": []
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
   },
-  "honeypot_risk": true,
+  "honeypot_risk": false,
   "validation": {
-    "valid": false,
-    "reasons": [
-      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
-      "Potential honeypot token: Low trust score"
-    ],
+    "valid": true,
+    "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:12.968Z"
+  "updated_at": "2025-04-14T14:57:13.492Z"
 }

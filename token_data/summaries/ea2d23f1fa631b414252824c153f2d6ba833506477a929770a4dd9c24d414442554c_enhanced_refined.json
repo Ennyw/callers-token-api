@@ -4,12 +4,12 @@
   "token_ascii": "MAdbuLL token",
   "market_cap": 587061.7559623691,
   "price": 5.870617559623692e-9,
-  "liquidity": 51.649304,
+  "liquidity": 54.649304,
   "circulating_supply": 0,
   "outliers_filtered": true,
   "pool_count": 4,
   "median_used": true,
-  "mcap_liquidity_ratio": "11366.31",
+  "mcap_liquidity_ratio": "10742.35",
   "token_age": 739354,
   "trust_assessment": {
     "score": 15,
@@ -20,7 +20,7 @@
         "points": -70
       },
       {
-        "reason": "Extreme market cap to liquidity ratio (11366.31:1)",
+        "reason": "Extreme market cap to liquidity ratio (10742.35:1)",
         "points": -40
       }
     ],
@@ -39,11 +39,11 @@
   "validation": {
     "valid": false,
     "reasons": [
-      "Insufficient liquidity (51.65 ADA) - minimum threshold is 500 ADA",
-      "Suspicious market cap to liquidity ratio (11366.31:1) - maximum allowed is 10000:1",
+      "Insufficient liquidity (54.65 ADA) - minimum threshold is 500 ADA",
+      "Suspicious market cap to liquidity ratio (10742.35:1) - maximum allowed is 10000:1",
       "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:59:29.943Z"
+  "updated_at": "2025-04-14T14:59:29.120Z"
 }

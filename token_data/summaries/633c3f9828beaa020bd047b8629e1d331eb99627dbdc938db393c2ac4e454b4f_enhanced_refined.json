@@ -2,25 +2,22 @@
   "token_id": "633c3f9828beaa020bd047b8629e1d331eb99627dbdc938db393c2ac4e454b4f",
   "ticker": "NEKO",
   "token_ascii": "NEKO",
-  "market_cap": 0,
-  "price": 0,
-  "liquidity": 0,
+  "market_cap": 1402.41325083918,
+  "price": 1.5582369453768665e-7,
+  "liquidity": 952.542588,
   "circulating_supply": 0,
-  "outliers_filtered": false,
-  "pool_count": 0,
-  "mcap_liquidity_ratio": "N/A",
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.47",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 0,
-    "level": "Very Low",
+    "score": 85,
+    "level": "High",
     "penalties": [
       {
-        "reason": "No liquidity pools found",
-        "points": -80
-      },
-      {
-        "reason": "Extremely low liquidity",
-        "points": -70
+        "reason": "Single liquidity pool",
+        "points": -30
       }
     ],
     "bonuses": [
@@ -30,14 +27,11 @@
       }
     ]
   },
-  "honeypot_risk": true,
+  "honeypot_risk": false,
   "validation": {
-    "valid": false,
-    "reasons": [
-      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
-      "Potential honeypot token: Low trust score"
-    ],
+    "valid": true,
+    "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:13.025Z"
+  "updated_at": "2025-04-14T14:57:13.369Z"
 }

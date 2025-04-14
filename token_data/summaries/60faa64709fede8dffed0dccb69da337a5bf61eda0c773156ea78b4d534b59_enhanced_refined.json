@@ -2,37 +2,47 @@
   "token_id": "60faa64709fede8dffed0dccb69da337a5bf61eda0c773156ea78b4d534b59",
   "ticker": "SKY",
   "token_ascii": "Sky Protocol",
-  "market_cap": 0,
-  "price": 0,
-  "liquidity": 0,
+  "market_cap": 715609.5561287345,
+  "price": 0.02437409786709618,
+  "liquidity": 68776.280898,
   "circulating_supply": 29359427.373711,
   "outliers_filtered": false,
-  "pool_count": 0,
-  "mcap_liquidity_ratio": "N/A",
-  "token_age": 0,
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "10.40",
+  "token_age": 739354,
   "trust_assessment": {
-    "score": 0,
-    "level": "Very Low",
+    "score": 110,
+    "level": "High",
     "penalties": [
       {
-        "reason": "No liquidity pools found",
-        "points": -80
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
       },
       {
-        "reason": "Extremely low liquidity",
-        "points": -70
+        "reason": "Suspicious liquidity distribution despite significant liquidity",
+        "points": -5
       }
     ],
-    "bonuses": []
+    "bonuses": [
+      {
+        "reason": "Good liquidity",
+        "points": 10
+      },
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
   },
-  "honeypot_risk": true,
+  "honeypot_risk": false,
   "validation": {
-    "valid": false,
-    "reasons": [
-      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
-      "Potential honeypot token: Low trust score"
-    ],
+    "valid": true,
+    "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:12.935Z"
+  "updated_at": "2025-04-14T14:57:13.523Z"
 }

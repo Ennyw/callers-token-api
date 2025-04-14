@@ -2,25 +2,26 @@
   "token_id": "5f3a47fa83522c6eece53bbfe0a77374bd748d6ac5b8892d3d5b3ff35365636972697479",
   "ticker": "SEC",
   "token_ascii": "Secirity",
-  "market_cap": 0,
-  "price": 0,
-  "liquidity": 0,
+  "market_cap": 578.2295663651328,
+  "price": 8.38013864297294e-12,
+  "liquidity": 321.612146,
   "circulating_supply": 0,
-  "outliers_filtered": false,
-  "pool_count": 0,
-  "mcap_liquidity_ratio": "N/A",
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "1.80",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 0,
-    "level": "Very Low",
+    "score": 35,
+    "level": "Low",
     "penalties": [
       {
-        "reason": "No liquidity pools found",
-        "points": -80
+        "reason": "Single liquidity pool",
+        "points": -30
       },
       {
-        "reason": "Extremely low liquidity",
-        "points": -70
+        "reason": "Very low liquidity",
+        "points": -50
       }
     ],
     "bonuses": [
@@ -34,10 +35,10 @@
   "validation": {
     "valid": false,
     "reasons": [
-      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Insufficient liquidity (321.61 ADA) - minimum threshold is 500 ADA",
       "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:13.114Z"
+  "updated_at": "2025-04-14T14:57:13.461Z"
 }

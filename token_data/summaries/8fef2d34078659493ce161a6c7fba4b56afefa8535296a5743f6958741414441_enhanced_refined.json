@@ -2,9 +2,9 @@
   "token_id": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
   "ticker": "LENFI",
   "token_ascii": "Lenfi DAO token",
-  "market_cap": 13391228.798847798,
-  "price": 0.8850076951583841,
-  "liquidity": 925386.3119950001,
+  "market_cap": 13393767.883731974,
+  "price": 0.8851754997486059,
+  "liquidity": 925474.7677450001,
   "circulating_supply": 15131200.408886,
   "outliers_filtered": false,
   "pool_count": 7,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:58:02.483Z"
+  "updated_at": "2025-04-14T14:58:01.163Z"
 }

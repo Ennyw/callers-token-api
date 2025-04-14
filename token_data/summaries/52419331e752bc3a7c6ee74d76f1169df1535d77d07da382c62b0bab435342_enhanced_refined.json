@@ -2,9 +2,9 @@
   "token_id": "52419331e752bc3a7c6ee74d76f1169df1535d77d07da382c62b0bab435342",
   "ticker": "CSB",
   "token_ascii": "CSB",
-  "market_cap": 21.485683650747077,
-  "price": 2.1485683650747077e-8,
-  "liquidity": 236.152909,
+  "market_cap": 21.059768496088907,
+  "price": 2.1059768496088907e-8,
+  "liquidity": 231.471601,
   "circulating_supply": 0,
   "outliers_filtered": true,
   "pool_count": 1,
@@ -35,10 +35,10 @@
   "validation": {
     "valid": false,
     "reasons": [
-      "Insufficient liquidity (236.15 ADA) - minimum threshold is 500 ADA",
+      "Insufficient liquidity (231.47 ADA) - minimum threshold is 500 ADA",
       "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:56:55.453Z"
+  "updated_at": "2025-04-14T14:56:56.259Z"
 }

@@ -2,25 +2,25 @@
   "token_id": "63dd2e98273b73207055e8bbab52dc74241905107bfc0cccdd8e0e772442414e414e41",
   "ticker": "BANANA",
   "token_ascii": "Banana",
-  "market_cap": 0,
-  "price": 0,
-  "liquidity": 0,
+  "market_cap": 2329.7607996209713,
+  "price": 0.000002409266597332959,
+  "liquidity": 15452.826603999998,
   "circulating_supply": 967000000,
   "outliers_filtered": false,
-  "pool_count": 0,
-  "mcap_liquidity_ratio": "N/A",
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": false,
+  "suspicious_liquidity": false,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "0.15",
   "token_age": 92,
   "trust_assessment": {
-    "score": 0,
-    "level": "Very Low",
+    "score": 95,
+    "level": "High",
     "penalties": [
       {
-        "reason": "No liquidity pools found",
-        "points": -80
-      },
-      {
-        "reason": "Extremely low liquidity",
-        "points": -70
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
       }
     ],
     "bonuses": [
@@ -30,14 +30,11 @@
       }
     ]
   },
-  "honeypot_risk": true,
+  "honeypot_risk": false,
   "validation": {
-    "valid": false,
-    "reasons": [
-      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
-      "Potential honeypot token: Low trust score"
-    ],
+    "valid": true,
+    "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:13.084Z"
+  "updated_at": "2025-04-14T14:57:13.584Z"
 }

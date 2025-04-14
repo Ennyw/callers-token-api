@@ -2,25 +2,33 @@
   "token_id": "5ec2e9813fa385d9333d18186d8257d1b3ebea97bdec2dad74026d8d50554743484950",
   "ticker": "PUGCHIP",
   "token_ascii": "Space Pugs Poker Chip",
-  "market_cap": 0,
-  "price": 0,
-  "liquidity": 0,
+  "market_cap": 2498.7995178468905,
+  "price": 0.00005260705321279598,
+  "liquidity": 87.83237100000001,
   "circulating_supply": 47499325,
   "outliers_filtered": false,
-  "pool_count": 0,
-  "mcap_liquidity_ratio": "N/A",
+  "pool_count": 2,
+  "original_pool_count": 2,
+  "median_used": true,
+  "suspicious_liquidity": true,
+  "price_from_average_price": false,
+  "mcap_liquidity_ratio": "28.45",
   "token_age": 739354,
   "trust_assessment": {
-    "score": 0,
+    "score": 5,
     "level": "Very Low",
     "penalties": [
       {
-        "reason": "No liquidity pools found",
-        "points": -80
+        "reason": "Low number of liquidity pools (2)",
+        "points": -10
       },
       {
         "reason": "Extremely low liquidity",
         "points": -70
+      },
+      {
+        "reason": "Suspicious liquidity distribution with low total liquidity",
+        "points": -30
       }
     ],
     "bonuses": [
@@ -34,10 +42,10 @@
   "validation": {
     "valid": false,
     "reasons": [
-      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
+      "Insufficient liquidity (87.83 ADA) - minimum threshold is 500 ADA",
       "Potential honeypot token: Low trust score"
     ],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:12.997Z"
+  "updated_at": "2025-04-14T14:57:13.399Z"
 }

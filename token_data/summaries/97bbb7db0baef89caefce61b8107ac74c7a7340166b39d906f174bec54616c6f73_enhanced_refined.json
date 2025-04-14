@@ -2,9 +2,9 @@
   "token_id": "97bbb7db0baef89caefce61b8107ac74c7a7340166b39d906f174bec54616c6f73",
   "ticker": "TALOS",
   "token_ascii": "Talos",
-  "market_cap": 8901471.00014218,
-  "price": 0.009192000833188614,
-  "liquidity": 583633.053579,
+  "market_cap": 8826272.707731502,
+  "price": 0.00911434818830753,
+  "liquidity": 581253.523664,
   "circulating_supply": 968393189,
   "outliers_filtered": false,
   "pool_count": 6,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "15.25",
+  "mcap_liquidity_ratio": "15.18",
   "token_age": 96,
   "trust_assessment": {
     "score": 110,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:58:13.902Z"
+  "updated_at": "2025-04-14T14:58:12.685Z"
 }

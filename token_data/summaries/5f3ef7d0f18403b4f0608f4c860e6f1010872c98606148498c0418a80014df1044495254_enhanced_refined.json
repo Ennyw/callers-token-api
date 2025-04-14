@@ -2,37 +2,36 @@
   "token_id": "5f3ef7d0f18403b4f0608f4c860e6f1010872c98606148498c0418a80014df1044495254",
   "ticker": "DIRT",
   "token_ascii": "DIRT",
-  "market_cap": 0,
-  "price": 0,
-  "liquidity": 0,
+  "market_cap": 16518.028017517132,
+  "price": 2.379433595147959e-7,
+  "liquidity": 6611.744186,
   "circulating_supply": 0,
-  "outliers_filtered": false,
-  "pool_count": 0,
-  "mcap_liquidity_ratio": "N/A",
-  "token_age": 0,
+  "outliers_filtered": true,
+  "pool_count": 1,
+  "median_used": true,
+  "mcap_liquidity_ratio": "2.50",
+  "token_age": 739354,
   "trust_assessment": {
-    "score": 0,
-    "level": "Very Low",
+    "score": 85,
+    "level": "High",
     "penalties": [
       {
-        "reason": "No liquidity pools found",
-        "points": -80
-      },
-      {
-        "reason": "Extremely low liquidity",
-        "points": -70
+        "reason": "Single liquidity pool",
+        "points": -30
       }
     ],
-    "bonuses": []
+    "bonuses": [
+      {
+        "reason": "Token has existed for more than a year",
+        "points": 15
+      }
+    ]
   },
-  "honeypot_risk": true,
+  "honeypot_risk": false,
   "validation": {
-    "valid": false,
-    "reasons": [
-      "Insufficient liquidity (0.00 ADA) - minimum threshold is 500 ADA",
-      "Potential honeypot token: Low trust score"
-    ],
+    "valid": true,
+    "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:13.142Z"
+  "updated_at": "2025-04-14T14:57:13.430Z"
 }

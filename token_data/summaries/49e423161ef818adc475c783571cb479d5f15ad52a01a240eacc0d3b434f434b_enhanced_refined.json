@@ -2,9 +2,9 @@
   "token_id": "49e423161ef818adc475c783571cb479d5f15ad52a01a240eacc0d3b434f434b",
   "ticker": "COCK",
   "token_ascii": "Cock Coin",
-  "market_cap": 4079644.398448292,
-  "price": 0.004148773144269898,
-  "liquidity": 154415.996376,
+  "market_cap": 4092710.6452542283,
+  "price": 0.004162060795974416,
+  "liquidity": 154665.163376,
   "circulating_supply": 983337545,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "26.42",
+  "mcap_liquidity_ratio": "26.46",
   "token_age": 130,
   "trust_assessment": {
     "score": 65,
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:56:46.699Z"
+  "updated_at": "2025-04-14T14:56:47.842Z"
 }

@@ -2,9 +2,9 @@
   "token_id": "c881c20e49dbaca3ff6cef365969354150983230c39520b917f5cf7c4e696b65",
   "ticker": "NIKEPIG",
   "token_ascii": "NikePig",
-  "market_cap": 3188001.2512700376,
-  "price": 0.003543334349414851,
-  "liquidity": 201525.448383,
+  "market_cap": 3265916.432664752,
+  "price": 0.0036299339197465117,
+  "liquidity": 203981.187979,
   "circulating_supply": 899717875,
   "outliers_filtered": false,
   "pool_count": 5,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "15.82",
+  "mcap_liquidity_ratio": "16.01",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:58:56.404Z"
+  "updated_at": "2025-04-14T14:58:55.321Z"
 }

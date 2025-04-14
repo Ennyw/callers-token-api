@@ -2,9 +2,9 @@
   "token_id": "e5a42a1a1d3d1da71b0449663c32798725888d2eb0843c4dabeca05a576f726c644d6f62696c65546f6b656e58",
   "ticker": "WMTX",
   "token_ascii": "World Mobile Token X",
-  "market_cap": 185090366.82060683,
-  "price": 0.261511033049039,
-  "liquidity": 2143273.672218,
+  "market_cap": 184329591.6684828,
+  "price": 0.2604361467685292,
+  "liquidity": 2138876.072046,
   "circulating_supply": 707772688.068187,
   "outliers_filtered": false,
   "pool_count": 5,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "86.36",
+  "mcap_liquidity_ratio": "86.18",
   "token_age": 306,
   "trust_assessment": {
     "score": 75,
@@ -23,7 +23,7 @@
         "points": -25
       },
       {
-        "reason": "Potential price manipulation (86.36:1 MCap/Liquidity ratio)",
+        "reason": "Potential price manipulation (86.18:1 MCap/Liquidity ratio)",
         "points": -40
       }
     ],
@@ -48,5 +48,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:59:24.474Z"
+  "updated_at": "2025-04-14T14:59:23.609Z"
 }

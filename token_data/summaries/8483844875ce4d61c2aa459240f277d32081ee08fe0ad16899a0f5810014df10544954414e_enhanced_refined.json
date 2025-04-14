@@ -2,9 +2,9 @@
   "token_id": "8483844875ce4d61c2aa459240f277d32081ee08fe0ad16899a0f5810014df10544954414e",
   "ticker": "TITAN",
   "token_ascii": "Titan",
-  "market_cap": 4471983.711394716,
-  "price": 0.1684815697720004,
-  "liquidity": 397947.65652099997,
+  "market_cap": 4492468.323127399,
+  "price": 0.1692533256109357,
+  "liquidity": 398846.906821,
   "circulating_supply": 26542865.889999,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": false,
   "suspicious_liquidity": false,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "11.24",
+  "mcap_liquidity_ratio": "11.26",
   "token_age": 739354,
   "trust_assessment": {
     "score": 120,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:48.475Z"
+  "updated_at": "2025-04-14T14:57:47.258Z"
 }

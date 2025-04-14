@@ -2,9 +2,9 @@
   "token_id": "2852268cf6e2db42e20f2fd3125f541e5d6c5a3d70b4dda17c2daa82",
   "ticker": "O",
   "token_ascii": "The O Token",
-  "market_cap": 4817596.244093392,
-  "price": 0.2899915052388482,
-  "liquidity": 262588.283691,
+  "market_cap": 4815542.753260706,
+  "price": 0.28986789693557974,
+  "liquidity": 262532.37482900004,
   "circulating_supply": 16612887.47105,
   "outliers_filtered": false,
   "pool_count": 3,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "18.35",
+  "mcap_liquidity_ratio": "18.34",
   "token_age": 739354,
   "trust_assessment": {
     "score": 140,
@@ -44,5 +44,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:56:13.335Z"
+  "updated_at": "2025-04-14T14:56:13.443Z"
 }

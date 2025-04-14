@@ -2,9 +2,9 @@
   "token_id": "edfd7a1d77bcb8b884c474bdc92a16002d1fb720e454fa6e993444794e5458",
   "ticker": "NTX",
   "token_ascii": "NuNet Utility Token",
-  "market_cap": 14139711.506321875,
-  "price": 0.019398564049823347,
-  "liquidity": 906572.576867,
+  "market_cap": 14154686.290555215,
+  "price": 0.01941910826750083,
+  "liquidity": 907154.5073159998,
   "circulating_supply": 728905060.704771,
   "outliers_filtered": false,
   "pool_count": 8,
@@ -39,5 +39,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:59:32.926Z"
+  "updated_at": "2025-04-14T14:59:32.102Z"
 }

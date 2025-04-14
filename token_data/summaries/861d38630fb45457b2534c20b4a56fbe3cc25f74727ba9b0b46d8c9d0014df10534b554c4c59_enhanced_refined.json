@@ -2,9 +2,9 @@
   "token_id": "861d38630fb45457b2534c20b4a56fbe3cc25f74727ba9b0b46d8c9d0014df10534b554c4c59",
   "ticker": "SKULLY",
   "token_ascii": "Skully",
-  "market_cap": 60513.3211344766,
-  "price": 0.00041026075276876813,
-  "liquidity": 18979.260173,
+  "market_cap": 60319.730512677925,
+  "price": 0.00040894827094263266,
+  "liquidity": 18949.133,
   "circulating_supply": 147499659,
   "outliers_filtered": false,
   "pool_count": 1,
@@ -12,7 +12,7 @@
   "median_used": true,
   "suspicious_liquidity": true,
   "price_from_average_price": false,
-  "mcap_liquidity_ratio": "3.19",
+  "mcap_liquidity_ratio": "3.18",
   "token_age": 739354,
   "trust_assessment": {
     "score": 55,
@@ -40,5 +40,5 @@
     "reasons": [],
     "trustScore": 0
   },
-  "updated_at": "2025-04-14T13:57:51.347Z"
+  "updated_at": "2025-04-14T14:57:50.093Z"
 }
