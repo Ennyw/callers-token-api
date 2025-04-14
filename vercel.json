@@ -8,19 +8,40 @@
   ],
   "routes": [
     {
+      "src": "/api/debug/env",
+      "dest": "server.js"
+    },
+    {
+      "src": "/api/admin/set-supabase-credentials",
+      "dest": "server.js"
+    },
+    {
       "src": "/api/refresh-data",
-      "dest": "server.js",
-      "continue": true
+      "dest": "server.js"
+    },
+    {
+      "src": "/api/tokens/test-supabase",
+      "dest": "server.js"
+    },
+    {
+      "src": "/api/tokens/refresh-snek",
+      "dest": "server.js"
     },
     {
       "src": "/api/tokens/refresh-volumes",
-      "dest": "server.js",
-      "continue": true
+      "dest": "server.js"
     },
     {
       "src": "/api/tokens/refresh-tvl",
-      "dest": "server.js",
-      "continue": true
+      "dest": "server.js"
+    },
+    {
+      "src": "/api/tokens/refresh",
+      "dest": "server.js"
+    },
+    {
+      "src": "/api/tokens/(.*)",
+      "dest": "server.js"
     },
     {
       "src": "/api/(.*)",
@@ -37,15 +58,18 @@
   "crons": [
     {
       "path": "/api/refresh-data",
-      "schedule": "0 */6 * * *"
+      "schedule": "0 */6 * * *",
+      "method": "POST"
     },
     {
       "path": "/api/tokens/refresh",
-      "schedule": "0 */2 * * *"
+      "schedule": "0 */2 * * *",
+      "method": "POST"
     },
     {
       "path": "/api/tokens/refresh-volumes",
-      "schedule": "0 */4 * * *"
+      "schedule": "0 */4 * * *",
+      "method": "POST"
     }
   ]
 } 

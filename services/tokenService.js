@@ -2,6 +2,16 @@ const fs = require('fs');
 const path = require('path');
 const volumeService = require('./volumeService');
 
+// Conditionally import Supabase client
+let supabaseClient;
+try {
+  // Try CommonJS import first
+  const { createClient } = require('@supabase/supabase-js');
+  supabaseClient = createClient;
+} catch (error) {
+  console.error('Error importing Supabase client:', error);
+}
+
 /**
  * Service to handle token operations
  */
@@ -11,12 +21,33 @@ class TokenService {
     this.summariesDir = path.join(process.cwd(), 'token_data/summaries');
     this.advancedDir = path.join(process.cwd(), 'advanced_token_data/raw');
     
+    // Initialize Supabase client
+    try {
+      if (!process.env.REACT_APP_SUPABASE_URL || !process.env.REACT_APP_SUPABASE_ANON_KEY) {
+        console.error('❌ Missing Supabase credentials in environment variables');
+        console.error('SUPABASE_URL exists:', !!process.env.REACT_APP_SUPABASE_URL);
+        console.error('SUPABASE_ANON_KEY exists:', !!process.env.REACT_APP_SUPABASE_ANON_KEY);
+      } else if (supabaseClient) {
+        console.log('✅ Supabase credentials found in environment variables');
+        this.supabase = supabaseClient(
+          process.env.REACT_APP_SUPABASE_URL,
+          process.env.REACT_APP_SUPABASE_ANON_KEY
+        );
+        console.log('✅ Supabase client initialized');
+      } else {
+        console.error('❌ Supabase client import failed');
+      }
+    } catch (error) {
+      console.error('❌ Error initializing Supabase client:', error);
+    }
+    
     // Log the paths being used
     console.log('📁 TokenService paths:', {
       reportPath: this.reportPath,
       summariesDir: this.summariesDir,
       advancedDir: this.advancedDir,
-      cwd: process.cwd()
+      cwd: process.cwd(),
+      useSupabase: !!process.env.VERCEL
     });
     
     this.cachedTokens = null;
@@ -50,6 +81,50 @@ class TokenService {
     }
 
     try {
+      // If running on Vercel, use Supabase
+      if (process.env.VERCEL) {
+        console.log('📊 Fetching tokens from Supabase');
+        
+        try {
+          const { data, error } = await this.supabase
+            .from('tokens')
+            .select('*')
+            .order('market_cap', { ascending: false });
+            
+          if (error) {
+            throw error;
+          }
+          
+          if (data && data.length > 0) {
+            console.log(`📊 Retrieved ${data.length} tokens from Supabase`);
+            console.log('🔍 First 3 tokens:', data.slice(0, 3).map(t => ({
+              ticker: t.ticker,
+              market_cap: t.market_cap,
+              price: t.price
+            })));
+            
+            // Add rank property based on market cap order
+            const tokensWithRank = data.map((token, index) => ({
+              ...token,
+              rank: index + 1
+            }));
+            
+            // Cache the results
+            this.cachedTokens = tokensWithRank;
+            this.lastCacheTime = Date.now();
+            
+            return tokensWithRank;
+          } else {
+            console.log('⚠️ No tokens found in Supabase, falling back to file-based data');
+            // Fall back to file-based approach
+          }
+        } catch (supabaseError) {
+          console.error('❌ Error fetching from Supabase:', supabaseError);
+          console.log('⚠️ Falling back to file-based approach');
+        }
+      }
+      
+      // File-based approach (fallback or local dev)
       // Read the market cap report
       let report;
       try {
@@ -265,8 +340,8 @@ class TokenService {
       
       return allTokens;
     } catch (error) {
-      console.error('Error loading tokens:', error);
-      return []; // Return empty array instead of throwing
+      console.error('Error in getAllTokens:', error);
+      return [];
     }
   }
 
@@ -559,117 +634,207 @@ class TokenService {
   }
 
   /**
-   * Clear all caches to force fresh data on next request
+   * Clear token cache to force fresh data on next request
    */
   clearCache() {
-    console.log('Clearing token service cache...');
-    this.lastCacheTime = 0;
+    console.log('🧹 Clearing token cache');
     this.cachedTokens = null;
-    this.hasCachedData = false;
-    this.allTokensSorted = null;
-    return true;
+    this.lastCacheTime = null;
   }
 
   /**
-   * Lightweight method to refresh token data specifically for Vercel environment
-   * This method fetches only critical tokens and updates their data to avoid timeout
-   * @returns {Promise<boolean>} True if successful
+   * Lightweight token refresh method for Vercel
+   * @returns {Promise<boolean>} Success status
    */
   async lightweightTokenRefresh() {
-    console.log("Starting lightweight token refresh for Vercel environment...");
     try {
-      // Clear cache to ensure we return fresh data
-      this.clearCache();
+      console.log('[VERCEL] 🔄 Starting simplified lightweight token refresh');
+      console.log('[VERCEL] Environment check: SUPABASE_URL exists:', !!process.env.REACT_APP_SUPABASE_URL);
+      console.log('[VERCEL] Environment check: SUPABASE_ANON_KEY exists:', !!process.env.REACT_APP_SUPABASE_ANON_KEY);
       
-      // Only process the top tokens by market cap to stay within timeout limits
-      const topTokenIds = [
-        // SNEK
-        "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
-        // HOSKY
-        "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
-        // DJED
-        "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a6564",
-        // MELD
-        "6ac8ef33b510ec004fe11585f7c5a9f0c07f0c23428ab4f29c1d7d104d454c44",
-        // IBTC
-        "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069425443",
-        // Add more top tokens as needed
-      ];
+      // Skip if no Supabase client
+      if (!this.supabase) {
+        console.error('[VERCEL] ❌ No Supabase client available - will try to create a new connection');
+        
+        // Try to initialize Supabase client if credentials are available
+        if (process.env.REACT_APP_SUPABASE_URL && process.env.REACT_APP_SUPABASE_ANON_KEY && supabaseClient) {
+          try {
+            this.supabase = supabaseClient(
+              process.env.REACT_APP_SUPABASE_URL,
+              process.env.REACT_APP_SUPABASE_ANON_KEY
+            );
+            console.log('[VERCEL] ✅ Successfully created new Supabase client');
+          } catch (supabaseError) {
+            console.error('[VERCEL] ❌ Failed to create Supabase client:', supabaseError);
+          }
+        }
+        
+        // If still no Supabase client, log message but continue with other operations
+        if (!this.supabase) {
+          console.log('[VERCEL] ⚠️ Will continue without Supabase - token updates will not be persisted');
+        }
+      }
       
-      // Use axios for making API requests
+      // Simple test - just update SNEK token with current timestamp
+      const snekTokenId = '279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b';
+      
+      // Import axios for DexHunter API
       const axios = require('axios');
+      const DEXHUNTER_API_KEY = process.env.REACT_APP_DEXHUNTER_PARTNER_ID;
       
-      // DexHunter API client configuration
-      const dexhunterApiKey = process.env.REACT_APP_DEXHUNTER_PARTNER_ID;
+      if (!DEXHUNTER_API_KEY) {
+        console.error('[VERCEL] ❌ Missing DexHunter API key');
+        return false;
+      }
+      
+      // DexHunter client for getting token data
       const dexhunterClient = axios.create({
         baseURL: 'https://api-us.dexhunterv3.app',
         headers: {
           'Content-Type': 'application/json',
-          'X-Partner-Id': dexhunterApiKey
+          'X-Partner-Id': DEXHUNTER_API_KEY
         }
       });
       
-      // Process each token
-      const updatedTokens = [];
+      console.log('[VERCEL] 🔍 Fetching SNEK token data from DexHunter');
+      const response = await dexhunterClient.get(`/swap/token/${snekTokenId}`);
       
-      for (const tokenId of topTokenIds) {
-        try {
-          console.log(`Processing token ${tokenId}...`);
-          
-          // Get token metadata
-          const tokenResponse = await dexhunterClient.get(`/swap/token/${tokenId}`);
-          
-          if (tokenResponse.data) {
-            const tokenData = tokenResponse.data;
-            
-            // Get token price
-            const priceResponse = await dexhunterClient.get(`/swap/tokenPrice/${tokenId}`);
-            
-            // Calculate two-sided liquidity (TVL)
-            let adaLiquidity = parseFloat(tokenData.liquidity) || 0;
-            let tvl = adaLiquidity * 2; // Double the ADA side as an approximation of TVL
-            
-            // Create token entry
-            const token = {
-              token_id: tokenId,
-              ticker: tokenData.ticker || 'UNKNOWN',
-              name: tokenData.name || tokenData.ticker || 'UNKNOWN',
-              market_cap: parseFloat(tokenData.market_cap) || null,
-              price: parseFloat(priceResponse.data?.price) || null,
-              liquidity: adaLiquidity || null,
-              tvl: tvl || null,
-              pool_count: parseInt(tokenData.pool_count) || 0,
-              trust_score: 100, // Default score
-              has_market_cap: !!parseFloat(tokenData.market_cap),
-            };
-            
-            // Add to updated tokens array
-            updatedTokens.push(token);
-            
-            console.log(`Successfully updated token ${token.ticker}`);
-          }
-        } catch (tokenError) {
-          console.error(`Error processing token ${tokenId}:`, tokenError.message);
-        }
+      if (!response.data) {
+        console.error('[VERCEL] ❌ No data returned from DexHunter');
+        return false;
       }
       
-      // Sort tokens by market cap (descending)
-      updatedTokens.sort((a, b) => {
-        if (a.market_cap && b.market_cap) {
-          return b.market_cap - a.market_cap;
+      // Get price
+      const priceResponse = await dexhunterClient.get(`/swap/tokenPrice/${snekTokenId}`);
+      const price = priceResponse.data?.price || response.data.price || 0;
+      
+      console.log('[VERCEL] 🐍 Got SNEK price:', price);
+      
+      // Simple token entry with minimal data
+      const tokenData = {
+        token_id: snekTokenId,
+        ticker: 'SNEK',
+        name: 'Snek',
+        price: price,
+        market_cap: price * 74436003153, // Using known circulating supply
+        updated_at: new Date().toISOString()
+      };
+      
+      // Only try to update Supabase if we have a client
+      if (this.supabase) {
+        console.log('[VERCEL] 💾 Updating SNEK token in Supabase');
+        
+        // Simple upsert just one token
+        const { error } = await this.supabase
+          .from('tokens')
+          .upsert([tokenData], { 
+            onConflict: 'token_id',
+            returning: 'minimal' 
+          });
+          
+        if (error) {
+          console.error('[VERCEL] ❌ Error upserting SNEK token to Supabase:', error);
+          return false;
         }
-        return a.market_cap ? -1 : 1;
-      });
+        
+        console.log('[VERCEL] ✅ Successfully updated SNEK token in Supabase');
+      } else {
+        console.log('[VERCEL] ⚠️ Skipping Supabase update since no client is available');
+        console.log('[VERCEL] 📝 Token data that would have been updated:', tokenData);
+      }
       
-      // Update the in-memory cache
-      // Note: In Vercel we can't write to the filesystem, so we just update the in-memory cache
-      this.cachedTokens = updatedTokens;
-      this.lastCacheTime = Date.now();
+      // Clear cache 
+      this.clearCache();
       
-      console.log(`Lightweight token refresh completed with ${updatedTokens.length} tokens`);
       return true;
     } catch (error) {
-      console.error("Error in lightweight token refresh:", error);
+      console.error('[VERCEL] ❌ Error in simplified lightweightTokenRefresh:', error);
+      console.error('[VERCEL] Stack trace:', error.stack);
+      return false;
+    }
+  }
+
+  /**
+   * Reinitialize the Supabase client with current environment variables
+   * Used when credentials are updated at runtime
+   */
+  reinitializeSupabase() {
+    try {
+      if (!process.env.REACT_APP_SUPABASE_URL || !process.env.REACT_APP_SUPABASE_ANON_KEY) {
+        console.error('❌ Cannot reinitialize Supabase client - missing credentials');
+        return false;
+      }
+      
+      console.log('🔄 Reinitializing Supabase client with updated credentials');
+      
+      if (supabaseClient) {
+        this.supabase = supabaseClient(
+          process.env.REACT_APP_SUPABASE_URL,
+          process.env.REACT_APP_SUPABASE_ANON_KEY
+        );
+        console.log('✅ Supabase client reinitialized successfully');
+        
+        // Clear cache to ensure fresh data on next request
+        this.clearCache();
+        return true;
+      } else {
+        console.error('❌ Supabase client function not available');
+        return false;
+      }
+    } catch (error) {
+      console.error('❌ Error reinitializing Supabase client:', error);
+      return false;
+    }
+  }
+
+  /**
+   * Test Supabase connection by adding a record to a test table
+   * @returns {Promise<boolean>} Success status
+   */
+  async testSupabaseConnection() {
+    try {
+      if (!this.supabase) {
+        console.error('[TEST] ❌ No Supabase client available');
+        return false;
+      }
+      
+      console.log('[TEST] 🔍 Testing Supabase connection');
+      
+      // Try to create a test table first
+      try {
+        const { error: createError } = await this.supabase.rpc('create_test_table');
+        
+        if (createError) {
+          // If RPC function doesn't exist, log it but continue
+          console.warn('[TEST] ⚠️ Error creating test table (RPC may not exist):', createError);
+        } else {
+          console.log('[TEST] ✅ Test table created successfully');
+        }
+      } catch (rpcError) {
+        console.warn('[TEST] ⚠️ RPC call failed, will try direct table access:', rpcError);
+      }
+      
+      // Simple test record
+      const testData = {
+        id: Date.now().toString(),
+        message: 'Test connection',
+        timestamp: new Date().toISOString()
+      };
+      
+      // Try to insert into a test table (assuming it exists)
+      const { error: insertError } = await this.supabase
+        .from('api_logs')
+        .insert([testData]);
+        
+      if (insertError) {
+        console.error('[TEST] ❌ Error inserting test record:', insertError);
+        return false;
+      }
+      
+      console.log('[TEST] ✅ Successfully inserted test record into Supabase');
+      return true;
+    } catch (error) {
+      console.error('[TEST] ❌ Error testing Supabase connection:', error);
       return false;
     }
   }
