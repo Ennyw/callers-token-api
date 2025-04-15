@@ -37,15 +37,15 @@
   "crons": [
     {
       "path": "/api/refresh-data",
-      "schedule": "0 */6 * * *"
+      "schedule": "*/30 * * * *"
     },
     {
       "path": "/api/tokens/refresh-volumes",
-      "schedule": "0 */8 * * *"
+      "schedule": "*/30 * * * *"
     },
     {
       "path": "/api/tokens/refresh-tvl",
-      "schedule": "0 */12 * * *"
+      "schedule": "*/30 * * * *"
     }
   ]
 } 
